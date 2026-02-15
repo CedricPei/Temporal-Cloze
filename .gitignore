@@ -1,0 +1,38 @@
+# 环境与密钥
+.env
+*.env
+
+# 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统
+.DS_Store
+
+# 视频与数据目录
+choices/
+src/downloaded/
+
+# 日志
+logs/
+*.log
+
+# 超大 CSV（超过 GitHub 100MB 限制，本地保留不提交）
+*.csv
+
+# 音视频文件
+*.mp4
+*.mkv
+*.avi
+*.mov
+
+*.aac
+
+# 其它不提交的类型
+*.md
+*.yml
+*.yaml
+*.html
+*.sh
+*.ipynb
