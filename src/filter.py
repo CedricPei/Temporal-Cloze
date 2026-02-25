@@ -1,11 +1,16 @@
 """Causal Gap Identification Framework - 视频因果间隙识别
 
 Pipeline: Quality Check → Gap Detection
-Output:   meta.json  # 每个视频一条记录，字段: keep / gap_start / gap_end / reason
+Output:   {prefix}_meta.json  # 每个视频一条记录，字段: keep / gap_start / gap_end / reason
+
+Usage:
+  python filter.py          # 默认处理 lvd
+  python filter.py tt       # 处理 video-tt
 """
 
 import json
 import random
+import sys
 from pathlib import Path
 
 import cv2
@@ -14,6 +19,8 @@ from tqdm import tqdm
 
 ROOT = Path(__file__).parent.parent
 SRC = Path(__file__).parent
+
+PRESET = sys.argv[1] if len(sys.argv) > 1 else "lvd"
 
 # Gap 新逻辑：中间 50% 内随机取一段，时长占 20–40%，要求 Mean Magnitude > MAG_THRESHOLD
 GAP_LEN_RATIO_MIN = 0.2
@@ -142,13 +149,12 @@ def save_json(data: dict, path: Path) -> None:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-def run(video_dir: Path, output_dir: Path) -> None:
+def run(video_dir: Path, output_dir: Path, prefix: str = "lvd") -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
     checker = QualityChecker()
     detector = GapDetector()
 
-    # 如果之前已经有结果，先加载，避免重复处理
-    gap_path = output_dir / "meta.json"
+    gap_path = output_dir / f"{prefix}_meta.json"
 
     if gap_path.exists():
         with open(gap_path, "r", encoding="utf-8") as f:
@@ -165,10 +171,13 @@ def run(video_dir: Path, output_dir: Path) -> None:
         gap_results: dict[str, dict] = {}
 
     videos = sorted([f for f in video_dir.iterdir() if f.suffix.lower() == ".mp4"])
-    done_names = set(gap_results.keys())
+    done_names = {
+        name for name, rec in gap_results.items()
+        if rec.get("gap_start") is not None or rec.get("reason") is not None
+    }
     new_videos = [v for v in videos if v.name not in done_names]
 
-    rejected_path = output_dir / "download_rejected.json"
+    rejected_path = output_dir / f"{prefix}_rejected.json"
     if rejected_path.exists():
         with open(rejected_path, "r", encoding="utf-8") as f:
             rejected = json.load(f)
@@ -218,4 +227,5 @@ if __name__ == "__main__":
     run(
         video_dir=SRC / "downloaded",
         output_dir=ROOT / "output",
+        prefix=PRESET,
     )

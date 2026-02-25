@@ -1,14 +1,21 @@
-"""删除「某模型 S/A/C 全对」的题目：删 choices 与 downloaded 中对应文件，并写入 download_rejected.json。"""
+"""删除「某模型 S/A/C 全对」的题目：删 choices 与 downloaded 中对应文件，并写入 {prefix}_rejected.json。
+
+Usage:
+  python prune.py          # 默认处理 lvd
+  python prune.py tt       # 处理 video-tt
+"""
 
 import json
 import shutil
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).parent
+PRESET = sys.argv[1] if len(sys.argv) > 1 else "lvd"
 EVAL_RESULTS_DIR = ROOT / "eval_results"
 CHOICES_DIR = ROOT / "choices"
 DOWNLOADED_DIR = ROOT / "src" / "downloaded"
-REJECTED_PATH = ROOT / "output" / "download_rejected.json"
+REJECTED_PATH = ROOT / "output" / f"{PRESET}_rejected.json"
 
 # 使用该模型的评测结果判定「全对」
 EVAL_JSON = EVAL_RESULTS_DIR / "gemini-2.5-pro.json"

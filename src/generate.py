@@ -8,12 +8,17 @@ choices/{stem}/
 ├── C/  Reverse / Shuffle / Loop    (Causality)
 ├── A/  Early / Late / Wide         (Alignment)
 └── S/  Rand1 / Rand2 / Rand3      (Semantic)
+
+Usage:
+  python generate.py          # 默认处理 lvd
+  python generate.py tt       # 处理 video-tt
 """
 
 import json
 import random
 import shutil
 import subprocess
+import sys
 import tempfile
 from pathlib import Path
 
@@ -21,8 +26,10 @@ from tqdm import tqdm
 
 ROOT = Path(__file__).parent.parent
 SRC = Path(__file__).parent
+
+PRESET = sys.argv[1] if len(sys.argv) > 1 else "lvd"
 VIDEO_DIR = SRC / "downloaded"
-GAP_JSON = ROOT / "output" / "meta.json"
+GAP_JSON = ROOT / "output" / f"{PRESET}_meta.json"
 OUTPUT_DIR = ROOT / "choices"
 
 

@@ -9,7 +9,7 @@ Behavior:
 - 从 CSV 读取候选 clip（由 key / video_id / orig_span 指定）。
 - 先用 LLM 对 refined_caption 做一次过滤，只保留“适合 Temporal Cloze”的样本。
 - 从通过 LLM 的样本中随机采样 NUM_VIDEOS 个，调用 yt-dlp 下载对应时间段到 src/downloaded/<key>.mp4。
-- LLM 过滤结果会写入 output/download_llm_filter.json。
+- LLM 过滤结果会写入 output/lvd_llm_filter.json。
 """
 
 import ast
@@ -33,9 +33,9 @@ CSV_PATH = ROOT / "hdvg_300k_720p.csv"
 OUT_DIR = ROOT / "downloaded"
 CHOICES_DIR = PROJECT_ROOT / "choices"
 COOKIES_PATH = ROOT / "cookies.txt"
-LLM_LOG_PATH = PROJECT_ROOT / "output" / "download_llm_filter.json"
-REJECT_LOG_PATH = PROJECT_ROOT / "output" / "download_rejected.json"
-META_JSON = PROJECT_ROOT / "output" / "meta.json"
+LLM_LOG_PATH = PROJECT_ROOT / "output" / "lvd_llm_filter.json"
+REJECT_LOG_PATH = PROJECT_ROOT / "output" / "lvd_rejected.json"
+META_JSON = PROJECT_ROOT / "output" / "lvd_meta.json"
 
 # 下载数量 & 时长 / 分辨率控制
 NUM_VIDEOS = 50              # 每次希望下载的视频数量

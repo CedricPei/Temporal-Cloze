@@ -1,7 +1,7 @@
 """一键跑完整流程：
 
-1. src/download.py  随机下载 + LLM 预筛
-2. src/filter.py    质量 + gap 检查，写 meta.json / download_rejected.json
+1. src/download_lvd.py  随机下载 + LLM 预筛
+2. src/filter.py    质量 + gap 检查，写 lvd_meta.json / lvd_rejected.json
 3. src/generate.py  按 meta 生成 choices，并删除对应 downloaded 原视频
 4. eval.py          用当前配置的模型做评测（eval.py 里的 EVAL_MODEL）
 5. prune.py         根据 gemini-2.5-pro 的评测结果裁剪题目
@@ -26,9 +26,9 @@ def run_step(cmd: list[str]) -> None:
 
 def main() -> None:
     # 1) 下载 + LLM 预筛
-    run_step([sys.executable, str(ROOT / "src" / "download.py")])
+    run_step([sys.executable, str(ROOT / "src" / "download_lvd.py")])
 
-    # 2) 质量 + gap 过滤，写 meta.json / download_rejected.json
+    # 2) 质量 + gap 过滤，写 lvd_meta.json / lvd_rejected.json
     run_step([sys.executable, str(ROOT / "src" / "filter.py")])
 
     # 3) 生成题目（choices），并删除对应 downloaded 原视频
