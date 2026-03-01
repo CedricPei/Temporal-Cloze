@@ -9,7 +9,6 @@
 import base64
 import json
 import logging
-import re
 import os
 import random
 import sys
@@ -25,28 +24,36 @@ from tqdm import tqdm
 ROOT = Path(__file__).parent
 load_dotenv(ROOT / ".env")
 
-# 路径
 CHOICES_DIR = ROOT / "choices"
 RESULTS_DIR = ROOT / "eval_results"
 LOG_DIR = ROOT / "logs"
 
-# 配置
 NUM_FRAMES = 16
+MAX_HEIGHT = 360
 EVAL_MODEL = "google/gemini-2.5-pro"
 # EVAL_MODEL = "bytedance-seed/seed-1.6"
 NUM_WORKERS = 8
+MAX_RETRIES = 3
 
-# 模型名：只用模型名，不含厂商（如 gemini-3-pro-preview, seed-1.6）
 MODEL_TAG = EVAL_MODEL.split("/")[-1]
 
-# S / A / C 三个维度的选项
 DIMENSIONS = {
     "S": ["S/Rand1.mp4", "S/Rand2.mp4", "S/Rand3.mp4"],
     "A": ["A/Early.mp4", "A/Late.mp4", "A/Wide.mp4"],
     "C": ["C/Reverse.mp4", "C/Shuffle.mp4", "C/Loop.mp4"],
 }
 
-# Logging: 仅输出到日志文件，不输出到控制台
+EVAL_PROMPT = """You are given:
+- **BEGINNING**: the first part of a video (frames in temporal order).
+- **END**: the last part of the same video (frames in temporal order).
+The middle segment between BEGINNING and END was removed.
+
+You will then see four candidate middle segments, labeled A, B, C, D. Each candidate is a short clip; exactly one is the true middle that connects BEGINNING to END. The others are wrong.
+
+Task: Which candidate is the correct middle? Choose one of A, B, C, D.
+
+Output JSON only: {"answer": "<A, B, C, or D>", "reason": "<one or two sentences>"}"""
+
 LOG_DIR.mkdir(parents=True, exist_ok=True)
 log = logging.getLogger(__name__)
 log.setLevel(logging.INFO)
@@ -74,34 +81,25 @@ def sample_and_encode(video_path: Path) -> list[str]:
         cap.set(cv2.CAP_PROP_POS_FRAMES, idx)
         ret, frame = cap.read()
         if ret:
+            h, w = frame.shape[:2]
+            if h > MAX_HEIGHT:
+                scale = MAX_HEIGHT / h
+                frame = cv2.resize(frame, (int(w * scale), MAX_HEIGHT))
             _, buf = cv2.imencode(".jpg", frame, [cv2.IMWRITE_JPEG_QUALITY, 85])
             out.append(base64.b64encode(buf).decode("utf-8"))
     cap.release()
     return out
 
 
-# ==================== Prompt ====================
-
-def build_prompt() -> str:
-    return """You are given:
-- **BEGINNING**: the first part of a video (frames in temporal order).
-- **END**: the last part of the same video (frames in temporal order).
-The middle segment between BEGINNING and END was removed.
-
-You will then see four candidate middle segments, labeled A, B, C, D. Each candidate is a short clip; exactly one is the true middle that connects BEGINNING to END. The others are wrong.
-
-Task: Which candidate is the correct middle? Choose one of A, B, C, D.
-
-Output JSON only: {"answer": "<A, B, C, or D>", "reason": "<one or two sentences>"}"""
-
+# ==================== 响应解析 ====================
 
 def parse_eval_response(raw: str, letters: list[str]) -> tuple[str | None, str]:
-    """从模型返回文本中尽量解析出 answer 和 reason。letters 为可选字母如 ['A','B','C','D']。"""
+    """从模型返回文本中解析 answer 和 reason。"""
     raw = (raw or "").strip()
     if not raw:
         return None, ""
 
-    # 1) 去掉 markdown 代码块包裹
+    # 去掉 markdown 代码块包裹
     if raw.startswith("```"):
         lines = raw.split("\n")
         if lines[0].strip().startswith("```"):
@@ -110,7 +108,7 @@ def parse_eval_response(raw: str, letters: list[str]) -> tuple[str | None, str]:
             lines = lines[:-1]
         raw = "\n".join(lines).strip()
 
-    # 2) 尝试直接解析 JSON
+    # 尝试直接解析 JSON
     try:
         parsed = json.loads(raw)
         answer = (parsed.get("answer") or "").strip().upper()
@@ -120,7 +118,7 @@ def parse_eval_response(raw: str, letters: list[str]) -> tuple[str | None, str]:
     except json.JSONDecodeError:
         pass
 
-    # 3) 尝试从首尾截取 {...} 再解析（前后可能有说明文字）
+    # 尝试从文本中截取 {...} 再解析
     start = raw.find("{")
     end = raw.rfind("}")
     if start != -1 and end != -1 and end > start:
@@ -133,28 +131,7 @@ def parse_eval_response(raw: str, letters: list[str]) -> tuple[str | None, str]:
         except json.JSONDecodeError:
             pass
 
-    # 4) 解析失败：从 raw 中抽取 answer（第一个出现的可选字母）和 reason 字段值
-    answer = None
-    for c in raw.upper():
-        if c in letters:
-            answer = c
-            break
-    reason = raw
-    m = re.search(r'"reason"\s*:\s*"', raw)
-    if m:
-        start = m.end()
-        i = start
-        while i < len(raw):
-            if raw[i] == "\\" and i + 1 < len(raw):
-                i += 2
-                continue
-            if raw[i] == '"':
-                reason = raw[start:i].replace("\\n", "\n").replace('\\"', '"')
-                break
-            i += 1
-        else:
-            reason = raw[start:].replace("\\n", "\n").replace('\\"', '"')
-    return answer, reason
+    return None, raw
 
 
 # ==================== 单题评测 ====================
@@ -166,15 +143,12 @@ def eval_one(client: OpenAI, stem: str, dim: str, distractors: list[str]) -> dic
     before_b64 = sample_and_encode(base / "before.mp4")
     after_b64 = sample_and_encode(base / "after.mp4")
 
-
-    # GT + 3个干扰，打乱
     options = [("GT.mp4", True)] + [(d, False) for d in distractors]
     random.shuffle(options)
     letters = [chr(65 + i) for i in range(len(options))]
     correct_letter = next(letters[i] for i, (_, is_gt) in enumerate(options) if is_gt)
 
-    # 构建 API content
-    content = [{"type": "text", "text": build_prompt()}]
+    content: list[dict] = [{"type": "text", "text": EVAL_PROMPT}]
 
     content.append({"type": "text", "text": "[BEGINNING]"})
     for b in before_b64:
@@ -185,16 +159,12 @@ def eval_one(client: OpenAI, stem: str, dim: str, distractors: list[str]) -> dic
         content.append({"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{b}"}})
 
     for i, (rel_path, _) in enumerate(options):
-        full_path = base / rel_path
-
-        opt_b64 = sample_and_encode(full_path)
-
+        opt_b64 = sample_and_encode(base / rel_path)
         content.append({"type": "text", "text": f"[Candidate {letters[i]}]"})
         for b in opt_b64:
             content.append({"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{b}"}})
 
-    # 调用 API，最多重试 3 次
-    for attempt in range(3):
+    for attempt in range(MAX_RETRIES):
         try:
             resp = client.chat.completions.create(
                 model=EVAL_MODEL,
@@ -207,13 +177,15 @@ def eval_one(client: OpenAI, stem: str, dim: str, distractors: list[str]) -> dic
 
             raw = resp.choices[0].message.content.strip()
             answer, reason = parse_eval_response(raw, letters)
-            correct = answer == correct_letter
-            return {"stem": stem, "dim": dim, "correct": correct,
-                    "answer": answer, "expected": correct_letter, "reason": reason}
+            if answer is None:
+                raise ValueError(f"Cannot parse answer from response: {raw[:200]}")
+            option_map = {letters[i]: Path(rel_path).stem for i, (rel_path, _) in enumerate(options)}
+            return {"stem": stem, "dim": dim, "correct": answer == correct_letter,
+                    "answer": answer, "expected": correct_letter, "reason": reason,
+                    "option_map": option_map}
         except Exception as e:
-            if attempt < 2:
-                wait = (attempt + 1) * 5
-                time.sleep(wait)
+            if attempt < MAX_RETRIES - 1:
+                time.sleep((attempt + 1) * 5)
             else:
                 full_msg = str(e)
                 if hasattr(e, "response") and e.response is not None:
@@ -221,15 +193,12 @@ def eval_one(client: OpenAI, stem: str, dim: str, distractors: list[str]) -> dic
                     body = getattr(r, "text", getattr(r, "content", repr(r)))
                     full_msg += f"\nFull response: {body}"
                 log.error(f"API error on {stem} {dim}:\n{full_msg}")
-                return {"stem": stem, "dim": dim, "correct": False,
-                        "answer": None, "expected": correct_letter, "reason": None, "error": str(e)[:200]}
+                return {"stem": stem, "dim": dim, "error": str(e)[:200]}
 
 
 # ==================== Main ====================
 
-def run(targets: list[str] = None):
-    """targets: 指定题目stem列表, None则全部评测"""
-    # 从 choices 目录中直接获取已有题目（存在 GT.mp4 的子目录）
+def run(targets: list[str] | None = None):
     if not CHOICES_DIR.exists():
         log.error(f"Choices directory not found: {CHOICES_DIR}")
         return
@@ -239,10 +208,7 @@ def run(targets: list[str] = None):
         if p.is_dir() and (p / "GT.mp4").exists()
     )
 
-    if targets:
-        stems = [s for s in targets if s in all_stems]
-    else:
-        stems = all_stems
+    stems = [s for s in targets if s in all_stems] if targets else all_stems
 
     log.info(f"Model: {EVAL_MODEL}")
     log.info(f"Num videos: {len(stems)}, total tasks ≈ {len(stems) * 3}")
@@ -255,18 +221,14 @@ def run(targets: list[str] = None):
     RESULTS_DIR.mkdir(parents=True, exist_ok=True)
     results_path = RESULTS_DIR / f"{MODEL_TAG}.json"
 
-    # 加载已有结果（支持断点续做）
     if results_path.exists():
         with open(results_path, "r", encoding="utf-8") as f:
             all_results = json.load(f)
     else:
         all_results = {}
 
-    # 构建任务
     tasks = []
     for stem in stems:
-        if not (CHOICES_DIR / stem / "GT.mp4").exists():
-            continue
         for dim, distractors in DIMENSIONS.items():
             if stem in all_results and dim in all_results[stem]:
                 continue
@@ -277,36 +239,29 @@ def run(targets: list[str] = None):
     if not tasks:
         log.info("No tasks to run.")
     else:
-        max_workers = min(NUM_WORKERS, max(1, os.cpu_count() or 1))
-        future_to_task: dict = {}
+        max_workers = min(NUM_WORKERS, max(1, os.cpu_count()))
         saved_count = 0
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
-            for stem, dim, distractors in tasks:
-                fut = executor.submit(eval_one, client, stem, dim, distractors)
-                future_to_task[fut] = (stem, dim)
+            future_to_task = {
+                executor.submit(eval_one, client, stem, dim, distractors): (stem, dim)
+                for stem, dim, distractors in tasks
+            }
 
             for fut in tqdm(as_completed(future_to_task), total=len(future_to_task), desc="Evaluating"):
                 stem, dim = future_to_task[fut]
                 try:
                     result = fut.result()
                 except Exception as e:
-                    # 单个题目 worker 出错，只跳过该题，继续其它题目
                     log.error(f"Unexpected error in worker for {stem} {dim}: {e}")
                     continue
 
-                # error 则不写入该题结果，但不中止整体评测
                 if "error" in result:
-                    # 打印完整 error message，便于排查 provider 返回的原始信息
-                    err_msg = result["error"]
-                    log.error(f"API error on {stem} {dim}: {err_msg}")
-                    print(f"[eval] ERROR: {stem} {dim} API error: {err_msg}")
+                    log.error(f"API error on {stem} {dim}: {result['error']}")
+                    print(f"[eval] ERROR: {stem} {dim} — {result['error']}")
                     continue
 
-                # 去掉 stem/dim 字段，放进嵌套结构
                 entry = {k: v for k, v in result.items() if k not in ("stem", "dim")}
-                if stem not in all_results:
-                    all_results[stem] = {}
-                all_results[stem][dim] = entry
+                all_results.setdefault(stem, {})[dim] = entry
                 saved_count += 1
 
                 tag = "✓" if result["correct"] else "✗"
@@ -315,25 +270,14 @@ def run(targets: list[str] = None):
                     f"exp={result['expected']}  {(result.get('reason') or '')[:60]}"
                 )
 
-                # 每题写入一次
                 try:
                     with open(results_path, "w", encoding="utf-8") as f:
                         json.dump(all_results, f, indent=2, ensure_ascii=False)
                 except Exception as e:
-                    log.error(f"Failed to save results to {results_path}: {e}")
+                    log.error(f"Failed to save results: {e}")
 
         log.info(f"Saved {saved_count}/{len(tasks)} tasks to {results_path}")
 
-    # 汇总
-    for dim in DIMENSIONS:
-        entries = [v[dim] for v in all_results.values() if dim in v]
-        c = sum(1 for e in entries if e["correct"])
-        t = len(entries)
-        log.info(f"{dim}: {c}/{t} = {c/t:.2%}" if t else f"{dim}: no data")
-
-    all_entries = [e for v in all_results.values() for e in v.values()]
-    total = len(all_entries)
-    correct = sum(1 for e in all_entries if e["correct"])
 
 
 if __name__ == "__main__":

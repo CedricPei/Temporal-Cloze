@@ -1,0 +1,1910 @@
+{
+  "v_00008655_0.mp4": {
+    "pass": true,
+    "reason": "The action proceeds in a clear causal sequence—run-up to release—so the middle motion between the start stance and the final throw is inferable from context."
+  },
+  "v_00000065_94.mp4": {
+    "pass": true,
+    "reason": "A makeup tutorial follows a clear, sequential procedure, so the actions between introducing the tools and applying the powder are logically inferable."
+  },
+  "v_00008647_0.mp4": {
+    "pass": true,
+    "reason": "Javelin throwing follows a standard, continuous sequence, so the approach run and power-gathering steps between the setup and release are predictable from the context."
+  },
+  "v_00008644_0.mp4": {
+    "pass": true,
+    "reason": "The javelin throw follows a continuous, causal sequence, so the run-up and momentum-building actions in the middle can be reasonably inferred from the start and release shown before and after."
+  },
+  "v_00008736_1.mp4": {
+    "pass": true,
+    "reason": "A javelin throw follows a standard sequence (grip/run-up → draw back/coil → release), so the middle actions can be reasonably inferred from the beginning and end."
+  },
+  "v_00002094_2.mp4": {
+    "pass": true,
+    "reason": "Instructional makeup demo follows a logical step-by-step sequence, so the missing middle step (drawing the upper line after the lower one and before the final diagonal) can be inferred from the surrounding context."
+  },
+  "v_00008754_0.mp4": {
+    "pass": true,
+    "reason": "Running approach naturally leads to the throwing motion, so the intervening actions are causally predictable from start and end."
+  },
+  "v_00016097_0.mp4": {
+    "pass": true,
+    "reason": "The activity follows a continuous, goal-directed sequence (washing and rinsing a foot), so given the start and end states, the intermediate actions are reasonably inferable."
+  },
+  "v_00000179_3.mp4": {
+    "pass": true,
+    "reason": "Step-by-step makeup application follows a clear, causal sequence, so the omitted middle segment can be reasonably inferred from the surrounding actions."
+  },
+  "v_00008723_1.mp4": {
+    "pass": true,
+    "reason": "Given the initial stance with the javelin and the final release of it flying, the intervening run-up and pull-back are the natural, causally necessary middle actions."
+  },
+  "v_00015977_0.mp4": {
+    "pass": true,
+    "reason": "The foot-bathing procedure follows a straightforward, ordered sequence; knowing the setup and the final rinse allows one to infer the intermediate washing and massaging steps."
+  },
+  "v_00004629_0.mp4": {
+    "pass": true,
+    "reason": "The hairstyling sequence unfolds in a continuous, causal manner—given the initial grasping of hair and the final securing with a clip, the intermediate braiding motions are logically predictable."
+  },
+  "v_00004635_0.mp4": {
+    "pass": true,
+    "reason": "Braiding is a repetitive, continuous action; given start and final braid progression, the missing middle would plausibly involve the same alternating strand movements."
+  },
+  "v_00016267_1.mp4": {
+    "pass": true,
+    "reason": "The sequence is causally coherent: after pumping soap and before finishing by removing her foot, the predictable intermediary action is washing/rubbing her foot under running water."
+  },
+  "v_00015988_0.mp4": {
+    "pass": true,
+    "reason": "The start shows feet being dipped and the end shows them being removed; the logically necessary middle is the washing/scrubbing actions, which follow a coherent, causally continuous routine that can be reasonably inferred."
+  },
+  "v_00004656_5.mp4": {
+    "pass": true,
+    "reason": "The hairstyling sequence is continuous and procedural, so the mid-step (tucking/brushing the braid) is predictable from seeing the setup before and the clipped result after."
+  },
+  "v_00016100_0.mp4": {
+    "pass": false,
+    "reason": "The middle consists of arbitrary foot-lifting motions that are not strongly implied by simply seeing feet in water at the start and rolled-up pants at the end, so the gap cannot be reliably predicted."
+  },
+  "v_00004663_0.mp4": {
+    "pass": true,
+    "reason": "Braiding follows a predictable step-by-step sequence, so the middle actions can be inferred from seeing the initial hair separation and the final undoing of the braid."
+  },
+  "v_00004657_0.mp4": {
+    "pass": true,
+    "reason": "Hair styling steps follow a logical, predictable sequence from sectioning to finishing, so the middle braid-weaving action can be inferred from the start and end."
+  },
+  "v_00006695_0.mp4": {
+    "pass": true,
+    "reason": "The sequence of actions in climbing a tree is continuous and goal-directed, so the middle portion can be reasonably inferred from the beginning and end segments."
+  },
+  "v_00006666_0.mp4": {
+    "pass": false,
+    "reason": "The middle segment (owner tossing food and puppy eating) is not causally implied by just seeing the puppy watch the owner and later standing upright; these details can’t be reliably inferred from the surrounding context."
+  },
+  "v_00007126_0.mp4": {
+    "pass": true,
+    "reason": "The hairstyling process follows a clear, continuous procedure—sectioning and clipping hair—so the middle actions can be reasonably inferred from the starting and ending states."
+  },
+  "v_00007120_5.mp4": {
+    "pass": true,
+    "reason": "Styling hair with a curling iron follows a clear, ordered sequence—seeing the tool placed on the hair at the start and the curl released at the end allows viewers to plausibly infer the intermediate unwrapping and rotation steps."
+  },
+  "v_00006705_0.mp4": {
+    "pass": true,
+    "reason": "The man’s continuous attempt to transition from hanging pull-ups to standing on the branch and then climbing down follows a clear causal progression, so the middle actions are inferable from the start and end."
+  },
+  "v_00006675_0.mp4": {
+    "pass": true,
+    "reason": "The action (man steadily climbing while puppies mill about) follows a logical, continuous sequence; given the before (initial climbing) and after (standing upright calling dogs), the middle—further climbing and dogs moving nearby—is inferable."
+  },
+  "v_00006714_0.mp4": {
+    "pass": true,
+    "reason": "Tree-climbing is a continuous, goal-directed action; given the start of the ascent and the end pose higher in the tree, the intermediate frames will almost certainly show ongoing climbing steps that can be plausibly inferred."
+  },
+  "v_00006717_0.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-directed action (helping someone climb a tree) makes intermediate steps causally predictable from start and end."
+  },
+  "v_00006711_0.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous, goal-directed action (climbing a tree); given the start of the climb and the final standing position, the intermediate climbing movements can be reasonably inferred."
+  },
+  "v_00006731_0.mp4": {
+    "pass": true,
+    "reason": "The action (climbing from hanging to standing on the branch) unfolds in a continuous, causal sequence, so the middle segment is inferable from the start and end."
+  },
+  "v_00008354_3.mp4": {
+    "pass": true,
+    "reason": "Single continuous interaction; child's and woman's final positions logically follow from their initial positions, so the middle interaction can be reasonably inferred."
+  },
+  "v_00005595_1.mp4": {
+    "pass": true,
+    "reason": "The actions evolve in a straightforward, continuous way (carrying → moving to sofa → sitting), so the missing middle segment can be reasonably inferred from the start and end."
+  },
+  "v_00005595_2.mp4": {
+    "pass": true,
+    "reason": "Carrying the child from pickup to sitting naturally follows, so the middle actions (walking while holding child) can be inferred from the start and end."
+  },
+  "v_00005560_1.mp4": {
+    "pass": true,
+    "reason": "Putting a child in a backpack carrier is a continuous, goal-directed action; the middle adjustments and turning logically connect the initial placement with the final securing, so they can be reasonably inferred."
+  },
+  "v_00005633_2.mp4": {
+    "pass": true,
+    "reason": "The intermediate actions (loosening straps and lowering the baby) are logically implied by seeing the woman start with the baby on her back and end with the baby on the bed, so viewers can infer the missing middle."
+  },
+  "v_00003194_0.mp4": {
+    "pass": true,
+    "reason": "The action of tying shoelaces follows a clear, ordered sequence; knowing the setup (instruction) and the outcome (finished bow) allows a viewer to plausibly infer the intermediate tying steps."
+  },
+  "v_00003197_0.mp4": {
+    "pass": true,
+    "reason": "Lacing a shoe is a sequential, repetitive process; after seeing the initial eyelets threaded and the final tidy result, one can reasonably infer the intermediate steps of threading the remaining eyelets."
+  },
+  "v_00005633_1.mp4": {
+    "pass": false,
+    "reason": "Both the beginning and the end show essentially the same static scene (woman holding a baby), so the middle segment is likely just a continuation with no distinctive, inferable event to predict."
+  },
+  "v_00003185_0.mp4": {
+    "pass": true,
+    "reason": "A step-by-step shoelace tutorial has clear causal continuity; given the start of tightening and the end with shortened laces and a second buckle, the intermediate threading and trimming actions are reasonably predictable."
+  },
+  "v_00003196_0.mp4": {
+    "pass": true,
+    "reason": "The lacing follows a clear, repetitive pattern, so seeing the initial threading and the final laced shoe makes the intermediate crossings reasonably predictable."
+  },
+  "v_00002237_0.mp4": {
+    "pass": false,
+    "reason": "The brief braking incident that defines the middle is not predictable from simply seeing them riding both before and after; the continuity offers no clear temporal cue to infer that specific event."
+  },
+  "v_00003209_0.mp4": {
+    "pass": true,
+    "reason": "The sequence shows a clear, repetitive procedure (crossing, wrapping, tightening); given the start and final repeat, the middle steps (hand switch and second crossing) are logically predictable."
+  },
+  "v_00003211_0.mp4": {
+    "pass": true,
+    "reason": "The lacing process follows a repetitive, step-by-step pattern, so the intermediate actions can be logically inferred from the starting and ending states."
+  },
+  "v_00002294_0.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous learning sequence; knowing she tries first and is still practicing later makes an intermediate attempt (sitting on the bike and edging forward) logically inferable."
+  },
+  "v_00013341_7.mp4": {
+    "pass": true,
+    "reason": "Approaching the junction and later traveling on the left path makes the intervening left-turn action easily inferable."
+  },
+  "v_00013363_0.mp4": {
+    "pass": true,
+    "reason": "Given that the rider starts behind two trucks and ends up ahead, it is natural to infer a predictable overtaking maneuver in the missing middle segment."
+  },
+  "v_00015660_0.mp4": {
+    "pass": true,
+    "reason": "The middle segment (cutting additional leaves while periodically looking down) follows naturally from climbing up with a saw and later putting the saw away, so the missing action can be inferred from the surrounding context."
+  },
+  "v_00015645_0.mp4": {
+    "pass": true,
+    "reason": "The action (branch cutting) unfolds in a clear, causal sequence—seeing the worker start to saw and later the branch falling makes it reasonable to infer continued sawing in the missing middle segment."
+  },
+  "v_00013352_6.mp4": {
+    "pass": true,
+    "reason": "The clip shows a continuous action (rider starts circling and ends after completing the circle); the middle logically contains the continuation of the circular ride, so viewers can infer it."
+  },
+  "v_00015661_0.mp4": {
+    "pass": true,
+    "reason": "The actions unfold in a clear causal order (preparing saw → cutting → branch falls), so the missing middle segment can be reasonably inferred from the surrounding context."
+  },
+  "v_00015664_0.mp4": {
+    "pass": true,
+    "reason": "The action (continuous tree-bark scraping) unfolds in a smooth, predictable sequence, so the middle portion can be inferred from the visible progress before and after the gap."
+  },
+  "v_00013375_1.mp4": {
+    "pass": true,
+    "reason": "The motorcycle ride is a single, continuous action—approach, pass sideways, then glance back—so the missing middle (side-view ride) is predictably linked to the visible start and end."
+  },
+  "v_00016585_0.mp4": {
+    "pass": true,
+    "reason": "The scene follows a coherent, continuous action (watering → re-orienting toward camera → resuming watering motions), so the intermediate events are inferable from the beginning and end."
+  },
+  "v_00016602_0.mp4": {
+    "pass": true,
+    "reason": "The girl continuously interacts with the hose and plants, so the middle (crouching, adjusting, spraying) can be reasonably inferred from the beginning and end actions."
+  },
+  "v_00007163_6.mp4": {
+    "pass": false,
+    "reason": "The individual fencing exchanges are discrete and not causally predictable; knowing the opening and final moves would not allow a viewer to infer the specific, varied actions occurring in the middle."
+  },
+  "v_00015614_0.mp4": {
+    "pass": true,
+    "reason": "After the crane finishes rotating into position, the logical next step before the final frame is for the arm to lower so the worker can reach the leaves, making the middle action causally predictable."
+  },
+  "v_00007170_12.mp4": {
+    "pass": true,
+    "reason": "The fall at the end is causally linked to the earlier cautious exchange; viewers can infer the missing lunge-and-hit sequence from the before-and-after context."
+  },
+  "v_00015730_3.mp4": {
+    "pass": true,
+    "reason": "The sequence (sawing → tugging → branch falls) follows clear causal continuity, so given the setup and the outcome viewers can plausibly infer the missing middle event."
+  },
+  "v_00007174_2.mp4": {
+    "pass": false,
+    "reason": "It is a montage of separate fencing exchanges with no single continuous action, so the middle cannot be inferred from the surrounding segments."
+  },
+  "v_00006453_0.mp4": {
+    "pass": true,
+    "reason": "The action (child steadily climbing a ladder) unfolds in a straightforward, continuous manner, so the missing middle—intermediate climbing steps—can be reliably inferred from the start and end."
+  },
+  "v_00006461_0.mp4": {
+    "pass": true,
+    "reason": "The action of a child steadily climbing a ladder is continuous and predictable, so the middle segment can be inferred from the start and end."
+  },
+  "v_00006539_0.mp4": {
+    "pass": true,
+    "reason": "The sequence evolves smoothly from a stable climb to a fall, so the intermediate wobbling and loss of balance are inferable from the beginning and end."
+  },
+  "v_00007169_3.mp4": {
+    "pass": false,
+    "reason": "The middle section involves unpredictable sword clashes and camera perspective switches, which cannot be reliably inferred just from the opening and closing segments."
+  },
+  "v_00007161_1.mp4": {
+    "pass": false,
+    "reason": "Knowing one fencer scores first and later someone celebrates doesn’t let viewers reliably deduce the exact actions and reversal occurring in the middle exchange; many outcomes are plausible."
+  },
+  "v_00006575_0.mp4": {
+    "pass": true,
+    "reason": "Climbing a ladder is a continuous, goal-directed action; seeing the start (grasping ladder) and end (reaching the top) allows viewers to reasonably infer the missing climbing steps in between."
+  },
+  "v_00007162_10.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous fencing exchange where the middle actions (probing, blade clashes, movement) logically bridge the initial stance and the final simultaneous lunge and hit."
+  },
+  "v_00002282_3.mp4": {
+    "pass": true,
+    "reason": "The sequence shows continuous, repetitive scooter motion where the middle actions logically bridge the start and end, making them predictable from surrounding context."
+  },
+  "v_00007153_1.mp4": {
+    "pass": true,
+    "reason": "The duel unfolds through a clear, causally linked sequence of attacks, blocks and counters, so the middle actions can be logically inferred from the initial and final states."
+  },
+  "v_00002304_2.mp4": {
+    "pass": true,
+    "reason": "The action (riding toward the camera and slowing to dismount) is continuous and causally predictable, so the middle segment can be inferred from the start and end."
+  },
+  "v_00002283_1.mp4": {
+    "pass": true,
+    "reason": "The action (continuous scooter ride) proceeds smoothly from start to finish, so the middle segment—continued riding and maneuvering—can be reasonably inferred from the surrounding context."
+  },
+  "v_00010512_0.mp4": {
+    "pass": true,
+    "reason": "The action (continuous drumming with alternating strikes) is temporally continuous, so the middle segment can be reasonably inferred from the surrounding context."
+  },
+  "v_00002282_4.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous, causally coherent activity (two people scootering forward), so the middle segment—more gliding and pushing—can be reasonably inferred from the beginning and end."
+  },
+  "v_00006606_0.mp4": {
+    "pass": true,
+    "reason": "Single continuous action (preparation → climbing → reaching higher rungs) allows the missing middle segment to be reasonably inferred from the surrounding context."
+  },
+  "v_00002441_2.mp4": {
+    "pass": false,
+    "reason": "Skateboarding trick sequences contain many unpredictable variations and camera cuts, so the specific middle actions cannot be reliably inferred from only the beginning and end."
+  },
+  "v_00002441_5.mp4": {
+    "pass": true,
+    "reason": "The skateboarding sequences have clear approach-trick-landing structure, so the missing middle (the grind/slide on steps or rail) can be reasonably inferred from the surrounding context."
+  },
+  "v_00010110_2.mp4": {
+    "pass": true,
+    "reason": "The scene is a continuous forward procession; given the start and end positions, the middle would predictably show the group continuing to march toward the camera."
+  },
+  "v_00010134_1.mp4": {
+    "pass": true,
+    "reason": "A marching band parade is a continuous, predictable action; the middle segment will likely show the musicians continuing to march and play, which can be inferred from the beginning and end."
+  },
+  "v_00002476_6.mp4": {
+    "pass": true,
+    "reason": "The boy’s preparatory movements and his landing clearly bracket an airborne scooter trick, making the missing middle (the jump/flip) causally and temporally inferable."
+  },
+  "v_00010421_0.mp4": {
+    "pass": true,
+    "reason": "The drumming is a continuous performance; given the start on the left and the finish on the center drum, viewers can plausibly infer intermediate strikes on the other drums/cymbals."
+  },
+  "v_00002441_3.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "v_00011847_0.mp4": {
+    "pass": false,
+    "reason": "The appearance of a random audience member crossing the frame is not causally implied by the surrounding shots, making the middle section difficult to predict."
+  },
+  "v_00010133_1.mp4": {
+    "pass": true,
+    "reason": "Marching in a parade is a continuous, predictable action; seeing musicians playing before and after allows one to infer the middle segment will show the same ongoing procession."
+  },
+  "v_00009586_0.mp4": {
+    "pass": true,
+    "reason": "From seeing the child push alone at the start and the pair pushing and turning at the end, one can reasonably infer that in the middle the child adjusts grip and the adult takes hold of the mower, providing clear causal continuity."
+  },
+  "v_00011870_0.mp4": {
+    "pass": true,
+    "reason": "Continuous stage performance with musicians playing proceeds predictably; given start and end, the intervening segment (ongoing playing before someone walks in) can reasonably be inferred."
+  },
+  "v_00011808_0.mp4": {
+    "pass": true,
+    "reason": "Continuous music performance with stable setup means the middle is likely just ongoing playing, inferable from the start and end."
+  },
+  "v_00011915_0.mp4": {
+    "pass": true,
+    "reason": "It is one continuous scene of a man playing saxophone while pedestrians walk by, so the middle is a predictable continuation of the same actions."
+  },
+  "v_00011928_0.mp4": {
+    "pass": false,
+    "reason": "The performer’s intermediate movements (crouching, bending, leaning) are not strongly implied by the initial hand-raising and the final swing, so the middle cannot be reliably inferred from the beginning and end."
+  },
+  "v_00009613_1.mp4": {
+    "pass": true,
+    "reason": "Single continuous action (mowing) with a dog briefly circling; the middle follows predictably from the start and end."
+  },
+  "v_00009591_0.mp4": {
+    "pass": true,
+    "reason": "The mower operation unfolds in a logical sequence (start, drive, maneuver); seeing the start-up and final turn lets one reasonably infer the steering actions that occur in the middle."
+  },
+  "v_00009690_0.mp4": {
+    "pass": true,
+    "reason": "Continuous, causal motion (man steadily driving mower toward camera with child) makes mid-segment actions easy to infer from surrounding context."
+  },
+  "v_00009586_1.mp4": {
+    "pass": true,
+    "reason": "The sequence is a single continuous action (mowing, brief stop, resumed mowing); given the before (pushing mower, then stop) and after (mowing again), one can reasonably infer a transitional adjustment by the child in the middle."
+  },
+  "v_00009721_0.mp4": {
+    "pass": true,
+    "reason": "Given the start of reversing and the final stop after pressing the control, it is reasonable to infer that the mower was driven forward in the interim, so the middle action is predictable."
+  },
+  "v_00009731_0.mp4": {
+    "pass": true,
+    "reason": "The man's slow, continuous maneuvering of the lawn mower follows a clear causal path, so the middle actions can be reasonably inferred from the start and end."
+  },
+  "v_00009795_0.mp4": {
+    "pass": true,
+    "reason": "The action (man continuously playing accordion) is temporally continuous and the middle segment would logically show the same ongoing performance, making it predictable from the beginning and end."
+  },
+  "v_00009911_0.mp4": {
+    "pass": true,
+    "reason": "Continuous action of a man playing accordion; given start and end, middle likely shows ongoing playing with similar movements, so it’s predictable."
+  },
+  "v_00009896_0.mp4": {
+    "pass": true,
+    "reason": "The scene shows a continuous, goal-directed action (playing the accordion); given the start of playing and the end when she finishes and smiles, it is reasonable to infer that the middle consists of continued accordion playing."
+  },
+  "v_00009824_0.mp4": {
+    "pass": true,
+    "reason": "The action—continuous accordion playing with similar movements—remains consistent over time, so the middle segment can be reliably inferred from the beginning and end."
+  },
+  "v_00009914_0.mp4": {
+    "pass": true,
+    "reason": "Continuous, causally coherent scene of a woman steadily playing the accordion; middle segment would logically show ongoing playing and conversation, which can be inferred from start and end."
+  },
+  "v_00005709_0.mp4": {
+    "pass": true,
+    "reason": "Continuous causal sequence—freeing a stuck axe—so the middle actions can be inferred from start and end."
+  },
+  "v_00009689_0.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-directed action (mowing) where the middle is a predictable continuation between starting and stopping."
+  },
+  "v_00013860_2.mp4": {
+    "pass": false,
+    "reason": "The specific choreography changes—additional performers joining and swapping positions—cannot be reliably inferred just from seeing the initial duo start and the quartet finish, so the middle is not predictably recoverable."
+  },
+  "v_00013850_1.mp4": {
+    "pass": false,
+    "reason": "The video is a series of separate rope-skipping tricks; knowing the opening and closing tricks gives little information to predict which unrelated stunt appears in the middle."
+  },
+  "v_00005739_0.mp4": {
+    "pass": true,
+    "reason": "The sequence follows a clear causal chain (axe gets stuck → person reacts → frees axe), so the middle actions can be reasonably inferred from the start and end."
+  },
+  "v_00013935_0.mp4": {
+    "pass": false,
+    "reason": "The routine contains several intricate, variable tricks between the start and end that cannot be reliably inferred from the surrounding context."
+  },
+  "v_00013891_2.mp4": {
+    "pass": false,
+    "reason": "The routine could include many possible tricks between similar alternating jumps, so the specific middle action (standing on one foot) is not reliably predictable from the start and end frames alone."
+  },
+  "v_00013862_5.mp4": {
+    "pass": false,
+    "reason": "The specific tricks done in the middle are not causally implied by the start and end; many equally plausible sequences could occur."
+  },
+  "v_00013880_1.mp4": {
+    "pass": false,
+    "reason": "The jump-rope routine contains unexpected, specific tricks (squat jumps, handstand) that cannot be reliably inferred just from the start and end segments."
+  },
+  "v_00013961_2.mp4": {
+    "pass": false,
+    "reason": "The video is a series of distinct team performances without a single causal progression, so the specific middle content cannot be reliably inferred from the start and end."
+  },
+  "v_00005988_0.mp4": {
+    "pass": true,
+    "reason": "The baby’s clapping and bouncing actions follow a continuous, rhythmic pattern, so the middle portion can be reasonably inferred from the beginning and end segments."
+  },
+  "v_00013919_1.mp4": {
+    "pass": false,
+    "reason": "The specific choreography (camera focus, arm-crossing, detailed foot patterns) in the middle is not logically determined by the beginning or end, so it cannot be reliably predicted."
+  },
+  "v_00012223_0.mp4": {
+    "pass": true,
+    "reason": "The action (continuous violin playing) proceeds in a smooth, causal manner, so the middle segment—more bowing and playing—can be reliably inferred from the start and finish."
+  },
+  "v_00005940_0.mp4": {
+    "pass": true,
+    "reason": "The scene is a continuous interaction between the two children—clapping, looking, and smiling—which is likely to proceed in a consistent, predictable manner from start to end."
+  },
+  "v_00013963_0.mp4": {
+    "pass": false,
+    "reason": "A jump-rope routine can include many unpredictable tricks; knowing the start and finish wouldn’t let one infer the specific moves performed in the middle."
+  },
+  "v_00005945_0.mp4": {
+    "pass": true,
+    "reason": "The boys perform a choreographed, repetitive dance sequence whose middle steps logically bridge the early and later mirrored movements, so the missing segment can be inferred from the surrounding context."
+  },
+  "v_00003574_0.mp4": {
+    "pass": true,
+    "reason": "The action (lifting bow → releasing arrow) follows a clear causal sequence, so the missing middle (aiming/holding) can be reasonably inferred from the surrounding context."
+  },
+  "v_00005946_0.mp4": {
+    "pass": true,
+    "reason": "Single uninterrupted celebration; given start and end of the applause scene, the middle (ongoing clapping, camera movement, confetti falling) can be reasonably inferred."
+  },
+  "v_00003596_0.mp4": {
+    "pass": false,
+    "reason": "The sudden appearance of a man after the archer’s draw cannot be reliably inferred from the initial setup, so the middle segment is not predictable from the context."
+  },
+  "v_00005930_0.mp4": {
+    "pass": true,
+    "reason": "The children's playful clapping is a continuous action; given the start and the end, viewers can reasonably infer that the middle shows them continuing to clap and jump in front of the stove."
+  },
+  "v_00006670_0.mp4": {
+    "pass": true,
+    "reason": "The actions progress logically from beginning the climb to being seated atop the branch, so the intermediate climbing motions can be reasonably inferred."
+  },
+  "v_00006674_0.mp4": {
+    "pass": true,
+    "reason": "Given the initial lift and final position on the branch, viewers can reasonably infer that the missing segment shows the boy continuing to climb and flip onto the branch."
+  },
+  "v_00012296_0.mp4": {
+    "pass": true,
+    "reason": "The boy’s transition from playing the violin to walking away is a straightforward, causally continuous sequence whose missing middle (putting the bow down and initiating movement) can be reasonably inferred from the start and end."
+  },
+  "v_00012303_0.mp4": {
+    "pass": true,
+    "reason": "Continuous musical performance with conductor–musician interaction; middle actions (gestures, brief pause, resume playing) are predictable from the surrounding context."
+  },
+  "v_00006713_1.mp4": {
+    "pass": true,
+    "reason": "The sequence (boy begins climb, later higher on tree while girl leaves) implies a predictable middle where he continues climbing and she keeps watching, so viewers can infer the missing segment."
+  },
+  "v_00006761_0.mp4": {
+    "pass": true,
+    "reason": "The action proceeds in a continuous, predictable manner—preparation, ascent, and arrival near the canopy—so the missing middle (ongoing climbing) can be reasonably inferred from the start and end."
+  },
+  "v_00005001_1.mp4": {
+    "pass": false,
+    "reason": "Turning to look at the camera and pausing is an incidental action that cannot be reliably inferred just from seeing the girl brushing before and continuing after."
+  },
+  "v_00006383_1.mp4": {
+    "pass": true,
+    "reason": "The actions unfold in a logical, sequential manner (clean upper windows, descend, then clean lower), so the middle transition is inferable from the surrounding context."
+  },
+  "v_00006740_1.mp4": {
+    "pass": true,
+    "reason": "Given that she begins sliding down the trunk and ends on the ground, it’s reasonable to predict that the middle shows her pausing or readying herself (e.g., squatting) before the jump."
+  },
+  "v_00006293_0.mp4": {
+    "pass": true,
+    "reason": "Window cleaning follows a clear causal sequence (dirty window → washing/scrubbing → cleaner window), so the middle actions can be inferred from the beginning and end."
+  },
+  "v_00006382_0.mp4": {
+    "pass": true,
+    "reason": "The actions progress logically from kneeling cleaning to standing cleaning, so the transitional middle (pause, switch of tools/posture) can be reasonably inferred from the start and end."
+  },
+  "v_00006339_5.mp4": {
+    "pass": true,
+    "reason": "After foam application, one can reasonably predict the intermediate wiping stage that leads to the clean-window ending, so the middle is inferable from start and finish."
+  },
+  "v_00006264_1.mp4": {
+    "pass": true,
+    "reason": "Cleaning a glass surface is a continuous, goal-directed action; given the start and end of wiping, the intermediate scrubbing can be reasonably inferred."
+  },
+  "v_00006290_0.mp4": {
+    "pass": false,
+    "reason": "The video is a multi-scene montage with abrupt transitions, so the content of the middle segment cannot be reliably predicted from the beginning and end."
+  },
+  "v_00006345_0.mp4": {
+    "pass": true,
+    "reason": "Window-cleaning is a single, continuous action whose intermediate motions can be reasonably inferred from the start and end scenes."
+  },
+  "v_00007217_0.mp4": {
+    "pass": true,
+    "reason": "Folding a jacket follows an orderly, causal sequence where the intermediate steps (adjusting sleeves, hood, smoothing) are predictable from the initial fold and final neatly folded result."
+  },
+  "v_00007204_0.mp4": {
+    "pass": true,
+    "reason": "The transition from an unfolded T-shirt at the start to a neatly folded square at the end strongly implies intermediate folding actions, making the middle segment predictably about the folding process."
+  },
+  "v_00011378_0.mp4": {
+    "pass": true,
+    "reason": "Continuous, causal action of the girl playing keyboard; middle segment likely shows her still playing and the camera moving, which can be inferred from beginning and end."
+  },
+  "v_00006334_2.mp4": {
+    "pass": true,
+    "reason": "The ending (foam being removed) logically requires a prior step (foam application), which can be inferred from the initial cleaning context, so the middle is predictably fillable."
+  },
+  "v_00011417_0.mp4": {
+    "pass": true,
+    "reason": "The boy continuously plays the organ throughout, so the middle segment is a predictable continuation of the same action."
+  },
+  "v_00007215_0.mp4": {
+    "pass": true,
+    "reason": "Sock-folding is a continuous, causal activity; given the start and the finished folded socks, the intermediate manipulation can be reasonably predicted."
+  },
+  "v_00011376_0.mp4": {
+    "pass": true,
+    "reason": "Single continuous performance; middle frames (organ playing and girl cranking) can be inferred from surrounding context."
+  },
+  "v_00014133_0.mp4": {
+    "pass": true,
+    "reason": "Lighting a cigarette and later removing it naturally implies the intervening action of smoking, which can be inferred from the start and end contexts."
+  },
+  "v_00014136_0.mp4": {
+    "pass": true,
+    "reason": "Lighting the cigarette, extinguishing the match, and then smoking form a clear, causally linked sequence whose middle actions can be inferred from the start and end frames."
+  },
+  "v_00011375_0.mp4": {
+    "pass": false,
+    "reason": "The camera’s choice to cut to the performer’s footwork is an arbitrary editorial decision; knowing only the performer playing at the start and the return to his upper body at the end does not let viewers reliably infer that the middle shows his feet on the pedals."
+  },
+  "v_00014075_0.mp4": {
+    "pass": true,
+    "reason": "The action sequence (lighting and then smoking a cigarette) follows clear causal steps, so the middle (ignition and first drag) can be inferred from the start and end."
+  },
+  "v_00014140_0.mp4": {
+    "pass": false,
+    "reason": "After seeing her light a cigarette and later remove it from her mouth, the specific intervening actions (rummaging in handbag, zipping it, touching hair) are not causally implied, so the middle cannot be reliably predicted."
+  },
+  "v_00014045_0.mp4": {
+    "pass": true,
+    "reason": "The start shows her preparing with a match and an unlit cigarette, and the end shows her holding a lit cigarette, so the intervening actions (striking the match, lighting, smoking) follow causally and can be reasonably inferred."
+  },
+  "v_00011258_0.mp4": {
+    "pass": true,
+    "reason": "Single continuous action of someone playing the harp; the middle will just show the ongoing performance, which is predictable from start and end."
+  },
+  "v_00006397_0.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous, causally coherent activity (window cleaning) so the middle segment can be inferred from the surrounding context."
+  },
+  "v_00006262_0.mp4": {
+    "pass": true,
+    "reason": "The workers’ preparation (tying knots and adjusting ropes) logically bridges the initial wide shot of them hanging and the later close-up of cleaning, so the middle action can be reasonably inferred from the surrounding context."
+  },
+  "v_00015801_0.mp4": {
+    "pass": true,
+    "reason": "The action follows a clear, continuous sequence (approach run → take-off → landing), so the middle portion can be reasonably inferred from the start and end."
+  },
+  "v_00006289_0.mp4": {
+    "pass": true,
+    "reason": "View changes from blocked to clear; it is predictable that the intervening action is the hand being moved away while cleaning continues."
+  },
+  "v_00015796_0.mp4": {
+    "pass": true,
+    "reason": "The triple-jump follows a fixed, causal sequence (run-up → hop/step → landing), so the missing middle phase can be reasonably inferred from the visible start and finish."
+  },
+  "v_00011221_1.mp4": {
+    "pass": true,
+    "reason": "Continuous harp performance with only camera angle changes allows the middle segment to be inferred from surrounding context."
+  },
+  "v_00011218_0.mp4": {
+    "pass": true,
+    "reason": "The scene is a single continuous action (girl playing harp), so the middle can be reasonably inferred as ongoing harp playing between the start and her final glance at the camera."
+  },
+  "v_00010336_1.mp4": {
+    "pass": true,
+    "reason": "The subject is continuously playing the cello, so the middle segment (ongoing playing) can be reasonably inferred from the beginning and the eventual camera pan at the end."
+  },
+  "v_00011249_0.mp4": {
+    "pass": false,
+    "reason": "The cut to a young man and back to the woman is arbitrary, lacking causal cues from the start or end, so the middle cannot be reliably inferred."
+  },
+  "v_00010836_1.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "v_00011198_1.mp4": {
+    "pass": false,
+    "reason": "The child's subtle head and camera movements between the start and end are not causally determined, so the exact middle events cannot be reliably inferred."
+  },
+  "v_00011176_0.mp4": {
+    "pass": false,
+    "reason": "The sudden, specific action of striking the harp body is not predictable from the preceding and following gentle plucking, so the middle cannot be reliably inferred."
+  },
+  "v_00011273_0.mp4": {
+    "pass": true,
+    "reason": "The scene unfolds linearly—the girl's continued tentative playing logically fills the gap between the initial setup and the close-up ending, so the middle is inferable."
+  },
+  "v_00011309_0.mp4": {
+    "pass": true,
+    "reason": "The video depicts a single continuous, predictable activity (a woman steadily playing the harp); the middle segment would logically show uninterrupted harp-playing similar to the start and end, so it can be inferred from the surrounding context."
+  },
+  "v_00011269_0.mp4": {
+    "pass": true,
+    "reason": "The actions (continuous harp playing and gradual camera movement) progress smoothly so the missing middle segment can be reasonably inferred from the surrounding context."
+  },
+  "v_00011261_0.mp4": {
+    "pass": true,
+    "reason": "The action unfolds linearly—continued harp playing and the boy’s gaze shift logically bridge the start (boy facing camera, music in progress) and the end (music stops, woman looks up), so the middle is inferable."
+  },
+  "v_00007307_0.mp4": {
+    "pass": true,
+    "reason": "Towel-folding follows a predictable, continuous sequence; the middle steps can be reasonably inferred from the start of unfolding and the final placement of the folded towel."
+  },
+  "v_00007304_0.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous, goal-directed sequence (systematic blanket folding) where the intermediate steps can be reasonably inferred from the initial folds and the final neatly flattened blanket."
+  },
+  "v_00007311_0.mp4": {
+    "pass": true,
+    "reason": "The actions follow a straightforward, sequential task—folding clothes—so the middle segment (more folding) can be reasonably inferred from the surrounding context."
+  },
+  "v_00007313_1.mp4": {
+    "pass": true,
+    "reason": "Folding clothes follows a clear, sequential process; given the start of grabbing the pants and the end of putting folded pants away, the intermediate folding steps are predictably inferable."
+  },
+  "v_00005455_4.mp4": {
+    "pass": true,
+    "reason": "The middle gap would logically show the other participant’s responses during the phone conversation, which follows naturally from the call’s start and the conclusion when the first man hangs up."
+  },
+  "v_00001831_3.mp4": {
+    "pass": false,
+    "reason": "The middle consists mainly of unpredictable facial expressions and dialogue that cannot be reliably inferred just from seeing the start of the call and the hang-up at the end."
+  },
+  "v_00005446_1.mp4": {
+    "pass": false,
+    "reason": "Alternating dialogue shots provide no specific, causally determined action for the missing middle; knowing the start and end does not allow prediction beyond another routine speaker switch."
+  },
+  "v_00001829_0.mp4": {
+    "pass": true,
+    "reason": "The actions flow logically (notice camera → remove sunglasses → wave → nod), so the middle is predictably bridging the initial idle pose and the final greeting state."
+  },
+  "v_00007235_2.mp4": {
+    "pass": true,
+    "reason": "The shirt-folding is a continuous, goal-oriented action sequence, so the missing middle step can be reasonably inferred from the preceding and following clips."
+  },
+  "v_00005455_1.mp4": {
+    "pass": false,
+    "reason": "Conversational shot-reverse-shot lacks a predictable causal event; the middle side-by-side view cannot be inferred from only the start and end segments."
+  },
+  "v_00005444_3.mp4": {
+    "pass": false,
+    "reason": "Aside from subtle speech changes, nothing visually or causally constrains what happens in the omitted middle segment, so it is not predictably inferable from the start and end."
+  },
+  "v_00003204_2.mp4": {
+    "pass": true,
+    "reason": "Shoe-tying is a sequential, causally linked procedure; knowing the start knot and the finished bow lets viewers plausibly infer the intermediate wrapping steps."
+  },
+  "v_00003198_0.mp4": {
+    "pass": true,
+    "reason": "Tying shoelaces is a linear, causal sequence; given the start of tying and the finished bow, the missing intermediate tuck can be reasonably predicted."
+  },
+  "v_00003213_3.mp4": {
+    "pass": true,
+    "reason": "Lacing proceeds in a step-by-step, orderly sequence; knowing the start of threading and the final bow makes the intermediate hole-by-hole crossings highly predictable."
+  },
+  "v_00003223_1.mp4": {
+    "pass": true,
+    "reason": "Lacing shoes follows a repetitive, orderly sequence; with the start and finished bow shown, the intermediate crossing and threading steps are predictably inferable."
+  },
+  "v_00003232_13.mp4": {
+    "pass": true,
+    "reason": "The lacing follows a clear, repeated left-right pattern, so the missing middle steps can be reasonably inferred from the visible beginning and end."
+  },
+  "v_00003224_12.mp4": {
+    "pass": true,
+    "reason": "Given that the right lace is partially threaded at the start and the shoe is fully laced and tied at the end, the missing middle (weaving the left lace through the remaining holes) follows a predictable, symmetric pattern that can be reasonably inferred."
+  },
+  "v_00003222_6.mp4": {
+    "pass": false,
+    "reason": "The shoe-lacing routine contains many intricate, symmetric steps; the specific middle actions cannot be confidently inferred just from the beginning and end."
+  },
+  "v_00003231_15.mp4": {
+    "pass": false,
+    "reason": "The middle sequence involves multiple specific hole numbers that cannot be uniquely inferred just from the initial and final lace positions, so the gap is not predictably recoverable."
+  },
+  "v_00003229_3.mp4": {
+    "pass": true,
+    "reason": "Lacing a shoe progresses in a predictable, step-by-step pattern from the first eyelets to a finished bow, so the intermediate crossings can be inferred from the initial and final states."
+  },
+  "v_00003228_0.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear, sequential lacing procedure, so the intermediate weaving steps can be reasonably inferred from seeing the initial threading and the final tied bow."
+  },
+  "v_00007068_0.mp4": {
+    "pass": true,
+    "reason": "The styling procedure follows a logical sequence (right side, then left side, then overall smoothing), so the middle segment can be reasonably inferred from the observed start and end."
+  },
+  "v_00004014_0.mp4": {
+    "pass": true,
+    "reason": "The sequence follows a continuous swim race with logical, causally connected events (start, mid-race strokes/turns, finish), so the middle can be reasonably inferred from the surrounding context."
+  },
+  "v_00004005_0.mp4": {
+    "pass": true,
+    "reason": "Given the push-off at the start and the wall turn at the end, it is reasonable to predict that the swimmers will perform regular backstroke strokes and breathing in the middle segment."
+  },
+  "v_00007121_5.mp4": {
+    "pass": true,
+    "reason": "Hair styling is a continuous, goal-directed process; given the start of blow-drying and the resumed brushing/drying at the end, a predictable intermediate step (more brushing or finger-tidying) logically bridges the two."
+  },
+  "v_00004022_1.mp4": {
+    "pass": true,
+    "reason": "Backstroke races follow a predictable sequence—after the start they swim steadily until touching the wall—so the middle actions (continuous swimming strokes and kicks) can be inferred from the start and finish."
+  },
+  "v_00004018_3.mp4": {
+    "pass": true,
+    "reason": "Swimmer’s preparatory stance logically leads to a wall-push, underwater glide, then resurfacing; the middle action (push-off and streamline glide) is causally predictable from the start and end."
+  },
+  "v_00004027_0.mp4": {
+    "pass": false,
+    "reason": "Multiple instructional cuts and overlay graphics break continuity, so the specific middle segment cannot be reliably inferred from the surrounding clips."
+  },
+  "v_00004040_0.mp4": {
+    "pass": true,
+    "reason": "The swimmers begin racing and later reach the pool’s end; the intervening action—continuous backstroke swimming—follows directly and is predictably inferred."
+  },
+  "v_00004030_0.mp4": {
+    "pass": true,
+    "reason": "The action (continuous backstroke from one end of the pool to the other) unfolds predictably, so the middle segment can be inferred from the start and end."
+  },
+  "v_00004040_1.mp4": {
+    "pass": true,
+    "reason": "Swimming from push-off to finish is a single continuous action, so the middle strokes can be reasonably predicted from the start and end segments."
+  },
+  "v_00004043_0.mp4": {
+    "pass": true,
+    "reason": "A swimming race has continuous, causally linked actions—given the start and the finish, the middle (ongoing strokes, splashing, forward progress) is reasonably predictable."
+  },
+  "v_00004009_1.mp4": {
+    "pass": true,
+    "reason": "The actions (start preparation, dive, swim, turn) follow a clear temporal progression, allowing the missing middle segment to be inferred from the surrounding context."
+  },
+  "v_00008275_0.mp4": {
+    "pass": false,
+    "reason": "Hugging the tree at both beginning and end does not strongly constrain what happens in the middle; the specific inspecting and brushing actions are not predictable from the endpoints."
+  },
+  "v_00008354_0.mp4": {
+    "pass": true,
+    "reason": "The transition from two children hugging to three children partially separating follows a clear, causally continuous progression that makes the missing middle (the third child joining the hug) reasonably inferable."
+  },
+  "v_00008293_0.mp4": {
+    "pass": false,
+    "reason": "Contains sexual contact between minors, making the clip inappropriate and unusable."
+  },
+  "v_00001393_0.mp4": {
+    "pass": true,
+    "reason": "The action logically progresses from the first cut to separated slices, so the intervening slicing motion can be inferred from the start and end."
+  },
+  "v_00008320_0.mp4": {
+    "pass": false,
+    "reason": "{\""
+  },
+  "v_00005899_16.mp4": {
+    "pass": true,
+    "reason": "The activity (progressive tomato slicing) follows a clear, continuous sequence, so the middle portion—additional slicing and adjustments—can be reasonably inferred from the start and end."
+  },
+  "v_00005890_3.mp4": {
+    "pass": true,
+    "reason": "Chopping vegetables is a sequential, causally continuous task—given the initial cuts and the final transfer of diced carrots, the intermediate chopping motions are reasonably predictable."
+  },
+  "v_00008369_2.mp4": {
+    "pass": true,
+    "reason": "The sequence of couples taking turns hugging follows a clear, repeatable pattern, so the middle segment (other couples hugging) can be inferred from seeing the initial and final embraces."
+  },
+  "v_00005910_8.mp4": {
+    "pass": true,
+    "reason": "The action (progressive onion chopping) unfolds in a clear, causal sequence, so the missing middle can be logically inferred from the visible preparation at the start and the chopped result at the end."
+  },
+  "v_00001387_0.mp4": {
+    "pass": true,
+    "reason": "Preparing a watermelon follows a logical sequence; knowing it starts with cutting the ends and ends with diced cubes, one can reasonably infer the missing middle step of peeling off the rind and cleaning up."
+  },
+  "v_00005881_5.mp4": {
+    "pass": true,
+    "reason": "Cutting a vegetable is a simple, continuous action where the missing middle (the slicing motions) can be logically inferred from seeing the intact vegetable before and the sliced pieces after."
+  },
+  "v_00001352_0.mp4": {
+    "pass": true,
+    "reason": "The action (baby crawling toward a remote) unfolds in a straightforward, continuous manner, so the middle segment—ongoing crawling—can be reasonably inferred from the beginning and end."
+  },
+  "v_00005908_2.mp4": {
+    "pass": true,
+    "reason": "The action follows a clear, continuous sequence of slicing motions, so the missing middle (continued cutting) can be reliably inferred from the setup and the outcome."
+  },
+  "v_00015231_1.mp4": {
+    "pass": true,
+    "reason": "Single continuous discus-throw action; given wind-up and release frames, the mid-rotation motion is predictably inferred."
+  },
+  "v_00015261_0.mp4": {
+    "pass": true,
+    "reason": "A discus throw follows a well-defined, continuous motion: from the initial stance to the final release, the middle wind-up/spin is predictable from the context before and after."
+  },
+  "v_00015225_1.mp4": {
+    "pass": true,
+    "reason": "Athletic throw involves a continuous, causal sequence of rotational movements, so the intermediate steps can be inferred from the start stance and the final release."
+  },
+  "v_00015314_0.mp4": {
+    "pass": true,
+    "reason": "The discus throw has a standard, continuous sequence of preparatory swings, rotation, and release, so the intervening motions can be reasonably inferred from the start and finish."
+  },
+  "v_00015328_0.mp4": {
+    "pass": true,
+    "reason": "The discus-throw motion is a continuous, causal sequence; given the setup and the release, one can reasonably infer the intermediate spins and weight shifts."
+  },
+  "v_00015262_0.mp4": {
+    "pass": true,
+    "reason": "The discus throw is a single continuous athletic motion; given the wind-up start and the release finish, the intervening rotation and weight shift are highly predictable."
+  },
+  "v_00015334_5.mp4": {
+    "pass": true,
+    "reason": "Preparing to throw and final release strongly constrain the intermediate wind-up and rotational movements, making the middle segment predictable"
+  },
+  "v_00015275_0.mp4": {
+    "pass": true,
+    "reason": "The action proceeds through a clear, continuous throwing motion, so the missing middle (body rotation and weight shift) can be reasonably inferred from the wind-up and the release."
+  },
+  "v_00014865_0.mp4": {
+    "pass": true,
+    "reason": "Sweeping is a continuous, goal-directed action; given the start and end, the intermediate motion of the person moving the broom and shifting debris can be reasonably inferred."
+  },
+  "v_00014883_2.mp4": {
+    "pass": true,
+    "reason": "The video shows a single, continuous sweeping action whose middle sequence can be inferred from the ongoing activity visible before and after the gap."
+  },
+  "v_00015293_0.mp4": {
+    "pass": true,
+    "reason": "The discus throw follows a continuous, predictable sequence of rotations and weight shifts, so the middle actions can be reasonably inferred from the shown start and final release."
+  },
+  "v_00015334_8.mp4": {
+    "pass": true,
+    "reason": "A discus throw follows a standard, continuous wind-up and rotation; given the stance at the start and the release at the end, the middle actions are causally predictable."
+  },
+  "v_00016203_0.mp4": {
+    "pass": true,
+    "reason": "Washing a dish follows a predictable sequence (scrub, rinse, place aside), so the middle actions are inferable from the beginning and end."
+  },
+  "v_00014911_0.mp4": {
+    "pass": true,
+    "reason": "The action (continuous sweeping with small balance adjustments) is temporally continuous; given the child sweeping at the start and still sweeping later, one can reasonably infer the intermediate sweeping motions."
+  },
+  "v_00016195_3.mp4": {
+    "pass": true,
+    "reason": "The boy’s actions (fill, scrub, pour, repeat) follow a simple, repetitive sequence, so the middle segment can be inferred from what occurs before and after."
+  },
+  "v_00009485_0.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-directed sweeping action; middle motion (ongoing sweeping) is predictable from the start of sweeping and the eventual finish."
+  },
+  "v_00016207_1.mp4": {
+    "pass": true,
+    "reason": "The girl's dish-washing follows a clear, everyday sequence (scrub, flip, rinse) so the middle actions are inferable from the starting setup and the final rinse."
+  },
+  "v_00014837_0.mp4": {
+    "pass": true,
+    "reason": "The action (continuous sweeping around the motorcycle) proceeds logically from start to finish, so the middle—more sweeping and repositioning—can be inferred from the beginning and end."
+  },
+  "v_00002240_4.mp4": {
+    "pass": true,
+    "reason": "The action (continuous downhill coasting with legs out and gentle handlebar swaying) is temporally smooth and likely persists, making the middle segment predictable from the surrounding context."
+  },
+  "v_00016220_0.mp4": {
+    "pass": true,
+    "reason": "It is a single, continuous dish-washing activity with the same participants, so the middle is reasonably predictable from the surrounding context."
+  },
+  "v_00002242_1.mp4": {
+    "pass": true,
+    "reason": "The boy’s continuous reversed cycling motion and eventual stop create clear causal continuity, so the middle segment (more backward riding and turning) can be inferred from the beginning and end."
+  },
+  "v_00002267_0.mp4": {
+    "pass": true,
+    "reason": "The sequence of riding, imbalance, and continued wobbling forms a clear causal chain, so the middle (losing balance) can be inferred from the start and end."
+  },
+  "v_00016227_0.mp4": {
+    "pass": true,
+    "reason": "The cleaning sequence progresses logically from initial splashing to final pouring, so actions in the middle (holding and wiping the bowl) can be reasonably inferred from the surrounding context."
+  },
+  "v_00002271_1.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous turning maneuver—given the glide at the start and the completed U-turn with approval at the end, the steering actions in the middle are reasonably predictable."
+  },
+  "v_00002219_6.mp4": {
+    "pass": true,
+    "reason": "The childrens’ movements follow a straightforward, causal riding sequence (push off → pedal → slow/stop), so the missing middle action can be reasonably inferred from the beginning and ending segments."
+  },
+  "v_00002240_0.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression—after initial assisted riding, the predictable middle is the adult letting go and the child beginning to ride solo, leading to the final solo glide."
+  },
+  "v_00002188_4.mp4": {
+    "pass": true,
+    "reason": "Given the start (man supporting the girl) and the end (girl riding solo while man jogs beside her), it is logical to infer that the middle shows the moment he lets go and she continues on her own."
+  },
+  "v_00002177_0.mp4": {
+    "pass": true,
+    "reason": "The sequence of walking toward a sign and then leaving lets viewers infer the predictable action in the middle—stopping to look at the sign—so the missing segment is temporally recoverable."
+  },
+  "v_00002203_4.mp4": {
+    "pass": true,
+    "reason": "The sequence is causally linear—after riding slowly he begins practicing wheelies, so the middle (first lift attempt) can be inferred from the start and end segments."
+  },
+  "v_00002181_0.mp4": {
+    "pass": true,
+    "reason": "Continuous, linear movement (wheelchair and dog progressing down street) means the middle is predictably a continuation of that motion."
+  },
+  "v_00013169_0.mp4": {
+    "pass": true,
+    "reason": "The actions flow naturally—walking, adjusting the wheelchair, then continuing—so the middle segment can be reasonably inferred from the surrounding context."
+  },
+  "v_00002203_9.mp4": {
+    "pass": false,
+    "reason": "The middle section is an edited, sped-up timelapse that viewers could not infer just from the normal-speed beginning and end, so the gap is not predictably fillable."
+  },
+  "v_00013082_0.mp4": {
+    "pass": true,
+    "reason": "Continuous causal action (wheelchair ascending escalator) makes mid-segment events—tilting, grasping rail, stabilizing—reasonably predictable from start and end."
+  },
+  "v_00014288_0.mp4": {
+    "pass": true,
+    "reason": "Weightlifting follows a well-known, continuous sequence. From the initial setup to the final upright stance, the intermediate lift and squat can be reasonably inferred."
+  },
+  "v_00014348_0.mp4": {
+    "pass": true,
+    "reason": "Weightlifting has a stereotyped, continuous motion: from setup to bar overhead, so the intervening lift can be reasonably inferred."
+  },
+  "v_00002024_0.mp4": {
+    "pass": true,
+    "reason": "Showing the eyeshadow pens naturally leads to the eye-makeup application; the missing middle—choosing a pen and starting to apply—can be reasonably inferred from start and end frames."
+  },
+  "v_00007630_0.mp4": {
+    "pass": false,
+    "reason": "The golfer’s intermittent glances and comments between addressing the ball and swinging are not causally constrained, so the middle segment cannot be reliably inferred from the start and end."
+  },
+  "v_00014273_0.mp4": {
+    "pass": true,
+    "reason": "Given the setup with the lifter gripping the bar and the ending where the bar is overhead, one can reasonably infer that the missing middle involves the typical lift-through motion bringing the bar upward, so the temporal gap is predictable."
+  },
+  "v_00014268_4.mp4": {
+    "pass": true,
+    "reason": "The start shows the lifter gripping the bar and the end shows her standing with it overhead, so the middle must be the upward lift, which follows directly and predictably from the context."
+  },
+  "v_00014268_7.mp4": {
+    "pass": true,
+    "reason": "The action follows a clear, causal sequence—from setup to finished overhead lockout—so viewers can reasonably infer the missing middle lift phase from the surrounding context."
+  },
+  "v_00012414_0.mp4": {
+    "pass": true,
+    "reason": "The sequence (serve → later picking up the ball) implies an intervening exchange in which the ball is returned; viewers can reasonably infer that the missing middle contains the ball being tossed/rolled back before she retrieves it."
+  },
+  "v_00009214_56.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous, repetitive sequence of manipulating the fur; given the start and end, the intermediate actions are predictably the same type of motions."
+  },
+  "v_00007069_1.mp4": {
+    "pass": true,
+    "reason": "Hair-conditioning follows a logical, spatial sequence; knowing the initial frontal application and the final back-to-front stroke lets viewers infer the intermediate side applications."
+  },
+  "v_00007041_10.mp4": {
+    "pass": true,
+    "reason": "The actions (scooping, then resuming excavation) imply a predictable intermediate step—moving the arm to dump soil into the truck—making the middle segment inferable from the start and end."
+  },
+  "v_00001859_1.mp4": {
+    "pass": true,
+    "reason": "Competitive swimming follows a smooth, continuous sequence—dive, steady strokes, eventual finish—so the middle strokes are predictable from the start and end."
+  },
+  "v_00004136_0.mp4": {
+    "pass": true,
+    "reason": "The tooth-brushing action is continuous and methodical, so the middle segment (ongoing brushing) can be reasonably inferred from the start and end."
+  },
+  "v_00001910_1.mp4": {
+    "pass": true,
+    "reason": "A swimming race has straightforward, continuous action; given the start and finish, the middle (ongoing swimming toward the shore) is inferable."
+  },
+  "v_00005010_0.mp4": {
+    "pass": true,
+    "reason": "Brushing teeth is a continuous, routine action, so the intermediate motions (moving toothbrush, adjusting mouth) can be reasonably inferred from the beginning and end segments."
+  },
+  "v_00004962_0.mp4": {
+    "pass": false,
+    "reason": "From initial removal to final removal of sunglasses there is no clear, constrained event that must fill the gap, so the middle action (woman putting them back on) is not reliably predictable."
+  },
+  "v_00001948_5.mp4": {
+    "pass": true,
+    "reason": "The swimmer’s actions follow a continuous causal sequence (turn, underwater kick, surface strokes), so the middle segment can be plausibly inferred from the surrounding context."
+  },
+  "v_00001929_10.mp4": {
+    "pass": true,
+    "reason": "The action (a child swimming toward the wall and then climbing out) unfolds in a continuous, causal sequence, so the middle segment—continued swimming toward the finish—can be reasonably inferred from the start and end."
+  },
+  "v_00007126_5.mp4": {
+    "pass": true,
+    "reason": "Hair styling follows a logical, continuous sequence; given the initial combing and final continued styling, viewers can plausibly infer intermediate steps like chair swivel and hairspray application."
+  },
+  "v_00003969_2.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-directed flower-trimming action where mid-segment logically shows more trimming that can be inferred from start and end."
+  },
+  "v_00001979_12.mp4": {
+    "pass": true,
+    "reason": "Continuous action of a swimmer racing makes the intermediate strokes reasonably predictable from the start and finish shots."
+  },
+  "v_00003905_0.mp4": {
+    "pass": true,
+    "reason": "Arranging flowers follows a clear, causal sequence—picking up trimmed flowers naturally leads to placing them into vases—so the middle action can be inferred from the start and end frames."
+  },
+  "v_00003962_0.mp4": {
+    "pass": true,
+    "reason": "Flower arranging is a smooth, continuous activity; from seeing the initial placement of stems and the final arranged bouquet, one can reasonably infer the intermediate adjustments."
+  },
+  "v_00003958_1.mp4": {
+    "pass": true,
+    "reason": "Seeing the girl remove the flower and later place a shorter flower back implies the missing middle action of trimming, making it predictable."
+  },
+  "v_00003966_1.mp4": {
+    "pass": true,
+    "reason": "Arranging flowers follows a clear causal sequence—trimming, placing, adjusting—so the middle action can be inferred from the start and end states."
+  },
+  "v_00010823_1.mp4": {
+    "pass": true,
+    "reason": "The scenario is a continuous, single interaction (child playing guitar while adult gestures rhythmically), so the middle segment—more gesturing and playing—can be reasonably inferred from the beginning and end."
+  },
+  "v_00010873_0.mp4": {
+    "pass": true,
+    "reason": "The scene involves continuous, rhythmic guitar playing and singing, where intermediate frames would logically show the performer continuing the same actions (strumming, nodding) and the second person moving their hand down—events that can be inferred from the start and end."
+  },
+  "v_00010053_4.mp4": {
+    "pass": true,
+    "reason": "A live band performance is temporally continuous; the middle will predictably show ongoing playing and camera movement consistent with what is seen before and after."
+  },
+  "v_00003953_2.mp4": {
+    "pass": true,
+    "reason": "The shift from an empty or partially filled vase to a completed arrangement makes it reasonable to infer that the missing middle shows the person inserting the flowers, a causally predictable action."
+  },
+  "v_00010936_0.mp4": {
+    "pass": true,
+    "reason": "Given the start (ball tucked, right-hand playing) and the end (ball dribbling, left-hand playing), one can reasonably infer the middle transition of switching hands and moving the ball."
+  },
+  "v_00010119_4.mp4": {
+    "pass": true,
+    "reason": "From the setup (performer readying to play) and the ending (finishing, adjusting instrument, smiling), it is reasonable to infer that the middle consists of him actively playing the instrument."
+  },
+  "v_00010127_0.mp4": {
+    "pass": false,
+    "reason": "The musician is simply playing continuously; knowing the start and end offers no specific cues to infer what exact notes or movements occur in the middle."
+  },
+  "v_00003915_4.mp4": {
+    "pass": true,
+    "reason": "The sequence (prepare flower → finished arrangement in vase) has clear causal continuity, allowing viewers to infer the intermediate pruning and positioning steps."
+  },
+  "v_00010075_0.mp4": {
+    "pass": true,
+    "reason": "Single continuous action (street musician playing) unfolds linearly; given start and end, one can plausibly infer that the performer keeps playing while pedestrians keep passing in the middle."
+  },
+  "v_00015005_0.mp4": {
+    "pass": true,
+    "reason": "The transition from the woman spinning to the swing stopping with arms open implies intermediate actions (boy pushing, reversing spin, slowing) that follow natural causal motion and can be reasonably inferred."
+  },
+  "v_00015039_1.mp4": {
+    "pass": true,
+    "reason": "Continuous, causal action (children swinging, camera pans) makes the missing middle reasonably predictable from surrounding context."
+  },
+  "v_00015040_1.mp4": {
+    "pass": false,
+    "reason": "The transition from the older child swinging to the younger child (plus a puppy appearing) is not causally determined or predictable from the start and end, so the middle cannot be meaningfully inferred."
+  },
+  "v_00009790_0.mp4": {
+    "pass": false,
+    "reason": "Aside from continuous playing, the middle contains the unexpected action of looking at the camera, which cannot be reliably inferred from the beginning and ending segments."
+  },
+  "v_00014990_0.mp4": {
+    "pass": false,
+    "reason": "The specific mid-swing rotation and interactions are not implied by the start and end states, so the middle segment cannot be reliably predicted."
+  },
+  "v_00015029_0.mp4": {
+    "pass": true,
+    "reason": "Given that the man releases the swing at the start and is seen catching it at the end, viewers can plausibly infer the intermediate oscillations (and even the possibility of the swing striking him) from basic swing physics and spatial setup."
+  },
+  "v_00015034_1.mp4": {
+    "pass": false,
+    "reason": "The sequence is a series of camera cuts between repetitive swinging, so the exact middle portion (which child is on screen, number of swings, camera angle) cannot be reliably inferred from the surrounding clips."
+  },
+  "v_00015104_0.mp4": {
+    "pass": true,
+    "reason": "Twisted chains at the start and untangled chains at the end naturally imply a spinning-to-untwist sequence in the middle, which viewers can plausibly infer."
+  },
+  "v_00003807_2.mp4": {
+    "pass": true,
+    "reason": "The arm-wrestling bout unfolds in a continuous, goal-directed way, so the middle actions can be plausibly inferred from the start and the lead-up to the climax."
+  },
+  "v_00015105_1.mp4": {
+    "pass": true,
+    "reason": "Single, continuous action of a child gently swinging makes the middle segment (continued light swinging) predictable from the start and end."
+  },
+  "v_00015103_5.mp4": {
+    "pass": true,
+    "reason": "The later frames (person swinging back with a branch and reduced arc) are causally tied to a single, predictable middle event—hitting and grabbing the branch at the swing’s peak—so the gap can be reasonably inferred from the start and end."
+  },
+  "v_00003838_0.mp4": {
+    "pass": true,
+    "reason": "The progression from initial stalemate to final victory follows a predictable causal sequence, allowing the middle interactions and gradual advantage gain to be reasonably inferred from the start and end."
+  },
+  "v_00003812_1.mp4": {
+    "pass": false,
+    "reason": "The specific mid-match gestures, pauses, and chat are arbitrary and can’t be reliably inferred just from the match’s setup and eventual pin outcome."
+  },
+  "v_00003855_1.mp4": {
+    "pass": true,
+    "reason": "The action unfolds linearly from setup to decisive win, so the missing middle (the gradual struggle) can be reasonably inferred from the start and end segments."
+  },
+  "v_00003854_0.mp4": {
+    "pass": false,
+    "reason": "The mid-match back-and-forth movements and expressions are not deterministically inferable from just the start and end of the arm-wrestling bout."
+  },
+  "v_00003846_0.mp4": {
+    "pass": true,
+    "reason": "Arm-wrestling has a clear causal progression—struggle in the middle between the start and the final pin is predictable from the context."
+  },
+  "v_00003808_0.mp4": {
+    "pass": true,
+    "reason": "An arm-wrestling bout is a single continuous struggle; knowing that one man nearly wins at the start and the other wins at the end makes it reasonable to predict the middle will feature back-and-forth pressure between the same two arms."
+  },
+  "v_00003607_0.mp4": {
+    "pass": true,
+    "reason": "The sequence (drawing, aiming, releasing the arrow) follows a clear causal progression, so the middle aiming phase can be reasonably inferred from the start and end."
+  },
+  "v_00003569_2.mp4": {
+    "pass": true,
+    "reason": "The transition from drawing the bow to the arrow in flight follows clear causal action, so the missing middle (release and minor adjustments) is inferable."
+  },
+  "v_00003861_0.mp4": {
+    "pass": true,
+    "reason": "The struggle in an arm-wrestling bout unfolds continuously; given the initial dominance and final victory, it is reasonable to predict a mid-segment where the opponent briefly fights back before being subdued."
+  },
+  "v_00003824_0.mp4": {
+    "pass": true,
+    "reason": "The start shows the setup for an arm-wrestling match and the end shows the aftermath/reactions, so one can reasonably infer that the arm-wrestling bout itself happens in the missing middle."
+  },
+  "v_00003675_0.mp4": {
+    "pass": true,
+    "reason": "The sequence of readying the bow, drawing it, and releasing the arrow follows a clear causal progression, so the middle action can be inferred from the start and end."
+  },
+  "v_00003692_0.mp4": {
+    "pass": true,
+    "reason": "Archery action follows a clear, causally continuous sequence—aiming leads naturally to drawing and releasing the arrow—so the middle can be inferred from the start and end."
+  },
+  "v_00003625_3.mp4": {
+    "pass": true,
+    "reason": "The action follows a clear sequence—preparation, aiming, and release—so the middle (drawing and adjusting) can be inferred from the start and end."
+  },
+  "v_00003655_0.mp4": {
+    "pass": true,
+    "reason": "Drawing, aiming and releasing an arrow follow a clear causal sequence, so the missing middle (minor adjustments while drawing) can be reasonably inferred from the visible start and end."
+  },
+  "v_00013757_0.mp4": {
+    "pass": true,
+    "reason": "The lead-up to a shot-put throw follows a predictable sequence of preparation moves that can be inferred from the starting stance and the final launch, so the middle segment is guessable."
+  },
+  "v_00013669_0.mp4": {
+    "pass": true,
+    "reason": "The athlete’s intermediate spinning and footwork are logically required to transition from initial ball positioning to the final throwing stance, so the middle can be inferred."
+  },
+  "v_00013610_0.mp4": {
+    "pass": true,
+    "reason": "The shot-put preparation is a smooth, causally continuous action, so the transitional movements between the initial stance and the final pre-throw position are reasonably predictable."
+  },
+  "v_00013697_3.mp4": {
+    "pass": true,
+    "reason": "The athlete’s stance changes in a continuous, causal way (initial setup → adjustment struggle → corrected setup), allowing the middle adjustment to be inferred from the beginning and end."
+  },
+  "v_00013624_0.mp4": {
+    "pass": true,
+    "reason": "Shot-put preparation is a smooth, ordered sequence; given the initial lift and final ready-to-throw stance, the intermediate footwork and crouch are predictably constrained."
+  },
+  "v_00013712_0.mp4": {
+    "pass": true,
+    "reason": "A shot-put preparation follows a predictable, continuous sequence of stance adjustments and arm swings leading up to the throw, so the missing middle can be reasonably inferred from the start and end."
+  },
+  "v_00016859_0.mp4": {
+    "pass": true,
+    "reason": "Applying lip liner is a continuous, goal-directed action; with the outline partly done at the start and completed at the end, the intermediate strokes are predictable."
+  },
+  "v_00012014_0.mp4": {
+    "pass": true,
+    "reason": "The boy repeatedly blows the horn, pauses, and resumes in a clear, cyclical pattern. Given the start and end, one can infer that the middle shows the same predictable playing sequence."
+  },
+  "v_00016854_0.mp4": {
+    "pass": true,
+    "reason": "Lipstick application is a sequential, causal action; from seeing the start of lower-lip application and the finished look, one can reasonably infer the intermediate upper-lip application and angle adjustments."
+  },
+  "v_00016796_3.mp4": {
+    "pass": true,
+    "reason": "Applying lipstick is a continuous, goal-directed action where the intermediate strokes can be inferred from seeing the start and the near-finished state."
+  },
+  "v_00016848_8.mp4": {
+    "pass": true,
+    "reason": "The action follows a clear, symmetrical sequence of outlining each lip quadrant, so the missing middle steps can be logically inferred from the start and end."
+  },
+  "v_00015738_0.mp4": {
+    "pass": true,
+    "reason": "The activity (man steadily trimming a tree while moving up and down the ladder) is continuous and predictable, so the middle segment can reasonably be inferred from the beginning and end."
+  },
+  "v_00016848_12.mp4": {
+    "pass": true,
+    "reason": "The action (applying concealer around the lips) proceeds in a smooth, ordered manner, so knowing the start and the finished look makes the intermediate dabbing/contouring steps reasonably predictable."
+  },
+  "v_00012156_0.mp4": {
+    "pass": true,
+    "reason": "The man is continuously playing the instrument in the same posture throughout, so the middle segment can be reliably inferred from the beginning and end."
+  },
+  "v_00015739_0.mp4": {
+    "pass": true,
+    "reason": "Continuous trimming sequence proceeds methodically, so the middle (ongoing trimming and brief interaction) can be reasonably inferred from the start and end."
+  },
+  "v_00015743_0.mp4": {
+    "pass": true,
+    "reason": "The mowing action is continuous and predictable, so the middle would logically show the mower continuing across the lawn toward the shrubs."
+  },
+  "v_00015740_0.mp4": {
+    "pass": true,
+    "reason": "Given the start (bush untrimmed) and end (bush rounded), it is reasonable to infer that the man is trimming the shrub in the middle segment."
+  },
+  "v_00015732_0.mp4": {
+    "pass": true,
+    "reason": "The trimming process is a continuous, goal-directed action; given the start and the finished look, one can reasonably infer the intermediate trimming steps."
+  },
+  "v_00015746_0.mp4": {
+    "pass": true,
+    "reason": "Gardening work proceeds in a continuous, causal manner; given the start of trimming and the finished section at the end, the intermediate trimming actions are reasonably predictable."
+  },
+  "v_00015748_0.mp4": {
+    "pass": true,
+    "reason": "Trimming bushes is a continuous, goal-directed action; given the start and the finished trimming, the intermediate cutting motion is predictable."
+  },
+  "v_00015751_0.mp4": {
+    "pass": true,
+    "reason": "Single continuous action (man trimming bushes) with clear temporal progression, so middle segment is predictably a continuation of trimming."
+  },
+  "v_00015754_0.mp4": {
+    "pass": true,
+    "reason": "The sequence is causally continuous—tool use, brief inspection, then resumed trimming—so middle actions can be reasonably inferred from the surrounding context."
+  },
+  "v_00015752_0.mp4": {
+    "pass": true,
+    "reason": "The hedge-trimming action is continuous and goal-directed; knowing the start of cutting and the later approach toward the camera makes the intermediate trimming motion highly predictable."
+  },
+  "v_00013866_0.mp4": {
+    "pass": false,
+    "reason": "The key middle event—a contestant getting tangled in the rope—is not inferable from just seeing the initial formation and the final paired routine, so the gap cannot be meaningfully predicted."
+  },
+  "v_00013871_0.mp4": {
+    "pass": false,
+    "reason": "The freestyle routine could include numerous unpredictable tricks; the specific handstand and roll in the middle cannot be reliably inferred from the start and end segments."
+  },
+  "v_00005883_0.mp4": {
+    "pass": true,
+    "reason": "Onion chopping follows a clear, sequential cooking action; given the start of slicing and the final diced pieces, the intermediate knife work can be reasonably inferred."
+  },
+  "v_00013905_0.mp4": {
+    "pass": true,
+    "reason": "Starting preparation and ending exhaustion clearly suggest a continuous jump-rope routine in the middle, making that segment reasonably predictable."
+  },
+  "v_00002193_0.mp4": {
+    "pass": false,
+    "reason": "The video is a static presentation of images with narration, lacking any causal or temporal progression that would allow the middle segment to be inferred from the beginning and end."
+  },
+  "v_00013827_0.mp4": {
+    "pass": false,
+    "reason": "The middle segment (a girl entering to do double jump-rope with each performer) is not strongly implied by merely seeing the initial group rope-swing setup and the later exit/boy’s leap, so the gap would be hard to predict."
+  },
+  "v_00002220_0.mp4": {
+    "pass": true,
+    "reason": "The sequence follows a clear progression (child starts riding → rides away), so viewers could reasonably infer the intermediate encouragement/pedaling actions from the start and end contexts."
+  },
+  "v_00008947_0.mp4": {
+    "pass": true,
+    "reason": "The long-jump follows a fixed, causal sequence (run-up → take-off/flight → landing), so the missing middle can be inferred from seeing the approach at the start and the landing at the end."
+  },
+  "v_00013844_0.mp4": {
+    "pass": true,
+    "reason": "The progression from smoothly jumping to being outside the ropes makes it plausible to infer that she likely tripped in the missing middle segment, so the gap is causally predictable."
+  },
+  "v_00009012_0.mp4": {
+    "pass": true,
+    "reason": "The run-up inevitably leads to the airborne phase before the observed landing, so the missing middle (take-off and flight) can be reasonably inferred from the start and end contexts."
+  },
+  "v_00013853_0.mp4": {
+    "pass": true,
+    "reason": "The routine progresses coherently from initial synchronized skipping to a finale exit, making the intervening actions (continued rope-skipping maneuvers) reasonably inferable from the start and end contexts."
+  },
+  "v_00008986_0.mp4": {
+    "pass": true,
+    "reason": "A long-jump follows a highly predictable sequence—approach run, take-off/airborne phase, then landing—so the middle can be reliably inferred from the start and end."
+  },
+  "v_00008975_0.mp4": {
+    "pass": true,
+    "reason": "Given the run-up at the start and the landing at the end, the intervening jump phase is a predictable, causally necessary middle segment."
+  },
+  "v_00002273_0.mp4": {
+    "pass": true,
+    "reason": "Continuous, slow bike maneuvering with no sudden scene changes; viewer can infer the rider keeps weaving between cones during the omitted middle segment."
+  },
+  "v_00006191_1.mp4": {
+    "pass": true,
+    "reason": "The sequence of lifting steps follows a clear, continuous progression—seeing the setup and the bar overhead lets viewers infer the intermediate chest-level lift and standing motion."
+  },
+  "v_00006207_0.mp4": {
+    "pass": true,
+    "reason": "The transition from barbell on the floor to the athlete holding it overhead naturally implies the intermediate clean-to-chest phase, which a viewer could infer from the start and end states."
+  },
+  "v_00009099_12.mp4": {
+    "pass": true,
+    "reason": "Continuous athletic action (run-up → flight → landing) so the missing middle can be predicted from the surrounding clips."
+  },
+  "v_00000172_3.mp4": {
+    "pass": true,
+    "reason": "The start shows eyeliner outlined and the end shows it almost finished, enabling viewers to reasonably infer the intermediate application steps."
+  },
+  "v_00000203_5.mp4": {
+    "pass": true,
+    "reason": "Applying eyeliner is a continuous, causal action—given the start and finish strokes, the intervening strokes are highly predictable."
+  },
+  "v_00000204_2.mp4": {
+    "pass": true,
+    "reason": "Applying eyeliner follows a clear, sequential makeup routine, so the missing middle can be inferred from the surrounding steps."
+  },
+  "v_00016883_4.mp4": {
+    "pass": true,
+    "reason": "The sequence shows a continuous, logical progression of cleaning motions on the board, so the middle actions can be inferred from the surrounding context."
+  },
+  "v_00014267_3.mp4": {
+    "pass": true,
+    "reason": "Weightlifting follows a predictable clean-and-jerk sequence; seeing the initial grab and final overhead lift lets viewers infer the intermediate chest-level clean and brief pause."
+  },
+  "v_00016880_0.mp4": {
+    "pass": true,
+    "reason": "Actions progress logically from wiping and moving the paint can to brushing the table, so the middle is predictably a continuation of preparation/transition."
+  },
+  "v_00002077_26.mp4": {
+    "pass": true,
+    "reason": "Seeing her start dotting one eyelid and later showing the finished look makes it reasonable to infer she dots the other eyelid in the middle."
+  },
+  "v_00016886_2.mp4": {
+    "pass": true,
+    "reason": "The painting process follows a clear sequential workflow, so the middle transition (switching paint containers and pouring paint) can be logically inferred from the before-and-after segments."
+  },
+  "v_00002094_42.mp4": {
+    "pass": true,
+    "reason": "Applying eyeliner is a step-by-step, continuous process; seeing the initial outline and the finished wing allows viewers to reasonably infer the intermediate filling and extension steps."
+  },
+  "v_00016895_0.mp4": {
+    "pass": true,
+    "reason": "Single continuous cleaning action; middle frames (wiping middle sections) are easily inferred from the start and end."
+  },
+  "v_00016893_2.mp4": {
+    "pass": true,
+    "reason": "Cleaning actions proceed in a logical, continuous sequence (dip cloth, wipe chair sections, finish), so the middle segment can be reasonably inferred from the beginning and end."
+  },
+  "v_00006100_0.mp4": {
+    "pass": true,
+    "reason": "Single continuous weight-lifting attempt where the intermediate lift motion logically bridges the initial setup and the final overhead position, so the missing middle is causally predictable."
+  },
+  "v_00016889_0.mp4": {
+    "pass": true,
+    "reason": "Single continuous cleaning action; given the start and end, one can reasonably predict that the waiter keeps wiping and spinning the cloth in the middle."
+  },
+  "v_00005151_0.mp4": {
+    "pass": true,
+    "reason": "Bungee jumping follows a clear, continuous motion from the initial fall to the landing, so the rotation and rope-grabbing in the middle can be plausibly inferred from the start and end."
+  },
+  "v_00005181_1.mp4": {
+    "pass": true,
+    "reason": "Seeing him poised to jump and later dangling near a rescue boat strongly implies the missing middle is the plunge and rebound typical of a bungee jump, which is causally predictable."
+  },
+  "v_00016890_0.mp4": {
+    "pass": true,
+    "reason": "The man is methodically cleaning different parts of the stool; given that he starts with the front edge and ends with the curved surface, it is reasonable to infer he would clean the intermediate areas (corners and legs) in between."
+  },
+  "v_00016896_1.mp4": {
+    "pass": true,
+    "reason": "The wiping action is a continuous, linear task, making the middle segment predictable from the beginning and end."
+  },
+  "v_00005181_0.mp4": {
+    "pass": true,
+    "reason": "The sequence (prep, rebound) implies the predictable middle action of falling toward the pond, so the gap is inferable."
+  },
+  "v_00002030_6.mp4": {
+    "pass": true,
+    "reason": "Applying eye shadow is a continuous, goal-directed action; the middle segment (ongoing brush strokes/blending) can be inferred from seeing the start of the application and the partially finished look at the end."
+  },
+  "v_00005268_0.mp4": {
+    "pass": true,
+    "reason": "From preparing to jump to re-appearing on the rebound, it is easy to infer that the missing middle shows her initial fall and lowest point of the bungee swing."
+  },
+  "v_00002031_10.mp4": {
+    "pass": true,
+    "reason": "Applying eyeshadow is a continuous, step-by-step process; given the initial dabbing and the final blended result, the intermediate blending actions are predictably inferable."
+  },
+  "v_00002078_1.mp4": {
+    "pass": true,
+    "reason": "Applying eyeshadow follows a continuous, predictable sequence; seeing the initial dab and the final blended result makes the intermediate blending motions reasonably inferable."
+  },
+  "v_00005279_0.mp4": {
+    "pass": true,
+    "reason": "The motion of a bungee jump is highly predictable (fall, cord stretch, recoil), so the middle segment can be inferred from the beginning and ending views."
+  },
+  "v_00002094_3.mp4": {
+    "pass": true,
+    "reason": "Applying makeup follows a continuous, step-by-step motion, so the middle segment (continuing to brush along the brow) can be reasonably inferred from the start and end."
+  },
+  "v_00002038_7.mp4": {
+    "pass": true,
+    "reason": "Applying eyeshadow is a continuous, step-wise action; given the initial placement and the finished look, the intermediate blending motion is reasonably predictable."
+  },
+  "v_00002103_8.mp4": {
+    "pass": true,
+    "reason": "Applying makeup is a linear, continuous process; given the start of application and the finished look, one can plausibly infer the intermediate blending steps."
+  },
+  "v_00002094_27.mp4": {
+    "pass": true,
+    "reason": "Applying makeup follows a smooth, continuous sequence; given the start and end frames of the same eyeshadow application, the middle strokes are reasonably inferable."
+  },
+  "v_00002077_10.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous makeup-application sequence; knowing the start of blending and the finished look allows a viewer to infer the intervening blending steps."
+  },
+  "v_00010764_1.mp4": {
+    "pass": false,
+    "reason": "The exact middle actions (man repositioning sheet music and adjusting microphone) are incidental details that cannot be reliably inferred just from seeing the girl start and later finish her performance."
+  },
+  "v_00010622_1.mp4": {
+    "pass": true,
+    "reason": "Single continuous shot of a man steadily playing and turning provides smooth, predictable temporal progression suitable for inferring the missing middle."
+  },
+  "v_00006464_0.mp4": {
+    "pass": true,
+    "reason": "The action (continuous ladder climbing) is temporally coherent—given the start of climbing and the later descent, one can reasonably infer that the missing middle shows continued upward movement."
+  },
+  "v_00010698_1.mp4": {
+    "pass": false,
+    "reason": "The shift from flute-playing to a river shot is an arbitrary cut without a predictable causal or temporal link, so the middle cannot be reliably inferred."
+  },
+  "v_00006452_0.mp4": {
+    "pass": true,
+    "reason": "The sequence shows a clear causal progression (start climbing → instability → fall) so the middle actions are inferable from the beginning and ending contexts."
+  },
+  "v_00012045_4.mp4": {
+    "pass": true,
+    "reason": "The scene shows a continuous camera pan/zoom from a wide orchestra view to a close-up of a trumpet player, so the intervening action is a predictable continuation of that movement."
+  },
+  "v_00006509_0.mp4": {
+    "pass": true,
+    "reason": "The climbing activity unfolds in a continuous, causal manner; given the start and end, the intermediate steps (further rungs climbed, father assisting) are predictably inferable."
+  },
+  "v_00006549_0.mp4": {
+    "pass": true,
+    "reason": "The girl's continuous action of climbing the ladder proceeds in an orderly, predictable manner from start to finish, so the middle segment (intermediate climbing steps) can be inferred from the given beginning and end."
+  },
+  "v_00010735_0.mp4": {
+    "pass": false,
+    "reason": "The specific middle action of pushing beads aside is not inferable from merely seeing her play at the start and then look at her hand at the end; the gap lacks clear, predictable causality."
+  },
+  "v_00010607_0.mp4": {
+    "pass": true,
+    "reason": "The musician’s continuous performance provides clear temporal continuity, so the middle activity (playing the flute) can be inferred from the start and end."
+  },
+  "v_00010685_1.mp4": {
+    "pass": true,
+    "reason": "The action (continuous flute playing and rhythmic movement) proceeds smoothly from start to finish, so the middle segment can be reasonably inferred from the surrounding context."
+  },
+  "v_00010647_1.mp4": {
+    "pass": true,
+    "reason": "Single continuous action (playing the flute) unfolds smoothly; given the start of soft playing and the end where she lowers the flute, the middle (continued playing and breaths) is reasonably predictable."
+  },
+  "v_00014469_3.mp4": {
+    "pass": true,
+    "reason": "Seeing the diver step onto the board and later enter the water makes it reasonable to infer the intervening flips and rotations typical of a high-dive sequence."
+  },
+  "v_00014469_5.mp4": {
+    "pass": true,
+    "reason": "The diver’s motion from take-off to water entry follows a continuous, physically constrained trajectory, so the flips and body adjustments in the middle can be reasonably inferred from the start and end frames."
+  },
+  "v_00007535_0.mp4": {
+    "pass": true,
+    "reason": "Continuous haircut scene; middle actions (cutting, hair falling, casual gestures) follow logically from initial trimming and lead naturally to the later close-up, so viewers could infer what happens."
+  },
+  "v_00014412_2.mp4": {
+    "pass": true,
+    "reason": "Straightforward causal sequence (prepare → dive); middle showing jump is predictable from start and end."
+  },
+  "v_00012044_0.mp4": {
+    "pass": false,
+    "reason": "The action appears to be a continuous musical performance; knowing the start (players prepare) and the end (they are still playing) gives no specific, distinguishable event to predict for the middle segment."
+  },
+  "v_00010708_2.mp4": {
+    "pass": true,
+    "reason": "The scene unfolds in a logically continuous way: flute-playing leads to feedback and then acknowledgement, so the missing middle (glance/smile while pausing) can be reasonably inferred from the start and end."
+  },
+  "v_00016374_0.mp4": {
+    "pass": true,
+    "reason": "Hand-washing follows a stereotyped sequence, so dispensing soap and later turning off the faucet make the intermediate scrubbing and rinsing steps highly predictable."
+  },
+  "v_00012587_0.mp4": {
+    "pass": true,
+    "reason": "The sequence from sprinting to clearing the bar has clear causal continuity, so the planting-and-takeoff middle segment is inferable from the start and end frames."
+  },
+  "v_00007515_0.mp4": {
+    "pass": true,
+    "reason": "Haircutting follows a straightforward, causal sequence—preparation leads to cutting leads to finished shorter hair—making the middle segment predictable from the start and end."
+  },
+  "v_00012667_2.mp4": {
+    "pass": true,
+    "reason": "A pole-vault run-up naturally leads to a plant and vault, and afterward the athlete is seen clearing and landing; the missing middle action (vaulting over the bar) can be reasonably inferred from the context."
+  },
+  "v_00012566_0.mp4": {
+    "pass": true,
+    "reason": "Pole-vaulting has a tightly constrained causal sequence; given the run-up and the landing, the missing middle (pole plant and ascent over the bar) is highly predictable."
+  },
+  "v_00016372_0.mp4": {
+    "pass": true,
+    "reason": "A hand-washing demonstration follows a predictable, continuous sequence, so the actions occurring between the initial rinse and the final rinse can be reasonably inferred."
+  },
+  "v_00012658_2.mp4": {
+    "pass": true,
+    "reason": "The action follows a clear causal sequence—run-up leads to planting the pole and vaulting—so the middle can be reasonably inferred from the start and end."
+  },
+  "v_00012676_1.mp4": {
+    "pass": true,
+    "reason": "Viewing the run-up and the landing makes it highly predictable that the middle shows the athlete vaulting upward and clearing the bar, a straightforward causal sequence."
+  },
+  "v_00010195_0.mp4": {
+    "pass": true,
+    "reason": "Given that the girl is seen starting to play and later ends by lowering her hands, it is reasonable to infer that the middle involves her continuing to bow and shift hand positions on the cello."
+  },
+  "v_00010229_0.mp4": {
+    "pass": true,
+    "reason": "A continuous stage performance involves predictable, ongoing movements; the middle section (children playing instruments) can be inferred from the consistent actions visible before and after."
+  },
+  "v_00010253_0.mp4": {
+    "pass": true,
+    "reason": "The boy is steadily practicing the cello throughout, so the middle segment is likely a continuation of the same playing motions observable at the start and end."
+  },
+  "v_00010258_0.mp4": {
+    "pass": true,
+    "reason": "The girl’s cello practice is a continuous, goal-directed action (bowing back and forth on the strings), so given the start and end, the intervening motion can be reasonably inferred."
+  },
+  "v_00002074_46.mp4": {
+    "pass": true,
+    "reason": "Applying lipstick is a continuous, goal-directed action, so the middle segment (more strokes on the lips) can be reasonably inferred from the start and end."
+  },
+  "v_00002096_7.mp4": {
+    "pass": true,
+    "reason": "Lipstick application follows a clear, step-by-step progression, so the intermediate actions can be reasonably inferred from the start and end frames."
+  },
+  "v_00010280_0.mp4": {
+    "pass": true,
+    "reason": "The progression from preparing the hand position to actively fingering the strings implies an intervening bow-stroke that can be reasonably inferred from context."
+  },
+  "v_00010319_0.mp4": {
+    "pass": true,
+    "reason": "The action unfolds linearly (playing → continued playing → finishing), so the middle segment is predictable from the beginning and end."
+  },
+  "v_00010353_0.mp4": {
+    "pass": true,
+    "reason": "The action (continuous music playing) progresses smoothly and causally, so the middle segment should logically show ongoing performance that can be inferred from the start and end."
+  },
+  "v_00000253_4.mp4": {
+    "pass": true,
+    "reason": "Lipstick application follows a smooth, continuous, goal-directed sequence; given the start of applying and the finished look, the intervening strokes are reasonably predictable."
+  },
+  "v_00002070_2.mp4": {
+    "pass": true,
+    "reason": "The video depicts a clear, step-by-step makeup application; given the start (beginning to apply lipstick) and the end (lips mostly finished), one can reasonably infer the intermediate stages of continued lipstick application."
+  },
+  "v_00010395_0.mp4": {
+    "pass": true,
+    "reason": "The action (boy continuously playing a rhythmic pattern on the drum set) is temporally continuous, so the middle segment can reasonably be inferred as more drumming that connects the observed start and end."
+  },
+  "v_00010208_1.mp4": {
+    "pass": true,
+    "reason": "Single continuous street performance and cycling scene; intermediate frames are predictable from surrounding context"
+  },
+  "v_00010553_1.mp4": {
+    "pass": false,
+    "reason": "The middle drumming flourish (reaching to overhead drums) is not predictable from simply seeing routine drumming at the start and a pose-and-smile at the end."
+  },
+  "v_00001481_0.mp4": {
+    "pass": false,
+    "reason": "The musicians are simply playing continuously with no clear event progression, so the exact middle segment is not predictable from the beginning and end."
+  },
+  "v_00011337_2.mp4": {
+    "pass": true,
+    "reason": "The actions form a clear, continuous sequence (holding sheet music → lifting to read → replacing it), so the middle can be reasonably inferred from the surrounding context."
+  },
+  "v_00011264_2.mp4": {
+    "pass": true,
+    "reason": "The musicians are steadily playing their instruments throughout, so the middle segment is likely a predictable continuation of the same performance."
+  },
+  "v_00010305_0.mp4": {
+    "pass": true,
+    "reason": "The boy is continuously playing the cello and talking; given the start and end, viewers can reasonably infer that the middle shows the same ongoing performance."
+  },
+  "v_00005389_5.mp4": {
+    "pass": true,
+    "reason": "A swimming race has straightforward, continuous action; given the start of the race and the finish, the middle will predictably show ongoing strokes and progression down the lane."
+  },
+  "v_00011226_6.mp4": {
+    "pass": false,
+    "reason": "The middle actions (moving the table and gesturing) are not causally implied by seeing a glass handed off at the start and an empty glass placed on a tray at the end, so the gap cannot be reliably predicted."
+  },
+  "v_00010321_1.mp4": {
+    "pass": false,
+    "reason": "The speaker’s instructional demo could include a variety of unpredictable gestures or explanations between two similar start- and end-frames, so the exact middle segment cannot be reliably inferred."
+  },
+  "v_00005394_4.mp4": {
+    "pass": true,
+    "reason": "Competitive lap swimming follows a linear, continuous action—given the dive and the eventual wall turn, the middle (steady strokes and breathing while moving down the lane) is highly predictable."
+  },
+  "v_00005394_1.mp4": {
+    "pass": true,
+    "reason": "Swimming across the pool between a turn and the wall touch is a continuous, causally predictable action, so the middle can be inferred from the start and end."
+  },
+  "v_00005394_3.mp4": {
+    "pass": true,
+    "reason": "Swimming events follow a continuous, predictable sequence—dive, swim forward, touch wall—so the middle swimming action can be reasonably inferred from the start and end segments."
+  },
+  "v_00006963_0.mp4": {
+    "pass": true,
+    "reason": "The activity (parents trimming a crying child’s nails) unfolds in a continuous, causal manner, so the mid-segment actions can be reasonably inferred from the start and end."
+  },
+  "v_00005377_0.mp4": {
+    "pass": true,
+    "reason": "The central action—an individual continuously swimming across the pool—follows clear temporal continuity, so the middle (ongoing strokes and movement) can be reasonably inferred from the start and end."
+  },
+  "v_00005394_2.mp4": {
+    "pass": true,
+    "reason": "The progression of a swim lap from push-off to wall turn is highly sequential and predictable, so the middle segment can be inferred from the beginning and end."
+  },
+  "v_00006980_2.mp4": {
+    "pass": true,
+    "reason": "Given the calm nail-trimming at the start and the cat’s sudden struggle at the end, viewers can plausibly infer a middle phase of continued clipping and rising feline discomfort leading to the outburst."
+  },
+  "v_00001926_0.mp4": {
+    "pass": true,
+    "reason": "Knowing they dive in and later touch the wall, it is natural to infer that the intervening segment shows them swimming down the lane, so the middle action is predictably continuous."
+  },
+  "v_00009404_0.mp4": {
+    "pass": true,
+    "reason": "The scenario involves a continuous, causal action (mopping and people reacting), so the intermediate events can be reasonably inferred from the start and end segments."
+  },
+  "v_00009391_0.mp4": {
+    "pass": true,
+    "reason": "Continuous, repetitive mopping action makes the middle segment logically predictable from the start and end."
+  },
+  "v_00009374_2.mp4": {
+    "pass": true,
+    "reason": "The action of a man continuously mopping a floor is temporally continuous; the middle segment (more mopping and moving the bucket) can be plausibly inferred from the start and end."
+  },
+  "v_00009474_0.mp4": {
+    "pass": true,
+    "reason": "The scene is a single, continuous activity (father and child mopping) with no unexpected jumps; the middle actions are a natural extension of the start and lead smoothly to the end."
+  },
+  "v_00013414_4.mp4": {
+    "pass": true,
+    "reason": "Continuous interview interaction—knowing the handshake at start and resumed upright posture at end makes the intermediate head-lean and conversation reasonably predictable."
+  },
+  "v_00009800_0.mp4": {
+    "pass": true,
+    "reason": "The scene depicts a continuous performance (man playing accordion and swaying), so the middle segment would predictably show the same ongoing action between similar start and end frames."
+  },
+  "v_00009504_0.mp4": {
+    "pass": true,
+    "reason": "The man continually mops and dances, so the middle is likely more of the same actions that link the start and the slip near the end, making it reasonably inferable."
+  },
+  "v_00009854_2.mp4": {
+    "pass": false,
+    "reason": "The musician's subtle, non-causal head and eye movements are not predictable from the start and end segments, so the middle cannot be reliably inferred."
+  },
+  "v_00016042_9.mp4": {
+    "pass": true,
+    "reason": "The scene involves a continuous, causally linked activity (children washing toy vegetables), so the middle portion—additional washing actions and minor mishaps—can be reasonably inferred from the beginning and ending contexts."
+  },
+  "v_00006968_0.mp4": {
+    "pass": true,
+    "reason": "The progression from nail-trimming to later faucet play suggests the baby would plausibly interact with the sink in between, so the middle event can be reasonably inferred."
+  },
+  "v_00009808_0.mp4": {
+    "pass": true,
+    "reason": "The action (man continuously playing an accordion) is temporally continuous, so the middle segment can be reliably inferred from the surrounding context."
+  },
+  "v_00016063_5.mp4": {
+    "pass": true,
+    "reason": "The activity follows a clear, step-by-step washing sequence, so given the start (vegetables being prepared) and the end (vegetables in the clean basin), one can reasonably infer the intermediate transfer and rinsing actions."
+  },
+  "v_00016057_5.mp4": {
+    "pass": true,
+    "reason": "The activity (washing vegetables) unfolds in a continuous, goal-directed way, so the middle—more washing and handling of the beans—can be plausibly inferred from the start and end."
+  },
+  "v_00009537_0.mp4": {
+    "pass": true,
+    "reason": "The entire clip revolves around the continuous activity of the child mopping; knowing he starts mopping and is still mopping at the end makes the intermediate motions (pushing the mop under the desk, brief pause to inspect hand) reasonably inferable."
+  },
+  "v_00009960_1.mp4": {
+    "pass": true,
+    "reason": "The sequence follows a coherent street-performance scenario: music playing leads naturally to someone dancing and onlookers reacting, allowing the middle to be inferred from the start and end."
+  },
+  "v_00009136_0.mp4": {
+    "pass": true,
+    "reason": "The massage actions follow a continuous, methodical sequence where the middle segment can be reasonably inferred from the surrounding steps."
+  },
+  "v_00016063_6.mp4": {
+    "pass": true,
+    "reason": "Standard, causally ordered actions (turning on water to rinsing to draining) enable the middle washing motions to be inferred from the start and end."
+  },
+  "v_00016129_3.mp4": {
+    "pass": true,
+    "reason": "The beginning shows setup for washing and the end shows completion; it is reasonable to infer the intermediate washing actions, so the middle can be predicted from context."
+  },
+  "v_00016133_0.mp4": {
+    "pass": false,
+    "reason": "Shots are a non-causal montage of different vegetables being scrubbed; the specific middle content cannot be inferred from the beginning and end."
+  },
+  "v_00016126_7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear, orderly sequence of washing and placing toy fruits, so the middle actions can be logically inferred from the beginning and end."
+  },
+  "v_00009175_34.mp4": {
+    "pass": true,
+    "reason": "The actions (foot massage progressing from one foot to the other, hair washing sequence) follow a clear, continuous procedure, so the middle segment can be inferred from the surrounding context."
+  },
+  "v_00009165_0.mp4": {
+    "pass": true,
+    "reason": "The massage sequence unfolds in a continuous, orderly progression of techniques, allowing the middle segment to be reasonably inferred from the surrounding actions."
+  },
+  "v_00010353_1.mp4": {
+    "pass": true,
+    "reason": "The musicians’ performance is a continuous, causal action (playing instruments), so the middle segment is highly predictable from the start and end."
+  },
+  "v_00016129_0.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous, goal-oriented sequence (adding fruit, then washing), so the middle steps can be reasonably inferred from the start and end."
+  },
+  "v_00011588_0.mp4": {
+    "pass": true,
+    "reason": "Continuous musical performance; given start of playing and end with flourish and standing up, viewer can plausibly infer ongoing playing and audience watching in the middle."
+  },
+  "v_00009147_10.mp4": {
+    "pass": false,
+    "reason": "Many different massage movements could plausibly occur between the initial head positioning and the final towel-switch, so the middle cannot be reliably predicted from the start and end."
+  },
+  "v_00009184_1.mp4": {
+    "pass": true,
+    "reason": "The massage is a smooth, repetitive sequence of strokes; the middle is a predictable continuation of the same motions shown before and after."
+  },
+  "v_00011733_0.mp4": {
+    "pass": true,
+    "reason": "The action unfolds linearly (boy keeps practicing the piano), so the middle—continued playing and brief glance at the camera—can be reasonably inferred from the start and end."
+  },
+  "v_00011671_0.mp4": {
+    "pass": true,
+    "reason": "Given the starting setup (boy begins playing) and the ending celebration once notes are gone, one can reasonably infer that the middle involves him continuing to play while the on-screen notes progressively disappear."
+  },
+  "v_00011682_0.mp4": {
+    "pass": true,
+    "reason": "The scene shows continuous action (girl playing and camera moving) where the middle segment logically contains ongoing performance and camera pan that can be inferred from the start and end."
+  },
+  "v_00011599_0.mp4": {
+    "pass": true,
+    "reason": "The middle likely shows a continuation of the piano performance (hands playing, left hand joining), which is naturally inferred from the initial playing and the concluding withdrawal of the hands."
+  },
+  "v_00010410_0.mp4": {
+    "pass": false,
+    "reason": "Children’s actions (stopping to shout, looking at camera, shifting drum) are spontaneous and not predictable from the start and end segments, so the middle cannot be reliably inferred."
+  },
+  "v_00000617_2.mp4": {
+    "pass": false,
+    "reason": "The specific sequence of rapid badminton shots and reactions in the middle is highly variable and cannot be reliably inferred just from the start (serve/return) and the end (shuttle goes out of bounds)."
+  },
+  "v_00000598_12.mp4": {
+    "pass": false,
+    "reason": "A badminton rally can unfold in many unpredictable shot sequences; knowing only the serve and the final error is insufficient to infer the specific intermediate exchanges."
+  },
+  "v_00000617_15.mp4": {
+    "pass": false,
+    "reason": "The sequence of quick, varied badminton shots has many plausible possibilities; knowing the start and end of the rally would not let a model reliably infer the exact middle actions."
+  },
+  "v_00000577_12.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous rally: given the opening serve and the final smash that wins the point, viewers can reasonably predict that the middle consists of back-and-forth shots between the two sides."
+  },
+  "v_00000655_7.mp4": {
+    "pass": false,
+    "reason": "A badminton rally involves many unpredictable shot exchanges; knowing the serve and the eventual out-of-bounds shot doesn’t allow one to meaningfully infer the specific sequence in the middle."
+  },
+  "v_00011651_0.mp4": {
+    "pass": true,
+    "reason": "It shows a single, continuous scene—man keeps playing while the camera slowly pans and the dog turns—so the middle is predictably a smooth continuation of these actions."
+  },
+  "v_00008410_2.mp4": {
+    "pass": true,
+    "reason": "Single continuous action of hula-hooping makes the middle sequence reasonably predictable from the beginning and end."
+  },
+  "v_00000702_6.mp4": {
+    "pass": false,
+    "reason": "A sports rally can unfold in many unpredictable ways between serve and final error, so the middle sequence cannot be reliably inferred from the start and end."
+  },
+  "v_00008549_0.mp4": {
+    "pass": true,
+    "reason": "The girl's initial attempt and the eventual drop provide clear temporal cues; viewers can reasonably infer that the missing middle shows her successfully spinning the hula hoop for a short period."
+  },
+  "v_00008452_0.mp4": {
+    "pass": true,
+    "reason": "The actions evolve in a smooth, causally continuous manner—from active hula-hooping to catching and holding the hoop—so the middle (continued spinning and arm movement) can be reasonably inferred from the start and end."
+  },
+  "v_00001393_1.mp4": {
+    "pass": true,
+    "reason": "The actions follow a clear, causal sequence—measuring, slicing, then repositioning—so the middle (active cutting/prying) can be reasonably inferred from the start and end."
+  },
+  "v_00008424_1.mp4": {
+    "pass": true,
+    "reason": "Continuous action (retrying and successfully spinning the hula-hoop) links the initial failed attempt to the final drop, so the middle is inferable from the surrounding context."
+  },
+  "v_00008534_0.mp4": {
+    "pass": true,
+    "reason": "The action (continuously hula-hooping) evolves smoothly; given start and end, one can reasonably predict the girl keeps spinning the hoop while making small, natural adjustments."
+  },
+  "v_00001379_10.mp4": {
+    "pass": true,
+    "reason": "The intermediate chopping actions needed to fully split the meat follow naturally from seeing the initial cut and the final separation, so the middle is predictably causal/temporal."
+  },
+  "v_00001370_1.mp4": {
+    "pass": true,
+    "reason": "Chopping actions proceed continuously and predictably; given the initial cuts and final cracked ribs, the intermediate repeated chops are inferable."
+  },
+  "v_00008416_0.mp4": {
+    "pass": true,
+    "reason": "The girl continuously hula-hoops from start to finish, so the missing middle will predictably show ongoing hooping motions connecting the two ends."
+  },
+  "v_00001359_1.mp4": {
+    "pass": true,
+    "reason": "The progression from starting to slice the meat to ending with the fat fully removed follows a straightforward, causally continuous action, so the intermediate cutting steps are reasonably predictable from the beginning and end."
+  },
+  "v_00008483_0.mp4": {
+    "pass": false,
+    "reason": "The boy’s smile and thumbs-up in the middle are not causally implied by simply seeing him start hula-hooping and later lose one hoop, so the gap is not predictably inferable."
+  },
+  "v_00008482_1.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"The hula-hoop attempts unfold in a continuous, causally linked sequence"
+  },
+  "v_00001358_22.mp4": {
+    "pass": true,
+    "reason": "The video depicts a clear, ordered sequence of meat-preparation actions, so the middle chopping stage can be inferred from the preceding slicing and the final placement of pieces."
+  },
+  "v_00001383_2.mp4": {
+    "pass": true,
+    "reason": "The video shows a single, continuous action (meat being chopped). Knowing the start of chopping and the final close-up of the chopped meat allows viewers to predict that the middle features ongoing chopping, so it suits a temporal cloze task."
+  },
+  "v_00007985_17.mp4": {
+    "pass": true,
+    "reason": "The sequence from approach run to landing on the mat implies a predictable intervening high-jump action, so the middle can be reasonably inferred."
+  }
+}

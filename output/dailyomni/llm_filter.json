@@ -1,0 +1,1998 @@
+{
+  "03IZHwOh2eQ_video.mp4": {
+    "pass": false,
+    "reason": "EMPTY"
+  },
+  "02XbmweOzOY_video.mp4": {
+    "pass": false,
+    "reason": "EMPTY"
+  },
+  "04ChQ0fqzxQ_video.mp4": {
+    "pass": false,
+    "reason": "EMPTY"
+  },
+  "04xLK7R5wNA_video.mp4": {
+    "pass": false,
+    "reason": "EMPTY"
+  },
+  "08km9Yqbt-A_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment presents specific independent astronomy events that cannot be inferred from the introductory title sequence or the later Saturn/Jupiter opposition slides."
+  },
+  "05xCYOyY1bg_video.mp4": {
+    "pass": false,
+    "reason": "Stand-up routine is continuous talking with no distinct visual or causal event, so the exact middle segment cannot be inferred from the surrounding clips."
+  },
+  "026dzf-vc5g_video.mp4": {
+    "pass": true,
+    "reason": "Single continuous dance routine; the middle logically contains more acrobatic moves connecting the start and end segments."
+  },
+  "02-0m4RbDUI_video.mp4": {
+    "pass": true,
+    "reason": "The man moves from opening the cabinet (start) to fitting/adjusting the hinge (end), so examining and explaining the hinge in the middle follows naturally and can be inferred."
+  },
+  "03zeVlBWhdY_video.mp4": {
+    "pass": true,
+    "reason": "The video maintains continuous coverage of the same crowd situation; knowing it starts with an ejection and ends still showing security and the crowd, one can reasonably predict that the middle continues scanning the crowd in the stadium."
+  },
+  "09buIj5Z5lk_video.mp4": {
+    "pass": true,
+    "reason": "The ball is struck in the first segment and is bowled again in the last; it is reasonable to infer that the intervening action shows the ball rolling toward the boundary and fielders trying to stop it, so the middle can be predicted from the surrounding context."
+  },
+  "0AkRWunFZPk_video.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous, step-by-step jeans-distressing process, so the middle segment can be reasonably inferred from the surrounding context."
+  },
+  "097K1uMIPyQ_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated archival shots; the middle segment cannot be predicted from the surrounding parts."
+  },
+  "0-2Onbywljo_video.mp4": {
+    "pass": true,
+    "reason": "Characters move outside and are later shown mid-game; the missing segment logically contains the set-up for the ball game, which can be reasonably inferred from the before-and-after context."
+  },
+  "02UvvE1oA1I_video.mp4": {
+    "pass": true,
+    "reason": "The same clay sheep persist across segments and the middle portion logically shows their arrival/establishing shot at the snowy house, which can be reasonably inferred from the before-and-after context."
+  },
+  "03aJ_RcnBko_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous car-repair sequence (loosening, then removing, then pressing out a part), so the actions in the middle segment can be reasonably inferred from the start and end."
+  },
+  "0GNNFBrRz1E_video.mp4": {
+    "pass": true,
+    "reason": "The demolition activity progresses logically (initial tile breaking, continued hammering, later sink removal), so the middle segment can be plausibly inferred from the beginning and end."
+  },
+  "0Jbc3Ah4EIc_video.mp4": {
+    "pass": false,
+    "reason": "EMPTY"
+  },
+  "0JbGxIR8JTk_video.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of unrelated urban shots without a clear causal or temporal progression, making the middle segment unpredictable from the surrounding context."
+  },
+  "0HzbpwB3xDk_video.mp4": {
+    "pass": true,
+    "reason": "The machining and demonstration follow a clear causal sequence—from operating the lathe to showing the finished part—so the middle segment can be reasonably inferred from the surrounding context."
+  },
+  "0EvpBtracsk_video.mp4": {
+    "pass": true,
+    "reason": "The video maintains a consistent software-demo narrative: after the intro, the middle predictably shows more interface navigation and promo text, leading smoothly to the closing download message."
+  },
+  "0GFtqzOWnWg_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment logically bridges him using the book as a support and later drilling into it, so its content can be inferred from the surrounding context."
+  },
+  "0ARh-9Amrv0_video.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"The sequence follows a continuous, causal action of the black"
+  },
+  "0Gxn9FtaJFc_video.mp4": {
+    "pass": true,
+    "reason": "The video depicts a clear narrative arc (man sad and browsing phone → discovers woman’s profile → they meet and interact) so the missing middle segment can be reasonably inferred from the beginning and end."
+  },
+  "0JjgoicpYkU_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment (turning off the alarm, getting out of bed, opening the curtains) is a straightforward, causally predictable bridge between the alarm ringing and the later greeting at the window."
+  },
+  "0LE6Ll1rVlg_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage-style music video with rapid, non-sequential cuts between unrelated scenes, so the middle cannot be inferred from the surrounding segments."
+  },
+  "0QYedLfOwcI_video.mp4": {
+    "pass": true,
+    "reason": "Start shows dog standing on rug; end shows same dog under the table. It is reasonable to predict that in the middle the dog moves from the rug toward/under the table, so the missing segment is inferable from the surrounding context."
+  },
+  "0K0pXiZrUJA_video.mp4": {
+    "pass": false,
+    "reason": "The video shows free-form gameplay exploration without a clear causal storyline; the specific underwater encounter in the middle cannot be reliably inferred from the surrounding segments."
+  },
+  "0LTmV_dOmmo_video.mp4": {
+    "pass": true,
+    "reason": "After removing the door from its hinges (beginning), it is logical that the next step before installing a pet door (ending) is to place the door on a work surface, which is exactly what occurs in the middle segment."
+  },
+  "0QqQ1j1vBgw_video.mp4": {
+    "pass": false,
+    "reason": "The middle section’s control-room scene is not predictable from the initial field footage and the later propeller close-ups, so the temporal gap cannot be meaningfully inferred."
+  },
+  "0aaLWD7TUSU_video.mp4": {
+    "pass": false,
+    "reason": "EMPTY"
+  },
+  "0U_X5BIkYoA_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment consists of generic channel housekeeping and social-media plugs that cannot be uniquely inferred just from the title card before and the subscribe reminder after; there is no causal action sequence to predict."
+  },
+  "0Mba3BS1oRM_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment logically bridges the initial inspection and the later tool use by highlighting the exact pin to be worked on, an event that can be reasonably anticipated from the surrounding context."
+  },
+  "0NW8rsCj6xQ_video.mp4": {
+    "pass": true,
+    "reason": "The sequence shows a coherent ping-pong rally that escalates into a mishap; given the normal play at the start and the laughter/disbelief at the end, one can plausibly infer a paddle-throwing incident in the missing middle segment."
+  },
+  "0Y9-MQ44MdU_video.mp4": {
+    "pass": true,
+    "reason": "The middle is a natural bridge between the intro and the later gameplay, containing rule explanation and the game’s opening moments, which are predictable from the setup and subsequent commentary."
+  },
+  "0bRUkLsttto_video.mp4": {
+    "pass": false,
+    "reason": "The video is a music-style montage with frequent stylistic cuts between similar but non-causally linked shots, so the missing middle cannot be inferred from the surrounding context."
+  },
+  "0YTieIiZNN4_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a straightforward sequence (shooting ➜ more shooting/reloading ➜ closing statement), so the middle segment’s gun-handling actions can be reasonably inferred from the surrounding context."
+  },
+  "0J3wJhQVOII_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "0eJvnKwGThw_video.mp4": {
+    "pass": true,
+    "reason": "The footage is one continuous aerial sequence over Rome, so the middle segment logically extends the same sweeping cityscape shown before and after, making it reasonably predictable."
+  },
+  "0_1BfYtffzg_video.mp4": {
+    "pass": true,
+    "reason": "The video depicts a clear causal sequence (bag opened → item taken out → item manipulated); the missing middle action of removing the item can be reasonably inferred from the start and end segments."
+  },
+  "0g-KosNgMYA_video.mp4": {
+    "pass": false,
+    "reason": "The early and late segments show unrelated activities at different locations; what happens in the middle (text gag and running sequence) is not causally or temporally predictable from the surrounding context."
+  },
+  "0bwyCF0HteE_video.mp4": {
+    "pass": true,
+    "reason": "The clip shows a continuous quick-change act; knowing she begins and ends with different outfits, it is reasonable to predict another costume change occurs in the middle."
+  },
+  "0bP2MH3LqvI_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment’s take-off, flight, and landing actions cannot be reliably inferred just from the introductory title graphics and the later scene with different parked biplanes; temporal continuity is weak."
+  },
+  "0izHOfrwPn4_video.mp4": {
+    "pass": true,
+    "reason": "The man sets up the game in the first segment and is shown reacting to a popped pig and collapsing afterward; it is natural to infer that the middle segment contains the moment the pig actually pops."
+  },
+  "0jnvb2H25_Q_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment’s specific actions (singing, tongue out, admitting not knowing lyrics) cannot be reliably inferred from simply seeing them giggle at the start and sip a drink at the end; there is no clear causal progression."
+  },
+  "0kRsiSdDFYg_video.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous, coherent sequence of a soccer training event, so knowing the intro and later interview segment makes it reasonable to predict that the middle shows more field activities and interactions."
+  },
+  "0m9-5BkL4Mc_video.mp4": {
+    "pass": true,
+    "reason": "Continuous musical performance; given start and end, one can expect the middle to show the child still singing/playing on stage."
+  },
+  "0ncLRRLvdfk_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a logical progression (problem introduction → cost of the problem → suggested solutions), so the middle segment can be reasonably inferred from the surrounding parts."
+  },
+  "0lJyHuTVMNY_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear sequence of tasting successive food items; given the intro tasting the first item and the ending where another item is opened, one can infer that the middle shows the presenter sampling the next ration."
+  },
+  "0ylr6p_m4p0_video.mp4": {
+    "pass": true,
+    "reason": "The action is continuous—she is introducing and showing the cleansing wipes throughout—so the middle segment can be reasonably inferred from the surrounding context."
+  },
+  "0oudYrPGNN8_video.mp4": {
+    "pass": true,
+    "reason": "The clip depicts a straightforward unboxing sequence; given the initial button-press and the later close-ups of individual parts, it is reasonable to infer that the middle shows the box being opened and contents revealed."
+  },
+  "0xenfbrSw8U_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment naturally connects the unboxing shots with the later desk review, so its content can be reasonably inferred from the surrounding context."
+  },
+  "0qZ54ovyEWQ_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment involves an unexpected magic card transformation that cannot be reliably inferred just from the initial deck-handling and the later shuffling shown before and after it."
+  },
+  "0rzB4A1PjnA_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment logically bridges opening the DAW and displaying the unavailable device window, so its content (navigating through audio settings) can be reasonably inferred from the surrounding context."
+  },
+  "0crG6jzAUpE_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "0rz3h0ghprk_video.mp4": {
+    "pass": true,
+    "reason": "The video depicts one continuous gaming session: after fighting slimes, the player surveys the area (middle) before walking away, so the middle action can be reasonably inferred from the beginning and end."
+  },
+  "1NH5dJ9VRvU_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated news segments with no single causal storyline, so the middle content can’t be inferred from the beginning and end."
+  },
+  "0yxJzCQW5zI_video.mp4": {
+    "pass": true,
+    "reason": "The scene is continuous with the same subject and objects; the intermediate actions (looking at and discussing the container) are logically predictable from the surrounding clips."
+  },
+  "10lWpHyN0Ok_video.mp4": {
+    "pass": true,
+    "reason": "The setup (introducing & preparing the glass) and the outcome (glass shatters from his voice) make it plausible to infer that the missing middle shows the vocal attempt to break the glass, so the temporal gap is predictably fillable."
+  },
+  "17MofPDhLTQ_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous apartment tour; given the intro and later hallway discussion, it’s reasonable to infer that the middle segment continues describing the entrance area, so the gap is predictably fillable."
+  },
+  "1NcGHbFWBFA_video.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of unrelated animal clips without a continuous storyline, so the middle segment cannot be predicted from the beginning and end."
+  },
+  "1evyOuQz-jM_video.mp4": {
+    "pass": false,
+    "reason": "The segments are conversational and topic-driven without clear causal events, so the middle portion cannot be reliably inferred from the beginning and end."
+  },
+  "1F6g2NS_vGY_video.mp4": {
+    "pass": true,
+    "reason": "Same basketball possession sequence continues across all segments; middle section logically shows the ensuing plays (incl. GS basket) that bridge the score change visible between the start and end."
+  },
+  "1uqupftxFOM_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment contains specific, unpredictable interview dialogue and audience reactions that cannot be reliably inferred just from the beginning and end portions."
+  },
+  "0rCbfsuKdYw_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "2Gg4OQo7-zA_video.mp4": {
+    "pass": true,
+    "reason": "Continuous highlights of the same Brazil-France match; events in the middle (celebration and further attempts) are logically implied by the initial goal and later highlights."
+  },
+  "2LDriAWltwM_video.mp4": {
+    "pass": false,
+    "reason": "The video is a vlog-style montage; the specific exercises and car commentary in the middle cannot be reliably inferred from the opening title and the ending conversation."
+  },
+  "1qJvkpqtBlk_video.mp4": {
+    "pass": true,
+    "reason": "It is one continuous musical performance in the same setting, so the missing middle segment can be reasonably inferred from the surrounding context."
+  },
+  "2VjbDttFK44_video.mp4": {
+    "pass": false,
+    "reason": "The video shows a continuous conversation with no distinct, causally linked action; the exact content of the middle cannot be predicted from the surrounding context."
+  },
+  "20gUIdXGuAs_video.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of static news title cards without causal actions, so the exact middle content cannot be reliably inferred from the surrounding segments."
+  },
+  "1sTNqJVrqx8_video.mp4": {
+    "pass": true,
+    "reason": "The clip follows a coherent audition-story format: after the stage introduction it naturally shifts to personal backstory footage before returning to more family and music scenes, so the middle is inferable from the surrounding parts."
+  },
+  "2TprtMP1RDo_video.mp4": {
+    "pass": true,
+    "reason": "The clip shows a continuous breathing/hand-movement routine; given the raised-hands start and later inhale gesture, viewers can plausibly predict the intervening lowering of hands and exhale."
+  },
+  "2YW7WBtqzzQ_video.mp4": {
+    "pass": true,
+    "reason": "The middle likely contains a logical transition from the introduction to the card-trick demonstration (host talking and beginning to shuffle), which can be inferred from the surrounding segments."
+  },
+  "2ZZru7Sn848_video.mp4": {
+    "pass": false,
+    "reason": "Single continuous news monologue; the exact middle content (e.g., statistics cited) cannot be reliably inferred from the surrounding context."
+  },
+  "2XR54m3kvn8_video.mp4": {
+    "pass": true,
+    "reason": "The video is a continuous scene of a fishing net in a pond; the middle logically continues the gradual zoom/focus shown in the beginning and end, so its content is predictable."
+  },
+  "2VuKP6zZDDc_video.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \""
+  },
+  "2_kLD3IbF2c_video.mp4": {
+    "pass": false,
+    "reason": "The video is a series of stylistic scene changes and UI zoom-ins without clear causal progression, so the missing middle segment cannot be reliably inferred from the start and end."
+  },
+  "2aO0HKIP3vI_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous medical examination with a stethoscope; the middle segment logically continues the same auscultation actions seen before and after."
+  },
+  "2gFxZmb0dMo_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous guided tour through Central Park; given the start and end, the middle—more tour scenes, landmarks, and group interactions—is reasonably predictable."
+  },
+  "2ff27NC3YUc_video.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous step-by-step construction process in Minecraft; the intermediate building actions logically connect the initial base with the later, more finished car, making the middle segment predictable."
+  },
+  "2__T6Q8rCCA_video.mp4": {
+    "pass": true,
+    "reason": "The clip follows a continuous sequence of inspecting a honeycomb frame that logically escalates from visual examination to detailed manipulation; the intermediate close-ups and tweezing actions can be reasonably inferred from the initial inspection and the final extraction shown."
+  },
+  "2hxIN0MTKbs_video.mp4": {
+    "pass": false,
+    "reason": "The video is a series of unrelated interview, performance, and montage clips without a coherent narrative arc, so the middle portion cannot be inferred from the surrounding context."
+  },
+  "2fi0m8ei_B4_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear, repetitive sequence of train doors opening and closing at successive stations, so the missing middle segment can be reasonably inferred from the surrounding context."
+  },
+  "2iHmlBmLKUE_video.mp4": {
+    "pass": true,
+    "reason": "The middle logically shows the actual refilling demo that follows the intro instructions and precedes the sustainability results, so it can be inferred from the surrounding context."
+  },
+  "2mw1UMcc_Ys_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a logical developmental progression (sitting/rolling → assisted standing → assisted stepping), so the middle segment is predictable from the surrounding parts."
+  },
+  "2m9rVrVNa6A_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous assembly process; given the start and end, it is reasonable to infer similar intermediate assembly steps."
+  },
+  "2o1p83UjJFA_video.mp4": {
+    "pass": true,
+    "reason": "The scene remains visually continuous—same singer, lighting, and action—so the middle segment can be reliably inferred from the beginning and end."
+  },
+  "2ka5AleJ48I_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear sequence (event announcement → heat explanation → athlete introductions) so the 20-40 s gap can be reasonably inferred from the surrounding context."
+  },
+  "2jxgoUnZ8AI_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous, repetitive process of mixing a green paste with toiletries; given the start and end, one can reasonably predict that the middle involves more stirring and adding the same items."
+  },
+  "2ZHLMmZB-HQ_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "2pHfgh_G1yo_video.mp4": {
+    "pass": true,
+    "reason": "The story progresses logically from suspects alone to suspects confronted by police, so the middle segment (police arriving and initiating the confrontation) can be reasonably inferred from the surrounding context."
+  },
+  "2o4-lEtFb2k_video.mp4": {
+    "pass": false,
+    "reason": "The middle introduces an unexpected new canvas and text screens that can’t be predicted from the start and end scenes, so the gap isn’t inferable."
+  },
+  "2ofK2gAQue4_video.mp4": {
+    "pass": true,
+    "reason": "Given the test start (blue to red light, alarm begins) and the test completion (blue/green light, “test finished”), it’s predictable that the middle shows the alarm continuing with the red warning ring before it winds down."
+  },
+  "2rjbtsX7twc_video.mp4": {
+    "pass": false,
+    "reason": "Montage-style music video with arbitrary text and split-screen edits; the middle visuals cannot be predicted from the surrounding segments."
+  },
+  "2sGnD9sd1xM_video.mp4": {
+    "pass": true,
+    "reason": "The video presents a single, continuous fan-disassembly sequence, so the intermediate dismantling actions are logically predictable from the initial teardown and the final tossed-aside result."
+  },
+  "2q4_wFFFG_U_video.mp4": {
+    "pass": true,
+    "reason": "The video is a single continuous shot of the same news anchor speaking and gesturing; the missing middle segment would plausibly show the ongoing explanation and similar gestures, making it predictable from the surrounding context."
+  },
+  "2rdTrQnl4c8_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a step-by-step chainsaw disassembly; given the initial connection/inspection and the later piston removal, it is reasonable to infer that an intermediate inspection of the crankcase/gasket would occur in the middle segment."
+  },
+  "2tBRn4xKmzM_video.mp4": {
+    "pass": true,
+    "reason": "Same dog, raccoon, and snowy setting persist; the middle likely shows the dog interacting with the raccoon/branches, which can be inferred from its approach before and running away after."
+  },
+  "2vSF2Yh6o_k_video.mp4": {
+    "pass": true,
+    "reason": "The porcupine is continuously eating throughout; knowing it is eating at the start and still eating at the end makes the middle action (continued eating) highly predictable."
+  },
+  "2qZqgRg5E6o_video.mp4": {
+    "pass": true,
+    "reason": "After breaking the barricade and starting to move into the building, it is natural to predict that the character will continue exploring interior rooms before the later segment that shows him deeper inside doing just that."
+  },
+  "2t8rYnARZuI_video.mp4": {
+    "pass": true,
+    "reason": "The video shows the same rain chain with continuous water flow throughout, so the middle segment is highly predictable from the beginning and end."
+  },
+  "2wIrHCaxBNU_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous first-person exploration of the same cave; given the start and end, one can reasonably infer that the middle involves further looking around and navigating obstacles such as lava, which is what occurs."
+  },
+  "2yGaTOzaGIA_video.mp4": {
+    "pass": true,
+    "reason": "Post-race celebrations and official results naturally follow the finish shown earlier and precede the end-card, so the middle segment can be reasonably inferred from the surrounding context."
+  },
+  "2zdYIRTUQYE_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment introduces new trains and emotional states that are not inferable from the initial hook-and-apology scene or the later red-train/gray-train exchange, so the gap is not predictably fillable."
+  },
+  "2u3tic9llpw_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "2zAUcAhX5wQ_video.mp4": {
+    "pass": true,
+    "reason": "From the start (eggs on table) to the end (puppet from an egg on finger), it is natural to infer that the missing middle shows the egg being opened and the toy revealed, so the middle is predictably fillable."
+  },
+  "2t4CkOvERAI_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "2zKyMjBnL0Y_video.mp4": {
+    "pass": true,
+    "reason": "The scene shows a continuous sequence of post-match screens with steadily increasing win counts, so given the earlier and later counts a viewer can plausibly infer the intermediate segment."
+  },
+  "30HtOudq2v8_video.mp4": {
+    "pass": true,
+    "reason": "Same dog, person, and setting throughout; the middle segment logically continues the playful interaction between initial sniffing and later barking at the toy, so an observer could infer the missing actions."
+  },
+  "36E3XXqab40_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a straightforward cooking sequence (wash → prep/stuff → place in pot). Given the start and end, it is reasonable to infer the middle stuffing/prep step."
+  },
+  "3AJuHcjE31w_video.mp4": {
+    "pass": true,
+    "reason": "The performer remains seated on the same stage throughout; given the start and end, the intervening segment is predictably more of the same singing/speaking performance, so the middle is inferable from context."
+  },
+  "33fqw0k_qkM_video.mp4": {
+    "pass": false,
+    "reason": "Knob adjustments occur in an arbitrary order; knowing the initial static dashboard and the later knob-turning doesn’t let a viewer reliably infer the specific, unrelated knob actions that happen in the middle."
+  },
+  "36v-AEu7uAU_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment logically continues the same continuous scene of the beekeeper with bees, so its content can be inferred from the surrounding parts."
+  },
+  "37UUg0fwzsw_video.mp4": {
+    "pass": true,
+    "reason": "The sequence depicts a coherent battle-then-briefing narrative; knowing the fight and the later decision to rescue Captain Rex, one can plausibly infer the intermediate report about separatists escaping and the troopers’ discussion."
+  },
+  "34vzrZ2SlQo_video.mp4": {
+    "pass": false,
+    "reason": "The middle introduces unexpected sheep and a stacking gag that is not predictable from merely seeing the characters approach the closet beforehand nor from the final scene where they are already stacked."
+  },
+  "3AFdUihWPCk_video.mp4": {
+    "pass": true,
+    "reason": "It is one continuous instructional cleaning demonstration; the middle logically bridges wiping the first blade and cleaning the windshield, so it can be inferred from the start and end."
+  },
+  "3CnwUQZ6q78_video.mp4": {
+    "pass": false,
+    "reason": "The middle section’s specific actions (inspecting and comparing two metal pieces) are not strongly implied by the preceding bending scene or the later tool-steel explanation, so the gap cannot be reliably predicted."
+  },
+  "3Ev_k__U3Io_video.mp4": {
+    "pass": true,
+    "reason": "Balloon–water interaction is a continuous demonstration; knowing it starts deflecting the stream and later shows a repulsion diagram lets viewers infer the intermediate stage where the deflection gradually lessens and the balloon moves away."
+  },
+  "3EQzRz-V7uE_video.mp4": {
+    "pass": true,
+    "reason": "The activity (making a yarn pom-pom) proceeds step-by-step; given the start of wrapping and the final tied pom-pom, one can plausibly infer that the missing middle shows additional wrapping, cutting, and initial tying, so the gap is predictable."
+  },
+  "3GtvLj8K1F4_video.mp4": {
+    "pass": true,
+    "reason": "Continuous single-person performance; actions in the middle (more harmonica playing then brief speech) are a logical bridge between initial playing and later commentary."
+  },
+  "3E4Zca1p64s_video.mp4": {
+    "pass": true,
+    "reason": "The start presents the unopened phone box and the end shows the phone in use; unboxing and first interaction logically bridge these states, so the middle can be reasonably predicted."
+  },
+  "3IW7578PicA_video.mp4": {
+    "pass": true,
+    "reason": "The sequence shows a continuous cooking process; from seeing ingredients added (start) to the cooked mixture being discussed (end), it is reasonable to predict that the middle will depict the eggs being poured in and stirred while cooking."
+  },
+  "3Oa4oE3bQTY_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment is a straightforward continuation of the same interview scene seen at both the start and the end, so its contents can be reasonably inferred."
+  },
+  "3NwKXCGLjAk_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous, repetitive dance demonstration with consistent actions and setting, so the middle segment can be reliably inferred from the surrounding context."
+  },
+  "3OsJ2f6e7U8_video.mp4": {
+    "pass": false,
+    "reason": "Middle segment lists specific websites; their exact appearance/order cannot be reliably inferred just from the surrounding segments."
+  },
+  "3Ab0sgelCEw_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment mainly consists of arbitrary camera zooms and panel details that are not causally implied by what is seen before or after, so its content cannot be meaningfully predicted."
+  },
+  "3UEM541IenE_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a single hippo continuously walking from water onto land; given the start (hippo beginning to move) and end (hippo farther along the walk), the middle sequence of continued walking and bellowing is logically inferable."
+  },
+  "3Qli5msTyH8_video.mp4": {
+    "pass": true,
+    "reason": "The action is a continuous cooking sequence—onions being stirred—so the middle is a straightforward continuation of the same process and can be reasonably inferred from the start and end."
+  },
+  "3UWDo636wes_video.mp4": {
+    "pass": true,
+    "reason": "The activity (continuously threading lights into the block) is monotonous and causally continuous, so the middle segment can be reliably inferred from the start and end."
+  },
+  "3MJNKd10kxM_video.mp4": {
+    "pass": true,
+    "reason": "The video progresses linearly from intro screens to showing and describing craft supplies, so the content occurring between those points (more supply layout) can be reasonably inferred from the surrounding context."
+  },
+  "3fQxvz4ENDg_video.mp4": {
+    "pass": false,
+    "reason": "EMPTY"
+  },
+  "3V-q5MJSzAk_video.mp4": {
+    "pass": false,
+    "reason": "The middle actions (examining the spur, releasing and flipping the chicken) are not predictable from simply seeing the rooster taken out of the cabinet at the start and the tail-feather grooming at the end."
+  },
+  "3RZlNwEv3XI_video.mp4": {
+    "pass": true,
+    "reason": "Single continuous scene of the reptile swimming; given start and end, the middle (continued slow swimming in the same setting) is easily inferable."
+  },
+  "3fnVQT2TnJs_video.mp4": {
+    "pass": true,
+    "reason": "The sequence shows a clear, continuous process of inspecting and cleaning a freezer; given the start (cleaning begins) and the end (freezer shown clean/open), one can reasonably infer the intermediate cleaning actions."
+  },
+  "3dUo62RsD00_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous stage performance; given the start (performer preparing/moving) and the end (performer singing), one can plausibly infer that the missing middle involves her dancing and beginning to sing, so temporal progression is predictable."
+  },
+  "3c-vZ4GpIKs_video.mp4": {
+    "pass": true,
+    "reason": "The video is a single continuous demonstration of a man showing and controlling a kite; given the start and end shots, it is reasonable to infer that the intervening segment continues the same demonstration with the man talking and gesturing toward the kite."
+  },
+  "3EE5WKQMBek_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "3cmBbNIcW_0_video.mp4": {
+    "pass": true,
+    "reason": "The scene is continuous: a man approaches a dumpster, later is seen disposing/inspecting the item, so the intervening actions (examining and talking about the item) are predictably related to start and end."
+  },
+  "3h8PzeGp2RQ_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment logically continues the duck-cleaning process shown earlier and leads coherently to the plucking seen later, so its general content can be inferred from the surrounding clips."
+  },
+  "3dgg5f9CyP4_video.mp4": {
+    "pass": true,
+    "reason": "It is a continuous stage performance where the dancers’ positions and actions evolve smoothly, so the middle segment can be logically inferred from the beginning and end."
+  },
+  "40BlVzjxu-I_video.mp4": {
+    "pass": false,
+    "reason": "EMPTY"
+  },
+  "3g_GUoCbzTc_video.mp4": {
+    "pass": false,
+    "reason": "Single-speaker lecture with loosely related gestures; the exact middle actions cannot be reliably inferred from the surrounding segments."
+  },
+  "3klIBnvMYhg_video.mp4": {
+    "pass": true,
+    "reason": "After opening the dropper bottle (0-10 s) and before repeating the test and shaking the glasses (20-30 s), it is natural to infer that he first adds drops to the glasses, so the middle segment is predictably the initial color-change demonstration."
+  },
+  "3oxbegouR_A_video.mp4": {
+    "pass": true,
+    "reason": "The video shows an ongoing, uninterrupted sanding task on the same panel, so the middle segment is predictably more sanding of the same surface."
+  },
+  "3uV8XZcIBbk_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of disparate historical and lab scenes without a single causal storyline, so the missing middle segment cannot be reliably inferred from the surrounding parts."
+  },
+  "3v93yDHV-KY_video.mp4": {
+    "pass": true,
+    "reason": "The video has a clear, sequential progression from cutting the hair to finishing the style; given the start (cutting) and the end (styling with product), it is reasonable to predict the intermediate step of beginning to apply the product."
+  },
+  "40VQROcd5sQ_video.mp4": {
+    "pass": true,
+    "reason": "It’s a continuous talking‐head makeup tutorial; given the start and end, the middle is predictably more of the same discussion and gestures."
+  },
+  "4-DcTjFR4qw_video.mp4": {
+    "pass": true,
+    "reason": "The entire video consistently depicts the same car driving along the same wooded road, so the middle segment (more shots of the car in motion and the driver inside) is a predictable continuation of the established action."
+  },
+  "3lsHs4MnL5w_video.mp4": {
+    "pass": false,
+    "reason": "Early portion shows call menu activity, later portion shows a browser error; the specific intermediate steps (unlocking, navigating home, opening browser) are not causally implied and cannot be reliably guessed from start and end."
+  },
+  "4H8hcvNeWtg_video.mp4": {
+    "pass": true,
+    "reason": "The whisper-chain progresses sequentially; knowing Renner received a phrase and later Ruffalo passes it on, one can plausibly infer the intermediate step where Renner whispers to Johansson and she to Ruffalo."
+  },
+  "4ZK-m01XSQ8_video.mp4": {
+    "pass": false,
+    "reason": "EMPTY"
+  },
+  "44G3dPME330_video.mp4": {
+    "pass": true,
+    "reason": "Continuous scene where characters set up to watch a video and then are shown watching it; the intermediate actions (opening laptop, starting video) are predictable from start and end."
+  },
+  "4ME5ZfDg2aw_video.mp4": {
+    "pass": true,
+    "reason": "The story unfolds linearly—break-up prompts search for an empty place, which logically leads to selecting Greenland before traveling there—making the middle segment inferable from the beginning and end."
+  },
+  "4Rym4DqrhHM_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a sequential trailer-setup process; knowing the men prepare at the start and have panels extended at the end, one can plausibly infer the intermediate stabilizing/positioning step."
+  },
+  "4AyEtCf3ND0_video.mp4": {
+    "pass": false,
+    "reason": "The entire clip is a continuous, repetitive shot of the girl casually riding and talking; the specific dialogue in the middle cannot be inferred just from the beginning and end segments."
+  },
+  "4DsPpi-2yTM_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment contains an unpredictable event (a surprise knife kill and kill-cam) that cannot be reliably inferred just from the player’s initial death and later exploration, so temporal continuity is insufficient for a cloze task."
+  },
+  "4aPxxE345OM_video.mp4": {
+    "pass": true,
+    "reason": "The setup (Manny inviting friends) and the aftermath (Manny in quirky attire with parents commenting) make it reasonable to infer that the missing middle shows Manny greeting his friends in an uncool, idiosyncratic way."
+  },
+  "4V6G0qYVoBg_video.mp4": {
+    "pass": false,
+    "reason": "Gameplay actions and ability usage are highly variable and cannot be reliably inferred from just the preceding and following segments."
+  },
+  "4m5khG0emPE_video.mp4": {
+    "pass": true,
+    "reason": "The events unfold in a clear causal chain (buttons pressed → receipt prints → receipt shown), so the missing middle actions can be reasonably inferred from the surrounding context."
+  },
+  "4ZbAVRbSncU_video.mp4": {
+    "pass": false,
+    "reason": "The video is essentially a series of static images of the same nebula with descriptive text; the middle segment’s depiction of stellar winds cannot be reliably inferred just from the first and last images, so temporal prediction would be arbitrary."
+  },
+  "4jmMWohs1XM_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a coherent narrative from introducing the Augustus statue to discussing ancient color, so viewers can plausibly infer the middle segment’s content from the beginning and end."
+  },
+  "4od5mdtEp-E_video.mp4": {
+    "pass": false,
+    "reason": "The narrative is a series of quick explanatory cuts and graphics rather than a continuous, causally linked sequence, so the missing middle could be almost anything and is not inferable from the surrounding context."
+  },
+  "4sBpUHylq9s_video.mp4": {
+    "pass": false,
+    "reason": "The content is a continuous spoken-word performance with evolving, symbolic imagery; the specific middle segment (dialogue and graphics) cannot be reliably inferred from the start and end."
+  },
+  "54H8ppxnp8I_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a logical explanatory flow: after introducing data and before asking “Why is this happening?”, the middle section predictably elaborates on the same graphs and commentary, so its content can be reasonably inferred from the surrounding context."
+  },
+  "5Knkqo-lYF0_video.mp4": {
+    "pass": true,
+    "reason": "Single, continuous dance routine; given the performance at the start and end, the intervening segment (more acro moves and audience shots) can be reasonably inferred."
+  },
+  "5bEu5s8VjVo_video.mp4": {
+    "pass": true,
+    "reason": "It is one uninterrupted conversation where the middle segment logically continues the discussion shown in the beginning and end."
+  },
+  "5-4Od1qn53s_video.mp4": {
+    "pass": false,
+    "reason": "This is a non-narrative travel montage; the night-life scenes in the middle are not causally implied by the daytime temples at the start and the food-market shots at the end, so the gap is not predictably inferable."
+  },
+  "5fPtlxR3s3c_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment shows a different matchup and unrelated highlight, so it cannot be inferred from the beginning and end clips."
+  },
+  "5KlS-p5eYH8_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of loosely connected lifestyle clips; knowing the start and end does not give enough information to predict the specific gym-montage content that appears in the middle."
+  },
+  "540LkURTR7g_video.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": false, \"reason\": \"The video is a list of independent tips; the"
+  },
+  "5xi1iD4fkhc_video.mp4": {
+    "pass": true,
+    "reason": "The middle logically bridges food prep in the beginning with finished cooking and cats eating at the end, so its content can be reasonably inferred."
+  },
+  "5ksVshqVuiM_video.mp4": {
+    "pass": true,
+    "reason": "The start shows rising enthusiasm for dot-coms, and the end shows a price crash; it is natural to predict that the missing middle depicts the moment of collapse. The middle segment’s events (building and money falling, chart beginning to drop) follow logically from the initial boom and precede the final bust, making them inferable."
+  },
+  "5i5Be73ESUc_video.mp4": {
+    "pass": true,
+    "reason": "The sequence follows a logical morning routine—sleeping, then later skincare and dressing—so viewers could plausibly infer that the missing middle shows the woman waking up and starting her bathroom routine."
+  },
+  "5wLv3pCqZ9o_video.mp4": {
+    "pass": true,
+    "reason": "From the intro showing the empty bottle, water and dye, and the ending showing a blue water layer beneath oil, it is predictable that the middle involves adding dyed water to the bottle."
+  },
+  "4VniCsSusJs_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "6DO8yOVYXr0_video.mp4": {
+    "pass": true,
+    "reason": "Single continuous rally in the same volleyball play; middle will simply show ongoing hits and dives that follow smoothly from the start and lead into the end."
+  },
+  "6ksaVHtfBG8_video.mp4": {
+    "pass": true,
+    "reason": "Typical pre-match sequence: after the initial team/stadium shots and before gameplay, line-ups, crowd shots, and captains’ handshake naturally occur, so the middle segment is predictably inferable."
+  },
+  "6l8n-VJxqmU_video.mp4": {
+    "pass": false,
+    "reason": "Mainly a continuous talking-head segment with no distinct, causally linked events, so the specific middle content cannot be meaningfully inferred from the surrounding clips."
+  },
+  "6vKvjzuICxg_video.mp4": {
+    "pass": true,
+    "reason": "The intro and later switch to “UNPREPARED PASSENGERS” strongly imply that the missing middle will depict the prepared passengers actually going through security, which can be reasonably inferred from the before-and-after context."
+  },
+  "7-v3XPyyipk_video.mp4": {
+    "pass": true,
+    "reason": "It's a continuous studio interview; given the intro and later dialogue, one can infer the middle shows the host and guest beginning their discussion, so the temporal gap is predictable."
+  },
+  "6hs_n2fqFfM_video.mp4": {
+    "pass": true,
+    "reason": "The narrative flows logically from the accusation to Eggman’s later panic, so the confrontation and evidence-showing in the middle can be inferred from the start and end."
+  },
+  "7MFKy7DJsCY_video.mp4": {
+    "pass": true,
+    "reason": "The sequence logically progresses from LiDAR scanning to its results and expert commentary, so the middle segment’s content can be reasonably inferred from the surrounding portions."
+  },
+  "7R1eNHvfspk_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a continuous basketball challenge: knowing the setup and later shots, viewers can anticipate more players taking turns and shooting in the middle segment."
+  },
+  "74TEQfw6L60_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a coherent narrative about mountain geology: scenic intro, fieldwork in the middle, and explanatory graphics at the end, so the middle segment can be reasonably inferred from the surrounding context."
+  },
+  "7Hk9jct2ozY_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a straightforward zoom-in/zoom-out narrative of cell structures, so the middle section (additional nucleus details) can be reasonably inferred from the preceding deep zoom and the subsequent zoom-out."
+  },
+  "6DbsOZU8mBM_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "7E6i3E-fsj4_video.mp4": {
+    "pass": true,
+    "reason": "The video is a continuous pre-game interview sequence; given the introductions at the start and another player’s comments at the end, it is reasonable to predict that the middle segment contains additional player remarks about the upcoming matchup."
+  },
+  "7iXM5aq53Ts_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment introduces an unpredictable event (a cat being placed on the keyboard) that cannot be reliably inferred just from seeing initial cleaning and later normal laptop use."
+  },
+  "7TydWUguPRU_video.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"The first and last segments frame a single hoop performance on the same stage; the missing middle is simply an earlier portion of that routine, which"
+  },
+  "7PgD-7Ld3iQ_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment logically bridges the intro and the start of drawing by showing the materials being gathered, a step that can be reasonably inferred from the surrounding context."
+  },
+  "84EpEwIVFdU_video.mp4": {
+    "pass": false,
+    "reason": "All three segments are the same continuous interview shot; the specific content of the middle (what Ronnie says) cannot be predicted from the surrounding context."
+  },
+  "7cGPesEX-UQ_video.mp4": {
+    "pass": false,
+    "reason": "The video is a straightforward website/software walkthrough without a clear causal event chain, so the exact middle actions (cursor movements, static webpage) cannot be reliably inferred from the beginning and end segments."
+  },
+  "8EexlONNnEE_video.mp4": {
+    "pass": false,
+    "reason": "The video shows continuous static recitation with little visual change; the exact middle segment (specific spoken lines/gestures) cannot be visually inferred from the start and end."
+  },
+  "8IZvEF4Ui10_video.mp4": {
+    "pass": true,
+    "reason": "The middle logically bridges the initial price correction and the later detailed specs/game demos, so its content can be reasonably inferred from surrounding context."
+  },
+  "8-aI8Fp2bPU_video.mp4": {
+    "pass": false,
+    "reason": "Middle section is a static text slide that is not causally or visually implied by the preceding scenic intro or the subsequent workout demo, so its exact content cannot be reasonably inferred."
+  },
+  "8TNPeimqOO0_video.mp4": {
+    "pass": false,
+    "reason": "Documentary-style montage with interviews, wildlife shots, and maps is editorially arranged, so the omitted middle segment is not causally or temporally predictable from the surrounding parts."
+  },
+  "8UxGzDeRIJk_video.mp4": {
+    "pass": true,
+    "reason": "The action is a continuous athlete entrance parade; if you see the start of athletes entering and the end before race start, you can infer that the middle simply contains more athletes walking past the guard of honor."
+  },
+  "8e05W-wi38g_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of diverse, non-causally linked travel shots, so the middle segment cannot be inferred from the surrounding parts."
+  },
+  "913JhnW28U4_video.mp4": {
+    "pass": true,
+    "reason": "Given the pre-race setup and the subsequent medal ceremony, it is natural to infer that the intervening segment shows the race itself and its outcome, so the middle is predictably the competition action."
+  },
+  "9IAFUfATScA_video.mp4": {
+    "pass": true,
+    "reason": "Straightforward interview progression—after the host’s intro and before the Q&A, the missing middle logically shows the guest being formally introduced, which is inferable from the surrounding context."
+  },
+  "8I2nIXrbFpo_video.mp4": {
+    "pass": true,
+    "reason": "The sequence shows a continuous cooking gag; given the intro and the later flour-pouring, one can reasonably infer the character’s initial appearance and interaction with the bowl in the missing middle segment."
+  },
+  "9HPFkUhOp1Q_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated magic tricks and presenter intros; the exact tricks shown in the middle cannot be inferred from the surrounding segments."
+  },
+  "9M_SiEaqnCU_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated clips without a single unfolding event, so the middle cannot be reliably inferred from the beginning and end."
+  },
+  "8lxVnLHhlpw_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear chronological narrative: the start introduces four early-20th-century researchers, the end shows their portraits and context; the intervening segment logically fills in their identities and related visuals, making the middle reasonably predictable from the surrounding parts."
+  },
+  "9P_DH8YInpw_video.mp4": {
+    "pass": false,
+    "reason": "Podcast-style split-screen interview lacks a distinct visual or action sequence; middle dialogue cannot be reliably inferred from the surrounding segments."
+  },
+  "990ci2H9BBc_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a continuous explanatory sequence about a solar eclipse; given the start and end, the middle (additional eclipse visuals and effects) is logically predictable."
+  },
+  "8y2Hj7GDcwI_video.mp4": {
+    "pass": true,
+    "reason": "Given the jump success at the start and the championship-closing graphics at the end, it is plausible to infer that the omitted middle shows follow-up coverage such as reactions and podium scenes."
+  },
+  "9QXXL96y3A0_video.mp4": {
+    "pass": false,
+    "reason": "News-style montage lacks a causal action sequence; the middle shots (graphs, interviews) cannot be reliably inferred from the surrounding segments."
+  },
+  "9dQXiqS56Y4_video.mp4": {
+    "pass": true,
+    "reason": "Given Messi waiting to be subbed in at the start and him already playing at the end, it is reasonable to infer that the middle shows the substitution process (hug, entrance, fan celebration), so the gap is predictable."
+  },
+  "9Y-YJEtxHeo_video.mp4": {
+    "pass": true,
+    "reason": "The clip follows a coherent narrative about overwork in Japan; given the intro and later discussion, viewers can reasonably predict that the intervening segment will show office and salaryman scenes illustrating long work hours."
+  },
+  "9tBsMSDoDqk_video.mp4": {
+    "pass": true,
+    "reason": "The sequence follows a coherent audition intro where, after Kevin’s initial greeting, it’s predictable that judges interact, wish him luck, and the audience reacts—events that can be inferred from adjoining segments."
+  },
+  "AF8d72mA41M_video.mp4": {
+    "pass": false,
+    "reason": "EMPTY"
+  },
+  "9aGgBzToUz4_video.mp4": {
+    "pass": false,
+    "reason": "The video is primarily a continuous monologue; what the speaker says in the middle cannot be predicted from the surrounding segments."
+  },
+  "9v9NHoTXc-Q_video.mp4": {
+    "pass": false,
+    "reason": "The video is a stylized fashion montage with rapidly shifting, non-causal scenes; the middle segment cannot be inferred from the surrounding parts."
+  },
+  "9edWX7TTsLw_video.mp4": {
+    "pass": false,
+    "reason": "The video is a thematic montage of interviews and B-roll rather than a single unfolding event, so the exact middle segment cannot be reliably inferred from the surrounding parts."
+  },
+  "9jjTGpWmc5U_video.mp4": {
+    "pass": true,
+    "reason": "There is a clear, escalating sequence—from noticing an odd moon to objects floating—so the unseen middle is logically predictable from the start and end contexts."
+  },
+  "AeS6jJ_e_CM_video.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of loosely connected infographic scenes; the specific middle content (marketing hoops and media quadrants) cannot be reliably inferred from the start and end segments."
+  },
+  "A1UVeD9UB1I_video.mp4": {
+    "pass": false,
+    "reason": "Video is a montage of separate gift-related shots with abrupt scene changes, so the middle segment cannot be reliably inferred from the start and end."
+  },
+  "AC_qdIJR870_video.mp4": {
+    "pass": false,
+    "reason": "The video is a promotional sequence of title cards and a talking head; knowing the start and end would not allow viewers to infer the specific static ad and introductory frames in the middle."
+  },
+  "A9fQPzZ1-hg_video.mp4": {
+    "pass": false,
+    "reason": "The educational montage jumps between historical images and explanatory title cards; the specific middle visuals (crowd reaction, title card, globe split) cannot be reliably inferred from the preceding and following segments."
+  },
+  "AFKgWXM1aqM_video.mp4": {
+    "pass": true,
+    "reason": "It is one continuous scene of the same person singing/walking; knowing the surrounding parts makes the middle (a continuation of the performance) predictable."
+  },
+  "AiZKoCH3n7U_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a countdown sequence of soup rankings; knowing the intro and later ranks (#4–#2) lets one reasonably predict that the missing middle segment unveils the next earlier rank (#5) in the list."
+  },
+  "B2zhLYz4pYo_video.mp4": {
+    "pass": false,
+    "reason": "The middle section’s specific animated vignettes (firing squad, starry-sky scene, red landscape) are not inferable from the intro and the later calendar-to-book sequence, so viewers could not reliably predict it."
+  },
+  "Atf_Af1q_5w_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of independent scenic and cultural shots with no single narrative thread, so the middle segment cannot be reliably inferred from the beginning and end."
+  },
+  "AkHbB9GuCkE_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear biographical narrative; given the intro about J.P. Morgan and the later close-up/early-life photos of Jamie Dimon, one can reasonably predict that the middle segment introduces and identifies him."
+  },
+  "ATWQNDujmPU_video.mp4": {
+    "pass": false,
+    "reason": "The video is a continuous talking-head lecture with interchangeable informational graphics; the specific middle segment content cannot be reliably inferred from the surrounding portions."
+  },
+  "B9He5DVePvk_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of loosely connected scenes of Amish life rather than a single causal sequence, so the specific middle segment cannot be reliably inferred from the beginning and end."
+  },
+  "BEIVOKz4zXw_video.mp4": {
+    "pass": true,
+    "reason": "The clip is a single continuous stage performance; given the intro of the cast and the later group singing, it is reasonable to infer that the middle features the cast beginning their song and alternating performers."
+  },
+  "B6tQyCH5hQM_video.mp4": {
+    "pass": true,
+    "reason": "The clip follows a clear, sequential crafting process (selecting tools → preparing powders), so the missing middle segment can be reasonably inferred from the beginning and end."
+  },
+  "Alx0y8O6FKU_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "B6fvT2LKEDI_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous audition interview; given the start (introduction) and later ongoing Q&A, one can reasonably infer the missing middle dialogue segment."
+  },
+  "B7Hh0PY1kks_video.mp4": {
+    "pass": true,
+    "reason": "Continuous documentary-style sequence about children consuming unhealthy food; middle segment logically continues showcasing kids eating fast food and related commentary, which can be inferred from start and end."
+  },
+  "BVJGvKaFG7U_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of loosely related animal clips (giraffes, then suddenly rhinos) without a single causal storyline, so the middle segment cannot be reliably inferred from the beginning and end."
+  },
+  "AnWKOvjFl8k_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "BiJtPU9uP0c_video.mp4": {
+    "pass": false,
+    "reason": "Segments are independent origami demos; events in the middle (cat and pig tutorials) cannot be inferred from the fox before and dog after."
+  },
+  "Bgh-2z6P0ao_video.mp4": {
+    "pass": false,
+    "reason": "Sports rallies are inherently unpredictable; knowing the score and play before and after doesn’t allow one to infer the exact middle sequence."
+  },
+  "BfHSffcEydY_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a simple causal sequence (excited about pad → receives pad → shows what he drew), so the middle hand-off segment can be reasonably inferred from the beginning and end."
+  },
+  "BkiTScinYOQ_video.mp4": {
+    "pass": false,
+    "reason": "The video is a highlight montage of unrelated goals from different years, so the specific clips shown in the middle cannot be inferred from the beginning and end."
+  },
+  "BxrolAZXZFg_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment unexpectedly jumps to a live news-style piece about Adopt-a-Pet Day, which cannot be reliably inferred from the tutorial intro or the later tool-comparison segment."
+  },
+  "BjmPvovl-V4_video.mp4": {
+    "pass": false,
+    "reason": "The middle 20 s is a disparate montage with no clear causal link to the surrounding segments, so its content can’t be reliably inferred from the beginning and end."
+  },
+  "ByUONqA1IJY_video.mp4": {
+    "pass": true,
+    "reason": "A goal celebration begins in the first segment and gameplay continues in the last; a team pile-on celebration in the middle naturally bridges these events, making it predictable from context."
+  },
+  "BrrDT_uYQsg_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment contains a specific stunt (lifting and tossing a gymnast) that cannot be inferred merely from the initial bowing and the later scene of the group walking onstage and waving."
+  },
+  "Bk7FG6XUlLA_video.mp4": {
+    "pass": false,
+    "reason": "Mostly a static talking-head; the middle gap contains no causally necessary action and the appearance of the arm graphic is not predictable from the surrounding segments."
+  },
+  "C641T1T07t8_video.mp4": {
+    "pass": false,
+    "reason": "The video consists of independent title/definition and end-screen slides; the specific middle content is not causally implied by the surrounding segments, so it cannot be reliably predicted."
+  },
+  "BbVjTgLJYVQ_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "CKYw_RG7i7w_video.mp4": {
+    "pass": false,
+    "reason": "The video is a non-linear montage of unrelated fashion shots and interviews, so the content in the middle cannot be predicted from the beginning and end."
+  },
+  "CHlJdMVLV2s_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment contains unrelated dives by various athletes that cannot be inferred from seeing only Stephan Feck’s solo dive at the start and his synchronized dive at the end."
+  },
+  "CoPfYGgzCkM_video.mp4": {
+    "pass": false,
+    "reason": "The video jumps between unrelated animated war scenarios, so the specific events in the middle cannot be inferred from the beginning and end segments."
+  },
+  "ChbZLHnush8_video.mp4": {
+    "pass": true,
+    "reason": "Host introduces Backrooms speedrun, host reappears afterward; it’s natural to infer that the middle shows the speedrun footage itself, so the gap is predictably filled."
+  },
+  "C3qgLxmr9dI_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous color-matching game: after the introduction, it is logical that the kids begin naming and using the items before the later matching shown, so the middle is predictable from context."
+  },
+  "D52rTzibFRc_video.mp4": {
+    "pass": true,
+    "reason": "The clip progresses logically from topic introduction to a hands-on demo, so an explanatory middle segment about temperature and air molecules is predictably filling the gap."
+  },
+  "DF_J3vCcbBA_video.mp4": {
+    "pass": true,
+    "reason": "The actions (lava sampling and safety procedures) progress logically and continuously, so the middle segment’s activities are predictable from the initial and final segments."
+  },
+  "DFzcI7FxxxY_video.mp4": {
+    "pass": true,
+    "reason": "Continuous commentary on the same trade tweets makes the middle segment (more reading/reacting) predictable from the surrounding context."
+  },
+  "CwW8mqaHQmU_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of different drink shots and brief animations with no clear causal sequence, so the content of the middle segment cannot be reliably inferred from the beginning and end."
+  },
+  "D61jenC5oBA_video.mp4": {
+    "pass": true,
+    "reason": "After the pair is introduced doing partner acrobatics at the end of the first section, it is natural to expect more progressive acro-balance work before the final overhead lift, so the middle can be plausibly inferred from the surrounding context."
+  },
+  "E-YnmCB6yjo_video.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of unrelated news segments and topic shifts, so the middle content cannot be inferred from the beginning and end."
+  },
+  "D9PuHd9cQRI_video.mp4": {
+    "pass": true,
+    "reason": "The middle shows a clear causal bridge (receiving a challenge) between relaxing on the beach and later being underwater with sharks, which can be logically inferred from the before-and-after scenes."
+  },
+  "C6aeL83z_9Y_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "DTA5AbpHwEQ_video.mp4": {
+    "pass": false,
+    "reason": "Static news segment with split-screen; banner text changes arbitrarily, so the middle cannot be inferred from the surrounding clips."
+  },
+  "DfZIv2FKWj4_video.mp4": {
+    "pass": true,
+    "reason": "Given the teams lining up first and then the war dance under way and England reacting, it is reasonable to infer that the middle shows the Samoan side starting their Siva Tau, so the gap is predictably fillable."
+  },
+  "DI6SemRT2iY_video.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": false, \"reason\": \"The video is a series of loosely related"
+  },
+  "ECgVLceb_LE_video.mp4": {
+    "pass": true,
+    "reason": "The video consistently showcases the same flying car from various angles; knowing the start and end (car display) makes the middle segment—additional angles and brief interaction—reasonably inferable."
+  },
+  "DK6bKtXUE1c_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment shows other athletes’ jumps and celebrations, details that cannot be reliably inferred just from the initial introduction/jump and the final hug and logo screen."
+  },
+  "E4oseR4ANDo_video.mp4": {
+    "pass": false,
+    "reason": "The intervening scene of men in suits is unrelated to the woman speaking before and after it, so the middle content cannot be predicted from the surrounding context."
+  },
+  "E0K4HLE_0GI_video.mp4": {
+    "pass": false,
+    "reason": "The video mainly shows an ongoing conversation with minimal visible change; without the audio, the specific gestures or dialogue in the middle cannot be predicted from the surrounding frames."
+  },
+  "D_ZFZ2En9uU_video.mp4": {
+    "pass": false,
+    "reason": "The video begins with an unrelated montage of various RC vehicles before focusing on one specific car; this lack of a single, continuous narrative makes the middle segment unpredictable from the overall start and end."
+  },
+  "E5kd8aA6518_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a single continuous scene; given the static interior shot at the start and the interior/outdoor view at the end, it is reasonable to predict that the middle segment would contain the camera move from the living room toward the backyard, so the gap is inferable."
+  },
+  "EFD9BLgMVK8_video.mp4": {
+    "pass": true,
+    "reason": "The action is a continuous stunt performance; given the initial bike tricks and the later continuation, one can reasonably infer similar acrobatic riding occurs in the omitted middle."
+  },
+  "EQ-67udZEeg_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment’s specific vote counts and visuals cannot be inferred from the introductory and concluding explanatory scenes, so the gap is not predictably fillable."
+  },
+  "EZT03Wpo9jQ_video.mp4": {
+    "pass": true,
+    "reason": "The beginning shows the intro leading into a title sequence, and the end resumes the talk after the title card, so the intervening segment is predictably the animated title card."
+  },
+  "E83XxGvEPtI_video.mp4": {
+    "pass": false,
+    "reason": "{\""
+  },
+  "EuBhksmj0sQ_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment (building flips leading to a human pyramid) follows naturally from the initial dance and explains the subsequent collapsed-pyramid state, so it can be inferred from the before/after context."
+  },
+  "EavQ0LtEICY_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment logically bridges the intro of the basketball challenge and the ongoing gameplay seen later, so its content (game start, first eliminations, promo inserts) can be reasonably inferred from the surrounding context."
+  },
+  "EP2rD6lr2Xk_video.mp4": {
+    "pass": false,
+    "reason": "The video jumps backward in time; knowing the start (race day scenes) and end (pre-race breakfast chat) doesn’t allow one to infer the intervening nonlinear flashback segment."
+  },
+  "Ec_lQgZ9wlg_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment adds unpredictable details (external expert video, treatment clip) that are not inferable from the intro and later product close-up, so the gap can’t be reliably predicted."
+  },
+  "F4v0BZtrSbY_video.mp4": {
+    "pass": true,
+    "reason": "The audition follows a typical, orderly Q&A flow (name → further questions → expressions of nerves), so given the start and end, one can plausibly predict intermediary dialogue about age and the bicycle, making the middle segment inferable."
+  },
+  "FcP0mzWFCQU_video.mp4": {
+    "pass": false,
+    "reason": "The video is a loose montage of separate restaurant shots with no clear causal or narrative progression, so the middle cannot be inferred from the surrounding parts."
+  },
+  "FkZn5u3MIiY_video.mp4": {
+    "pass": true,
+    "reason": "The scene maintains the same speaker, setting, and topic throughout, so the middle segment is a predictable continuation of the ongoing announcement."
+  },
+  "FlcVBKTSjRs_video.mp4": {
+    "pass": false,
+    "reason": "The ending is an unrelated app promo screen, so knowing only the start and end gives no clues to infer the candle-holder construction in the middle."
+  },
+  "FYqSATdr62Q_video.mp4": {
+    "pass": true,
+    "reason": "The scene is a single, continuous snooker break; after seeing O’Sullivan start scoring and later showing an increased score, it is reasonable to infer that in the middle he continues potting balls, so the missing segment is causally and temporally predictable."
+  },
+  "Fibq4aA-GVc_video.mp4": {
+    "pass": true,
+    "reason": "The narrative flows logically (intro, lower-deck tour, then upstairs), so the contents of the omitted middle segment can be reasonably inferred from the surrounding context."
+  },
+  "FqaJYWyQQcE_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment logically bridges the anchor’s intro and the later aerial/map footage by showing the anchor segueing into the first aerial view, a progression that can be reasonably inferred from the before-and-after context."
+  },
+  "FaK3oS1QuaU_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear instructional sequence (introduce diagram, interact by touching elements, then remove finger and show final labels), so the middle interaction can be reasonably inferred from the before-and-after context."
+  },
+  "GDbG4rvL1YA_video.mp4": {
+    "pass": false,
+    "reason": "The middle section jumps to restaurant scenes and host dialogue that are not inferable from the surrounding cooking shots, so the missing content cannot be predicted."
+  },
+  "GLW9omJfAdk_video.mp4": {
+    "pass": false,
+    "reason": "The video is a static presentation of the same painting with narrated facts; nothing happens that could be causally predicted from the surrounding segments."
+  },
+  "GFTKKyYSCKs_video.mp4": {
+    "pass": false,
+    "reason": "The video is an explanatory animation with a series of distinct informational graphics; knowing the start and end would not allow a viewer to predict the specific intermediate visuals or sequence."
+  },
+  "GDzuMTvHnJE_video.mp4": {
+    "pass": true,
+    "reason": "The ending (family opening a benefits cash briefcase) is a logical consequence of the setup (politician speech, job-center queue). One can reasonably infer that the middle depicts the delivery of that money to the household, giving clear causal/temporal continuity."
+  },
+  "G_VTkkb34gw_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated police training scenes with no single causal storyline, so the middle cannot be inferred from the surrounding clips."
+  },
+  "Ggv1cJYtW8E_video.mp4": {
+    "pass": false,
+    "reason": "The video consists of unrelated title cards and graphic layouts with no causal storyline. Because each segment is an isolated design element, the missing middle cannot be inferred from the surrounding content."
+  },
+  "GV5CuB4zPTY_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage-style event promo; the middle segment’s specific advertisement shots and commentary cannot be reliably inferred just from the opening montage and closing match setup."
+  },
+  "GQEYGAJIzAM_video.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"All segments revolve around the same astrophotography session; given the setup with the telescope and the later appeal showing prints, it is reasonable to expect the middle to feature captured planetary/moon images and related discussion.\""
+  },
+  "GqeRnxSuLFI_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear causal narrative (banana shortage → fruit stand appears → people interact with the stand), so the middle actions can be inferred from the beginning and end."
+  },
+  "Gh_GtYtQoVI_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous, step-by-step build-up of one diagram; knowing the initial blank board and the completed diagram at the end lets a viewer plausibly infer the intermediate drawing actions."
+  },
+  "GsbaC1YiOYA_video.mp4": {
+    "pass": false,
+    "reason": "Mostly continuous talking head; middle speech content is unpredictable from surrounding context."
+  },
+  "H3-6byL6FTs_video.mp4": {
+    "pass": true,
+    "reason": "The sequence shows a coherent demonstration: intro, rope explanation at the end, so the middle (showing the rope) is predictably linked to both ends."
+  },
+  "GsYi-l5PEEs_video.mp4": {
+    "pass": true,
+    "reason": "The same performer in the same setting is shown throughout, and knowing he begins with one balancing stunt and ends with another makes it reasonable to predict that the middle also contains a related balancing act, providing sufficient temporal/causal continuity."
+  },
+  "FtIF8VafVZY_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "FQd5bo9nIZs_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "H6Y2KRfpRVY_video.mp4": {
+    "pass": true,
+    "reason": "After the intro, it is reasonable to expect a transitional segment where the contestant is formally introduced and moves onto the stage before the act, which is exactly what the omitted middle shows."
+  },
+  "HAMVD9S_6wY_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment logically continues the discussion of extreme heat with similar visuals (warning sign, Dr. Jake’s commentary, heat map) that can be reasonably inferred from the surrounding portions."
+  },
+  "HK13nVxBYxI_video.mp4": {
+    "pass": false,
+    "reason": "It is a continuous news broadcast with static studio shots; the specific content shown in the middle cannot be reliably inferred from just the beginning and end segments."
+  },
+  "H9rk0j3zuog_video.mp4": {
+    "pass": false,
+    "reason": "The video is an edited montage of unrelated Egyptian-themed images and overlays rather than a continuous action, so the exact middle segment cannot be reliably inferred from the beginning and end."
+  },
+  "HP_J8x9lsUg_video.mp4": {
+    "pass": false,
+    "reason": "Trailer-style montage of many unrelated, rapid cuts; later shots don’t causally follow earlier ones, so the middle cannot be inferred from the surrounding segments."
+  },
+  "HIjX8OPuf-w_video.mp4": {
+    "pass": true,
+    "reason": "The narrative moves chronologically from early history to Europe and then to the U.S.; with the start and end provided, one can reasonably infer the trans-Atlantic transition shown in the middle segment."
+  },
+  "HGv87QeBYnc_video.mp4": {
+    "pass": false,
+    "reason": "The video jumps from a 2020 trophy celebration to match footage from 2019, so the middle portion (match intro and first goals) cannot be predicted from the surrounding, time-disjoint scenes."
+  },
+  "HOa6A7GVvEc_video.mp4": {
+    "pass": false,
+    "reason": "A compilation of unrelated bodybuilding clips lacks causal or temporal continuity, so the middle segment cannot be predicted from the surrounding parts."
+  },
+  "HLxvq_M4218_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear historical-narrative sequence (eclipse observation ➜ 1919 eclipse & Einstein ➜ broader discussion of gravity/Newton), so the content of the middle segment can be reasonably inferred from the surrounding parts."
+  },
+  "HeEyJo838PA_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment introduces unrelated shots (bears sparring, floatplane landing, aircraft interior, aerial river view) that cannot be reliably predicted from the surrounding bear-fishing scenes."
+  },
+  "HmnKbBmYii8_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of loosely connected wildlife shots (polar bears resting, cubs playing, random underwater seal scenes) without a clear causal or temporal buildup, so the middle segment cannot be reliably inferred from the beginning and end."
+  },
+  "HZJXPm0nhgY_video.mp4": {
+    "pass": true,
+    "reason": "The sequence logically progresses from squeezing out initial paint lines to blending them; it is reasonable to infer that additional lines are added in the middle before blending begins."
+  },
+  "HnS87Tw4amM_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a logical instructional sequence (intro → show problem areas → explain cleaning), so the middle segment can be reasonably inferred from the surrounding context."
+  },
+  "Hel5dqvImSw_video.mp4": {
+    "pass": true,
+    "reason": "The intro sets up a legal-information animation and the ending shows Nina abused in Canada; it is reasonable to infer that the missing middle shows her travel/relocation segment. The narrative is linear and causal, so the middle can be predicted from the surrounding context."
+  },
+  "HdBsD5VspVM_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment’s specific in-game damage demonstrations and exact comparison details are not inferable from simply seeing item stats before and other item changes after; each section is informationally independent rather than causally continuous."
+  },
+  "HooZ84rpovQ_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a continuous explanatory narrative about the giant Minorca rabbit, so the missing middle could reasonably be inferred as further description or visuals of the same animal."
+  },
+  "HvjgQqNOq9A_video.mp4": {
+    "pass": true,
+    "reason": "Continuous instructional sequence where middle explanation and initial demo can be inferred from the intro and later detailed practice."
+  },
+  "Hw5qjcnhrW4_video.mp4": {
+    "pass": true,
+    "reason": "The start ends with Halep about to serve and the end shows the aftermath of a rally leading to another serve, so the middle is predictably a serve-rally sequence that fits causally between them."
+  },
+  "Huj-zXv4DEw_video.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of unrelated clips with no single causal/temporal thread, so the middle segment cannot be predicted from the beginning and end."
+  },
+  "HProiNnmGwI_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage-style trailer with loosely connected historical images; the specific middle scenes (explosion, interior candle room, regal figure) are not predictable from the surrounding segments."
+  },
+  "HwnB8aCn8yE_video.mp4": {
+    "pass": true,
+    "reason": "The content follows a clear chronological evolution of hominid species, so the events in the middle (intermediate evolutionary stages) can be logically inferred from the beginning and end segments."
+  },
+  "I8ZmEpj1yps_video.mp4": {
+    "pass": true,
+    "reason": "The video features a single speaker giving a continuous explanation; the content in the middle logically bridges the intro and the later detailed figures, so a viewer could plausibly infer the middle segment from the surrounding context."
+  },
+  "IPevXMMEVQ0_video.mp4": {
+    "pass": false,
+    "reason": "The clip is a compilation of unrelated segments (regulation play, coach shot, shoot-out attempts, celebrations) rather than one continuous action, so the middle cannot be predicted from the surrounding context."
+  },
+  "I4yye8mUzWg_video.mp4": {
+    "pass": true,
+    "reason": "It’s one continuous scene with Cyborg’s escalating antics; given the start and final dancing, the intervening actions are predictably more of the same, so the middle can be reasonably inferred."
+  },
+  "IKtnfFHjERg_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous, step-by-step origami process where the intermediate folding actions can be logically inferred from the earlier and later stages."
+  },
+  "IGyx5UEwgtA_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "IQcTd4xZ44o_video.mp4": {
+    "pass": true,
+    "reason": "The clip is one continuous pre-race sequence; knowing the stadium scene at the start and the lineup shown later, it is reasonable to predict that the middle continues introducing the remaining athletes."
+  },
+  "Ij-FYOrklFE_video.mp4": {
+    "pass": false,
+    "reason": "The video is a series of loosely connected montage-style scenes; knowing the start and end wouldn’t let a viewer reliably predict the specific comic-book panels and bedroom shots in the middle."
+  },
+  "IWL9AJhQCtQ_video.mp4": {
+    "pass": true,
+    "reason": "Same musician, setting, and activity continue through the timeline (playing guitar, then talking), so the middle segment’s content is reasonably inferable from the surrounding context."
+  },
+  "IXjkbgrdAkw_video.mp4": {
+    "pass": false,
+    "reason": "The video is a fast-paced montage of unrelated food shots and city B-roll, so the specific sequence in the middle cannot be inferred from the beginning and end."
+  },
+  "K0mjUgHKfJo_video.mp4": {
+    "pass": true,
+    "reason": "The video progresses through a single explanatory sequence (map → sun energy → temperature patterns), so the intermediate visuals logically bridge the introduction and conclusion and can be reasonably inferred from them."
+  },
+  "I0xrbzYT4Sc_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "IzQ2siryQrM_video.mp4": {
+    "pass": false,
+    "reason": "The clip is an explanatory montage with loosely connected illustrative scenes; the exact middle content (different sleeping characters, ‘7-9 HOURS’ bubble, battery icon, etc.) cannot be reliably inferred just from the beginning and end segments."
+  },
+  "KD1yxRyFAZQ_video.mp4": {
+    "pass": true,
+    "reason": "Given she arrives searching for Skyler and later is inviting Skyler in the studio, it is predictable that the missing middle shows her locating Skyler in the studio and the children’s surprised reaction."
+  },
+  "LFGE_8SoYVA_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated animal clips with no overarching causal or temporal continuity, so the middle cannot be inferred from the surrounding segments."
+  },
+  "KIg4rprmO9Y_video.mp4": {
+    "pass": false,
+    "reason": "The video is a fast-cut trailer montage with loosely connected scenes; the specific clips in the middle (meta-human warning, hologram, eye shot) cannot be reliably inferred from the surrounding segments."
+  },
+  "K759eXmaMTY_video.mp4": {
+    "pass": true,
+    "reason": "The middle section logically bridges the devastated city shown earlier with the later ballet-class recovery scene, so its broad content (survivor interview + children’s ballet activity) can be plausibly inferred from the start and end."
+  },
+  "K8B6LsAl8ds_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous talk-through of the same on-screen document; given the opening and closing, it is easy to infer that the middle simply contains more of the presenter speaking about the document."
+  },
+  "LCtOpCi5r2s_video.mp4": {
+    "pass": false,
+    "reason": "Sequence is an educational slide show of unrelated diagrams; the exact middle content cannot be reliably inferred from the surrounding parts."
+  },
+  "Kn10Jf1x24Q_video.mp4": {
+    "pass": true,
+    "reason": "Continuous scene of a rabbit near the same vehicles; the rabbit’s intermediate actions between being placed on the ground and later hopping toward the camera are reasonably inferable."
+  },
+  "LScZ6CXS5M8_video.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous lecture; given the start of the intro and the later continuation with slides, it is reasonable to predict that the missing middle segment is the lecturer continuing to speak."
+  },
+  "IaTaaNinolU_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "LVRcD_-ht3g_video.mp4": {
+    "pass": false,
+    "reason": "The two halves describe unrelated scenes (spider & chase vs. toddler & cat), so the middle cannot be inferred from the surrounding context."
+  },
+  "LfZh_obXfLs_video.mp4": {
+    "pass": true,
+    "reason": "The opening shows the venue and empty stage, and the ending shows the audience seated for the talk; it’s natural to infer that the missing middle depicts attendees entering, registering, and socializing before the event begins."
+  },
+  "LiRmrXSGKPY_video.mp4": {
+    "pass": true,
+    "reason": "All segments depict a continuous close-up examination of the same coin, so the actions in the middle are plausibly inferred from the before-and-after context."
+  },
+  "LttCU4RK-Zc_video.mp4": {
+    "pass": false,
+    "reason": "The video consists mainly of uninterrupted dialogue; the specific content of the missing middle speech cannot be inferred from the surrounding segments."
+  },
+  "JwxALozuKfY_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "LqaSTy0swNE_video.mp4": {
+    "pass": false,
+    "reason": "The sequence is not temporally coherent—the opening shows the race already underway while the ending returns to athletes lining up pre-race, so the middle segment cannot be reliably predicted from the surrounding context."
+  },
+  "M_lwC5zPkyo_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage-style travel vlog with many location changes; the specific middle segment cannot be reliably inferred from the beginning and ending scenes."
+  },
+  "Lo-ewzf-Q1k_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a coherent morning routine; knowing she starts bathroom prep and later continues discussing her makeup, viewers can plausibly infer that the missing middle involves the next steps (e.g., applying sunscreen/primer) in that routine."
+  },
+  "MiPw-RZMHCQ_video.mp4": {
+    "pass": true,
+    "reason": "The clip depicts a continuous workout sequence where successive pairs perform the same kettlebell push-up drill, making the middle segment’s actions reasonably inferable from the beginning and end."
+  },
+  "Me4W36_lUcI_video.mp4": {
+    "pass": false,
+    "reason": "The beginning and end simply show the same mission-control room, giving no cues that a cutaway to an Earth-satellite shot occurs in the middle, so the gap cannot be meaningfully inferred."
+  },
+  "MeSA4VUjGpE_video.mp4": {
+    "pass": true,
+    "reason": "The setup (explaining seasoning) naturally leads to displaying the ingredients before mixing them, so the middle segment is inferable from the start and end."
+  },
+  "MXYFQArjCxg_video.mp4": {
+    "pass": true,
+    "reason": "Seeing Mick outside the van at the start and interior/exterior detail shots at the end makes it reasonable to infer that the missing middle shows him opening the door and beginning the interior tour, so the gap is predictable."
+  },
+  "MQEcUPeAdFs_video.mp4": {
+    "pass": true,
+    "reason": "After introducing the deadlift challenge and before naming the specific competitors, it is predictable that the rules would be explained and order decided, so the middle segment can be reasonably inferred."
+  },
+  "N1cdUjctpG8_video.mp4": {
+    "pass": false,
+    "reason": "The video is a slideshow of static photos without causal or temporal progression, so the middle segment cannot be meaningfully predicted from the beginning and end."
+  },
+  "Lyv_2usFQA0_video.mp4": {
+    "pass": true,
+    "reason": "The content unfolds linearly—from intro and setup to later discussion of the GPT directory—so the middle segment (initial directory browsing) is predictable from the beginning and end."
+  },
+  "NAahAX62MZ0_video.mp4": {
+    "pass": true,
+    "reason": "The beginning shows peppers prepared for stuffing and the end shows the finished fried peppers; it is reasonable to infer that the missing middle involves coating and frying them, so the gap is predictably connected to the surrounding context."
+  },
+  "NrtwBO_nyFA_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment logically continues the drilling stage introduced at the start and bridges to the detachment stage shown later, so its general content can be inferred from the surrounding context."
+  },
+  "NEFG7YcIDcI_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear causal sequence of hurricane development; the middle stage (formation of low pressure and initial rotation) is a predictable link between the early thunderstorms and the later mature-storm discussion."
+  },
+  "OB9OK-riGEg_video.mp4": {
+    "pass": false,
+    "reason": "The video is a continuous talking-head monologue with no distinct visual or action change, so the exact middle segment cannot be meaningfully inferred from the surrounding parts."
+  },
+  "N62mrplIygc_video.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"The first and last segments both show Baylie with her parents at the airport; a logically predictable interim is their farewell conversation and reactions, so the middle can"
+  },
+  "O5PPRB18hls_video.mp4": {
+    "pass": true,
+    "reason": "All segments depict the same conference; given the start and end, it is reasonable to infer that the middle continues the talk/panel and audience views."
+  },
+  "NeLj-gLWgug_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear, chronological morning-routine narrative (wake up → hygiene/dress → gym workout), so the missing middle segment can be reasonably inferred from the surrounding context."
+  },
+  "NagvWwLvRik_video.mp4": {
+    "pass": false,
+    "reason": "The video is a travel montage with many unrelated activities (hiking, museum cut-outs, an excavator crushing a car, eating pancakes). Given only the start and end, the specific mix of middle events cannot be plausibly inferred."
+  },
+  "OCTekmo_szs_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear craft sequence—initial materials/setup, intermediate mixing and assembly, and final finished globes—so the omitted middle can be reasonably inferred from what comes before and after."
+  },
+  "PB06auioy0Y_video.mp4": {
+    "pass": true,
+    "reason": "Single continuous concert performance where musicians and stage setup persist, making the intermediate segment reasonably inferable from the surrounding context."
+  },
+  "N1ZRYx46ye4_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "P2J6TdJRr7M_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous eyebrow-grooming sequence; if you see the start of brushing and the finished shaping, it’s easy to infer that more brushing occurs in the middle."
+  },
+  "P6Q7bQTnrjk_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of news footage, interviews, and assorted images without a single causal storyline, so the middle segment cannot be inferred from the beginning and end."
+  },
+  "PDEJodGzar0_video.mp4": {
+    "pass": false,
+    "reason": "Continuous talking-head presentation; middle dialogue content cannot be inferred from visuals before and after."
+  },
+  "OeGAnO04gug_video.mp4": {
+    "pass": true,
+    "reason": "The video shows continuous gameplay movement through the same game area; given the start (entering the building) and the end (fighting on a nearby rooftop/interior), one can reasonably infer that the middle segment involves traversing corridors and exiting to the outdoor city, so a temporal cloze prediction is feasible."
+  },
+  "PAI-gQ19pbs_video.mp4": {
+    "pass": false,
+    "reason": "The middle portion contains arbitrary, unpredictable gameplay events that cannot be reliably inferred from the beginning and end segments."
+  },
+  "PFU-MhA1ubc_video.mp4": {
+    "pass": true,
+    "reason": "The beginning sets up a motorcycle-themed intro and the end shows the host talking indoors; it is reasonable to infer that the middle bridges these with the logo reveal and the host’s initial appearance, so the gap is predictably continuous."
+  },
+  "PU-XOFIJMlg_video.mp4": {
+    "pass": false,
+    "reason": "Montage of unrelated elemental bending clips; middle actions are arbitrary and cannot be reliably inferred from beginning and end."
+  },
+  "PItExCRipjM_video.mp4": {
+    "pass": true,
+    "reason": "It depicts a continuous haircutting process; the middle segment logically bridges the initial sectioning and the later cutting, making it reasonably predictable from the surrounding clips."
+  },
+  "PaC3CEkCD6k_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of loosely related cruise scenes without a clear causal or narrative progression, so the middle segment cannot be predicted from the surrounding parts."
+  },
+  "PSt_op3fQck_video.mp4": {
+    "pass": true,
+    "reason": "The opening shows travelers preparing to depart and the ending shows them landing and a diversity dashboard; it is natural to expect intermediate scenes of airport check-in and boarding, so the middle segment can be reasonably inferred."
+  },
+  "PYOyMK2Jw7g_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment contains specific unpredictable events (Liverpool possession, Klopp clapping, Salah shot) that cannot be reliably inferred just from the initial failed Manchester attack and the later Manchester goal."
+  },
+  "PYqmI0Hiaho_video.mp4": {
+    "pass": false,
+    "reason": "The last segment switches to a different match with different teams, breaking causal/temporal continuity, so the middle cannot be reliably inferred."
+  },
+  "PHe0bXAIuk0_video.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": false, \"reason\": \"The video is an abstract explanatory animation;"
+  },
+  "P6-I5fsCA9w_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "PxqzwhVuGyo_video.mp4": {
+    "pass": true,
+    "reason": "Continuous monologue in same setting; middle segment logically continues the discussion about fingernail pain that begins earlier and is referenced later."
+  },
+  "Q0B5dLHDQ2w_video.mp4": {
+    "pass": false,
+    "reason": "The transition from a calm scenic view to the dragon atop a mountain does not imply the humorous, unexpected scenes with sunglasses, a gun, and a mouth close-up, so the middle cannot be reliably inferred."
+  },
+  "PvdnisI1EwI_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated cartoon and soccer promo segments, so the middle content is not predictable from the start and end."
+  },
+  "Pf1hNFndi60_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "QPzmsQ86_HM_video.mp4": {
+    "pass": false,
+    "reason": "The surrounding segments are a montage of disparate scenes with no clear causal chain, so the missing middle cannot be predicted."
+  },
+  "QdHBJ-NiaHM_video.mp4": {
+    "pass": true,
+    "reason": "The presenter is continuously discussing and displaying Hearthstone cards; given the consistent format before and after, viewers can reasonably infer that the middle segment features additional card introductions and commentary."
+  },
+  "QTyzyP2Afys_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of assorted interview clips, graphics, and cut-scenes with no single causal storyline, so the middle segment cannot be inferred from the beginning and end."
+  },
+  "QTA8j5wSTx4_video.mp4": {
+    "pass": true,
+    "reason": "The opening introduces a Napoleon-themed book and the ending shows people imitating Napoleon, so it is reasonable to predict that the missing middle will feature visuals or discussion of Napoleon to bridge the two parts."
+  },
+  "QdlP8ai8trw_video.mp4": {
+    "pass": false,
+    "reason": "The video is an edited art-history presentation with unrelated explanatory shots; the middle segment’s specific content (split-screens, aerial view, digital mock-up) cannot be reliably inferred from the surrounding parts."
+  },
+  "Qe3mqZ6cI9E_video.mp4": {
+    "pass": false,
+    "reason": "Sequence is an informational montage of unrelated static shots and text; no clear causal or narrative progression makes the middle segment unpredictable from the surrounding parts."
+  },
+  "QnGwAUTM1fY_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous pickup-basketball session; knowing the initial warm-up and the later gameplay, one can reasonably infer that the missing middle also contains ongoing play and shots being taken."
+  },
+  "QTK_bC00ilg_video.mp4": {
+    "pass": true,
+    "reason": "The ending segment repeats and elaborates on the map and species theme, so given the scenic intro and the detailed map discussion at the end, one can reasonably predict that the middle introduces the Wallace Line on a map with animals on each side."
+  },
+  "QxrYJf48s-4_video.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous swimming race; given the start of the race and the moment a swimmer reaches the wall, it is reasonable to infer the middle segment shows the competitors swimming down the lane."
+  },
+  "RBTiTcHm_ac_video.mp4": {
+    "pass": false,
+    "reason": "The video is an explanatory montage of diverse logos and commentary; the specific visuals and information shown in the middle section are not predictable from the surrounding segments."
+  },
+  "RP1AL2DU6vQ_video.mp4": {
+    "pass": true,
+    "reason": "The events follow a logical morning routine: after breakfast (beginning) and before arriving at school (end), it is natural to expect a segment showing Fred finishing breakfast, saying goodbye, and leaving the house, which is exactly what occurs."
+  },
+  "QopYbLq-zIQ_video.mp4": {
+    "pass": true,
+    "reason": "Events flow logically from the introduction to active cooking; the missing middle is predictably the moment Ramsay kicks off the competition and contestants start prepping."
+  },
+  "RF86oSB6_bc_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear tutorial-style progression (dirty shoes ➔ introduce cleaning idea ➔ start prep steps), so the middle section can be reasonably inferred from the surrounding context."
+  },
+  "RqA3LAo75kw_video.mp4": {
+    "pass": false,
+    "reason": "The middle could contain many unpredictable turns (Mark’s drawing, guessing rounds, switch of drawer), so events between the shown ends can’t be reliably inferred."
+  },
+  "RwdvZLz-aSk_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of interviews, historical photos, graphics, and commentary without a single unfolding event, so the middle content cannot be predicted from the surrounding segments."
+  },
+  "R2LE8Anj9-c_video.mp4": {
+    "pass": true,
+    "reason": "The host begins with the palette closed and is later shown confidently displaying it; it is reasonable to infer that the intervening segment shows her working to open it, giving the clip a predictable causal progression."
+  },
+  "S1nUMsPC1-0_video.mp4": {
+    "pass": false,
+    "reason": "The video is a non-continuous montage of independent animal clips, so the middle segment cannot be predicted from the surrounding parts."
+  },
+  "S0ZyCu3sUAA_video.mp4": {
+    "pass": false,
+    "reason": "The video is a series of edited title cards and logo transitions without a causal sequence, so the middle cannot be reliably inferred from the beginning and end."
+  },
+  "S8w44Tl5atk_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a logical progression—introducing cards, elaborating on their synergies, then beginning a match—so the middle analysis segment can be plausibly inferred from the surrounding context."
+  },
+  "S8D4VF8Yl1g_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment logically bridges the initial thrift-store scanning and the later continued explanation at home, so its content can be reasonably inferred from the surrounding context."
+  },
+  "SNqBM-ugm1A_video.mp4": {
+    "pass": true,
+    "reason": "He readies an item, and later is seen holding and explaining it; the intervening reveal is logically implied and predictable."
+  },
+  "SB4NLADmT_k_video.mp4": {
+    "pass": true,
+    "reason": "Pre-event coverage unfolds linearly: after initial pit prep and lineup graphic, it is natural that more athlete lists and pit prep appear before the athlete introduction, so the middle can be reasonably inferred from the surrounding context."
+  },
+  "SRqr72NAIP8_video.mp4": {
+    "pass": true,
+    "reason": "The start already introduces the RV in a forest clearing and the end shows close-ups and driving; a logical, easily-anticipated middle step is the camera panning/zooming in on the parked RV, so the gap is predictably fillable."
+  },
+  "SZRxEbvKih0_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a logical sequence (intro → announce first hack → explain hack), so the content of the middle segment can be reasonably inferred from the surrounding context."
+  },
+  "TwsSrD8g3HA_video.mp4": {
+    "pass": true,
+    "reason": "The transition from holding a caught fish (start) to casting a new line (end) naturally implies an intervening step of releasing the fish and readying the gear, making the middle segment reasonably predictable."
+  },
+  "TPS22HRRY1k_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear causal progression (intro to concept ➝ founder gets idea and files paperwork ➝ fund is launched), so the middle segment is inferable from the beginning and end."
+  },
+  "U8WCRz0Yh4Q_video.mp4": {
+    "pass": false,
+    "reason": "Video is a tutorial with discrete, interchangeable drill demonstrations; the specific skill shown in the middle cannot be reliably inferred from the beginning and end."
+  },
+  "SJxMDLvg2jg_video.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"Single continuous talking-head shot; middle segment is the same"
+  },
+  "TOSWThdYTag_video.mp4": {
+    "pass": true,
+    "reason": "The clip depicts a continuous drink-making demo; given the intro steps and the later ongoing explanation, it is reasonable to infer that the middle shows the prepared drink and related ingredients/product."
+  },
+  "Tn70NxIMk2Q_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a coherent narrative of Dante’s basketball journey; given his early aspiration and later college success, intermediate scenes of training and watching games are a predictable bridge."
+  },
+  "SlFS0VJ20tU_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment (showing TikTok posts and viewer comments asking about her skincare) logically bridges the intro and the later close-ups of her skin, so its content can be reasonably inferred from the beginning and end."
+  },
+  "UTzl0lLoAJE_video.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of unrelated record-holder clips; the middle segment’s content cannot be inferred from the surrounding, so temporal prediction is not feasible."
+  },
+  "UzPXCcPslg0_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment is just additional unscripted speech with no causal action, so its content cannot be reliably inferred from the surrounding parts."
+  },
+  "UyaKyS2wTQk_video.mp4": {
+    "pass": true,
+    "reason": "The opening introduces patients and context, the ending shows post-surgery imagery and discussions; it is reasonable to predict that the missing middle depicts the surgical procedure itself, so the gap is inferable from before and after."
+  },
+  "VQKpMmBDtZo_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear narrative arc—history of space debris, current scale/monitoring, then mitigation efforts—so the middle segment (current monitoring and statistics) can be reasonably inferred from the beginning and end."
+  },
+  "VBygMK8jRoI_video.mp4": {
+    "pass": true,
+    "reason": "After gearing up, it is natural that she would skate and present the basic equipment before moving on to detailed sock-comfort tips, so the middle is inferable from the start and end."
+  },
+  "UGMDV82m3Ro_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment is mostly exposition and could be rearranged without disrupting causal flow; its exact content cannot be reliably inferred from the surrounding parts."
+  },
+  "SfZrnoo1GPM_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "Wyg1s_IE5kg_video.mp4": {
+    "pass": false,
+    "reason": "Trailer-style montage with loosely connected scenes; middle content cannot be reliably inferred from start and end."
+  },
+  "UZvydHZKyww_video.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"The middle segment simply continues displaying the same labor-law graphic introduced earlier and"
+  },
+  "XOfeqRgaF1A_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment introduces an unpredictable montage of different speakers and close-ups that cannot be reliably inferred from the opening greetings or the later expert talk, so temporal continuity is insufficient for a cloze task."
+  },
+  "WNYi8LUGIZc_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment mainly shows the contestant leaving the stage and walking to the judges’ desk—an action that naturally bridges the intro and the later interaction at the table, so it is causally predictable from the surrounding context."
+  },
+  "WkBkvlUoZpU_video.mp4": {
+    "pass": false,
+    "reason": "A talking-head vlog with unscripted dialogue; the exact middle statements (e.g., not knowing what to title the video) cannot be inferred from the surrounding parts."
+  },
+  "WpPgSEzdCns_video.mp4": {
+    "pass": true,
+    "reason": "The conversation proceeds logically from initial accusations to clarification and follow-up statements, so the middle segment can be reasonably inferred from the surrounding context."
+  },
+  "VY7X-oKLLXg_video.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"The clip depicts a single ongoing conversation; knowing that the deputy is talking at the start and that both deputy and sheriff react to the story at the end"
+  },
+  "ZxHCE5DRZEA_video.mp4": {
+    "pass": false,
+    "reason": "EMPTY"
+  },
+  "YZME4lTWBHY_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment contains generic, unpredictable basketball highlight clips that cannot be reliably inferred from the surrounding segments, which also feature varied, unrelated footage."
+  },
+  "XeKOyHOfsp4_video.mp4": {
+    "pass": false,
+    "reason": "{\""
+  },
+  "ZtE20CoGkus_video.mp4": {
+    "pass": true,
+    "reason": "From walking toward the building to being inside it, it is natural to expect a short interaction at the doorway before he enters, so the middle can be reasonably inferred."
+  },
+  "YkROTtD2vog_video.mp4": {
+    "pass": false,
+    "reason": "The clip is a series of interchangeable promotional shots inside a seed shop with no clear causal progression, so the exact middle segment cannot be reliably inferred from the surrounding context."
+  },
+  "ZBN90mXIWko_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear promotional-to-ring-introduction sequence; from the poster (start) to the fighter already in the cage (end), viewers can plausibly infer that a stats graphic and ring entrance/announcer segment occur in the omitted middle section."
+  },
+  "_D-zI4nX-2Y_video.mp4": {
+    "pass": false,
+    "reason": "The video is a series of disparate lecture and object shots without a clear causal progression, so the middle segment is not predictable from the start and end."
+  },
+  "ZIptSTddEco_video.mp4": {
+    "pass": true,
+    "reason": "The scene develops linearly from stage introduction to candidates speaking, so a moderator’s opening remarks in the middle are a predictable bridge between the two shown parts."
+  },
+  "_t2geYpykFo_video.mp4": {
+    "pass": true,
+    "reason": "The middle segment logically continues the hair-showcasing sequence between the intro and the root reveal, making its content reasonably predictable from the surrounding context."
+  },
+  "akXn1JUJDjU_video.mp4": {
+    "pass": false,
+    "reason": "The video is just a sequence of static title cards/promos without any unfolding action, so the middle segment cannot be predicted from the surrounding portions."
+  },
+  "a_tsqihza4E_video.mp4": {
+    "pass": true,
+    "reason": "The sequence shows a clear, continuous action (introducing and focusing on a toy box). Seeing only the start (figures alone) and the end (box featured) lets viewers reasonably infer that the middle involves placing and presenting the box."
+  },
+  "aWyu0p-_UQU_video.mp4": {
+    "pass": true,
+    "reason": "The scene is continuous—a man speaks on stage throughout—so the middle segment is readily predictable from the surrounding parts."
+  },
+  "acpqlVjjIGg_video.mp4": {
+    "pass": true,
+    "reason": "The entire clip shows continuous RC-car stunts in the same setting; given the start and end, it’s reasonable to predict the middle will also contain the car driving and jumping, so the temporal gap is inferable."
+  },
+  "XkFulQe9EVE_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "aseK5-RpkSQ_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated product and abstract shots without a coherent causal sequence, so the middle segment cannot be predicted from the surrounding parts."
+  },
+  "bswbQtOPk6E_video.mp4": {
+    "pass": false,
+    "reason": "The video alternates unpredictably between commentary segments and open-world gameplay without a clear causal sequence, so the content of the missing middle cannot be reliably inferred from the surrounding portions."
+  },
+  "c-RzXw4GMF0_video.mp4": {
+    "pass": true,
+    "reason": "The opening and closing segments set up a typical YouTube video flow; given the host’s intro and later continuation, it is reasonable to predict an intervening channel title/bumper sequence."
+  },
+  "adtOQyNWGrg_video.mp4": {
+    "pass": true,
+    "reason": "The vlog progresses linearly: after the greeting, it is natural that the host briefly shows his updated office before continuing to talk about the tour, so the middle can be inferred from the surrounding parts."
+  },
+  "cFkYpIKWH5A_video.mp4": {
+    "pass": false,
+    "reason": "The beginning and end are generic logo/title sequences; they give no causal or narrative clues to predict the assorted shots in the middle, so the gap is not inferable."
+  },
+  "d3pPQ3pnxgc_video.mp4": {
+    "pass": false,
+    "reason": "Middle section mainly shows an arbitrary animated logo and setup change that cannot be causally inferred from the surrounding speaking segments."
+  },
+  "da8qBzoWKVY_video.mp4": {
+    "pass": true,
+    "reason": "Scene is a continuous confrontation in the same parking lot; given start and end, the intervening segment (continued panning and complaint about carts) is highly predictable."
+  },
+  "b7LiW66cSM4_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear, repeating pattern: city imagery + text citing sources that show reduced emissions during COVID. Given the start and end, one can reasonably predict that the missing middle continues this pattern with additional cities and pollution-drop statistics."
+  },
+  "_-BAFzpKigw_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "e5ExXfd9KzI_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of loosely related Ferrari scenes without a clear causal sequence, making the middle segment impossible to infer from the beginning and end."
+  },
+  "fMw8X_4BDU0_video.mp4": {
+    "pass": true,
+    "reason": "Gameplay tutorial follows a straightforward sequence (identify location → travel underwater → loot wreck), so middle actions can be reasonably inferred from start and end."
+  },
+  "dhLPwi9blMo_video.mp4": {
+    "pass": true,
+    "reason": "The middle likely contains a straightforward continuation of the intro—more talking-head explanation that leads logically to the star-chart reveal—so its content can be reasonably inferred from the surrounding parts."
+  },
+  "ev_45FHogv8_video.mp4": {
+    "pass": true,
+    "reason": "The sequence is a continuous instructional demo: after the intro and before the final footwork explanation, the predictable missing step is marking the floor with tape, which follows logically from the context shown before and after."
+  },
+  "f3RcpzE1T9U_video.mp4": {
+    "pass": true,
+    "reason": "Single uninterrupted conversation; mid‐segment gestures and dialogue are predictable from the consistent setting and participants before and after."
+  },
+  "fyS1H_Zs4po_video.mp4": {
+    "pass": true,
+    "reason": "It is a single continuous conference speech; given the start and end, the middle is likely the speaker continuing her talk with similar gestures."
+  },
+  "eLPe7xp0jRw_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a logical flow—from teasing the bag, to introducing the presenter, to a detailed review—so the middle segment (presenter introduction) can reasonably be inferred from the surrounding context."
+  },
+  "decrvBAe_Rk_video.mp4": {
+    "pass": false,
+    "reason": "{\""
+  },
+  "gleNOAoDG4U_video.mp4": {
+    "pass": false,
+    "reason": "The video is a single continuous speaking promo with no distinct causal actions, so the exact middle content cannot be inferred from the beginning and end."
+  },
+  "iYDcBb9C-Mc_video.mp4": {
+    "pass": false,
+    "reason": "Continuous talking-head explanation; the exact middle content can’t be predicted from the surrounding segments."
+  },
+  "h7ljgWAgb0E_video.mp4": {
+    "pass": true,
+    "reason": "Single continuous tutorial on the same engine; after the intro shots and before the detailed explanation, it is natural to expect an intermediate step of taking out the relevant parts, making the middle segment reasonably inferable."
+  },
+  "jMD4D-usWqw_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment features specific, unpredictable dialogue and a sneeze that cannot be reliably inferred from the surrounding tug-of-war context."
+  },
+  "k48QCmAh31E_video.mp4": {
+    "pass": false,
+    "reason": "The video consists of rapid, non-causal montage shots typical of a music video; the middle segment cannot be meaningfully predicted from the surrounding parts."
+  },
+  "fz82FAmTYjU_video.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": false, \"reason\": \"The start and end show different times of day and only broadly similar crowds, so the specific middle events"
+  },
+  "fZKagJ-Q9fg_video.mp4": {
+    "pass": false,
+    "reason": ""
+  },
+  "i9x_JohBBe4_video.mp4": {
+    "pass": true,
+    "reason": "The sequence unfolds chronologically—from headline and anchor intro, to workers on the whaling ship, to the ship underway—so the missing middle can be reasonably inferred from the surrounding context."
+  },
+  "jsCsIW8zFvQ_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear, sequential flow—from shop introduction, to gathering outside, to bike stunts—so the content that would fill the middle gap (people assembling and registering outside the shop) can be reasonably inferred from the beginning and end."
+  },
+  "mQL-GdboNFk_video.mp4": {
+    "pass": true,
+    "reason": "Middle logically consists of the host beginning the product explanation between the intro graphics and the call-to-action, so content is predictably inferable from surrounding context."
+  },
+  "moaSYWzZmkQ_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a straightforward, continuous cooking sequence where the middle (placing bacon/eggs in the pan) can be logically inferred from the initial setup and the later frying/turning of the bacon."
+  },
+  "k9jQL7bvkbs_video.mp4": {
+    "pass": true,
+    "reason": "Start shows family asleep, end shows them heading downstairs with flashlight and makeshift weapons; it is reasonable to infer the missing middle involves them waking up after hearing a noise and deciding to investigate."
+  },
+  "nzGdRPSMZzw_video.mp4": {
+    "pass": false,
+    "reason": "The video is a documentary-style montage with interviews, text overlays, and unrelated wrestling clips, so the specific middle portion cannot be reliably inferred from the surrounding segments."
+  },
+  "lNAjUDhUiUQ_video.mp4": {
+    "pass": true,
+    "reason": "Speaker remains in identical setting delivering a continuous explanation; given start and end, it is reasonable to predict she will keep presenting related evidence in the middle."
+  },
+  "of59JPrX1yk_video.mp4": {
+    "pass": false,
+    "reason": "The video jumps from a racetrack scene to an interview inside a distillery; the intervening city-scape and street montage is not inferable from the start and end segments."
+  },
+  "pUqmv-KY0Q4_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous unboxing sequence; given the package display at the start and the cutting of plastic at the end, it is reasonable to predict that the missing middle segment involves the initial attempts to open the plastic wrap."
+  },
+  "pCTnL1odiJQ_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a straightforward food-review sequence; given the intro and a later reaction segment, one can reasonably predict that the middle shows them tasting and discussing the crackers."
+  },
+  "pfsytPukzuQ_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a continuous explanatory narrative about all-weather vs. all-season tires; knowing the intro and the concluding endorsement, one can reasonably infer that the middle contains a comparative discussion of their pros and cons."
+  },
+  "nbsGrFj-Z7o_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a continuous sequence (intro → group appears on stage → additional stage acts), so the middle segment is logically predictable from the surrounding context."
+  },
+  "q8YamD2cKys_video.mp4": {
+    "pass": false,
+    "reason": "Surreal, text-driven sequence with random visual jumps; the middle content (childhood party scene and remote) cannot be reliably inferred from the beginning and end."
+  },
+  "noHdd2KBfhM_video.mp4": {
+    "pass": true,
+    "reason": "The video follows a typical recipe/tutorial structure with clear causal and temporal progression, so the middle segment can be reasonably inferred from the surrounding context."
+  },
+  "pxR4ffElpjM_video.mp4": {
+    "pass": true,
+    "reason": "It is a continuous tutorial on the same brake assembly, so the middle segment logically follows from the earlier inspection and can be inferred from context."
+  },
+  "qGLfM8hOlac_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a single, continuous bridal preparation process, so the middle actions of adjusting hair and flowers logically bridge the initial headpiece placement and the final styling and jewelry steps."
+  },
+  "u2gwhTt-B5M_video.mp4": {
+    "pass": true,
+    "reason": "After showing the sealed box and later discussing the phone, it is predictable that the intervening segment features the phone being unboxed."
+  },
+  "rieb8cBb2z8_video.mp4": {
+    "pass": true,
+    "reason": "The middle likely shows the man continuing his exploration of the forest, which can be reasonably inferred from his initial discovery and later detailed discussion of the fungus and impending logging."
+  },
+  "swRx8mQ3xAE_video.mp4": {
+    "pass": false,
+    "reason": "A live interview lacks a predictable, causally-determined middle; the dialog and on-screen graphics in the gap cannot be inferred from the surrounding context."
+  },
+  "qF_bybWcUoE_video.mp4": {
+    "pass": true,
+    "reason": "The video is a continuous, causal conversation—knowing the initial question about probation and the later discussion of jail repercussions, one can plausibly infer a follow-up exchange about realizing restrictions in the middle segment."
+  },
+  "wHLOqhMB-i8_video.mp4": {
+    "pass": false,
+    "reason": "EMPTY"
+  },
+  "wpZfQAKkVVo_video.mp4": {
+    "pass": false,
+    "reason": "EMPTY"
+  },
+  "uMkFfqmVr1M_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated interview shots, highlight clips, and narration segments without a clear causal sequence, so the middle cannot be inferred from the surrounding parts."
+  },
+  "vAvLt3QI904_video.mp4": {
+    "pass": true,
+    "reason": "The video depicts continuous forward travel along the same forest path with no abrupt scene changes; the middle segment is likely just more of the same motion and can be reasonably inferred from the surrounding context."
+  },
+  "sNf0WG57RtA_video.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous, linear demonstration on the same sheet of paper; knowing it starts with pointing and ends with additional writing, one can reasonably predict that the intermediate segment involves further pointing/pen movements on the formula."
+  },
+  "vmK5xIPPSU8_video.mp4": {
+    "pass": false,
+    "reason": "The middle segment’s specific actions (re-arranging toys and popping the pop-it in a particular order) cannot be reliably inferred from merely listing the items at the start and placing mochis at the end, so the gap is not predictably fillable."
+  },
+  "vBrspDt3ib0_video.mp4": {
+    "pass": true,
+    "reason": "The video is a step-by-step crochet demonstration with clear, sequential actions, so the middle segment (continued chaining) can be inferred from the surrounding context."
+  },
+  "uysGRiIkxu8_video.mp4": {
+    "pass": true,
+    "reason": "The sequence flows logically from the text intro to the man cutting fish, so a viewer could infer the intermediate preparation steps if the middle were removed."
+  },
+  "zGVKSnlJFhY_video.mp4": {
+    "pass": true,
+    "reason": "It is one continuous pan across memorabilia; given the earlier and later views, the intervening frames should logically show the items in between those positions."
+  },
+  "zI4QBIVHeIY_video.mp4": {
+    "pass": true,
+    "reason": "The clip shows a single, continuous exchange in a congressional hearing: a question is asked, then the witness begins and continues his answer. Knowing the start (the question) and the end (part of the answer) makes the content of the middle—initial remarks disclaiming details about an ongoing investigation—reasonably inferable."
+  },
+  "zaGU7wHPISI_video.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of title cards, commentary shots, and unrelated close-ups rather than a single causal sequence, so the middle segment cannot be reliably inferred from the surrounding parts."
+  },
+  "zmL97ovp0kU_video.mp4": {
+    "pass": true,
+    "reason": "Beginning and end both focus on the Immortal Snail mod; the missing middle is likely further explanation/screenshots, which can be reasonably inferred from context."
+  },
+  "gPpJoyPjiPw_video.mp4": {
+    "pass": true,
+    "reason": "The transition from casual arrival to a heated argument implies a foreseeable intermediate step of rising tension, allowing viewers to infer a preliminary confrontation in the missing middle segment."
+  }
+}

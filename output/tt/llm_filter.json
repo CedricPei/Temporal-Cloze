@@ -1,0 +1,2758 @@
+{
+  "0005-7.mp4": {
+    "pass": false,
+    "reason": "Middle consists of random glitch effects with no logical, inferable progression from setup to ending."
+  },
+  "0009-7.mp4": {
+    "pass": true,
+    "reason": "The sequence has clear causal progression (ask for Wi-Fi → must order coffee → she orders coffee) so the missing middle can be inferred from start and end."
+  },
+  "0010-7.mp4": {
+    "pass": true,
+    "reason": "Continuous sequence of cutting a balloon to reveal and then break an ice sphere; middle actions (removing balloon, drilling) are causally implied by start and end."
+  },
+  "0011-7.mp4": {
+    "pass": true,
+    "reason": "The setup (two racers ready) and outcome (runner wins) make it natural to infer that the missing middle shows the countdown and the race itself, fitting a causal, goal-directed sequence."
+  },
+  "0013-7.mp4": {
+    "pass": true,
+    "reason": "Continuous single action (hand approaching and appearing to push finger through wall) makes the missing middle movement reasonably predictable from start and end frames."
+  },
+  "0019-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear causal progression (successive objects dropped until the glass shatters), so the middle segment—more objects being dropped and increasing damage—can be reasonably inferred from the intact start and shattered end."
+  },
+  "0015-7.mp4": {
+    "pass": true,
+    "reason": "The shift from a floating can to a sunken can implies an intervening action altering buoyancy; viewers can plausibly infer the missing middle step where gas is released."
+  },
+  "0018-7.mp4": {
+    "pass": true,
+    "reason": "The woman’s moment of confusion and questioning logically bridges the initial sight of the object and the later clarification that it is a mirror, so the middle can be inferred from the surrounding context."
+  },
+  "0022-7.mp4": {
+    "pass": true,
+    "reason": "The player’s bicycle kick logically leads to him landing on the ground before getting up, and by the end he is active again; the missing middle (falling/lying down then rising) is causally predictable from the start and end."
+  },
+  "0025-7.mp4": {
+    "pass": false,
+    "reason": "Mostly static instructional screens and an unchanging optical‐illusion image; no causal progression that would allow inferring a missing middle segment."
+  },
+  "0023-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of separate exaggerated skits with no single causal progression, so the missing middle could not be reliably inferred from the surrounding segments."
+  },
+  "0030-7.mp4": {
+    "pass": true,
+    "reason": "The middle action (holding the painted glass up to align with the real bridge) logically bridges the initial painting activity and the final illusion of a red bridge, so it can be reasonably inferred from the start and end."
+  },
+  "0032-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal continuity: the initial incorrect equation becomes correct, so viewers can infer the intervening action of moving a matchstick to change the digits."
+  },
+  "0026-7.mp4": {
+    "pass": true,
+    "reason": "The sequence (initial flying illusion → later flying again) implies an intervening landing/reveal of the trick, so the middle can be reasonably inferred from the before-and-after context."
+  },
+  "0024-7.mp4": {
+    "pass": true,
+    "reason": "Sequential card-flipping and rhythm changes form a clear causal progression; the middle (additional card changes/tapping) can be inferred from the start and end states."
+  },
+  "0033-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear causal sequence: illusion exists → someone appears to test it → water is poured to reveal flatness, so the rider’s arrival/confusion in the middle can be inferred from the start and end."
+  },
+  "0040-7.mp4": {
+    "pass": true,
+    "reason": "Seeing a hand take food from the hot pot and later the man chewing makes it predictable that the middle shows the food being brought to and placed in his mouth."
+  },
+  "0041-7.mp4": {
+    "pass": true,
+    "reason": "The initial aiming and the final display of the caught arrow imply a continuous causal sequence, so the missing middle (the arrow being caught) can reasonably be inferred."
+  },
+  "0034-7.mp4": {
+    "pass": true,
+    "reason": "The clip follows a clear cause-effect arc: a hand trick is set up, counting occurs, and the trick is revealed, so the middle (miscounting due to hidden thumb) is inferable from the start and end."
+  },
+  "0049-7.mp4": {
+    "pass": false,
+    "reason": "The ending montage of random male actors is not causally connected to the jar-opening scene, so the middle cannot be reliably inferred."
+  },
+  "0043-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of independent cuts between drivers enjoying music; nothing about the woman’s appearance inside the van can be reliably inferred from the man’s scenes before and after."
+  },
+  "0045-7.mp4": {
+    "pass": true,
+    "reason": "Continuous causal action of pendulum smashing containers leads predictably from initial swings to final collapse, so middle events are inferable."
+  },
+  "0052-7.mp4": {
+    "pass": true,
+    "reason": "The end state (pen writes again) can be causally inferred from the start (dried-out pen and lighter shown), making the heating step in the middle predictable."
+  },
+  "0046-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of unrelated surprise cake reveals; knowing the start and finish does not allow one to predict the specific, independent middle reveal."
+  },
+  "0055-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal sequence: father approaches son → [gap] → father is with son and laughing at sign, so middle (reunion moment) is predictable."
+  },
+  "0053-7.mp4": {
+    "pass": true,
+    "reason": "Single continuous stunt: starting upside-down miss to ending successful shot; middle (foot slip, swing, recovery) is a predictable causal bridge."
+  },
+  "0056-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression (pouring liquid → [gap] → empty glass/magic reveal) that allows the missing middle—liquid ‘vanishing’ via hidden compartment—to be reasonably inferred."
+  },
+  "0057-7.mp4": {
+    "pass": true,
+    "reason": "The calm start (pouring juice) and chaotic end (blurry struggle) imply a causal event of conflict in the middle, making the missing segment reasonably predictable."
+  },
+  "0059-7.mp4": {
+    "pass": false,
+    "reason": "The video is a rapid sequence of unrelated visual gags and text screens without a single causal progression, so the missing middle cannot be inferred from the start and end."
+  },
+  "0058-7.mp4": {
+    "pass": true,
+    "reason": "The dialogue progresses causally—each response escalates the situation from parents to police to full search team—so the middle events can be inferred from the beginning and ending."
+  },
+  "0060-7.mp4": {
+    "pass": false,
+    "reason": "The middle consists of independent participants taking turns with unpredictable reaction times, offering no causal or easily inferable content from the beginning and end segments."
+  },
+  "0061-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression (sneaky sip → caught & told to drink → drinks and leaves), so the middle interaction can be reasonably inferred from the before-and-after segments."
+  },
+  "0065-7.mp4": {
+    "pass": true,
+    "reason": "Shows clear causal progression from deciding to fight to the face-off; a training montage in the gap is easily inferable."
+  },
+  "0063-7.mp4": {
+    "pass": true,
+    "reason": "The beginning and end both show everyday objects revealed as cakes, so it is reasonable to predict that the middle will feature another object being revealed as a cake; the sequence follows a clear, inferable pattern."
+  },
+  "0069-7.mp4": {
+    "pass": false,
+    "reason": "The clip is a compilation of separate skaters each diving once; the middle dive is independent of the surrounding dives, so the missing segment cannot be inferred from context."
+  },
+  "0066-7.mp4": {
+    "pass": false,
+    "reason": "The sudden jump from a surreal volleyball game above the clouds to a man running in a grassy field lacks clear causal continuity, so the middle portion cannot be reliably inferred."
+  },
+  "0071-7.mp4": {
+    "pass": true,
+    "reason": "The sequence follows a clear causal storyline (artist starts painting/climbing → [gap] guard intervenes and climbs → artist ends up painting the guard), so the middle event can be logically inferred from the beginning and end."
+  },
+  "0072-7.mp4": {
+    "pass": false,
+    "reason": "The middle involves an unexpected fantasy event (clothes morph into a creature and pull him inside), which cannot be reliably inferred from the ordinary start of loading laundry and the end of emerging soapy."
+  },
+  "0068-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear, step-by-step craft process from materials preparation to the finished Halloween lamp, so the missing middle actions can be logically inferred from the beginning and ending states."
+  },
+  "0076-7.mp4": {
+    "pass": true,
+    "reason": "The sequence shows a clear causal progression (plant placed and watered → [gap] user interaction] → pot becomes happy and displays data), so the middle action can be reasonably inferred from the start and end."
+  },
+  "0077-7.mp4": {
+    "pass": false,
+    "reason": "The end suggests the phone was in the car, so its retrieval from the child’s sandal in the middle cannot be reasonably inferred from the beginning and end segments."
+  },
+  "0078-7.mp4": {
+    "pass": true,
+    "reason": "The sequence follows a clear causal chain: human hides, dog searches, then human reappears, so the middle dog-search segment can be logically inferred from the beginning and end."
+  },
+  "0085-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear progression of increasing heat and sugar caramelization, so the intermediate stages can be inferred from the initial mild melting and final full burn."
+  },
+  "0086-7.mp4": {
+    "pass": true,
+    "reason": "After the box is opened, viewers can reasonably predict that the missing middle shows the person taking items out of the box before the final display of them on the table."
+  },
+  "0093-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of unrelated reflex-catching clips without a continuous causal storyline, so the middle cannot be predicted from the beginning and end."
+  },
+  "0094-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear, escalating visual narrative (field → map span → Earth wrap) so the middle segment can be inferred from the beginning and end."
+  },
+  "0097-7.mp4": {
+    "pass": true,
+    "reason": "The initial practice attempt and the final successful sitting logically imply intermediate failed attempts and assistance, making the middle segment temporally predictable."
+  },
+  "0102-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of unrelated science tricks; no single causal sequence runs from start to finish, so the middle cannot be predicted from the ends."
+  },
+  "0103-7.mp4": {
+    "pass": true,
+    "reason": "A clear goal-oriented sequence (keep shooting until scoring); given the first miss and final success, one can infer the middle consists of further shot attempts."
+  },
+  "0106-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear causal sequence (retrieving strollers → attaching wooden frame → pushing combined stroller); given start and end, the assembly step in the middle is predictable."
+  },
+  "0107-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of unrelated physics demonstrations; the middle segment cannot be inferred from the beginning and end."
+  },
+  "0105-7.mp4": {
+    "pass": false,
+    "reason": "The ending (a memorial image) does not logically imply the intervening demonstration of the escape technique, so the middle segment cannot be reliably inferred from the beginning and end alone."
+  },
+  "0109-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated filtered clips without a single causal progression, so the middle cannot be predicted from the beginning and end."
+  },
+  "0111-7.mp4": {
+    "pass": false,
+    "reason": "The ripple animation repeats in similar loops without clear progression, so the middle cannot be uniquely inferred from the beginning and end."
+  },
+  "0112-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated fouls involving different players, lacking a single causal sequence, so the missing middle cannot be inferred from the beginning and end."
+  },
+  "0110-7.mp4": {
+    "pass": false,
+    "reason": "The flip-book animation simply cycles through varied drawings; knowing the start and end (which loop) gives little basis to infer the specific, arbitrary middle frames."
+  },
+  "0114-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous transformation of the school building from old to futuristic, so the middle is predictably more intermediate upgrades."
+  },
+  "0119-7.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"The video depicts one continuous chase; given the start (chase begins) and the end (chase still underway), it"
+  },
+  "0121-7.mp4": {
+    "pass": true,
+    "reason": "Beginning sets up a cleaning problem, ending shows successful cleanliness; the missing middle logically involves introducing and using the wet wipes solution."
+  },
+  "0122-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0126-7.mp4": {
+    "pass": false,
+    "reason": "Main action is a static pose imitation with no clear start–end transformation, making the middle segment unpredictable."
+  },
+  "0125-7.mp4": {
+    "pass": false,
+    "reason": "Events (different people appearing and random face color changes) occur in an unpredictable, non-causal sequence, so the middle cannot be reliably inferred from the beginning and end."
+  },
+  "0123-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0132-7.mp4": {
+    "pass": false,
+    "reason": "The chiropractor’s manipulation is a continuous, repetitive action with no clear state change, so the middle segment cannot be predicted from the beginning and end."
+  },
+  "0130-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of unrelated stunt clips with no causal continuity, so the middle segment cannot be predicted from the beginning and end."
+  },
+  "0134-7.mp4": {
+    "pass": false,
+    "reason": "The repeated magic trick lacks a clear, predictable transformation; the middle actions (vanish, spit, failed catch) cannot be reliably inferred from similar start and end shots."
+  },
+  "0136-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal continuity: starting asleep holding the skeleton and ending with the skeleton on the ground strongly implies a middle event where he wakes and throws it, which can be reasonably inferred."
+  },
+  "0135-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of separate dog adjustments lacks single causal progression; middle segments cannot be predicted from the beginning and end."
+  },
+  "0139-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of different cars before and after shots with an explanatory workshop segment; the middle content (film-application demonstration) is not predictable from the initial and final clips showing bubbled car hoods."
+  },
+  "0141-7.mp4": {
+    "pass": true,
+    "reason": "The video has a clear causal sequence: a setup where the woman plans a math trick and an ending where the husband is fooled, so the intervening math-question buildup can be logically inferred."
+  },
+  "0143-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal sequence: heating tongs → [gap] breaking the bottle neck → pouring wine, so the middle action can be inferred from start and end."
+  },
+  "0148-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a clear, goal-directed sequence (progressive chip removal leading to bottle drop), so the middle actions can be logically inferred from the start and end."
+  },
+  "0144-7.mp4": {
+    "pass": true,
+    "reason": "The start shows a sleeping passenger and the end shows her terrified reaction; the missing middle—boyfriend staging a fake near-crash to scare her—is a causally predictable event that links the two."
+  },
+  "0153-7.mp4": {
+    "pass": true,
+    "reason": "The transition from a dry man approaching the pool to the same man wet and toweling off strongly implies the predictable middle event of him jumping into the pool."
+  },
+  "0149-7.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"There is clear causal continuity: the man sets up a prank with the cola bottle, and the woman later suffers the consequence. Viewers can reasonably infer the missing middle—transfer of the shaken bottle and relocation—based"
+  },
+  "0156-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of independent guessing rounds with no causal progression; knowing the start and end does not allow one to infer the unpredictable middle events."
+  },
+  "0150-7.mp4": {
+    "pass": true,
+    "reason": "The device-controlled ball shows a logical progression (placement → basic edge rolling → advanced bouncing → stop), so the intermediate rolling/bouncing can be inferred from the initial setup and final outcome."
+  },
+  "0157-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of independent comedic skits with different delivery workers; the middle actions are not causally inferable from the beginning and end."
+  },
+  "0158-7.mp4": {
+    "pass": true,
+    "reason": "The camel’s eventual refusal implies it tried eating the objects and had a negative experience, so the middle (tasting and spitting them out) can be logically inferred from the start and end."
+  },
+  "0159-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of unrelated reaction skits, so the middle cannot be predicted from the beginning and end."
+  },
+  "0160-7.mp4": {
+    "pass": false,
+    "reason": "The sequence consists of unpredictable, turn-based hits and misses that do not follow a deterministic progression, so the specific middle events cannot be reliably inferred from the start and end."
+  },
+  "0164-7.mp4": {
+    "pass": true,
+    "reason": "The drill battle unfolds causally: an initial ‘shoot-off’ leads to one drill being launched away and the other damaged, so the missing middle (the continued battle action) can be reasonably inferred from the start and end states."
+  },
+  "0166-7.mp4": {
+    "pass": true,
+    "reason": "The action follows clear causal continuity: after the men release the golf balls, they predictably roll down the slope toward the flag, so the middle segment can be inferred from the start and end."
+  },
+  "0163-7.mp4": {
+    "pass": true,
+    "reason": "The clip shows a single causal sequence—swing, reaction—so the missing middle (ball flight striking camera) can be logically inferred from the start and end."
+  },
+  "0168-7.mp4": {
+    "pass": true,
+    "reason": "The cooking process follows a clear, sequential transformation (raw ingredients to finished stuffed omelet), so the missing middle can be logically inferred from the beginning and end."
+  },
+  "0173-7.mp4": {
+    "pass": true,
+    "reason": "The beginning shows the setup of refilling mustard and the end shows the aftermath (mustard on his face, disappointed); the middle accident that links these is predictably inferable from the context."
+  },
+  "0170-7.mp4": {
+    "pass": true,
+    "reason": "The man's trick-shot sequence shows clear incremental progression from few pans to many, so the intermediate attempts can be reasonably inferred from the start and successful ending."
+  },
+  "0172-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous cooking process (making caramel) with clear causal progression from ingredients to finished candy, so the missing middle segment can be reasonably inferred from the surrounding context."
+  },
+  "0175-7.mp4": {
+    "pass": true,
+    "reason": "Each encounter follows a clear causal chain—child approaches, statue reacts, child cries—so the missing middle action can be reliably inferred from the start and end states."
+  },
+  "0176-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear cooking progression: ingredients are introduced, processed, and result in finished dishes, so the missing middle (dicing/mixing tartare ingredients) can be logically inferred from the shown start and end."
+  },
+  "0177-7.mp4": {
+    "pass": true,
+    "reason": "Given the setup of the sister’s pucks and the final state with her pucks knocked off while the brother celebrates, viewers can infer that the brother’s shot in the middle displaced the pucks."
+  },
+  "0178-7.mp4": {
+    "pass": true,
+    "reason": "The action progresses causally from setting up and serving to a successful knock-down, so the missing middle (ball flight through the target) can be inferred from the start and end states."
+  },
+  "0180-7.mp4": {
+    "pass": true,
+    "reason": "The action progresses logically from holding the ball to fast dribbling, so the intermediate dribble sequence can be inferred from start and end."
+  },
+  "0184-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear causal sequence: printed parts are removed, then (gap) they are assembled, leading to the final flower object being opened, so the middle can be inferred."
+  },
+  "0185-7.mp4": {
+    "pass": false,
+    "reason": "The action (stirring) is essentially continuous and repetitive, with only a brief, hard-to-predict seasoning moment in the middle, so the gap is not reliably inferable from the start and end."
+  },
+  "0183-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0188-7.mp4": {
+    "pass": true,
+    "reason": "With the ride starting to spin and later slowing down, it is natural to infer that in the middle it reached full speed, pinning the worker horizontally, so the temporal gap is predictable."
+  },
+  "0186-7.mp4": {
+    "pass": true,
+    "reason": "Sharpening is a continuous, goal-directed action; given the start of the stroke and the close-up finish, the intermediate motion of drawing the blade across the wheel can be reasonably inferred."
+  },
+  "0191-7.mp4": {
+    "pass": true,
+    "reason": "Securing a rope to a bollard follows a clear causal sequence; given the start (rope pulled toward bollard) and the end (rope fastened), viewers can reasonably predict the intermediate wrapping steps."
+  },
+  "0192-7.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-directed cooking action (removing herb leaves); middle steps are causally predictable from start and end."
+  },
+  "0193-7.mp4": {
+    "pass": true,
+    "reason": "The clip depicts one continuous behind-the-scenes special-effects shot; given the raised hammer at the start and the protected camera at the end, viewers can infer the intermediate fake strike and blood effects."
+  },
+  "0194-7.mp4": {
+    "pass": false,
+    "reason": "The middle consists of multiple distinct demonstrations (three different crank lengths) whose specific content cannot be inferred just from the intro and outro, so temporal prediction is not feasible."
+  },
+  "0197-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of independent animal impersonations without causal progression, so the middle segment cannot be predicted from the beginning and end."
+  },
+  "0195-7.mp4": {
+    "pass": false,
+    "reason": "The scene is mostly static with playful, unpredictable interactions, so the middle cannot be reliably inferred from the beginning and end."
+  },
+  "0200-7.mp4": {
+    "pass": false,
+    "reason": "The video consists of separate, loosely related anecdotes (helmet, Roosevelt, gold bar); the middle Roosevelt segment cannot be predicted from the beginning and end."
+  },
+  "0204-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear learning progression: challenge issued, practice attempts, and final success, so the middle is inferable from the start and end."
+  },
+  "0205-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal progression: balloons are added until person lifts off, so the middle (incremental ascent) is inferable from start and end."
+  },
+  "0203-7.mp4": {
+    "pass": true,
+    "reason": "Clear, continuous action where two matchsticks go from separate to joined (or vice-versa), so the missing middle— the merging/splitting motion—can be logically inferred from the start and end states."
+  },
+  "0209-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of separate yearly clips without causal progression, so the middle segment cannot be reliably inferred from the beginning and end."
+  },
+  "0208-7.mp4": {
+    "pass": true,
+    "reason": "Single continuous crafting process (shredding denim → finished cat bed) makes the intermediary spinning/knitting steps causally predictable."
+  },
+  "0211-7.mp4": {
+    "pass": true,
+    "reason": "Continuous cleaning action progresses from starting the wipe to completing a clean window, making the middle state inferable from the start and end."
+  },
+  "0212-7.mp4": {
+    "pass": true,
+    "reason": "Drawing the second set of lines (for the number 4) logically bridges the initial setup of 321 lines and the final step of counting intersections to get 1284, so the middle can be inferred."
+  },
+  "0210-7.mp4": {
+    "pass": false,
+    "reason": "The video consists of a series of independent, repetitive basketball shots with varying scores; the exact middle segment can’t be inferred from the surrounding shots."
+  },
+  "0215-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear transformation (plain bottle → heat applied → labeled bottle), so the middle action of shrinking under hot water can be inferred from the start and end."
+  },
+  "0216-7.mp4": {
+    "pass": true,
+    "reason": "Prank setup leads directly to outcome; given start (water-filled bed) and end (woman sinking), the intervening action (her lying on it) is predictable."
+  },
+  "0218-7.mp4": {
+    "pass": false,
+    "reason": "It is a repetitive loop of identical hammer-hit gags; the middle offers no new, causally inferable event beyond the ongoing repetition."
+  },
+  "0220-7.mp4": {
+    "pass": true,
+    "reason": "The shift from a calm mime to one fanning himself and running suggests a startling incident in the gap, a causally predictable event given the before-and-after context."
+  },
+  "0219-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0221-7.mp4": {
+    "pass": true,
+    "reason": "Demonstration progresses logically through note values; given the initial long notes and the later rapid taps, one can infer the intermediate rhythm shown in the missing middle."
+  },
+  "0222-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of independent trick shots with no causal link between start and end, so the middle cannot be inferred."
+  },
+  "0223-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a clear, goal-directed refinishing sequence, so a viewer could infer the intermediate paint-mixing step from the initial coating and the final epoxy-sealed result."
+  },
+  "0225-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear progression from plaster application to a stone-block finish, so the middle actions (carving and refining the lines) can be inferred from the start and end states."
+  },
+  "0224-7.mp4": {
+    "pass": true,
+    "reason": "Shows a goal-directed process: from initial discovery to final rainbow projection; the intermediate step of coloring and assembling tape can be logically inferred."
+  },
+  "0226-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of separate prank reactions with no single causal sequence, so the middle cannot be inferred from the beginning and end."
+  },
+  "0228-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of independent, reversed jump clips with no causal progression, so the exact middle clip cannot be inferred from the beginning and end."
+  },
+  "0231-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear causal sequence (setup → chemical reaction → outcome), so the middle reaction phase can be reasonably inferred from the start and end."
+  },
+  "0232-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal continuity: setup and slap → [gap] pain reaction → replay of slap, so the middle reaction can be inferred from the initial slap and the ending replay."
+  },
+  "0230-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0233-7.mp4": {
+    "pass": true,
+    "reason": "The action (skillfully pouring yogurt into a cup) unfolds continuously from start to finish, so the intermediary pouring steps can be logically inferred from the given beginning and end."
+  },
+  "0236-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of separate basketball attempts; middle segment is not causally predictable from surrounding shots"
+  },
+  "0235-7.mp4": {
+    "pass": true,
+    "reason": "Single continuous demonstration: from loading the case to ending with one visible cigarette, the middle logically involves manipulating and folding the case, which can be reasonably inferred from start and end states."
+  },
+  "0234-7.mp4": {
+    "pass": true,
+    "reason": "Single, continuous interaction: from holding the dinosaur to it sniffing a guest’s hand, the missing middle (hand offered, dinosaur moving closer) is causally predictable."
+  },
+  "0237-7.mp4": {
+    "pass": true,
+    "reason": "Sequence shows cause (initial prank) leading to effect (guards catching on); the middle likely contains additional prank actions that can be inferred from start and end."
+  },
+  "0239-7.mp4": {
+    "pass": true,
+    "reason": "The person heads to an exercise area at the start and is triumphant afterward, so it is reasonable to infer a workout sequence occurs in the middle."
+  },
+  "0238-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a clear causal chain (sniper aims → [gap] → opposing sniper is killed); the missing middle—the exchange of fire—can be logically inferred from the start and end states."
+  },
+  "0240-7.mp4": {
+    "pass": false,
+    "reason": "Continuous dancing with only minor, non-causal variations; the exact middle actions/onlooker appearances cannot be reliably inferred from the start and end."
+  },
+  "0247-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear, step-by-step cake-decorating process where intermediate actions (piping cream, adding fondant, crafting decorations) logically bridge the initial dome creation and the final assembled snow-globe cake, making the middle segment inferable from the start and end."
+  },
+  "0244-7.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-oriented sequence: man tries locked door, ends with car leaving without him — middle (interaction with Adam and unlocking passenger side) is causally inferable."
+  },
+  "0241-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of discrete impersonation skits; the middle characters/actions are not predictable from the beginning and end segments."
+  },
+  "0249-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear causal progression (balls released at start, seven collected at end), so the intermediate ball-by-ball movement can be reasonably predicted."
+  },
+  "0252-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a coherent journey from airport arrival to reaching the Taj Mahal; the middle travel/running segments logically bridge the start and end and can be inferred from them."
+  },
+  "0250-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear narrative of creating forced-perspective shots: initial creative shot → [gap] behind-the-scenes setup → later creative shot, so the missing middle can be reasonably inferred from the beginning and end."
+  },
+  "0254-7.mp4": {
+    "pass": true,
+    "reason": "The end (pen launched) logically follows from setting up a slingshot, so viewers can infer the middle steps of attaching the pen to the stretched band from the start and end scenes."
+  },
+  "0253-7.mp4": {
+    "pass": true,
+    "reason": "The scene evolves causally—from one ball rolling to multiple balls causing one to fly off—so given the start and the outcome, viewers can infer the intermediate steps of adding balls and increasing interactions."
+  },
+  "0257-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal continuity: a messy ‘clothes monster’ is present at the start and the floor is clean at the end, so one can infer an intervening cleanup action (robot vacuum sucking up clothes)."
+  },
+  "0263-7.mp4": {
+    "pass": true,
+    "reason": "The beginning shows men entering the slide and the end shows them emerging in the pool, so the missing middle (sliding down) is predictably inferable."
+  },
+  "0262-7.mp4": {
+    "pass": false,
+    "reason": "Although the clip is one continuous performance, the exact content of the middle (an impromptu close-up illusion with the drink) is not strongly implied by simply seeing the preparation at the start and the dancing/sipping at the end, so the missing segment would be hard to predict."
+  },
+  "0261-7.mp4": {
+    "pass": false,
+    "reason": "The video jumps from illusion demonstrations to 3-D printing footage and then to a cat interaction, making the exact middle events (printing process, extra marbles) hard to infer just from the beginning and end."
+  },
+  "0264-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear causal sequence (driver filmed → photo printed → driver receives photo) so the missing middle can be logically inferred."
+  },
+  "0265-7.mp4": {
+    "pass": false,
+    "reason": "Each reveal is an independent surprise with no causal progression, so the missing middle object cannot be inferred from the surrounding context."
+  },
+  "0270-7.mp4": {
+    "pass": true,
+    "reason": "The animation shows a clear progression—from one sphere to many orbiting spheres—so the middle is predictably about additional spheres appearing and arranging into transitional patterns."
+  },
+  "0269-7.mp4": {
+    "pass": true,
+    "reason": "The objects logically must be moved between their initial separate placements and their final side-by-side alignment, so the middle action can be inferred from the beginning and end."
+  },
+  "0271-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal progression: initial raking leads to disturbance, resulting in re-raking, so the middle event can be inferred from start and end."
+  },
+  "0275-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear causal sequence (setup → attempted vortex trick → final exposure of the trick), so the missing middle can be inferred from the surrounding context."
+  },
+  "0272-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous, goal-directed action (writing out multiplication tables) where the middle steps—writing each successive answer and making the observed mistakes—are logically inferable from the initial blank table and the final filled table."
+  },
+  "0280-7.mp4": {
+    "pass": false,
+    "reason": "The jump from a normal office scene to a post-apocalyptic cyborg future is too drastic; many unpredictable events could fill the 10-year gap, so the middle cannot be reliably inferred."
+  },
+  "0277-7.mp4": {
+    "pass": true,
+    "reason": "The gameplay follows a clear causal progression (recruiting and strengthening forces leading up to the boss encounter), so the intervening actions can be reasonably inferred from the start and end segments."
+  },
+  "0279-7.mp4": {
+    "pass": true,
+    "reason": "Continuous formation of a field-size cloth display—from partial shapes to completed player and ball—creates a predictable transformation that can be inferred from the start and end frames."
+  },
+  "0281-7.mp4": {
+    "pass": false,
+    "reason": "The video is a repetitive sequence of water-balloon pops; the middle contains more of the same action and cannot be uniquely inferred from the start and end."
+  },
+  "0283-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of unrelated hand-trick demonstrations by different people; there is no clear causal progression, so the middle segment cannot be reliably inferred from the beginning and end."
+  },
+  "0284-7.mp4": {
+    "pass": true,
+    "reason": "The actions unfold causally—from plugging in and closing the lamp to showing it lit and open—so a missing middle segment could be inferred from the surrounding context."
+  },
+  "0286-7.mp4": {
+    "pass": true,
+    "reason": "Given the start (photo taken) and the end (driver holding the photo), viewers can reasonably infer the middle steps of printing and delivering the photo."
+  },
+  "0290-7.mp4": {
+    "pass": true,
+    "reason": "The start sets up the balancing trick and the end shows multiple finished examples; the missing middle would logically show the creation/setup of those stands, which can be inferred from the before-and-after context."
+  },
+  "0294-7.mp4": {
+    "pass": true,
+    "reason": "The video is one continuous demonstration of an optical illusion; the middle camera rotation and movements logically connect the initial and final angles and can be predicted from them."
+  },
+  "0298-7.mp4": {
+    "pass": false,
+    "reason": "Middle consists of assorted, weakly connected shots (smoking, eye close-up, brief run) that can’t be reliably inferred just from the initial countdown and final alarm scene."
+  },
+  "0299-7.mp4": {
+    "pass": true,
+    "reason": "It shows a clear before-after transformation of the container; the missing middle (cleaning and refilling) is logically predictable from the start and end states."
+  },
+  "0301-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of arbitrary emotional expressions; knowing the initial excitement and final calm does not allow a reliable prediction of the specific middle reactions."
+  },
+  "0305-7.mp4": {
+    "pass": false,
+    "reason": "The scenes are abstract and disconnected, so the middle events cannot be inferred from the beginning and end."
+  },
+  "0306-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a coherent cooking process—preparation to finished dish—so the missing middle (pit roasting, vegetable cooking) is causally inferable from the start and end."
+  },
+  "0300-7.mp4": {
+    "pass": true,
+    "reason": "The water spill (cause) and the phone’s erratic posting with the person’s concern (effect) make it plausible to infer the middle event of water droplets triggering random touches on the screen."
+  },
+  "0302-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal progression: after picking up hammer and nails, he must hammer them before showing the partially finished result, so the middle is predictable."
+  },
+  "0311-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal progression: waterlogged lot → [gap] → lot drained; the missing middle (man stirring water to clear drain) can be inferred from start and end states."
+  },
+  "0315-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of separate hand illusions; knowing the first and last trick doesn’t allow one to infer the unrelated illusion performed in the middle."
+  },
+  "0314-7.mp4": {
+    "pass": false,
+    "reason": "The video consists of unpredictable performer swaps in a comedic routine, so the middle actions cannot be reliably inferred from the beginning and end."
+  },
+  "0317-7.mp4": {
+    "pass": true,
+    "reason": "The sequence has clear causal continuity: after nitrogen fails to stick, producing liquid oxygen is a predictable intermediate step before showing it attracted to the magnets."
+  },
+  "0322-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of several unrelated baseball highlight clips; the middle cannot be inferred from the beginning and end segments."
+  },
+  "0316-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0328-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of separate skateboarding mishap examples without causal continuity; the middle scenes cannot be predicted from the first and last segments."
+  },
+  "0324-7.mp4": {
+    "pass": true,
+    "reason": "The card-playing sequence has clear cause-and-effect: cards are played, leading the woman to draw cards, so the missing middle can be inferred from the start and end."
+  },
+  "0326-7.mp4": {
+    "pass": false,
+    "reason": "The action (pulling out different wrapped objects) repeats without a clear causal progression, so the exact middle segment cannot be reliably inferred from the beginning and end."
+  },
+  "0331-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear, goal-directed sequence—from starting to draw the DJ setup to the group’s celebration—so the middle (finishing the setup and pretending to scratch) can be logically inferred from the beginning and end."
+  },
+  "0330-7.mp4": {
+    "pass": false,
+    "reason": "Highlight compilation consists of independent, unrelated clips; the middle segment cannot be inferred from the surrounding clips."
+  },
+  "0329-7.mp4": {
+    "pass": true,
+    "reason": "The action (jump/balloon launch → descent → parachute landing) follows a clear causal sequence, so the middle segment is inferable from the start and end."
+  },
+  "0333-7.mp4": {
+    "pass": true,
+    "reason": "The thrown javelin followed by the cameraman’s frightened reaction creates a clear causal chain, allowing viewers to infer the missing middle (the javelin nearly hitting or landing near him)."
+  },
+  "0335-7.mp4": {
+    "pass": true,
+    "reason": "Goal-directed action (running an obstacle course) with clear progression; given start and triumphant finish, one can infer continued obstacle navigation in the middle."
+  },
+  "0338-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal progression: egg sits on bottle, later bottle is empty; missing middle is the predictable removal/disappearance of the egg."
+  },
+  "0337-7.mp4": {
+    "pass": true,
+    "reason": "The sequence shows a clear, goal-driven progression (completing a heart drawing across family members), so the middle actions can be inferred from the start and end."
+  },
+  "0344-7.mp4": {
+    "pass": false,
+    "reason": "Scenes shift from an umbrella encounter to a night-time confrontation with metal objects, lacking a clear causal thread that would let viewers predict the missing middle."
+  },
+  "0343-7.mp4": {
+    "pass": true,
+    "reason": "Given skiers poised before a ramp and later shown landing, it is natural to infer the missing middle involves them being airborne performing tricks, satisfying temporal continuity."
+  },
+  "0345-7.mp4": {
+    "pass": false,
+    "reason": "The series of costume changes is a creative montage; knowing the first and last outfits doesn’t let one reliably infer which unpredictable character transformations occur in the middle."
+  },
+  "0347-7.mp4": {
+    "pass": false,
+    "reason": "Parkour chase contains many unpredictable stunts; the specific mid-scene jump cannot be reliably inferred from just the beginning and end."
+  },
+  "0348-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous self-defense training scenario where actions logically progress from threat introduction to practice drills and final demonstrations, making the missing middle segment inferable from the surrounding context."
+  },
+  "0349-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression: observing the class leads to fear, which explains his eventual decision to run away, so the middle segment can be inferred from start and end."
+  },
+  "0350-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression from a partially solved cube to a fully solved one, so the missing middle can be inferred as continued cube manipulation leading to the solution."
+  },
+  "0351-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of unrelated trick clips with no single coherent start–gap–end sequence, so the middle cannot be predicted from surrounding context."
+  },
+  "0352-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear, goal-directed sequence (gradually filling a glass until it overflows), so the middle actions—continued turns at the tap and rising tension—can be inferred from the start and end."
+  },
+  "0355-7.mp4": {
+    "pass": true,
+    "reason": "The setup (man hides in bed) and outcome (wife discovers him) make the middle event—wife entering and getting into bed—logically predictable."
+  },
+  "0356-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of separate juggling attempts with repeated action; knowing the start and end of the overall clip doesn’t allow reliable inference of the specific middle segment."
+  },
+  "0353-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of unrelated reversed clips with no single causal chain, so the middle segment cannot be predicted from the beginning and end."
+  },
+  "0360-7.mp4": {
+    "pass": false,
+    "reason": "The prank-driven seat-swap and arrival of a pregnant woman are unexpected plot twists that cannot be reliably predicted from only the opening (shoelace tying, seat offered) and the ending (drink spilled, laughter)."
+  },
+  "0363-7.mp4": {
+    "pass": false,
+    "reason": "The sequence is a series of unrelated illusion demos (cube, then ruler) with no single causal process; the middle cannot be reliably inferred from the start and end."
+  },
+  "0362-7.mp4": {
+    "pass": false,
+    "reason": "The action (playing tubes with matching shoe colors) is a repetitive pattern where the specific middle colors/actions cannot be inferred from the beginning and end."
+  },
+  "0359-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a step-by-step creation of an artwork, so the middle (continued painting and adding elements) can be reasonably inferred from the start and the finished piece."
+  },
+  "0365-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of separate gags with no causal link; the middle actions cannot be predicted from the beginning and end."
+  },
+  "0364-7.mp4": {
+    "pass": true,
+    "reason": "The sequence has clear causal continuity (queue-jump attempt → confrontation → person on floor), allowing the middle action (push causing fall) to be inferred from the beginning and end."
+  },
+  "0366-7.mp4": {
+    "pass": true,
+    "reason": "The middle (frantic cleanup) is a predictable causal bridge between hearing mom arrive and sitting back down before she enters."
+  },
+  "0375-7.mp4": {
+    "pass": true,
+    "reason": "The transition from preparing a disguise to performing learned bar moves implies a necessary middle phase where he interacts with others to get instructions, which can be reasonably inferred."
+  },
+  "0367-7.mp4": {
+    "pass": false,
+    "reason": "The video contains a scene change to a different couple, breaking causal continuity; what happens in the middle cannot be reliably inferred from the beginning and end."
+  },
+  "0378-7.mp4": {
+    "pass": false,
+    "reason": "Montage of unrelated short clips without a coherent causal progression, so the middle cannot be predicted from the surrounding parts."
+  },
+  "0376-7.mp4": {
+    "pass": true,
+    "reason": "Single continuous prank-to-dance sequence; knowing he fakes a fall and later finishes dancing lets viewers infer the intervening reveal and dance moves."
+  },
+  "0380-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear causal sequence: watching the TikTok, then attempting to imitate it, so events in the middle (the man trying the effect) can be inferred from the beginning and end."
+  },
+  "0382-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous juice-making process where, given the start (first fruit inserted) and the end (juice poured), one can infer that additional fruits are added and juiced in the middle."
+  },
+  "0381-7.mp4": {
+    "pass": false,
+    "reason": "The video shows continuous dancing with no clear progression or causal change, so the middle cannot be uniquely inferred from the beginning and end."
+  },
+  "0385-7.mp4": {
+    "pass": true,
+    "reason": "The setup shows the scare box being prepared and the ending shows the woman reacting, so the missing middle—her opening the box and triggering the scare—can be logically inferred."
+  },
+  "0388-7.mp4": {
+    "pass": true,
+    "reason": "The video has clear causal progression from assembling the rubber-band fan to it spinning, allowing the missing middle assembly step to be inferred."
+  },
+  "0383-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a continuous, goal-directed sequence (homeowner repelling an intruder); given the start of the break-in and the final subduing of the intruder, viewers can plausibly infer booby-trap confrontations occur in the middle."
+  },
+  "0389-7.mp4": {
+    "pass": true,
+    "reason": "It shows a clear progression from one person to several, so the middle gap should depict additional people joining, which can be inferred from the start and end."
+  },
+  "0391-7.mp4": {
+    "pass": true,
+    "reason": "The prank setup (blocking the car) naturally leads to the car occupants confronting him, which in turn explains why he runs away at the end, so the missing middle is inferable from start and finish."
+  },
+  "0390-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous chase: men flee, are pursued through successive rooms, and end up stuck with the woman; the middle segment (ongoing pursuit through the house) can be reasonably inferred from the start and end."
+  },
+  "0393-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression (melting chocolate → [gap] → hardened chocolate star), making the middle action of squeezing melted chocolate into cold water reasonably predictable."
+  },
+  "0392-7.mp4": {
+    "pass": true,
+    "reason": "The sequence (object inserted → object shown inside → object shaken out) forms a clear causal progression, so the middle can be reasonably inferred from the beginning and end."
+  },
+  "0394-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear, continuous interaction—after the criticism at the start, the predictable middle is the man moving aside while the other person performs more elaborate shadow puppets, leading to the joint observation seen at the end."
+  },
+  "0395-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous, goal-directed transformation—from initial pose to a completed chameleon shape—so the middle actions can be reasonably inferred from the start and end frames."
+  },
+  "0400-7.mp4": {
+    "pass": false,
+    "reason": "The video consists of free-form dance moves without a clear causal progression, so the middle segment cannot be reliably predicted from the start and end."
+  },
+  "0398-7.mp4": {
+    "pass": true,
+    "reason": "Continuous causal sequence (science experiment) where middle actions—placing bottle, flame going out—are inferable from initial setup and final liquid rise."
+  },
+  "0401-7.mp4": {
+    "pass": true,
+    "reason": "The sequence follows a clear goal-directed action (getting ketchup onto fries); after an initial failed squeeze and before the meal is eaten, a corrective but messy attempt in the middle is predictable."
+  },
+  "0402-7.mp4": {
+    "pass": true,
+    "reason": "The setup of the upside-down mug prank naturally leads to the later spill; viewers can plausibly infer the intermediate scene of the parents arriving and attempting to drink."
+  },
+  "0404-7.mp4": {
+    "pass": false,
+    "reason": "The video is a continuous dance with no clear causal progression, so the specific middle gesture cannot be reliably inferred from the beginning and end."
+  },
+  "0405-7.mp4": {
+    "pass": false,
+    "reason": "The video shows repetitive optical-illusion loops with no causal progression, so the middle segment cannot be uniquely inferred from the beginning and end."
+  },
+  "0403-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0407-7.mp4": {
+    "pass": false,
+    "reason": "Continuous dance routine without a clear causal progression; middle choreography cannot be reliably inferred from the start and end."
+  },
+  "0406-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of separate science tricks; knowing the first and last tricks doesn’t allow one to infer which unrelated tricks occur in the middle."
+  },
+  "0408-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear step-by-step transformation (text on paper → [gap] → text on tape inside a pencil box), so the missing middle actions can be logically inferred from the start and end states."
+  },
+  "0409-7.mp4": {
+    "pass": true,
+    "reason": "The men’s shocked reactions and ensuing confusion naturally follow from being kissed and precede the closing disbelief shots, so the middle can be causally inferred from the start and end."
+  },
+  "0412-7.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": false, \"reason\": \"The video combines two unrelated segments (facial expression trick, then lemon-squeezing challenge),"
+  },
+  "0415-7.mp4": {
+    "pass": false,
+    "reason": "The prank of feeding tissue is an unexpected, non-causal event that cannot be reliably inferred from the normal eating actions seen before and after."
+  },
+  "0413-7.mp4": {
+    "pass": true,
+    "reason": "The magic trick unfolds continuously: the start sets up the trick, the end shows the object's disappearance, so the middle must contain the sleight-of-hand actions that connect the two."
+  },
+  "0418-7.mp4": {
+    "pass": true,
+    "reason": "The setup (two equal drinks) and the outcome (woman grimacing, man laughing) make it plausible to deduce that some trick or swap happened in the middle, so the intervening actions are inferable from start and end."
+  },
+  "0425-7.mp4": {
+    "pass": true,
+    "reason": "Single continuous action (people pouring/splashing water) with clear start and end, so the intermediate pouring motion is causally predictable."
+  },
+  "0424-7.mp4": {
+    "pass": true,
+    "reason": "Both split-screen sequences follow clear start→attempt→outcome progressions (boy solves cube, man fails to tape banana), so the middle actions are causally/temporally inferable from the before-and-after context."
+  },
+  "0422-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0428-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear transformation (small ball to large ball) where the middle frames depict the growth, which can be inferred from the start and end states."
+  },
+  "0429-7.mp4": {
+    "pass": true,
+    "reason": "There is a coherent causal sequence—viewers react to the painted pit before its reveal—so the middle reaction can be inferred from the start (first reaction) and end (reveal)."
+  },
+  "0431-7.mp4": {
+    "pass": false,
+    "reason": "The trick ‘glitch’ shot in the middle is surprising and not inferable just from seeing a dribble at the start and the ball in the hoop at the end."
+  },
+  "0436-7.mp4": {
+    "pass": false,
+    "reason": "The middle (man levitating and crashing) is an unexpected, non-inferable stunt; knowing only that he starts and ends washing the car would not let one predict this surprising event."
+  },
+  "0437-7.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-directed transformation (intact padlock → water-jet cutting → separated pieces) allows middle action to be inferred from start and end."
+  },
+  "0442-7.mp4": {
+    "pass": true,
+    "reason": "The transition from standing on a cliff to descending under an open parachute reasonably implies a free-fall/base-jump phase in the middle, making the gap inferable."
+  },
+  "0440-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous, goal-directed action (riding a longboard downhill); given the start (crouched) and end (cruising farther down the road), the middle—standing up and re-orienting while continuing the descent—is predictably inferable."
+  },
+  "0443-7.mp4": {
+    "pass": true,
+    "reason": "The disgust-to-delight shift implies a causal middle where the silver performer switches the offensive prop for a pleasing one, a change that can be reasonably inferred from the contrasting start and end states."
+  },
+  "0444-7.mp4": {
+    "pass": true,
+    "reason": "Given the start of the lion approaching and the end where it jumps on the man, viewers can reasonably infer that the missing middle shows the lion continuing to walk closer toward him."
+  },
+  "0446-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of separate animal-booping clips has no overarching causal progression, so the middle segment cannot be inferred from the beginning and end."
+  },
+  "0455-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal continuity: magnet works at start and is demagnetized at end, so the middle must show a demagnetizing action (heating), which can be reasonably inferred."
+  },
+  "0457-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a logical progression of sword-cutting demonstrations; given an expert cut at the start and end, it is reasonable to predict intermediate practice attempts and evaluations in the middle."
+  },
+  "0458-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear transformation (painted car → sandblasted bare metal) so the missing middle—sandblasting in progress—can be logically inferred from the beginning and end."
+  },
+  "0459-7.mp4": {
+    "pass": false,
+    "reason": "The video is essentially continuous rollerblading throughout; no clear, causally distinct middle event can be uniquely inferred from the start and end shots."
+  },
+  "0460-7.mp4": {
+    "pass": true,
+    "reason": "Clear goal-directed action: stem prepared at start and flower revealed at end, making the intermediate folding steps causally inferable."
+  },
+  "0461-7.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-oriented escalation of tools makes the middle attempts predictable from the failed start and the still-intact end."
+  },
+  "0462-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a step-by-step food preparation process with a clear transformation from raw mixture to served dessert. Given the start (pouring/cutting) and the end (plated kuzukiri), viewers can reasonably infer the intermediate cooling/rinsing and plating steps."
+  },
+  "0465-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of independent prank clips without a continuous causal sequence, so the middle cannot be inferred from the beginning and end."
+  },
+  "0464-7.mp4": {
+    "pass": true,
+    "reason": "Continuous goal-directed run: starting crowd advances and ends at a boss fight, so middle is predictably obstacle navigation that alters crowd size"
+  },
+  "0470-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of disparate Rubik's Cube stunts (skydiving, tabletop, underwater, space) with no single continuous action, so the middle cannot be inferred from the beginning and end."
+  },
+  "0472-7.mp4": {
+    "pass": true,
+    "reason": "The shuttlecock popping out at the end logically requires that it be placed inside the container after the start, so the middle action is causally inferable from the before-and-after scenes."
+  },
+  "0471-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of unrelated meme placements with no causal or temporal progression, so the middle cannot be inferred from the beginning and end."
+  },
+  "0476-7.mp4": {
+    "pass": true,
+    "reason": "Continuous goal-directed action of separating sheep through a gate; middle segment predictably involves further opening/closing and moving sheep."
+  },
+  "0473-7.mp4": {
+    "pass": false,
+    "reason": "The middle section (him sleeping on two additional women) is a random comedic detour that cannot be causally inferred from the initial and final states."
+  },
+  "0469-7.mp4": {
+    "pass": true,
+    "reason": "Preparation for haircut leads naturally to a finished haircut; the missing middle (the cutting itself) is causally predictable from start and end."
+  },
+  "0474-7.mp4": {
+    "pass": false,
+    "reason": "The clone creation and stylized VFX fight are surprising elements that cannot be reliably inferred from just the initial camera setup and the final jump over a crack."
+  },
+  "0477-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0478-7.mp4": {
+    "pass": true,
+    "reason": "Beginning confronts person with armed intruder; ending shows that person hiding with the hammer, so one can infer a struggle and disarmament occurred in the missing middle."
+  },
+  "0480-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear causal sequence: hotdogs and ketchup are introduced, and later a blended red paste appears. The missing middle (the blending) can be logically inferred from the before and after scenes."
+  },
+  "0481-7.mp4": {
+    "pass": true,
+    "reason": "Single, goal-directed stunt: starting on teammates’ hands and ending seated in the hoop implies the predictable middle step of being lifted/placed into the basket."
+  },
+  "0479-7.mp4": {
+    "pass": true,
+    "reason": "The prank setup at the start logically leads to the playful confrontation and resolution at the end, so the missing middle (fearful investigation and reveal) can be reasonably inferred."
+  },
+  "0482-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear causal sequence—following instructions on signs leads from holding a package to wearing a costume—so the middle events are inferable from the start and end."
+  },
+  "0483-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a clear, goal-directed sequence (preparation of bottle → [gap] → bottle successfully inverted without spilling), so the missing middle action can be logically inferred from the start and end states."
+  },
+  "0484-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear causal progression (pre-run prep → [gap] → post-run recovery), so the missing middle—her actual run—is predictable from the start and end."
+  },
+  "0488-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear causal narrative (bully attacks → [gap] → victim safely emerges and bully backs off) where the middle event—an intervention stopping the bullying—can be logically inferred."
+  },
+  "0487-7.mp4": {
+    "pass": true,
+    "reason": "The transition from simply walking to an ongoing choreographed fight makes it likely that viewers could infer the missing middle fight sequence from the calm start and the continued fight at the end."
+  },
+  "0490-7.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-directed sequence (cat in bathroom → [gap] bath actions/products added → cat confronts many bath items); middle actions are causally predictable from start and end."
+  },
+  "0489-7.mp4": {
+    "pass": true,
+    "reason": "The artist’s drawing process unfolds causally: after selecting prompts she works toward the final illustration, so the missing middle (continuing to pick cards and draw) can be inferred from the start and end."
+  },
+  "0491-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of separate magic tricks whose middles rely on hidden sleight-of-hand; the outcome cannot be causally inferred from the visible start and end, so it lacks predictable temporal continuity."
+  },
+  "0493-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous painting process (blank canvas to finished artwork), so the transformative middle can be reasonably inferred from the start and end."
+  },
+  "0498-7.mp4": {
+    "pass": true,
+    "reason": "It is a single continuous driving scene where the gap would simply show the second car approaching, which can be inferred from the start (one car) and end (two cars) frames."
+  },
+  "0492-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal flow—zombies approach the buried man, later they lie ‘dead’; the missing middle is the predictable confrontation, so viewers can infer the gap."
+  },
+  "0502-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of independent trick-shot attempts with no causal link between segments, so the middle cannot be inferred from the surrounding parts."
+  },
+  "0499-7.mp4": {
+    "pass": false,
+    "reason": "Scenes shift between unrelated events (woman walking, dog appearance, cat tearing photo); middle actions aren’t inferable just from the opening cat-at-window shot and the calm ending."
+  },
+  "0503-7.mp4": {
+    "pass": true,
+    "reason": "A serve leading to a celebrated point implies a predictable rally sequence in the middle, so the gap can be reasonably inferred."
+  },
+  "0506-7.mp4": {
+    "pass": true,
+    "reason": "The car arrives and later is ready to depart with the crew around it, so the predictable middle is the pit crew servicing the vehicle, which follows clear causal continuity."
+  },
+  "0505-7.mp4": {
+    "pass": true,
+    "reason": "Given the setup (targets launched) and the outcome (targets shattered and falling), the missing middle—shooting the targets—is logically predictable from the surrounding context."
+  },
+  "0508-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of independent science demonstrations lacks a single causal storyline, so the middle cannot be inferred from the beginning and end."
+  },
+  "0510-7.mp4": {
+    "pass": false,
+    "reason": "The video is a continuous demonstration of a puppet’s movements with no distinct start-state and end-state that would allow the missing middle to be inferred."
+  },
+  "0511-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of separate bowling attempts and repeated reaction shots with no single causal progression, so the missing middle cannot be reliably inferred from the start and end."
+  },
+  "0514-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal sequence (chip dropped → dogs anticipate → one eats chip) allows the middle waiting period to be plausibly inferred."
+  },
+  "0517-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear transformation sequence—wood shavings collected then finished incense revealed—so the intermediate molding/pressing step is predictably deducible from the start and end."
+  },
+  "0521-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear object transformation (white ball → red ball), so the missing middle—where the magician performs the secret move—can be inferred from the causal progression between start and end."
+  },
+  "0519-7.mp4": {
+    "pass": true,
+    "reason": "The encounter triggers a causal chain (spill → security response → chase) that unfolds logically, so the missing middle can be inferred from the beginning and ending states."
+  },
+  "0523-7.mp4": {
+    "pass": true,
+    "reason": "The narrative is continuous: the gun is lost, the man tries various ways to retrieve it, and by the end he has it back, so the middle retrieval attempts can be inferred from the start and end."
+  },
+  "0528-7.mp4": {
+    "pass": false,
+    "reason": "The entire clip is a continuous looping swing motion; the middle offers no distinct, causally predictable event beyond the same swinging seen at the start and end."
+  },
+  "0527-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal continuity—an intact car becomes damaged, so the middle (the collision with the bear) can be reasonably inferred from the before-and-after scenes."
+  },
+  "0532-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear goal-directed sequence (RC car sent to buy items → [gap] → car returns with purchased items), so the middle interaction can be reasonably inferred from start and end."
+  },
+  "0533-7.mp4": {
+    "pass": true,
+    "reason": "It depicts a logical, ordered procedure (lattice multiplication); the intermediate drawing/counting steps are causally needed to get from the initial equation to the final answer, so the middle can be inferred."
+  },
+  "0529-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0534-7.mp4": {
+    "pass": false,
+    "reason": "The middle consists of specific optical illusions and hidden-object challenges whose content cannot be reliably inferred only from the initial eye-covering introduction and the final reveal of hidden items."
+  },
+  "0540-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of loosely connected skit-style cuts; the middle actions (water pouring, red object, reactions) cannot be reliably inferred just from the initial Coke pour and the final reveal."
+  },
+  "0538-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear causal progression (abandonment → [gap] → new companionship) so the middle—dog’s sadness and eventual rescue—can be reasonably inferred from the start and end."
+  },
+  "0543-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of unrelated comic skits in different settings, so the middle segment cannot be inferred from the beginning and end."
+  },
+  "0536-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0544-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of unrelated sports and trick clips; middle content can’t be inferred from surrounding segments."
+  },
+  "0545-7.mp4": {
+    "pass": true,
+    "reason": "Continuous demonstration of sequential optical experiments where the intermediate step (convex lens convergence) can be inferred from the initial setup and the final divergent outcome."
+  },
+  "0546-7.mp4": {
+    "pass": false,
+    "reason": "Montage of assorted, unrelated skits (people, cats, melting candy, spring toy) lacks a single causal progression, so the middle cannot be predicted from the beginning and end."
+  },
+  "0549-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of unrelated craft and prank clips; no coherent causal progression, so middle segment is not predictable from surrounding parts."
+  },
+  "0550-7.mp4": {
+    "pass": false,
+    "reason": "After the brief intro, the video stays on a single static optical-illusion image with explanatory text, leaving no evolving action that could be inferred for a missing middle segment."
+  },
+  "0547-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of independent bungee-jump clips; knowing the first and last jump doesn’t allow one to infer which unrelated jump occurs in the middle."
+  },
+  "0553-7.mp4": {
+    "pass": false,
+    "reason": "While actions occur in sequence, the specific middle event (secretly adding something to one drink) is not deterministically implied by seeing the men seated at the start and the man sipping at the end; the intervening action is hard to predict, so the video is unsuitable for a temporal cloze task."
+  },
+  "0555-7.mp4": {
+    "pass": true,
+    "reason": "The tape measure’s continuous action (extending upward and ultimately pulling a planet down) provides a clear causal chain, so the intermediate attempt to catch or react to the tape can be reasonably inferred from the start and end."
+  },
+  "0557-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear, causally connected progression from ball possession to goal celebration, allowing the dribble and shot in the middle to be inferred."
+  },
+  "0556-7.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": false, \"reason\": \"The sequence is a series of separate illusion demos, so the specific middle content (the grey Penrose"
+  },
+  "0560-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a logical problem-solving sequence (identify angles → do algebra → pick answer), so the middle algebraic steps can be inferred from the beginning and end."
+  },
+  "0562-7.mp4": {
+    "pass": false,
+    "reason": "The middle segment consists of unpredictable rapid costume and mask changes set to music, lacking a causal sequence that could be inferred from the beginning and end."
+  },
+  "0563-7.mp4": {
+    "pass": true,
+    "reason": "Painting progresses logically from initial spill to completed artwork, so the intervening strokes/details are inferable from the start and end."
+  },
+  "0564-7.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-directed whipped-cream challenge; given early and late participants smearing/eating cream, it’s predictable that others do the same in the middle."
+  },
+  "0573-7.mp4": {
+    "pass": false,
+    "reason": "Series of unrelated comedic skits with no clear causal progression, so middle events cannot be predicted from beginning and end."
+  },
+  "0568-7.mp4": {
+    "pass": false,
+    "reason": "The video consists of successive optical-illusion images with commentary; the specific middle content cannot be predicted from the initial reaction and the final freeze-frame."
+  },
+  "0569-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression: an unopened bottle and man with only one free hand → [gap] → man now drinking, so viewers can infer that the bottle was opened (likely with assistance) during the missing middle."
+  },
+  "0570-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0574-7.mp4": {
+    "pass": false,
+    "reason": "Series of independent attempts; knowing first success and later failures doesn’t allow the specific mix of mid-sequence outcomes to be inferred"
+  },
+  "0572-7.mp4": {
+    "pass": true,
+    "reason": "Each segment depicts a clear transformation sequence (person A wiping mirror → [gap] → person B appears), so the missing middle can be logically inferred from the causal progression."
+  },
+  "0577-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a clear causal sequence of phase change; knowing the solid start and re-solidified end allows viewers to infer the melting/liquid middle."
+  },
+  "0584-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of unrelated comedic segments (slackline, sand dune, tennis) with no single causal storyline, so the middle cannot be inferred from the beginning and end."
+  },
+  "0579-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous, goal-directed action (father and daughter cutting candy of successive colors), so the middle segment is predictably more candy-cutting between the start and end scenes."
+  },
+  "0582-7.mp4": {
+    "pass": true,
+    "reason": "The progression from playful greeting to one man carrying the other naturally implies a middle segment where the shoulder-mount occurs, making the gap reasonably predictable."
+  },
+  "0587-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of separate mascot skits with no single causal storyline, so the middle segment cannot be predicted from the beginning and end."
+  },
+  "0591-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of independent trick-shot segments, so knowing the beginning and end does not let you infer what specific, unrelated trick occurs in the middle."
+  },
+  "0592-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a coherent, goal-directed sequence (removing old light → [gap] painting ceiling and installing new light → finished Iron Man ceiling art), so the missing middle can be plausibly inferred from the surrounding context."
+  },
+  "0594-7.mp4": {
+    "pass": false,
+    "reason": "The entire video consists of the same repetitive action—boy touches various objects and the colour bar changes—so the exact middle segment cannot be uniquely inferred from the beginning and end."
+  },
+  "0593-7.mp4": {
+    "pass": true,
+    "reason": "Single continuous scene where a betting challenge escalates; the middle (higher-stake attempts to hit the celery) follows predictably from the initial $20 offer and precedes the final car-prize discussion."
+  },
+  "0599-7.mp4": {
+    "pass": false,
+    "reason": "Sequence of independent stunts; knowing start and end doesn’t let you infer which specific emoji jump occurs in the middle."
+  },
+  "0601-7.mp4": {
+    "pass": true,
+    "reason": "It depicts a goal-oriented sequence—initial miss to eventual success—so the midpoint (more practice attempts and partial successes) is predictably inferable from the start and end."
+  },
+  "0596-7.mp4": {
+    "pass": true,
+    "reason": "Beginning shows recruitment for performers and ending shows excitement after performance, so middle logically contains the singing segment, making it temporally inferable."
+  },
+  "0602-7.mp4": {
+    "pass": true,
+    "reason": "The bottle-flipping challenge has clear temporal continuity: after the setup and before the boy’s winning flip, the missing segment would logically show ongoing flip attempts, which can be reasonably inferred from the beginning and end."
+  },
+  "0598-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear, ordered challenge where each level’s difficulty increases, so given the early easy successes and the later near-fails, one can reasonably infer intermediate attempts with moderate struggle in the middle."
+  },
+  "0606-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of separate stunt clips without a continuous causal sequence, so the middle cannot be inferred from the beginning and end."
+  },
+  "0604-7.mp4": {
+    "pass": true,
+    "reason": "Progressive balance challenge with participants gradually falling makes the middle (second fall) inferable from the start (all balancing) and end (one winner)"
+  },
+  "0613-7.mp4": {
+    "pass": true,
+    "reason": "The scene follows a clear causal sequence (request → altruistic act → reward) so the middle interaction can be logically inferred from the start and end."
+  },
+  "0617-7.mp4": {
+    "pass": true,
+    "reason": "The action of applying a continuous white strip to the car progresses predictably from start to finish, so the missing middle can be inferred from the visible beginning and end."
+  },
+  "0608-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous goal-directed sequence—collecting scattered balls—so given the start (initial kicks) and the end (ball transported in shirt), one can reasonably infer intervening retrieval attempts."
+  },
+  "0605-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of independent, similar batting clips whose specific middle action (which player, score) cannot be inferred from the surrounding segments; it’s effectively repetitive rather than causally continuous."
+  },
+  "0615-7.mp4": {
+    "pass": true,
+    "reason": "Single, continuous magic act where intermediate steps (calling a kid, performing trick) logically bridge the start (hand in hat) and end (axe hand-off)."
+  },
+  "0611-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0622-7.mp4": {
+    "pass": true,
+    "reason": "Animation shows a gradual, causal build-up of lines and dots from sparse to full rotating circle, so middle progression is inferable from start and end."
+  },
+  "0635-7.mp4": {
+    "pass": false,
+    "reason": "A supercut of unrelated skill demonstrations lacks a single causal narrative, so middle content cannot be inferred from the start and end."
+  },
+  "0641-7.mp4": {
+    "pass": false,
+    "reason": "The video is composed of two unrelated scenes with no clear causal link, making the middle segment unpredictable from the beginning and end."
+  },
+  "0623-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0634-7.mp4": {
+    "pass": true,
+    "reason": "The drawing develops step-by-step from initial outlines to a finished design, so intermediate strokes can be inferred from the start and end states."
+  },
+  "0619-7.mp4": {
+    "pass": true,
+    "reason": "Continuous downhill skateboarding sequence where the middle slide maneuver can be logically inferred from the approach and the recovery shown before and after."
+  },
+  "0642-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous, goal-directed sequence (taking the hat and signing autographs); given the start (hat on string) and end (signing for fans), the missing middle—removing the hat and beginning to sign—is reasonably inferable."
+  },
+  "0648-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a clear causal sequence (child inside car → gap → child hands something to kids outside), making the missing middle segment predictable."
+  },
+  "0653-7.mp4": {
+    "pass": true,
+    "reason": "The end state (car stopped and tilted) can be causally inferred from the initial normal driving, suggesting an intervening crash that fits a predictable temporal progression."
+  },
+  "0640-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0649-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal continuity: riding a motorcycle leads to a crash, resulting in the injured scene, so the middle (the collision) can be reasonably inferred from the beginning and end."
+  },
+  "0650-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear, goal-directed sequence (athletes prepare → [gap] → winner celebrated), so the missing middle—the actual sprint—can be logically inferred from the start and end."
+  },
+  "0656-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of unrelated sprinting variations; knowing the start and end does not allow one to predict which arbitrary exercise appears in the middle."
+  },
+  "0654-7.mp4": {
+    "pass": true,
+    "reason": "The middle shows the expected progression of the race between the start and the finish, which can be reasonably inferred from the beginning and end."
+  },
+  "0657-7.mp4": {
+    "pass": false,
+    "reason": "The action (swimmer continuously battling a strong current) is essentially the same throughout, so the middle segment offers no distinct, predictable event beyond ongoing swimming."
+  },
+  "0659-7.mp4": {
+    "pass": true,
+    "reason": "It shows a cooking sequence where the middle (adding and blending ingredients) logically bridges hollowing the sweet potatoes and the finished, presented result."
+  },
+  "0663-7.mp4": {
+    "pass": false,
+    "reason": "It is a repetitive sequence of people jumping into a pool; the omitted middle section would look much like the rest, so it cannot be specifically inferred."
+  },
+  "0662-7.mp4": {
+    "pass": true,
+    "reason": "Single continuous sequence (setup → escalating pain → collapse) with clear causal progression, so the middle reactions can be inferred from start and end."
+  },
+  "0661-7.mp4": {
+    "pass": true,
+    "reason": "The start shows the man bowling and the end shows his surprised reaction after the pins fall, so the missing middle logically involves the ball(s) rolling toward and striking the pins, giving clear causal continuity."
+  },
+  "0660-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0665-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous feeding sequence (food prepared on RC car → [gap] → other cats eating), so the middle actions of car moving and cats eating follow logically from the start and end."
+  },
+  "0668-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a clear, goal-directed dressing sequence (from casual clothes to full firefighting gear), so the missing middle actions can be inferred from the start and end states."
+  },
+  "0666-7.mp4": {
+    "pass": true,
+    "reason": "It depicts a continuous food-prep process whose middle (adding/mixing ingredients) can be logically inferred from the initial plain ice cream and the finished topped dessert."
+  },
+  "0669-7.mp4": {
+    "pass": true,
+    "reason": "The action of a ball being thrown toward a hoop and ultimately scoring has clear causal continuity; the middle (ball’s flight/bounces) can be reasonably inferred from the start and end."
+  },
+  "0681-7.mp4": {
+    "pass": true,
+    "reason": "The throw and later surprised inspection under the tree create clear causal continuity, making the intermediate outcome of the bucket/trick reasonably inferable."
+  },
+  "0671-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0676-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear causal sequence (father’s sly action leads to wife’s anger and money reveal), so the missing middle can be inferred from the start and end."
+  },
+  "0683-7.mp4": {
+    "pass": true,
+    "reason": "Clear chronological progression (kid → student → adult) makes the middle student segment reasonably inferable from the beginning and end stages."
+  },
+  "0682-7.mp4": {
+    "pass": true,
+    "reason": "Conversational setup leads logically to the punch-line reaction; the middle (mom using the acronyms back at him) can be inferred from the start and end."
+  },
+  "0691-7.mp4": {
+    "pass": true,
+    "reason": "Continuous prank narrative with a clear transformation (dress change) linking the start (sneaking away) to the end (man fooled), so the missing middle can be inferred."
+  },
+  "0685-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear causal sequence—from finding the glue trap to the cat’s safe rescue—so the intermediary handling steps can be sensibly inferred."
+  },
+  "0693-7.mp4": {
+    "pass": true,
+    "reason": "The setup (aiming toy gun) and outcome (victim re-emerges with balloon) imply a continuous, goal-directed confrontation where the intervening hide-and-seek actions can be logically inferred."
+  },
+  "0688-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal progression from prank setup to reveal; middle (luring and pie throw) is predictable from start and end."
+  },
+  "0686-7.mp4": {
+    "pass": true,
+    "reason": "Continuous prank scenario: after setting up tape barrier and before laughing at prank’s success, it is predictable that the boy would interact with or try to remove the tape in the middle."
+  },
+  "0694-7.mp4": {
+    "pass": true,
+    "reason": "The action progresses logically as different players sequentially attempt the same cone-guided shot, so the events occurring between the start (first player misses) and the end (third player succeeds) can be sensibly inferred."
+  },
+  "0692-7.mp4": {
+    "pass": true,
+    "reason": "Seeing the kids around money and later the child running with the man chasing makes it plausible to infer the intervening theft, giving clear causal/temporal continuity."
+  },
+  "0697-7.mp4": {
+    "pass": true,
+    "reason": "Burger goes from whole to finished; the middle logically shows progressive eating, a predictable causal progression."
+  },
+  "0696-7.mp4": {
+    "pass": true,
+    "reason": "The sequence shows a clear goal-oriented progression (playing → arranging balls → achieved T-shape win), so the middle action of placing and adjusting balls can be inferred from the start and end."
+  },
+  "0699-7.mp4": {
+    "pass": false,
+    "reason": "The middle involves an unlikely, whimsical world-tour that is not predictable from the simple start (mom calls) and end (he hands her the remote), so the gap cannot be meaningfully inferred."
+  },
+  "0700-7.mp4": {
+    "pass": true,
+    "reason": "Single continuous scene with clear causal progression (uncertain driver → uses earphone for guidance → reveals listening to driving tutorial), enabling middle inference from start and end."
+  },
+  "0703-7.mp4": {
+    "pass": true,
+    "reason": "The argument escalates logically: initial scolding → [gap] confrontation exchange → father ends up shocked, so the middle (son’s outburst) can be reasonably inferred from the before-and-after context."
+  },
+  "0698-7.mp4": {
+    "pass": true,
+    "reason": "The video presents a clear, linear breakup-to-recovery narrative, so the emotional and situational changes in the middle are inferable from the start and end."
+  },
+  "0705-7.mp4": {
+    "pass": true,
+    "reason": "The transition from the girl calmly approaching the statue to her crying in her mother’s arms logically implies a startling event in the middle (the statue moving), so the missing segment is predictably inferable."
+  },
+  "0701-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0709-7.mp4": {
+    "pass": false,
+    "reason": "Video is a montage of separate forward-and-reverse clips; the middle of the overall video cannot be inferred from its beginning and end."
+  },
+  "0714-7.mp4": {
+    "pass": true,
+    "reason": "The start sets up a timed race and the end shows success just as the timer ends, so viewers can reasonably infer that the middle consists of hurried household tasks performed during the countdown."
+  },
+  "0716-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of separate illusion photos; the middle segment cannot be inferred from the unrelated beginning and ending scenes."
+  },
+  "0713-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0717-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous demonstration of a 3D street-art illusion; given the initial discovery and the final person stepping onto the artwork, one can reasonably infer the intermediate interaction where someone first tests the illusion."
+  },
+  "0718-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a smooth, deterministic progression from a few balls/lines to an increasingly sided polygon and finally a circle, so the missing middle can reasonably be inferred from the observed start and end states."
+  },
+  "0726-7.mp4": {
+    "pass": false,
+    "reason": "The middle section (philosophical discussion with Kant and VR) is not causally or visually predictable from just the initial illusion demo and the final mask-revealing demonstration, so the temporal gap cannot be reliably inferred."
+  },
+  "0728-7.mp4": {
+    "pass": false,
+    "reason": "The shift from apparent motion to revealed stillness depends on an arbitrary viewer action (covering the arrows), so the middle cannot be reliably inferred from just the beginning and end frames."
+  },
+  "0715-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of separate, similar reactions in different settings, so the middle cannot be inferred from the beginning and end."
+  },
+  "0730-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of unrelated optical illusion images with no causal or temporal progression, so the middle cannot be inferred from the beginning and end."
+  },
+  "0733-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of stylized camera transitions and perspective changes rather than a single continuous action, so the middle cannot be causally inferred from the beginning and end."
+  },
+  "0736-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear causal progression—object attached, then photos are taken, then final posing—so the middle action (initial photographing) can be reasonably inferred from the start and end."
+  },
+  "0720-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of separate gadget demonstrations with no single causal progression, so the middle cannot be inferred from the beginning and end."
+  },
+  "0739-7.mp4": {
+    "pass": true,
+    "reason": "The setup of the backdrop logically leads to a photoshoot, and the final images and interaction imply the dog was photographed in the middle, so the missing segment is predictably about the dog entering and being photographed."
+  },
+  "0744-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear step-by-step progression (setup of 36, addition of 9 lines, then counting to get 324), so the middle action can be inferred from the beginning and end."
+  },
+  "0741-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a logical, step-by-step problem-solving process (initial equations → algebraic manipulation → circled answer), so the middle reasoning steps can be reasonably inferred from the start and end."
+  },
+  "0745-7.mp4": {
+    "pass": true,
+    "reason": "The FOIL steps between the initial binomials and the final simplified polynomial follow a deterministic, causal sequence that can be inferred from the start and end states."
+  },
+  "0747-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a repetitive, step-by-step problem-solving routine, so the missing middle action (applying the same trick to the next numbers) can be reliably inferred from the beginning and end."
+  },
+  "0746-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression from presenting the incorrect equation to the final corrected version, so the missing middle (the act of adding the line to change the plus into a 4) can be logically inferred."
+  },
+  "0748-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear, goal-directed sequence (solving a math problem). Given the start (problem written) and the end (answer circled), one can plausibly infer that the middle involves writing intermediate steps, so it suits a temporal cloze task."
+  },
+  "0751-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of unrelated physics demos; beginning and end do not provide clues to infer the lighter illusion in the middle."
+  },
+  "0750-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal progression: coins introduced, later seen collapsing with magnet reveal, so viewer can reasonably infer the intervening stacking/balancing process."
+  },
+  "0753-7.mp4": {
+    "pass": true,
+    "reason": "Goal-directed sequence (wet match -> lit match) has clear causal continuity; viewer can plausibly infer an intermediate restoration step enabling the match to ignite."
+  },
+  "0754-7.mp4": {
+    "pass": true,
+    "reason": "Continuous demonstration: from setup to wheel spinning in air, the missing middle (release and initial wobble) follows causally and can be inferred."
+  },
+  "0770-7.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-directed process (cutting and melting soap → [gap] → finished blister-pack soap and hand-washing) makes middle steps inferable."
+  },
+  "0768-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression from initial brush strokes to a finished orange slice, allowing the intermediate painting steps to be inferred."
+  },
+  "0756-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of separate skits with no single causal progression; middle cannot be inferred from start and end."
+  },
+  "0775-7.mp4": {
+    "pass": true,
+    "reason": "The narrative is coherent: after an actual gift to a pregnant woman, the ending reveals playful deception, so the middle (the second woman faking pregnancy to get a gift) can be logically inferred."
+  },
+  "0774-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a coherent, goal-oriented sequence (removing a damaged screw) where intermediate drilling/pliers steps can be inferred from the initial stuck screw and the final removal."
+  },
+  "0786-7.mp4": {
+    "pass": true,
+    "reason": "The transition from normal driving to post-collision aftermath implies a predictable causal middle event—the crash itself—making it suitable for a temporal cloze task."
+  },
+  "0785-7.mp4": {
+    "pass": true,
+    "reason": "The ball’s journey from being thrown to being retrieved and thrown again provides clear causal continuity, allowing the middle rolling sequence to be inferred from the start and end."
+  },
+  "0778-7.mp4": {
+    "pass": false,
+    "reason": "The beginning and end simply show different optical illusions; they do not establish a causal progression that lets one infer which unrelated illusion appears in the middle."
+  },
+  "0789-7.mp4": {
+    "pass": true,
+    "reason": "From the start (swimmer falls in feigning injury) and the end (she finishes first), one can reasonably infer that the middle shows her abandoning the act and swimming ahead while the others hesitate, so the causal/temporal gap is predictable."
+  },
+  "0780-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of separate cheating skits lacks a single continuous sequence, so the middle cannot be inferred from beginning and end."
+  },
+  "0795-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous transformation from a freshly blown bubble to a fully frozen one, so the intermediate freezing stage can be reasonably inferred from the start and end."
+  },
+  "0798-7.mp4": {
+    "pass": true,
+    "reason": "The middle event (reading the acceptance message) causally links the initial anticipation with the later celebration, making it reasonably predictable from the surrounding context."
+  },
+  "0788-7.mp4": {
+    "pass": true,
+    "reason": "The girl's initial interference and her later departure holding money logically imply a transactional middle (man giving her cash), which can be inferred from the before-and-after context."
+  },
+  "0791-7.mp4": {
+    "pass": true,
+    "reason": "Beginning shows workers noticing tower’s lean and end shows them measuring; a reasonable viewer can infer that the middle depicts their attempts to straighten it, giving clear causal continuity."
+  },
+  "0793-7.mp4": {
+    "pass": true,
+    "reason": "Inflation leads to eventual bursting; testing/playing with the balloon is a predictable intermediate step between these stages."
+  },
+  "0796-7.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-directed action of repeatedly taking oversized items from bag makes the middle segment inferable from start and end."
+  },
+  "0800-7.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"There is clear temporal continuity: a dance begins with two performers and ends with three doing coordinated moves, so the appearance and integration"
+  },
+  "0802-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of unrelated protection clips; no single continuous event so middle cannot be predicted from start and end."
+  },
+  "0804-7.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"There is a logical progression of loading containers; given the start (initial loading) and end (containers disappear after"
+  },
+  "0807-7.mp4": {
+    "pass": true,
+    "reason": "The end-state magic trick logically requires prior modification of the bottle; viewers can infer the missing drilling/gluing steps from the initial pouring and final trick reveal."
+  },
+  "0799-7.mp4": {
+    "pass": true,
+    "reason": "Single, causal chain-reaction from first ball push to final domino fall; the middle events are deterministically linked and inferable."
+  },
+  "0808-7.mp4": {
+    "pass": false,
+    "reason": "The clip repeatedly loops the same ball-rolling illusion, so the middle cannot be uniquely inferred from the start and end frames."
+  },
+  "0813-7.mp4": {
+    "pass": true,
+    "reason": "The scene shows a clear transformation (chalk drawing → living bear) that links the start and end, so the missing middle can be logically inferred."
+  },
+  "0820-7.mp4": {
+    "pass": true,
+    "reason": "The setup clearly leads to a predictable launch; knowing the start (preparation) and end (rocket flies away) allows one to infer the countdown and inversion in the gap."
+  },
+  "0829-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear causal progression—from requesting a custom perfume to receiving the finished product—so the middle mixing steps can be logically inferred from the start and end."
+  },
+  "0821-7.mp4": {
+    "pass": false,
+    "reason": "The video mainly repeats the same ‘fall-through-floor’ gag; the middle segment isn’t uniquely predictable from the similar before-and-after scenes, so it lacks informative temporal progression."
+  },
+  "0815-7.mp4": {
+    "pass": false,
+    "reason": "Caption provides no temporal progression; middle segment would be unpredictable."
+  },
+  "0809-7.mp4": {
+    "pass": true,
+    "reason": "The initial pointing and the final display of the unexpected coin make it easy to infer that, in the middle, a woman mistakenly handed over the coin, producing a causally continuous, guessable event."
+  },
+  "0831-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression (man goes to work, returns to find dog with money); the middle logically contains the earning activities which can be inferred from start and end."
+  },
+  "0837-7.mp4": {
+    "pass": false,
+    "reason": "The clip is mostly repetitive jumps shown from multiple angles and in slow motion, lacking a single causal progression; the middle segment cannot be uniquely inferred from the start and end."
+  },
+  "0836-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of multiple unrelated clips of dogs chasing delivery workers; no single continuous event, so the middle cannot be inferred from the beginning and end."
+  },
+  "0830-7.mp4": {
+    "pass": false,
+    "reason": "The clip describes a single, self-contained exchange (money handed over); there’s no evident multi-step transformation or goal-directed process whose missing middle could be predicted."
+  },
+  "0832-7.mp4": {
+    "pass": true,
+    "reason": "The narrative follows a clear sequence—illusion setup, reveal through zooming, then takeaway—so the missing middle (zoom/reveal) can be inferred from the beginning and end."
+  },
+  "0834-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of separate soccer moments without clear causal progression, so the middle segment cannot be inferred from the beginning and end."
+  },
+  "0839-7.mp4": {
+    "pass": true,
+    "reason": "Clear before-and-after states (hat lost vs. hat returned) allow viewers to infer the middle action of retrieving and climbing back."
+  },
+  "0842-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear progression: an artist starts drawing and later goats encounter the finished illusion, so the missing middle (completion of the drawing) can be reasonably inferred."
+  },
+  "0840-7.mp4": {
+    "pass": true,
+    "reason": "The door‐opening prank follows a clear causal sequence (repeated blocking → final reveal of the measuring-tape trick), so the intermediate struggle can be inferred from the start and end."
+  },
+  "0852-7.mp4": {
+    "pass": false,
+    "reason": "The clip is a repetitive sequence of similar wipeouts; the middle offers no distinct, inferable event beyond more of the same crashes, so a temporal gap would not be predictable."
+  },
+  "0853-7.mp4": {
+    "pass": true,
+    "reason": "Goal-directed sequence: after an initial miss, it’s predictable that further attempts occur until the ball is finally knocked off, so the middle gap (additional attempts) can be inferred from the start and end."
+  },
+  "0856-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a clear, goal-directed cleaning sequence (dirty coin → cleaning actions → clean coin), so the middle steps are inferable from the beginning and end."
+  },
+  "0855-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression: failed attempts lead to a finished decorated cotton-candy doll, so the middle logically involves successful cotton-candy making that can be inferred."
+  },
+  "0847-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of separate penalty saves; middle clip is an independent scene, so its specific content cannot be inferred from the surrounding shots."
+  },
+  "0846-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of separate pipe-clearing scenes rather than one continuous process, so the middle cannot be reliably inferred from the beginning and end."
+  },
+  "0861-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated reaction clips with no single causal progression, so the middle cannot be inferred from the start and end segments."
+  },
+  "0863-7.mp4": {
+    "pass": true,
+    "reason": "Continuous cooking process where the middle steps (shaping and cooking the egg) logically connect the raw egg at start to the finished heart-shaped egg at the end."
+  },
+  "0864-7.mp4": {
+    "pass": false,
+    "reason": "The appearance of a red arrow and promotional text is not causally predictable from the initial spinning silhouette, so the middle cannot be inferred from the start and end."
+  },
+  "0873-7.mp4": {
+    "pass": true,
+    "reason": "A clear causal sequence (balanced setup → [heating/expansion] → imbalance with block falling) allows the middle to be inferred from the beginning and end."
+  },
+  "0874-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of separate motorcycle clips; the middle crashes are not causally predictable from the initial celebration and final crash shots."
+  },
+  "0882-7.mp4": {
+    "pass": true,
+    "reason": "Editing the photo is a natural causal step between shooting the picture and handing over the printed copy, so the middle can be inferred from the start and end."
+  },
+  "0883-7.mp4": {
+    "pass": true,
+    "reason": "The middle steps (melting the mixture, transferring it to the container, taking out the wipe) logically bridge the preparation at the start and the waterproofing result at the end, enabling inference of the missing segment."
+  },
+  "0878-7.mp4": {
+    "pass": true,
+    "reason": "Continuous event of a BMX race (start → racing through course → ongoing navigation) provides clear causal/temporal flow so the middle can be reasonably inferred."
+  },
+  "0884-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of repeated, independent prank interactions (touch → lean) with no unique transitional event, making the middle segment a repetitive loop that cannot be meaningfully inferred."
+  },
+  "0885-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of unrelated optical-illusion clips with no causal or temporal progression, so the middle segment cannot be inferred from the beginning and end."
+  },
+  "0876-7.mp4": {
+    "pass": true,
+    "reason": "There is a causal transformation from full-size hydrant to miniature, so the missing middle (beam-induced shrinking) can be logically inferred from the start and end."
+  },
+  "0891-7.mp4": {
+    "pass": true,
+    "reason": "A predictable pendulum motion connects the start (ball released) and end (ball stops at his face), making the middle swing inferable."
+  },
+  "0890-7.mp4": {
+    "pass": true,
+    "reason": "Continuous goal-oriented action (player catches ball, later seen sliding after kick); rising, readying, and kicking the ball in the middle are logically inferable."
+  },
+  "0888-7.mp4": {
+    "pass": true,
+    "reason": "Given the preparation (spinning CD case) and the outcome (card lodged in it), it is reasonable to infer that card-throwing occurs in the missing middle segment."
+  },
+  "0893-7.mp4": {
+    "pass": false,
+    "reason": "Caption provides no information about temporal progression, so the middle segment cannot be meaningfully predicted."
+  },
+  "0903-7.mp4": {
+    "pass": false,
+    "reason": "The video shows a series of loosely connected interactions in a cafeteria; knowing the start (people dining) and the end (man returning a purse) would not let one reliably predict the specific, unpredictable middle exchanges."
+  },
+  "0902-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal sequence: pulling the string changes the sphere’s size and angular speed, so the middle action can be inferred from the before-and-after states."
+  },
+  "0894-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of quick, repetitive dance cuts with no causal or narrative progression, so the middle segment cannot be inferred from the beginning and end."
+  },
+  "0906-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear causal progression—setting up the illusion and ending with proof the pieces match—making the intervening actions of removing and fitting the shapes predictable from the start and end shots."
+  },
+  "0904-7.mp4": {
+    "pass": false,
+    "reason": "The sequence of animal impressions is arbitrary; knowing the dolphin start and horse end gives no reliable cues to predict which other animals or actions occur in the middle."
+  },
+  "0908-7.mp4": {
+    "pass": false,
+    "reason": "Middle shows spontaneous facial expressions and minor reactions that are not causally implied by the beginning or required for the ending, so the gap cannot be reliably predicted."
+  },
+  "0913-7.mp4": {
+    "pass": false,
+    "reason": "Series of unrelated sight-gag clips with no causal link, so the middle cannot be inferred from the surrounding parts."
+  },
+  "0912-7.mp4": {
+    "pass": false,
+    "reason": "The video relies on a nostalgic photo flashback rather than an action that causally connects beginning and end, so the middle cannot be reliably inferred."
+  },
+  "0911-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of unrelated perspective tricks and scenes with no single causal progression, so the middle segment cannot be reliably inferred from the beginning and end."
+  },
+  "0916-7.mp4": {
+    "pass": false,
+    "reason": "A montage of separate optical-illusion clips with no single causal storyline, so the middle cannot be predicted from the start and end."
+  },
+  "0917-7.mp4": {
+    "pass": true,
+    "reason": "Each demonstration has clear causal continuity (ball(s) pulled back → [gap] collision → opposite ball(s) swing), so the middle can be reliably inferred from the surrounding context."
+  },
+  "0922-7.mp4": {
+    "pass": true,
+    "reason": "The setup (man alone, women observing) and outcome (group celebrating with food) make it easy to infer the middle action of the women fetching the burger tray to surprise him."
+  },
+  "0923-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of separate comedic mascot skits with no single causal progression, so the middle cannot be predicted from the beginning and end."
+  },
+  "0915-7.mp4": {
+    "pass": false,
+    "reason": "It is a mostly static optical-illusion clip; knowing the start (setup) and end (color shift) doesn’t let one infer any distinct, causally evolving middle segment."
+  },
+  "0925-7.mp4": {
+    "pass": true,
+    "reason": "The video is a step-by-step demonstration: initial count, then reverse count, then conclusion, so the missing middle action (reverse counting) can be logically inferred from the surrounding context."
+  },
+  "0928-7.mp4": {
+    "pass": true,
+    "reason": "Single continuous interaction; given the start of the girl pretending to sleep and the end where the arm is released, the testing/lifting of her arm in the middle is predictable."
+  },
+  "0930-7.mp4": {
+    "pass": true,
+    "reason": "The disappearance of the cat at the end can be causally linked to something startling it after the initial calm viewing, so viewers can plausibly infer an intermediate startling event that made the cat run away."
+  },
+  "0935-7.mp4": {
+    "pass": true,
+    "reason": "The failed balancing at the start and the successful support at the end imply an intervening action (strengthening the paper), making the middle causally inferable."
+  },
+  "0934-7.mp4": {
+    "pass": true,
+    "reason": "The video shows an animal being held up and later landing on its feet; the missing middle (the release/fall) is a straightforward, causally predictable event."
+  },
+  "0937-7.mp4": {
+    "pass": true,
+    "reason": "Single coherent magic-trick sequence: from setup to exposed trick, the middle actions (performing the illusion) can be plausibly inferred from the before-and-after context."
+  },
+  "0936-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear, step-wise drawing process: starting with a red spiral and ending with a fully decorated red-and-blue disc, so the middle action (adding the blue spiral and shapes) can be logically inferred."
+  },
+  "0943-7.mp4": {
+    "pass": false,
+    "reason": "The middle segment (person 1 briefly raising the tub) is not inferable from merely seeing an earlier successful catch and a later failed catch; turns and outcomes vary unpredictably."
+  },
+  "0945-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear candy-making process: from assembling the shield to finished bite-size pieces, so the intermediate rolling/stretching step can be logically inferred from the start and end."
+  },
+  "0951-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a step-by-step dressing sequence where the middle action (pulling the socks up over the shin guards) is logically inferred from the initial setup and the final shoe-wearing step."
+  },
+  "0948-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear cause-and-effect sequence—showing materials, then using them to create sound effects—so the missing middle could be reasonably inferred from the beginning and ending."
+  },
+  "0944-7.mp4": {
+    "pass": true,
+    "reason": "The action progresses logically as friends take sequential turns blowing out candles, so the middle (other attempts) can be inferred from the start and final victory."
+  },
+  "0938-7.mp4": {
+    "pass": true,
+    "reason": "Single continuous action—people posed with raised hands ultimately topple in a domino; the intervening motions (lowering and re-raising arms) follow naturally from start to finish and can be reasonably inferred."
+  },
+  "0953-7.mp4": {
+    "pass": true,
+    "reason": "Beginning shows sign and basket of bricks, ending shows car stopped; it is reasonable to infer the middle action is picking up a brick to make the car stop."
+  },
+  "0958-7.mp4": {
+    "pass": true,
+    "reason": "Instructional sequence (setup → demonstration → consequence) has clear causal flow, so the missing middle demonstration can be inferred from the surrounding context."
+  },
+  "0968-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of separate, unrelated reflex clips with no single causal progression, so the middle segment cannot be inferred from the surrounding parts."
+  },
+  "0963-7.mp4": {
+    "pass": true,
+    "reason": "The stick-twirling action evolves smoothly from slow to fast, providing clear temporal continuity that allows the middle segment to be inferred from the beginning and end."
+  },
+  "0966-7.mp4": {
+    "pass": true,
+    "reason": "Chess gameplay is a continuous, goal-directed action where intermediate moves logically connect the opening position with the later capture, so the middle segment is inferable from the start and end."
+  },
+  "0969-7.mp4": {
+    "pass": true,
+    "reason": "Goal-directed action with clear progression—approach/setup followed by lift and drop—so the missing middle (actual lift) is predictable from start and end."
+  },
+  "0970-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of separate, repetitive prank clips rather than one continuous event, so the middle cannot be uniquely inferred from the start and end."
+  },
+  "0964-7.mp4": {
+    "pass": false,
+    "reason": "Although the video is one continuous chess game, the exact sequence of middle moves is highly variable and cannot be reliably inferred from the opening position and closing banter alone."
+  },
+  "0977-7.mp4": {
+    "pass": true,
+    "reason": "The layered tower is steadily deconstructed one layer at a time, so the missing middle section (removal of intermediate layers) can be logically inferred from the start and end states."
+  },
+  "0975-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0971-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "0981-7.mp4": {
+    "pass": true,
+    "reason": "The interaction follows a clear progression (offer hinted → [gap] → money handed over), so the middle actions can be logically inferred from the start and end."
+  },
+  "0978-7.mp4": {
+    "pass": false,
+    "reason": "The beginning and end only show a knife cutting the sand, giving no causal clue that a press will shape the sand in the middle, so the gap is not predictably inferable."
+  },
+  "0982-7.mp4": {
+    "pass": true,
+    "reason": "Causal narrative (man sets up seating, ends up happily watching TV); the middle negotiation of who sits where is inferable from start and satisfied ending."
+  },
+  "0988-7.mp4": {
+    "pass": true,
+    "reason": "Sequential manicure process with clear progression; middle (color application) is logically inferable from initial nail prep and final top-coat."
+  },
+  "0987-7.mp4": {
+    "pass": true,
+    "reason": "The start shows the cake being wheeled in and the end shows it on the floor with reactions, so the missing middle (the drop) is causally predictable."
+  },
+  "0990-7.mp4": {
+    "pass": true,
+    "reason": "The sequence has clear causal continuity (dog sniffing → signal buttons → father changing diaper), so the middle action can be inferred from the start and end."
+  },
+  "0991-7.mp4": {
+    "pass": false,
+    "reason": "The middle segment mainly shows arbitrary spending pop-ups and brief interactions that cannot be reliably inferred just from seeing the family leave together at the start and the woman leaving alone at the end."
+  },
+  "0989-7.mp4": {
+    "pass": true,
+    "reason": "The interaction logically progresses from requesting photos to showing the finished images, so the middle photo-taking steps can be inferred from the start and end."
+  },
+  "0993-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of unrelated scenes without a single causal or temporal storyline, so the middle cannot be inferred from the beginning and end."
+  },
+  "0997-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear, goal-directed sequence of making a watermelon drink; given the start (cutting watermelon) and end (tasting), one can reasonably infer that the missing middle shows the ingredient-adding steps."
+  },
+  "0992-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a coherent causal sequence (man hides ball → dog finds way to open safe → dog ends up with ball and valuables), so the missing middle actions can be reasonably inferred from the start and end."
+  },
+  "1003-7.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"The video follows a single, causal narrative (dogs repeatedly escalate efforts to wake man), so the missing middle segment can be sens"
+  },
+  "1006-7.mp4": {
+    "pass": true,
+    "reason": "The start shows ducks at the edge and the end shows them below; the predictable intervening event is the group jumping/falling into the water, making the middle inferable."
+  },
+  "1000-7.mp4": {
+    "pass": true,
+    "reason": "The single continuous petting interaction has clear causal progression—petting at the start plausibly leads to escalating kitten reactions in the middle that explain its annoyed state at the end."
+  },
+  "1010-7.mp4": {
+    "pass": false,
+    "reason": "The video contains multiple unrelated scenes without a single causal progression, so the middle segment cannot be predicted from the beginning and end."
+  },
+  "0998-7.mp4": {
+    "pass": true,
+    "reason": "Continuous escalation of the same cheese-grating action; middle steps (more items getting cheese) are inferable from the start and end."
+  },
+  "1013-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression from setup to completed illusion, so the missing middle (pulling the flower into the bulb) can be logically inferred."
+  },
+  "1019-7.mp4": {
+    "pass": false,
+    "reason": "The son’s sudden costume change is a random comedic twist that cannot be reliably inferred from the dad’s serious entrance or the final laughter, so the middle gap isn’t predictably recoverable."
+  },
+  "1012-7.mp4": {
+    "pass": false,
+    "reason": "The pivotal middle event (fake poop thrown, man panics) is a surprising gag that cannot be reliably inferred just from seeing him sunbathing at the pool and later walking inside."
+  },
+  "1017-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear progression (person on mirror → [gap] → shoes arranged on mirror); given start and end, one can infer the missing action of placing the shoes, so it suits a temporal cloze task."
+  },
+  "1005-7.mp4": {
+    "pass": false,
+    "reason": "The middle consists of an unpredictable series of humorous question-answer exchanges; the exact content cannot be inferred solely from the beginning and end."
+  },
+  "1021-7.mp4": {
+    "pass": true,
+    "reason": "Single, continuous prank where professor wakes student; the middle (loud singing and reactions) is inferable from the setup and the laughing conclusion."
+  },
+  "1024-7.mp4": {
+    "pass": true,
+    "reason": "Single, continuous magic trick: from setup to amazed reaction, the predictable missing middle is the liquid being poured through the bag, so temporal gap is inferable."
+  },
+  "1022-7.mp4": {
+    "pass": false,
+    "reason": "It is a short comedic dialogue where the exact interrupted statement in the middle is hard to predict just from the opening question and the final awkward silence."
+  },
+  "1026-7.mp4": {
+    "pass": false,
+    "reason": "Discontinuous magic trick segments with different performers mean the middle actions are not predictable from the start and end."
+  },
+  "1030-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of separate magic trick scenes without a single continuous action, so the middle segment cannot be reliably inferred from the beginning and end."
+  },
+  "1038-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of independent, comedic reactions to the same action rather than a single causal sequence, so the middle segment cannot be reliably inferred from the beginning and end."
+  },
+  "1033-7.mp4": {
+    "pass": true,
+    "reason": "The initial setup suggests a group dance, and the ending shows laughter at a prank, so a solo dance in the middle is a predictable causal bridge."
+  },
+  "1032-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear prank setup-action-reaction sequence, so the missing middle (pranking a customer) can be inferred from the setup and the concluding laughter."
+  },
+  "1043-7.mp4": {
+    "pass": true,
+    "reason": "Single continuous interaction—begins with one man addressing another and ends with him giving up—implies a predictable middle of continued, unanswered pleading, making the gap inferable."
+  },
+  "1042-7.mp4": {
+    "pass": true,
+    "reason": "The sequence (initial weak shot → gap → successful redo and pot) has clear causal progression, so the middle action can be reasonably inferred from the before-and-after context."
+  },
+  "1054-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of independent comedic imitations for different car types; the middle clips are not causally predictable from the beginning and end segments."
+  },
+  "1048-7.mp4": {
+    "pass": true,
+    "reason": "The scene unfolds as a coherent sequence (shoe taken, struggle, shoes returned), so the middle dispute can be reasonably inferred from the beginning and end."
+  },
+  "1052-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression—from her waxing herself to him ending up waxed—so the intervening actions are predictably related to the start and end."
+  },
+  "1056-7.mp4": {
+    "pass": true,
+    "reason": "The setup shows a challenge and the ending shows success, so the middle is predictably the man's repeated failed attempts to match the first action."
+  },
+  "1057-7.mp4": {
+    "pass": true,
+    "reason": "The interaction follows a clear causal sequence—approach, attempted conversation, eventual rejection—so the missing middle (unsuccessful flirting) can be logically inferred from the start and end."
+  },
+  "1062-7.mp4": {
+    "pass": true,
+    "reason": "The setup (girl marking watermelon) and outcome (father realizes prank) make the intervening trade scene predictable, showing clear causal/temporal continuity."
+  },
+  "1061-7.mp4": {
+    "pass": true,
+    "reason": "The sequence (setting up blender → startled reaction → relieved ending) follows clear causal continuity, allowing the middle scare/prank to be inferred from the before-and-after segments."
+  },
+  "1058-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear causal storyline (girl gives money → later rewarded with a gift), so the middle events can be reasonably inferred from the start and end."
+  },
+  "1067-7.mp4": {
+    "pass": false,
+    "reason": "The video is a juxtaposition of two separate, contrasting interactions rather than one continuous event, so the content between start and end cannot be reliably inferred."
+  },
+  "1065-7.mp4": {
+    "pass": true,
+    "reason": "The narrative moves causally from initial failure to later success, making the intervening training period a predictable middle segment."
+  },
+  "1068-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal progression: tactics explanation leads to on-field execution, culminating in the coach’s celebration, so the missing middle (match play) is predictable from start and end."
+  },
+  "1066-7.mp4": {
+    "pass": true,
+    "reason": "Continuous action (cameraman running alongside the track); the middle segment logically shows the same ongoing pursuit, so it can be inferred from the start and end."
+  },
+  "1072-7.mp4": {
+    "pass": true,
+    "reason": "The start shows the athlete taking off and the end shows him landing, so the missing middle—him being airborne—is causally and temporally predictable."
+  },
+  "1073-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of separate dance clips from different years, lacking a single causal sequence, so the middle cannot be inferred from the start and end."
+  },
+  "1071-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of unpredictable, repetitive attempts and falls, so the exact middle events cannot be reliably inferred from the beginning and end."
+  },
+  "1076-7.mp4": {
+    "pass": false,
+    "reason": "The shift from sadness to happiness is an abstract emotional montage; the specific middle (showing a joint) isn’t causally or temporally predictable from the start and end scenes."
+  },
+  "1078-7.mp4": {
+    "pass": false,
+    "reason": "It is a montage of separate dog-human mimicry clips with no single causal progression, so the middle cannot be inferred from the beginning and end."
+  },
+  "1077-7.mp4": {
+    "pass": false,
+    "reason": "Parallel creators apply unpredictable filters and expressions; middle actions cannot be reliably inferred from start and end."
+  },
+  "1082-7.mp4": {
+    "pass": false,
+    "reason": "Each imitation is an independent gag; knowing the opening and closing poses doesn’t let a viewer predict the specific, humorous attempts in the middle."
+  },
+  "1079-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated, discontinuous clips with no single causal or temporal progression, so the middle segment cannot be inferred from the surrounding parts."
+  },
+  "1083-7.mp4": {
+    "pass": false,
+    "reason": "Compilation of unrelated magic trick segments; the specific trick shown in the middle cannot be inferred from the tricks shown before and after."
+  },
+  "1089-7.mp4": {
+    "pass": false,
+    "reason": "The video is a static optical illusion with no visual progression, so the middle segment cannot be meaningfully predicted from the beginning and end."
+  },
+  "1085-7.mp4": {
+    "pass": false,
+    "reason": "Sequence of unrelated optical illusion images lacks causal or temporal continuity, so the middle segment cannot be predicted from the beginning and end."
+  },
+  "1086-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of unrelated optical illusion images with no causal or goal-directed progression, so the middle scene cannot be inferred from the first and last."
+  },
+  "1104-7.mp4": {
+    "pass": true,
+    "reason": "The stool‐swap prank has clear causal progression: initial setup leads to final reaction, so the missing middle (the actual swap) can be logically inferred."
+  },
+  "1105-7.mp4": {
+    "pass": false,
+    "reason": "The sequence is a set of independent sound-effect gags; the specific middle action (stress ball tapping) is not inferable from the opening drumming and final cymbal hit."
+  },
+  "1094-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of unrelated optical-illusion images with no causal or temporal progression, so the middle cannot be predicted from the beginning and end."
+  },
+  "1103-7.mp4": {
+    "pass": true,
+    "reason": "Each challenge follows a clear causal chain (choice → obstacle set up → attempt → outcome), so the middle action can be logically inferred from the start and end states."
+  },
+  "1106-7.mp4": {
+    "pass": false,
+    "reason": "The sequence is a comedic skit with unpredictable actions (e.g., pocket carrots, attempting to put carrot in a fish tank), so the middle events cannot be reliably inferred from the beginning and end."
+  },
+  "1107-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal continuity: man approaches vendor, later walks away being struck, allowing viewers to infer the intervening theft attempt and reaction."
+  },
+  "1113-7.mp4": {
+    "pass": false,
+    "reason": "The video shows continuous dancing with no distinct state change, so the middle cannot be uniquely inferred from the start and end."
+  },
+  "1108-7.mp4": {
+    "pass": true,
+    "reason": "There is clear temporal continuity: a solo dancer leads to both men dancing, so the middle logically involves the dancer engaging the seated man, which can be reasonably inferred from start and end."
+  },
+  "1109-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear causal sequence (woman reaches for man's phone → [gap] → man retrieves phone at the end) so the missing middle action can be logically inferred."
+  },
+  "1110-7.mp4": {
+    "pass": true,
+    "reason": "The transition from one person dancing to both dancing is a clear, predictable causal progression that can be inferred from the beginning and end segments."
+  },
+  "1120-7.mp4": {
+    "pass": false,
+    "reason": "The sudden appearance of Roman soldiers and ensuing chase are unexpected events that cannot be reliably inferred from only the painting setup at the start and the chase at the end."
+  },
+  "1118-7.mp4": {
+    "pass": true,
+    "reason": "Clear causal chain: man brings small flytrap into fast-growing greenhouse, ending shows screams and dropped plant; viewer can infer middle event where plant grows large and attacks him."
+  },
+  "1123-7.mp4": {
+    "pass": true,
+    "reason": "The beginning shows a magical burst and the end shows him beating flames, so viewers can reasonably infer the middle involves a fire starting and initial attempts to put it out."
+  },
+  "1126-7.mp4": {
+    "pass": true,
+    "reason": "The sequence has clear causal progression—money is exchanged, leading to the plant’s rapid growth—so the missing middle (inserting the dollar and plant expanding) can be logically inferred from the start and end."
+  },
+  "1132-7.mp4": {
+    "pass": true,
+    "reason": "The sequence follows a clear causal chain (request to disable gravity → zero-gravity state → floating actions), so the middle events can be reasonably inferred from the start and end."
+  },
+  "1133-7.mp4": {
+    "pass": true,
+    "reason": "The middle logically involves the person picking up and hiding the toilet paper, which follows causally from it being on the floor at the start and gone at the end."
+  },
+  "1128-7.mp4": {
+    "pass": true,
+    "reason": "It shows a clear cooking progression from a whole fish to prepared sushi, so the middle actions can be inferred from the start and end states."
+  },
+  "1135-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of independent bottle-flip trick shots; knowing the shots before and after does not allow reliable inference of the specific, arbitrary stunt performed in the middle."
+  },
+  "1131-7.mp4": {
+    "pass": true,
+    "reason": "The video shows the setup and the successful result; given these, viewers can infer that the intermediate action is someone making the throw that lands the ring on the toothpick."
+  },
+  "1136-7.mp4": {
+    "pass": true,
+    "reason": "It is a single, continuous sequence (cup tossing attempts leading to eventual success), so the middle—failed catches and rebounds—can be inferred from the start and end."
+  },
+  "1138-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of separate trick-shot scenes with no single continuous action, so the middle content cannot be predicted from the beginning and end."
+  },
+  "1141-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear transformation: car with wheels → wheels rolling away. The missing middle (wheels detaching) is inferable from start and end."
+  },
+  "1147-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of quick, repeated speed tests and humor cuts; the middle segment’s content isn’t causally constrained by the surrounding clips, so it can’t be reliably inferred."
+  },
+  "1148-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of independent bird clips; the specific middle content cannot be reliably inferred from the beginning and end."
+  },
+  "1142-7.mp4": {
+    "pass": false,
+    "reason": "Product review with varied talking points; middle content (watch comparisons and time displays) cannot be reliably inferred from start and end."
+  },
+  "1144-7.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \"Screen-recorded tutorial follows a clear, goal-directed sequence (opening clock app → interacting with features → concluding in"
+  },
+  "1146-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "1150-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous, goal-directed process (ships sailing a set distance); given the start of the experiment and the completion time, one can reasonably infer that the middle shows the ships steadily progressing with timers advancing."
+  },
+  "1151-7.mp4": {
+    "pass": true,
+    "reason": "A continuous race scene: from the starting stance to the man’s eventual lead, the missing middle would logically show them running and the red tape extending ahead."
+  },
+  "1152-7.mp4": {
+    "pass": false,
+    "reason": "The middle segment (using the clock to cheat on an exam and reverse the teacher) is not predictable from simply knowing she found a reverse-time clock at the start and ends up outside with her balloon again."
+  },
+  "1163-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of unrelated gadget demos with no single causal progression, so the middle segment cannot be reliably inferred from the beginning and end."
+  },
+  "1154-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of independent opinions about different YouTubers; knowing the beginning and end does not allow one to infer which creators or outcomes appear in the middle."
+  },
+  "1165-7.mp4": {
+    "pass": false,
+    "reason": "Although the same two characters remain on screen, the specific comedic actions in the middle (dropping the pen, pretending to be hurt) are not inferable from only the start (quiet sketching) and the end (offering a tissue), so the gap could not be meaningfully predicted."
+  },
+  "1171-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal progression: static topiary being trimmed → [gap] → animated topiary walking away, so the middle (moment of coming to life) is inferable."
+  },
+  "1174-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a coherent causal sequence—magic car appearance leads to confrontation and ends with escape—so the intervening struggle can be reasonably inferred."
+  },
+  "1158-7.mp4": {
+    "pass": false,
+    "reason": "Each item drop is an independent, unordered trial, so the mid-segment cannot be inferred from the start and end clips."
+  },
+  "1164-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of independent quiz rounds with no causal progression, so the middle cannot be inferred from the beginning and end."
+  },
+  "1179-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous gift-packing process (start placing item in box → gap → finished wrapped package), so the middle actions of adding packing material and preparing to wrap can be logically inferred from the beginning and end."
+  },
+  "1180-7.mp4": {
+    "pass": false,
+    "reason": "The magical box-to-snowman transformation is whimsical and not causally implied by the start or end scenes, so the middle cannot be reliably predicted."
+  },
+  "1184-7.mp4": {
+    "pass": true,
+    "reason": "The ball’s journey from being placed at the top of the plank road to being caught at the bottom implies a predictable, continuous rolling action in the middle segment."
+  },
+  "1187-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "1188-7.mp4": {
+    "pass": true,
+    "reason": "The prank creates a clear causal sequence—fake fall, bystanders react, eventual reveal—so the missing middle can be reasonably inferred from the beginning and end."
+  },
+  "1185-7.mp4": {
+    "pass": false,
+    "reason": "The video relies on an abrupt jump cut to a completely different location, so the middle content is not causally inferable from the beginning and end."
+  },
+  "1166-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "1190-7.mp4": {
+    "pass": false,
+    "reason": "The sudden, edited transformation from toy to full-size helicopter makes the middle highly unpredictable from the start and end frames, so the gap cannot be reliably inferred."
+  },
+  "1191-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear causal sequence: pumpkin dropped → [gap] → shattered pumpkin with candy, so the middle (bounce and break revealing candy) can be logically inferred from the start and end."
+  },
+  "1193-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal continuity: after placing the towel and before being dumped, the predictable missing event is the man sitting on the towel (and interaction with the other man), which can be inferred from the start and end."
+  },
+  "1194-7.mp4": {
+    "pass": true,
+    "reason": "The change from the man levitating to him walking away suggests an intervening action—removing the hidden support—which can be logically inferred from the start and end."
+  },
+  "1198-7.mp4": {
+    "pass": true,
+    "reason": "Continuous sequence: man outfits woman with fake arm leading to her showing and hiding the trick; middle actions can be inferred from initial setup and final outcome."
+  },
+  "1196-7.mp4": {
+    "pass": true,
+    "reason": "Given the setup of showing strength and the later reveal that the board is light, one can infer that the middle involves him pretending to struggle with the board."
+  },
+  "1197-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear causal arc: car blocked → efforts to move rock → rock rolls away; the missing middle (successful movement) is inferable from start and end."
+  },
+  "1201-7.mp4": {
+    "pass": true,
+    "reason": "The prank unfolds in a clear causal sequence (setup → fake smash → relief), so the missing middle can be inferred from the before-and-after context."
+  },
+  "1199-7.mp4": {
+    "pass": false,
+    "reason": "The video is a short comedic vignette with quick cuts and a surprise reveal; the specific middle shots and reactions are not causally necessary or predictable from the start and end frames."
+  },
+  "1205-7.mp4": {
+    "pass": true,
+    "reason": "The setup (kids preparing prank) and outcome (mother shocked and inspecting) make it easy to infer that the missing middle involves the mother entering and noticing the fake piercing."
+  },
+  "1202-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a clear causal sequence—illusion discovered, reactions occur, then illusion revealed—so the content between start and end is predictably about interactions with the fake stairs."
+  },
+  "1204-7.mp4": {
+    "pass": true,
+    "reason": "Sequential attempts on the punching machine lead up to its eventual breakdown, so the middle (additional punches and scores) is inferable from start and end."
+  },
+  "1212-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated exhibition shots without a causal progression, so the missing middle cannot be inferred from the beginning and end."
+  },
+  "1207-7.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": true, \"reason\": \""
+  },
+  "1213-7.mp4": {
+    "pass": false,
+    "reason": "A gallery walkthrough lacks a defined start-to-end transformation; the intermediate images shown cannot be inferred from the opening and closing shots."
+  },
+  "1216-7.mp4": {
+    "pass": false,
+    "reason": "The middle car-chase segment is unrelated to the surrounding skateboard scenes, so events in the gap cannot be inferred from the beginning and end."
+  },
+  "1208-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear progression from an initial attempt to a successful light-painting result, so the missing middle (demonstration of proper technique and camera settings) can be reasonably inferred from the beginning and end."
+  },
+  "1219-7.mp4": {
+    "pass": false,
+    "reason": "The video is a continuous street pan with random vehicles; the specific middle content (e.g., which car passes) cannot be inferred from the beginning and end."
+  },
+  "1220-7.mp4": {
+    "pass": true,
+    "reason": "Beginning and ending both show the group walking; the middle consists of preparatory actions (eye black, clothing, accessories) that logically bridge the two, so viewers could infer this gap."
+  },
+  "1218-7.mp4": {
+    "pass": true,
+    "reason": "The coaster’s ascent followed by its presence back at the start implies a predictable middle event—the rollback descent—so the gap can be inferred from the before-and-after shots."
+  },
+  "1221-7.mp4": {
+    "pass": true,
+    "reason": "The stone’s skipping action logically connects the setup (man ready to throw) with the outcome (stone far away after many skips), allowing viewers to infer the missing middle."
+  },
+  "1226-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a clear, goal-directed sequence (examining photos → manipulating/painting them → laying out finished cut-outs), so the missing middle can be inferred from the beginning and end."
+  },
+  "1232-7.mp4": {
+    "pass": true,
+    "reason": "There is a clear narrative progression (person with poles → shadow only → altered shadow close-up) so the middle—person leaving while shadow remains—can be reasonably inferred."
+  },
+  "1241-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a step-by-step math demonstration: starting with the fractions, ending with the solved answer; the middle necessarily contains the predictable calculation steps linking the two, so the gap can be inferred."
+  },
+  "1243-7.mp4": {
+    "pass": true,
+    "reason": "The narrative follows a clear emotional/interaction arc (bored → social play → gift and hugs) where the middle scene logically bridges the beginning and end, making it inferable."
+  },
+  "1227-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a coherent workflow of light-painting: initial setup, additional light-painting actions, and a final revealed result, so the middle actions are inferable from the start and end."
+  },
+  "1245-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous harvesting process; given the initial solo catcher and the final group doing the same task, viewers can plausibly infer that the intervening shots will show why the fruit is dropped—i.e., the tall durian trees—making it suitable for a temporal cloze task."
+  },
+  "1240-7.mp4": {
+    "pass": false,
+    "reason": "Sequence is a series of loosely related comedic actions rather than one continuous, goal-directed event, so the middle cannot be reliably inferred from the start and end."
+  },
+  "1244-7.mp4": {
+    "pass": true,
+    "reason": "It depicts a continuous speed-test sequence (phones boot up → app-opening tests → final comparison), so the missing middle actions can be logically inferred."
+  },
+  "1247-7.mp4": {
+    "pass": false,
+    "reason": "The boy’s surprise entrance, playful scare, and blanket gesture are not inferable from simply seeing the girl relaxing at the start and the two of them standing under the light at the end; many unrelated middle events could lead to the same final state."
+  },
+  "1252-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a continuous progression of running distances that logically bridge the slow ultra-marathon start and the rapid short sprints at the end, making the middle segment inferable."
+  },
+  "1250-7.mp4": {
+    "pass": true,
+    "reason": "Continuous military training sequence—middle actions (smoke grenade, obstacle prep) logically connect initial prone position and later movement, so gap is inferable."
+  },
+  "1263-7.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-directed action (pulling sled up hill); middle progression from start of pulling to child reaching the top is predictable from before and after."
+  },
+  "1257-7.mp4": {
+    "pass": true,
+    "reason": "The story progresses from planning a cheating tactic to celebrating success, so the intervening cheating action can be reasonably inferred from the start and end."
+  },
+  "1256-7.mp4": {
+    "pass": true,
+    "reason": "Step-by-step cooking assembly has clear temporal progression (adding ingredients) so the middle actions can be inferred from the start and end."
+  },
+  "1264-7.mp4": {
+    "pass": true,
+    "reason": "There is a coherent causal sequence (prank setup → [gap] → anger after discovery); the middle—her waking and noticing the fake bill—can be logically inferred from the start and end."
+  },
+  "1253-7.mp4": {
+    "pass": false,
+    "reason": "The video mainly shows continuous running with no distinct causal event; the middle would just be more of the same action, offering little to infer beyond repetition."
+  },
+  "1258-7.mp4": {
+    "pass": true,
+    "reason": "The scene follows a clear cause-effect chain (spilled food → cleanup attempts → cat steals food), so the middle action can be logically inferred from the surrounding context."
+  },
+  "1266-7.mp4": {
+    "pass": false,
+    "reason": "The video is a series of independent prank clips with no single causal progression, so the middle cannot be inferred from the beginning and end."
+  },
+  "1269-7.mp4": {
+    "pass": false,
+    "reason": "The video is a sequence of standalone comparison vignettes lacking overall causal progression, so the middle content cannot be reliably inferred from the beginning and end."
+  },
+  "1267-7.mp4": {
+    "pass": true,
+    "reason": "The video presents a continuous narrative—formal Oscar ceremony to Mr. Bean on stage—so the middle (his initial appearance/reaction) can be reasonably inferred from the beginning and end."
+  },
+  "1274-7.mp4": {
+    "pass": false,
+    "reason": "Video is a repetitive sequence of identical choose-and-bite reveals; middle segment (next prop) is essentially arbitrary and not inferable from surrounding context."
+  },
+  "1271-7.mp4": {
+    "pass": false,
+    "reason": "The video presents parallel before-and-after views simultaneously rather than a sequential transformation, so removing the middle would not leave a predictable causal gap."
+  },
+  "1272-7.mp4": {
+    "pass": false,
+    "reason": "Each segment is an independent dance with different costumes and music; the middle scene’s specifics can’t be predicted from the beginning and end alone."
+  },
+  "1277-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of unrelated sports segments, so the middle content cannot be causally inferred from the beginning and end."
+  },
+  "1280-7.mp4": {
+    "pass": true,
+    "reason": "The start shows two cars neck-and-neck and the end shows the white car ahead; the middle (overtake/collision) is causally required and can be inferred from the before-and-after context."
+  },
+  "1284-7.mp4": {
+    "pass": true,
+    "reason": "There is clear causal continuity: from lining up at the start blocks to one child leading at the end, the missing middle logically involves the race start and children sprinting."
+  },
+  "1286-7.mp4": {
+    "pass": true,
+    "reason": "A breath-holding contest has a clear causal sequence—participants start underwater, others surface, winner celebrates—so the middle (others surfacing) can be inferred from the beginning and end."
+  },
+  "1285-7.mp4": {
+    "pass": true,
+    "reason": "A race naturally unfolds over time; given the start and finish, viewers can infer the middle portion where positions shift and the lead changes."
+  },
+  "1282-7.mp4": {
+    "pass": true,
+    "reason": "The switch in lead from the white/teal car to the red/black car is a predictable overtaking event that logically connects the start (white/teal ahead) and end (red/black ahead)."
+  },
+  "1287-7.mp4": {
+    "pass": true,
+    "reason": "The scene follows a coherent sequence (ongoing magic trick) so the middling tricks/confusion are inferable from the initial trick setup and the later frustration outcome."
+  },
+  "1289-7.mp4": {
+    "pass": false,
+    "reason": "The sequence of pranks involves arbitrary, unpredictable objects being placed in the box, so the middle events cannot be reliably inferred from the beginning and end."
+  },
+  "1295-7.mp4": {
+    "pass": false,
+    "reason": "The video is a compilation of unrelated comedic scenes without a single causal progression, so the middle cannot be predicted from the beginning and end."
+  },
+  "1292-7.mp4": {
+    "pass": false,
+    "reason": "The appearance of card play between placing one toy car on the counter and later adding two more is not a causally predictable step, so the middle segment cannot be reliably inferred from the start and end."
+  },
+  "1300-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear, logical crafting sequence (assembling, decorating, finishing a resin clock) where the missing middle steps can be reasonably inferred from the start and end."
+  },
+  "1301-7.mp4": {
+    "pass": true,
+    "reason": "Shows a clear step-by-step glass-cutting process; the missing middle (cold-water dip causing separation) is inferable from seeing bottles heated at start and finished cut cups at end."
+  },
+  "1291-7.mp4": {
+    "pass": false,
+    "reason": "NO_RESPONSE"
+  },
+  "1304-7.mp4": {
+    "pass": true,
+    "reason": "The bottle’s back-and-forth kicks create a clear causal chain; given it lands near the man and later reappears with the woman, one can infer the missing middle where the man kicks it back."
+  },
+  "1305-7.mp4": {
+    "pass": false,
+    "reason": "The action (fast sorting) is repetitive and unchanged; the middle adds nothing causally predictable from start and end, so the gap cannot be meaningfully inferred."
+  },
+  "1303-7.mp4": {
+    "pass": false,
+    "reason": "{\"pass\": false, \"reason\": \"The middle consists of a varied travel montage (airplane, airport, dancing, street scenes"
+  },
+  "1306-7.mp4": {
+    "pass": true,
+    "reason": "A competitive task progresses from start to a clear winner; the intermediate popping actions can be reasonably inferred from the before-and-after frames."
+  },
+  "1313-7.mp4": {
+    "pass": true,
+    "reason": "Continuous drawing process where successive stages (outline → detailed segments → color fill) create a predictable middle segment."
+  },
+  "1315-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear, causal progression—from getting on and being pushed to swinging at full speed—so the missing middle (acceleration/early swinging) can be inferred from the start and end."
+  },
+  "1320-7.mp4": {
+    "pass": true,
+    "reason": "Continuous, goal-directed interaction where the middle (revealing and handing over the hidden object) can be logically inferred from the start (beeping scans) and end (guard holding object, confused)."
+  },
+  "1311-7.mp4": {
+    "pass": true,
+    "reason": "Speed tests build sequentially until she falls, so the progression during the gap is causally predictable from start and end."
+  },
+  "1309-7.mp4": {
+    "pass": true,
+    "reason": "The video depicts a continuous, goal-directed sequence (launch → flight → landing) where the events in the missing middle—rocket ascent and descent—can be logically inferred from the start and end states."
+  },
+  "1314-7.mp4": {
+    "pass": true,
+    "reason": "The action follows a clear causal progression—from launching down the ramp to ending up on the train—so the intervening jump and transfer can be inferred from the start and end."
+  },
+  "1331-7.mp4": {
+    "pass": true,
+    "reason": "The shift from initial excitement to final annoyance implies a deceptive reveal; the middle can be inferred as the discovery that the ring is fake (a chocolate wrapper)."
+  },
+  "1326-7.mp4": {
+    "pass": true,
+    "reason": "The transition from successful catching to blindfolded failures logically implies a middle step where he puts on the blindfold, making the gap inferable."
+  },
+  "1332-7.mp4": {
+    "pass": false,
+    "reason": "The video is a collection of unrelated demonstrations with no single causal progression, so the middle segment cannot be inferred from the beginning and end."
+  },
+  "1325-7.mp4": {
+    "pass": false,
+    "reason": "The middle contains an unpredictable comedic twist (paying with a real apple), so the action cannot be reliably inferred from the before-and-after context."
+  },
+  "1334-7.mp4": {
+    "pass": false,
+    "reason": "The statue’s brief transformation into a live person is an unexpected special effect that cannot be reliably inferred from just the start (dusting) and end (statue unchanged, cleaner leaving)."
+  },
+  "1335-7.mp4": {
+    "pass": true,
+    "reason": "The video shows a clear causal progression: trash is thrown, and by the end the man is covered in it, so the middle (more trash hitting him) can be logically inferred from the start and end."
+  },
+  "1336-7.mp4": {
+    "pass": true,
+    "reason": "The video follows a coherent sequence: messy eraser shavings lead to a cleaning tool being used, ending with a clean result/drawing, so the middle action (using the cleaning device) can be inferred from the start and end."
+  },
+  "1341-7.mp4": {
+    "pass": false,
+    "reason": "The video is composed of three separate photo-shoot scenes with hard cuts between them, so the middle segment cannot be causally inferred from the start and end of the whole video."
+  },
+  "1339-7.mp4": {
+    "pass": true,
+    "reason": "Continuous demonstration: from setup of tall tube to final slow draining, one can infer the middle step of the ball slowly rising while air enters."
+  },
+  "1340-7.mp4": {
+    "pass": false,
+    "reason": "The video is a montage of different people water-skiing without a clear causal progression, so the middle segment cannot be predicted from the beginning and end."
+  },
+  "1343-7.mp4": {
+    "pass": true,
+    "reason": "Story follows a clear kindness chain; given the generous acts at start and the worker receiving a cake at the end, one can infer a middle where the tired worker is noticed and helped, making the gap predictably causal."
+  }
+}
