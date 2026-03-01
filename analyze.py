@@ -1,4 +1,4 @@
-"""汇总 eval_results 目录下所有模型结果 JSON，输出准确率表格 + 错误来源分析。"""
+"""汇总 eval_results 目录下所有模型结果 JSON，输出准确率表格 + 错误来源分析（A/C），并写入 JSON 报告。"""
 
 import json
 from collections import Counter
@@ -10,7 +10,6 @@ D_CHOICES = ROOT / "choices"
 DIMS = ["S", "A", "C"]
 
 DISTRACTOR_NAMES = {
-    "S": ["Rand1", "Rand2", "Rand3"],
     "A": ["Early", "Late", "Wide"],
     "C": ["Reverse", "Shuffle", "Loop"],
 }
@@ -42,6 +41,8 @@ def main():
     else:
         num_questions = 0
     print(f"Total questions (from choices): {num_questions}")
+
+    report: dict = {"total_questions": num_questions, "models": {}}
 
     for path in files:
         model = path.stem
@@ -91,13 +92,25 @@ def main():
         col_widths = [w0] + [8] * 8
         print_table(headers, [acc_row], col_widths)
 
-        # ---- 2. 错误来源分析（需要 option_map） ----
-        error_counts: dict[str, Counter] = {d: Counter() for d in DIMS}
-        error_totals: dict[str, int] = {d: 0 for d in DIMS}
+        model_report: dict = {
+            "total_questions": num_stems,
+            "S_acc": dim_correct["S"] / dim_total["S"] if dim_total["S"] else 0,
+            "A_acc": dim_correct["A"] / dim_total["A"] if dim_total["A"] else 0,
+            "C_acc": dim_correct["C"] / dim_total["C"] if dim_total["C"] else 0,
+            "acc": correct_all / total if total else 0,
+            "3/3": right_counts[3] / num_stems if num_stems else 0,
+            "2/3": right_counts[2] / num_stems if num_stems else 0,
+            "1/3": right_counts[1] / num_stems if num_stems else 0,
+            "0/3": right_counts[0] / num_stems if num_stems else 0,
+        }
+
+        # ---- 2. 错误来源分析（仅 A/C，需要 option_map） ----
+        error_counts: dict[str, Counter] = {d: Counter() for d in ("A", "C")}
+        error_totals: dict[str, int] = {d: 0 for d in ("A", "C")}
         has_option_map = False
 
         for stem, entries in data.items():
-            for d in DIMS:
+            for d in ("A", "C"):
                 if d not in entries:
                     continue
                 entry = entries[d]
@@ -113,24 +126,35 @@ def main():
                     error_counts[d][chosen] += 1
                     error_totals[d] += 1
 
-        if not has_option_map:
+        if has_option_map:
+            print(f"\n  Error source analysis ({model}):")
+            error_report: dict = {}
+            for d in ("A", "C"):
+                n_err = error_totals[d]
+                dim_err: dict = {"total_errors": n_err}
+                if n_err == 0:
+                    print(f"    {d}: no errors")
+                else:
+                    parts = []
+                    for name in DISTRACTOR_NAMES[d]:
+                        cnt = error_counts[d].get(name, 0)
+                        pct = cnt / n_err if n_err else 0
+                        dim_err[name] = {"count": cnt, "pct": round(pct, 4)}
+                        parts.append(f"{name}={cnt}({pct:.0%})")
+                    print(f"    {d} ({n_err} errors): {', '.join(parts)}")
+                error_report[d] = dim_err
+            model_report["error_source"] = error_report
+            print()
+        else:
             print("  (option_map not available, skipping error source analysis)\n")
-            continue
 
-        print(f"\n  Error source analysis ({model}):")
-        for d in DIMS:
-            n_err = error_totals[d]
-            if n_err == 0:
-                print(f"    {d}: no errors")
-                continue
-            names = DISTRACTOR_NAMES[d]
-            parts = []
-            for name in names:
-                cnt = error_counts[d].get(name, 0)
-                pct = cnt / n_err if n_err else 0
-                parts.append(f"{name}={cnt}({pct:.0%})")
-            print(f"    {d} ({n_err} errors): {', '.join(parts)}")
-        print()
+        report["models"][model] = model_report
+
+    # 写入 JSON 报告
+    report_path = ROOT / "analyze_report.json"
+    with open(report_path, "w", encoding="utf-8") as f:
+        json.dump(report, f, indent=2, ensure_ascii=False)
+    print(f"Saved report to {report_path}")
 
 
 if __name__ == "__main__":
