@@ -8,7 +8,6 @@
 
 import base64
 import json
-import logging
 import os
 import random
 import sys
@@ -26,7 +25,6 @@ load_dotenv(ROOT / ".env")
 
 CHOICES_DIR = ROOT / "choices"
 RESULTS_DIR = ROOT / "eval_results"
-LOG_DIR = ROOT / "logs"
 
 NUM_FRAMES = 16
 MAX_HEIGHT = 360
@@ -53,14 +51,6 @@ You will then see four candidate middle segments, labeled A, B, C, D. Each candi
 Task: Which candidate is the correct middle? Choose one of A, B, C, D.
 
 Output JSON only: {"answer": "<A, B, C, or D>", "reason": "<one or two sentences>"}"""
-
-LOG_DIR.mkdir(parents=True, exist_ok=True)
-log = logging.getLogger(__name__)
-log.setLevel(logging.INFO)
-_fmt = logging.Formatter("[%(levelname)s] %(asctime)s - %(message)s", datefmt="%H:%M:%S")
-_fh = logging.FileHandler(LOG_DIR / f"eval_{MODEL_TAG}.log", encoding="utf-8")
-_fh.setFormatter(_fmt)
-log.addHandler(_fh)
 
 
 # ==================== 帧采样与编码 ====================
@@ -99,7 +89,6 @@ def parse_eval_response(raw: str, letters: list[str]) -> tuple[str | None, str]:
     if not raw:
         return None, ""
 
-    # 去掉 markdown 代码块包裹
     if raw.startswith("```"):
         lines = raw.split("\n")
         if lines[0].strip().startswith("```"):
@@ -108,7 +97,6 @@ def parse_eval_response(raw: str, letters: list[str]) -> tuple[str | None, str]:
             lines = lines[:-1]
         raw = "\n".join(lines).strip()
 
-    # 尝试直接解析 JSON
     try:
         parsed = json.loads(raw)
         answer = (parsed.get("answer") or "").strip().upper()
@@ -118,7 +106,6 @@ def parse_eval_response(raw: str, letters: list[str]) -> tuple[str | None, str]:
     except json.JSONDecodeError:
         pass
 
-    # 尝试从文本中截取 {...} 再解析
     start = raw.find("{")
     end = raw.rfind("}")
     if start != -1 and end != -1 and end > start:
@@ -192,7 +179,7 @@ def eval_one(client: OpenAI, stem: str, dim: str, distractors: list[str]) -> dic
                     r = e.response
                     body = getattr(r, "text", getattr(r, "content", repr(r)))
                     full_msg += f"\nFull response: {body}"
-                log.error(f"API error on {stem} {dim}:\n{full_msg}")
+                print(f"[eval] API error on {stem} {dim}:\n  {full_msg}", flush=True)
                 return {"stem": stem, "dim": dim, "error": str(e)[:200]}
 
 
@@ -200,7 +187,7 @@ def eval_one(client: OpenAI, stem: str, dim: str, distractors: list[str]) -> dic
 
 def run(targets: list[str] | None = None):
     if not CHOICES_DIR.exists():
-        log.error(f"Choices directory not found: {CHOICES_DIR}")
+        print(f"Choices directory not found: {CHOICES_DIR}")
         return
 
     all_stems = sorted(
@@ -210,8 +197,8 @@ def run(targets: list[str] | None = None):
 
     stems = [s for s in targets if s in all_stems] if targets else all_stems
 
-    log.info(f"Model: {EVAL_MODEL}")
-    log.info(f"Num videos: {len(stems)}, total tasks ≈ {len(stems) * 3}")
+    print(f"Model: {EVAL_MODEL}")
+    print(f"Num videos: {len(stems)}, total tasks ≈ {len(stems) * 3}")
 
     client = OpenAI(
         api_key=os.getenv("OPENAI_API_KEY"),
@@ -234,10 +221,10 @@ def run(targets: list[str] | None = None):
                 continue
             tasks.append((stem, dim, distractors))
 
-    log.info(f"Tasks to run: {len(tasks)}, already done: {sum(len(v) for v in all_results.values())}")
+    print(f"Tasks to run: {len(tasks)}, already done: {sum(len(v) for v in all_results.values())}")
 
     if not tasks:
-        log.info("No tasks to run.")
+        print("No tasks to run.")
     else:
         max_workers = min(NUM_WORKERS, max(1, os.cpu_count()))
         saved_count = 0
@@ -252,11 +239,10 @@ def run(targets: list[str] | None = None):
                 try:
                     result = fut.result()
                 except Exception as e:
-                    log.error(f"Unexpected error in worker for {stem} {dim}: {e}")
+                    print(f"[eval] Unexpected error for {stem} {dim}: {e}", flush=True)
                     continue
 
                 if "error" in result:
-                    log.error(f"API error on {stem} {dim}: {result['error']}")
                     print(f"[eval] ERROR: {stem} {dim} — {result['error']}")
                     continue
 
@@ -274,9 +260,9 @@ def run(targets: list[str] | None = None):
                     with open(results_path, "w", encoding="utf-8") as f:
                         json.dump(all_results, f, indent=2, ensure_ascii=False)
                 except Exception as e:
-                    log.error(f"Failed to save results: {e}")
+                    print(f"[eval] Failed to save results: {e}", flush=True)
 
-        log.info(f"Saved {saved_count}/{len(tasks)} tasks to {results_path}")
+        print(f"Saved {saved_count}/{len(tasks)} tasks to {results_path}")
 
 
 
