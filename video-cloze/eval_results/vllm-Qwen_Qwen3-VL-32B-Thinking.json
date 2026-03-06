@@ -1,0 +1,106 @@
+{
+  "-3tpkXFA4uU.11_1": {
+    "C": {
+      "correct": false,
+      "answer": "C",
+      "expected": "D",
+      "reason": "The correct middle segment must transition from the initial close-up interactions with the horse to the wider scenes of people mounting horses, which is depicted in Candidate C. This sequence logically connects the beginning (petting the horse) to the end (the woman in blue observing the activity).",
+      "option_map": {
+        "A": "Loop",
+        "B": "Shuffle",
+        "C": "Reverse",
+        "D": "GT"
+      }
+    },
+    "A": {
+      "correct": false,
+      "answer": "C",
+      "expected": "B",
+      "reason": "The correct middle segment must connect the initial horse interactions (petting, walking) to the final scenes of people observing and the woman in blue. Candidate C shows the key action of people assisting someone to mount a horse, which logically follows the walking sequence and precedes the observational scenes in the end.",
+      "option_map": {
+        "A": "Early",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Late"
+      }
+    },
+    "S": {
+      "correct": true,
+      "answer": "D",
+      "expected": "D",
+      "reason": "The correct middle segment shows a woman being assisted onto a horse, which logically follows the sequence of the woman walking toward the horses (from the beginning) and precedes the end where a woman in a blue shirt observes the scene.",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand2",
+        "C": "Rand1",
+        "D": "GT"
+      }
+    }
+  },
+  "-0elu_w9VN0.0_0": {
+    "A": {
+      "correct": false,
+      "answer": "B",
+      "expected": "A",
+      "reason": "The correct middle segment must contain the Rumble platform's promotional sequence (with 'SUBSCRIBE' and 'UPLOAD & LICENSE' buttons and various background scenes), which connects the initial and final segments of the woman with the dog. Candidate B matches this sequence.",
+      "option_map": {
+        "A": "GT",
+        "B": "Late",
+        "C": "Wide",
+        "D": "Early"
+      }
+    },
+    "C": {
+      "correct": false,
+      "answer": "A",
+      "expected": "B",
+      "reason": "The correct middle segment must include the Rumble platform's end screen with 'SUBSCRIBE' and 'UPLOAD & LICENSE' buttons, which is the typical transition between the main content and the end. Candidate A contains this sequence, while others do not match the required structure.",
+      "option_map": {
+        "A": "Shuffle",
+        "B": "GT",
+        "C": "Reverse",
+        "D": "Loop"
+      }
+    },
+    "S": {
+      "correct": true,
+      "answer": "A",
+      "expected": "A",
+      "reason": "The correct middle segment is the Rumble platform's end screen, which includes the 'SUBSCRIBE' and 'UPLOAD & LICENSE' buttons, various background elements, and the Rumble logo. Candidate A matches this structure, while the others do not.",
+      "option_map": {
+        "A": "GT",
+        "B": "Rand3",
+        "C": "Rand2",
+        "D": "Rand1"
+      }
+    }
+  },
+  "-2v17iljK8k.4_0": {
+    "A": {
+      "correct": false,
+      "answer": "A",
+      "expected": "C",
+      "reason": "The correct middle segment must show the continuation of cutting pipes and arranging them on the table, which aligns with the sequence from the beginning (cutting) to the end (arranged pipes). Candidate A depicts this transition accurately.",
+      "option_map": {
+        "A": "Early",
+        "B": "Wide",
+        "C": "GT",
+        "D": "Late"
+      }
+    }
+  },
+  "-D3BDG_flQI.2_0": {
+    "S": {
+      "correct": false,
+      "answer": "B",
+      "expected": "A",
+      "reason": "The correct middle segment must maintain continuity in the player's movement, environment details (e.g., destroyed urban landscape, specific vehicles like the taxi), and UI elements (mini-map, ammo count). Candidate B aligns with the sequence of actions and visual context between the BEGINNING and END frames.",
+      "option_map": {
+        "A": "GT",
+        "B": "Rand1",
+        "C": "Rand3",
+        "D": "Rand2"
+      }
+    }
+  }
+}

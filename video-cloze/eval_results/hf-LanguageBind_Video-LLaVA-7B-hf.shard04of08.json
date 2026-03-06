@@ -1,0 +1,30 @@
+{
+  "0385-7": {
+    "A": {
+      "correct": false,
+      "answer": "C",
+      "expected": "D",
+      "reason": "C of of of\nC of\n\n\n\n\n\n\n\n\nd-\n\n\n\n\n\n\nd-d-d-d.\nd.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nC.",
+      "option_map": {
+        "A": "Wide",
+        "B": "Early",
+        "C": "Late",
+        "D": "GT"
+      }
+    }
+  },
+  "0469-7": {
+    "S": {
+      "correct": false,
+      "answer": "C",
+      "expected": "A",
+      "reason": "C,\nC,\nC,\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nc-\nb-\n\n\n\n\n\n\n\n\n\n\nand and and and and and and and and and and and and and and-\n\n\n\n\n\n\n\n\n\nand and and and and and and and-",
+      "option_map": {
+        "A": "GT",
+        "B": "Rand3",
+        "C": "Rand1",
+        "D": "Rand2"
+      }
+    }
+  }
+}

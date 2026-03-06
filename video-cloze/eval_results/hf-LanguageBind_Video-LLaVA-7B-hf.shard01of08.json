@@ -1,0 +1,16 @@
+{
+  "0106-7": {
+    "S": {
+      "correct": false,
+      "answer": "C",
+      "expected": "A",
+      "reason": "c and-c-c-c.\nc.\nand.\nand.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nand and and and and and and.\ns.\ns.",
+      "option_map": {
+        "A": "GT",
+        "B": "Rand1",
+        "C": "Rand2",
+        "D": "Rand3"
+      }
+    }
+  }
+}

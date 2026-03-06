@@ -1,0 +1,28 @@
+{
+  "0086-7": {
+    "S": {
+      "correct": false,
+      "answer": "A",
+      "expected": "C",
+      "reason": "USER:\nYou are given:\n- BEGINNING: the first part of a video (frames in temporal order).\n- END: the last part of the same video (frames in temporal order).\nThe middle segment between BEGINNING and END was removed.\n\nYou will then see four candidate middle segments, labeled A, B, C, D.\nEach candidate is a short clip; exactly one is the true middle.\n\nTask: choose the correct middle segment.\n\nOutput JSON only: {\"answer\":\"<A|B|C|D>\",\"reason\":\"<one or two sentences>\"}\n\n[BEGINNING]\n\n\n\n\n[END]\n\n\n\n\n[Candidate A]\n\n\n\n\n[Candidate B]\n\n\n\n\n[Candidate C]\n\n\n\n\n[Candidate D]\n\n\n\n\nReturn JSON only, with keys \"answer\" and \"reason\".\nASSISTANT:",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand2",
+        "C": "GT",
+        "D": "Rand1"
+      }
+    },
+    "A": {
+      "correct": true,
+      "answer": "A",
+      "expected": "A",
+      "reason": "USER:\nYou are given:\n- BEGINNING: the first part of a video (frames in temporal order).\n- END: the last part of the same video (frames in temporal order).\nThe middle segment between BEGINNING and END was removed.\n\nYou will then see four candidate middle segments, labeled A, B, C, D.\nEach candidate is a short clip; exactly one is the true middle.\n\nTask: choose the correct middle segment.\n\nOutput JSON only: {\"answer\":\"<A|B|C|D>\",\"reason\":\"<one or two sentences>\"}\n\n[BEGINNING]\n\n\n\n\n[END]\n\n\n\n\n[Candidate A]\n\n\n\n\n[Candidate B]\n\n\n\n\n[Candidate C]\n\n\n\n\n[Candidate D]\n\n\n\n\nReturn JSON only, with keys \"answer\" and \"reason\".\nASSISTANT:",
+      "option_map": {
+        "A": "GT",
+        "B": "Wide",
+        "C": "Late",
+        "D": "Early"
+      }
+    }
+  }
+}
