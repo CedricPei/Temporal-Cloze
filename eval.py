@@ -1,9 +1,8 @@
 """Temporal Cloze 评测脚本
 
 用法:
-  python eval.py                                    # 评测全部题目
-  python eval.py xMVtFHXrMR4.15_3                   # 评测指定题目
-  python eval.py xMVtFHXrMR4.15_3 2Tz4_p9U56w.13_1  # 评测多个题目
+  python eval.py video-cloze     # 评测 video-cloze 文件夹
+  python eval.py subset          # 评测 subset 文件夹
 """
 
 import base64
@@ -23,13 +22,16 @@ from tqdm import tqdm
 ROOT = Path(__file__).parent
 load_dotenv(ROOT / ".env")
 
-CHOICES_DIR = ROOT / "choices"
-RESULTS_DIR = ROOT / "eval_results"
+PRESET = sys.argv[1] if len(sys.argv) > 1 else "video-cloze"
+PRESET_DIR = ROOT / PRESET
+CHOICES_DIR = PRESET_DIR / "choices"
+RESULTS_DIR = PRESET_DIR / "eval_results"
 
 NUM_FRAMES = 16
 MAX_HEIGHT = 360
-EVAL_MODEL = "google/gemini-2.5-pro"
-# EVAL_MODEL = "bytedance-seed/seed-1.6"
+# EVAL_MODEL = "google/gemini-2.5-pro"
+# EVAL_MODEL = "doubao-seed-1-6-251015"
+EVAL_MODEL = "qwen/qwen3.5-397b-a17b"
 NUM_WORKERS = 8
 MAX_RETRIES = 3
 
@@ -185,18 +187,17 @@ def eval_one(client: OpenAI, stem: str, dim: str, distractors: list[str]) -> dic
 
 # ==================== Main ====================
 
-def run(targets: list[str] | None = None):
+def run():
     if not CHOICES_DIR.exists():
         print(f"Choices directory not found: {CHOICES_DIR}")
         return
 
-    all_stems = sorted(
+    stems = sorted(
         p.name for p in CHOICES_DIR.iterdir()
         if p.is_dir() and (p / "GT.mp4").exists()
     )
 
-    stems = [s for s in targets if s in all_stems] if targets else all_stems
-
+    print(f"Preset: {PRESET}")
     print(f"Model: {EVAL_MODEL}")
     print(f"Num videos: {len(stems)}, total tasks ≈ {len(stems) * 3}")
 
@@ -267,5 +268,7 @@ def run(targets: list[str] | None = None):
 
 
 if __name__ == "__main__":
-    targets = sys.argv[1:] if len(sys.argv) > 1 else None
-    run(targets)
+    if PRESET not in ("video-cloze", "subset"):
+        print(f"Unknown preset: {PRESET}, use 'video-cloze' or 'subset'")
+        sys.exit(1)
+    run()

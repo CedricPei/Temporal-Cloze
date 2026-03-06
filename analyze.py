@@ -1,12 +1,20 @@
-"""汇总 eval_results 目录下所有模型结果 JSON，输出准确率表格 + 错误来源分析（A/C），并写入 JSON 报告。"""
+"""汇总 eval_results 目录下所有模型结果 JSON，输出准确率表格 + 错误来源分析（A/C），并写入 JSON 报告。
+
+用法:
+  python analyze.py video-cloze   # 分析 video-cloze 文件夹
+  python analyze.py subset        # 分析 subset 文件夹
+"""
 
 import json
+import sys
 from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).parent
-EVAL_RESULTS_DIR = ROOT / "eval_results"
-D_CHOICES = ROOT / "choices"
+PRESET = sys.argv[1] if len(sys.argv) > 1 else "video-cloze"
+PRESET_DIR = ROOT / PRESET
+EVAL_RESULTS_DIR = PRESET_DIR / "eval_results"
+D_CHOICES = PRESET_DIR / "choices"
 DIMS = ["S", "A", "C"]
 
 DISTRACTOR_NAMES = {
@@ -151,11 +159,15 @@ def main():
         report["models"][model] = model_report
 
     # 写入 JSON 报告
-    report_path = ROOT / "analyze_report.json"
+    report_path = PRESET_DIR / "analyze_report.json"
     with open(report_path, "w", encoding="utf-8") as f:
         json.dump(report, f, indent=2, ensure_ascii=False)
     print(f"Saved report to {report_path}")
 
 
 if __name__ == "__main__":
+    if PRESET not in ("video-cloze", "subset"):
+        print(f"Unknown preset: {PRESET}, use 'video-cloze' or 'subset'")
+        sys.exit(1)
+    print(f"Analyzing: {PRESET}")
     main()
