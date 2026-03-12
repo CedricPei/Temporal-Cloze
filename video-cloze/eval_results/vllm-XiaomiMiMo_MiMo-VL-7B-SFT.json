@@ -3557,6 +3557,18 @@
         "C": "Reverse",
         "D": "Shuffle"
       }
+    },
+    "A": {
+      "correct": true,
+      "answer": "A",
+      "expected": "A",
+      "reason": "Candidate A shows the dog transitioning from the rug area (consistent with BEGINNING) toward the table area (consistent with END), making it the logical middle segment.",
+      "option_map": {
+        "A": "GT",
+        "B": "Late",
+        "C": "Wide",
+        "D": "Early"
+      }
     }
   },
   "0gGgfaC9akk.19_1": {
@@ -5369,6 +5381,18 @@
         "C": "Late",
         "D": "GT"
       }
+    },
+    "S": {
+      "correct": false,
+      "answer": "A",
+      "expected": "B",
+      "reason": "The BEGINNING shows a drawer being opened (likely to retrieve utensils), and the END shows utensils being washed at the sink. Candidate A’s frames depict actions involving handling utensils, which logically connects retrieving utensils from the drawer to washing them at the sink.",
+      "option_map": {
+        "A": "Rand3",
+        "B": "GT",
+        "C": "Rand1",
+        "D": "Rand2"
+      }
     }
   },
   "26k-11-3-7|P1|467|937": {
@@ -5394,6 +5418,18 @@
         "B": "Wide",
         "C": "GT",
         "D": "Early"
+      }
+    },
+    "C": {
+      "correct": true,
+      "answer": "A",
+      "expected": "A",
+      "reason": "The BEGINNING shows opening a drawer (likely to retrieve an item), and the END shows actions at the sink with a cup. Candidate A’s frames depict handling a cup and utensil, which logically connects the drawer - opening action to the sink - based actions in the END, making it the correct middle segment.",
+      "option_map": {
+        "A": "GT",
+        "B": "Loop",
+        "C": "Shuffle",
+        "D": "Reverse"
       }
     }
   },
@@ -8195,6 +8231,18 @@
         "C": "Shuffle",
         "D": "Reverse"
       }
+    },
+    "A": {
+      "correct": false,
+      "answer": "B",
+      "expected": "D",
+      "reason": "Candidate B’s underwater scenes of surfers and ocean waves logically bridge the backyard setting of BEGINNING to the ocean setting of END, maintaining narrative flow.",
+      "option_map": {
+        "A": "Early",
+        "B": "Late",
+        "C": "Wide",
+        "D": "GT"
+      }
     }
   },
   "2pY7kSFFh8o.17_0": {
@@ -8296,6 +8344,18 @@
         "B": "Shuffle",
         "C": "Reverse",
         "D": "GT"
+      }
+    },
+    "S": {
+      "correct": false,
+      "answer": "C",
+      "expected": "B",
+      "reason": "Candidate C's frames show the character transitioning from the area near the barricade (BEGINNING) to the doorway area (END), matching the temporal flow and scene progression between the two segments.",
+      "option_map": {
+        "A": "Rand1",
+        "B": "GT",
+        "C": "Rand2",
+        "D": "Rand3"
       }
     }
   },
@@ -9805,6 +9865,18 @@
         "C": "Early",
         "D": "Wide"
       }
+    },
+    "S": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "Candidate B depicts the action of adding scallion and ginger into the chicken’s cavity, which aligns with the text and actions in the END segment, connecting the initial chicken washing (BEGINNING) to the subsequent preparation steps.",
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand3",
+        "D": "Rand1"
+      }
     }
   },
   "3h8PzeGp2RQ_video": {
@@ -9907,6 +9979,18 @@
         "C": "Shuffle",
         "D": "Reverse"
       }
+    },
+    "A": {
+      "correct": false,
+      "answer": "A",
+      "expected": "B",
+      "reason": "Candidate A depicts the styling process of the hair, which logically connects the haircutting actions in the BEGINNING segment to the finished hairstyle shown in the END segment.",
+      "option_map": {
+        "A": "Late",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Early"
+      }
     }
   },
   "43l88CAaEOk.22_0": {
@@ -9971,6 +10055,18 @@
         "C": "GT",
         "D": "Rand2"
       }
+    },
+    "C": {
+      "correct": false,
+      "answer": "D",
+      "expected": "C",
+      "reason": "The candidate D maintains continuity in the match context, player positions, and flow of the soccer game, connecting the BEGINNING and END segments logically.",
+      "option_map": {
+        "A": "Shuffle",
+        "B": "Loop",
+        "C": "GT",
+        "D": "Reverse"
+      }
     }
   },
   "4E04ffBVUfQ.42_0": {
@@ -10034,6 +10130,18 @@
         "B": "Rand2",
         "C": "GT",
         "D": "Rand3"
+      }
+    },
+    "C": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "Candidate C maintains visual continuity in track environment, dashboard elements, and lap progression between the BEGINNING and END segments, ensuring a coherent transition.",
+      "option_map": {
+        "A": "Reverse",
+        "B": "Loop",
+        "C": "GT",
+        "D": "Shuffle"
       }
     }
   },
@@ -10124,6 +10232,30 @@
         "B": "Reverse",
         "C": "Loop",
         "D": "Shuffle"
+      }
+    },
+    "S": {
+      "correct": false,
+      "answer": "C",
+      "expected": "B",
+      "reason": "Candidate C shows the man’s actions and position transitioning smoothly from the BEGINNING to the END, maintaining the context of working on the truck with consistent movement and posture.",
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand1",
+        "D": "Rand3"
+      }
+    },
+    "A": {
+      "correct": false,
+      "answer": "C",
+      "expected": "A",
+      "reason": "Candidate C’s frames show a continuous sequence of the man working on the truck, matching the action flow between the BEGINNING and END segments.",
+      "option_map": {
+        "A": "GT",
+        "B": "Late",
+        "C": "Wide",
+        "D": "Early"
       }
     }
   },
@@ -10493,6 +10625,18 @@
         "C": "Loop",
         "D": "Shuffle"
       }
+    },
+    "S": {
+      "correct": false,
+      "answer": "B",
+      "expected": "D",
+      "reason": "Candidate B shows the skier in various snowy mountain scenes, which logically connects the BEGINNING (skier on a snowy mountain) to the END (skier in different mountain environments). Other candidates either repeat title cards (A), show unrelated visuals (C), or do not match the skiing action flow as cohesively (D).",
+      "option_map": {
+        "A": "Rand1",
+        "B": "Rand2",
+        "C": "Rand3",
+        "D": "GT"
+      }
     }
   },
   "5D1_T-cuFsw.9_0": {
@@ -10594,6 +10738,18 @@
         "B": "Late",
         "C": "Early",
         "D": "Wide"
+      }
+    },
+    "S": {
+      "correct": false,
+      "answer": "A",
+      "expected": "C",
+      "reason": "The END segment shows the man hugging the child, and Candidate A’s frames depict the man hugging the child, which logically connects the BEGINNING (feeding) to the END (hug) as a transitional middle segment.",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand2"
       }
     }
   },
@@ -11076,6 +11232,18 @@
         "B": "GT",
         "C": "Early",
         "D": "Wide"
+      }
+    },
+    "S": {
+      "correct": false,
+      "answer": "C",
+      "expected": "D",
+      "reason": "Candidate C includes frames with the person in military gear (matching the BEGINNING) and transitions to beach scenes that lead to the END segment featuring a metal detector on the beach, ensuring a coherent connection between the start and end of the video.",
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand3",
+        "C": "Rand1",
+        "D": "GT"
       }
     }
   },
@@ -13002,6 +13170,18 @@
         "B": "Loop",
         "C": "Shuffle",
         "D": "Reverse"
+      }
+    },
+    "S": {
+      "correct": false,
+      "answer": "C",
+      "expected": "B",
+      "reason": "In the BEGINNING, the girl holds a cloth, and in the END, she does not. Candidate C shows the girl still holding the cloth, matching the transition between these states, while other candidates either show the girl with hands by her sides (like the END) or inconsistent actions.",
+      "option_map": {
+        "A": "Rand1",
+        "B": "GT",
+        "C": "Rand2",
+        "D": "Rand3"
       }
     }
   },
@@ -31877,6 +32057,18 @@
         "C": "Wide",
         "D": "GT"
       }
+    },
+    "S": {
+      "correct": false,
+      "answer": "C",
+      "expected": "D",
+      "reason": "The BEGINNING shows a bike approaching a wooden bridge, and the END shows the bike on the bridge. Candidate C’s frames depict the bike on the wooden bridge, maintaining visual continuity between the start (approaching the bridge) and end (on the bridge) of the video.",
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand1",
+        "C": "Rand3",
+        "D": "GT"
+      }
     }
   },
   "EFD9BLgMVK8_video": {
@@ -32663,6 +32855,18 @@
         "C": "Late",
         "D": "GT"
       }
+    },
+    "S": {
+      "correct": true,
+      "answer": "A",
+      "expected": "A",
+      "reason": "The BEGINNING includes a title card, and the END shows the skier in action. Candidate A’s frames depict the skier snowboarding, which logically connects the title segment to the action-focused END segment.",
+      "option_map": {
+        "A": "GT",
+        "B": "Rand2",
+        "C": "Rand1",
+        "D": "Rand3"
+      }
     }
   },
   "FRvKd5xBZA8.30_1": {
@@ -33221,6 +33425,18 @@
         "C": "Reverse",
         "D": "GT"
       }
+    },
+    "S": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "The BEGINNING shows a map (planning a route), and the END shows a fishing rod on a boat. Candidate C features sailboat frames, which logically connect the map (planning the journey) to the fishing activity (after sailing). Other candidates either repeat the map (B) or show the fishing rod (A, D) without the intermediate sailing segment.",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand2",
+        "C": "GT",
+        "D": "Rand1"
+      }
     }
   },
   "GIW6N": {
@@ -33474,6 +33690,18 @@
         "B": "Early",
         "C": "Late",
         "D": "Wide"
+      }
+    },
+    "S": {
+      "correct": false,
+      "answer": "C",
+      "expected": "B",
+      "reason": "The BEGINNING shows a dock scene, and the END shows a character walking on a path with blue flowers and trees. Candidate C’s clips depict the character walking on a path that matches the END’s environment in terms of terrain, vegetation, and overall setting, making it the logical middle segment.",
+      "option_map": {
+        "A": "Rand3",
+        "B": "GT",
+        "C": "Rand2",
+        "D": "Rand1"
       }
     }
   },
@@ -33804,6 +34032,18 @@
         "B": "GT",
         "C": "Loop",
         "D": "Shuffle"
+      }
+    },
+    "S": {
+      "correct": false,
+      "answer": "C",
+      "expected": "B",
+      "reason": "The BEGINNING shows an indoor scene with a person in a blue cap and gray shirt, while the END shows an outdoor boat - fishing scene. Candidate C contains frames of the boat - fishing activity, which logically connects the indoor BEGINNING to the outdoor END.",
+      "option_map": {
+        "A": "Rand3",
+        "B": "GT",
+        "C": "Rand2",
+        "D": "Rand1"
       }
     }
   },
@@ -36529,6 +36769,18 @@
         "C": "Early",
         "D": "Wide"
       }
+    },
+    "C": {
+      "correct": true,
+      "answer": "D",
+      "expected": "D",
+      "reason": "Candidate D shows the laptop being flipped to reveal its bottom and handled, which logically connects the initial view of the closed laptop in BEGINNING to the final placement with the pink cloth in END.",
+      "option_map": {
+        "A": "Reverse",
+        "B": "Shuffle",
+        "C": "Loop",
+        "D": "GT"
+      }
     }
   },
   "M_8qxw0pLSo": {
@@ -37923,6 +38175,18 @@
         "C": "Late",
         "D": "GT"
       }
+    },
+    "S": {
+      "correct": false,
+      "answer": "A",
+      "expected": "C",
+      "reason": "The BEGINNING shows the girl standing, and the END shows her sitting on a mat watching TV. Candidate A depicts the girl in a seated position, aligning with the transition from standing (BEGINNING) to sitting (END). Other candidates either show the girl standing (B, C) or do not match the spatial/contextual transition as closely.",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand2"
+      }
     }
   },
   "PRBeGAD4YX8": {
@@ -37948,6 +38212,18 @@
         "B": "Loop",
         "C": "Shuffle",
         "D": "GT"
+      }
+    },
+    "S": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "Candidate C shows the character transitioning from the snowy mountain area (BEGINNING) to the forested area near the lake (END), matching the required temporal and environmental continuity between the two segments.",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand2"
       }
     }
   },
@@ -38354,6 +38630,18 @@
         "B": "GT",
         "C": "Reverse",
         "D": "Shuffle"
+      }
+    },
+    "S": {
+      "correct": true,
+      "answer": "A",
+      "expected": "A",
+      "reason": "The BEGINNING features a man in a black shirt on a golf course, while the END shows a man in an orange shirt on a dirt path. Candidate A depicts the man in the orange shirt walking on the dirt path, aligning with the transition from the BEGINNING to the END segments.",
+      "option_map": {
+        "A": "GT",
+        "B": "Rand2",
+        "C": "Rand3",
+        "D": "Rand1"
       }
     }
   },
@@ -40243,6 +40531,18 @@
         "C": "GT",
         "D": "Loop"
       }
+    },
+    "S": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "The BEGINNING introduces leather bags, and the END focuses on cleaning a Guess wallet. Candidate B shows the wallet being opened and its interior, which logically connects the general topic of leather bag care to the specific wallet cleaning process in the END.",
+      "option_map": {
+        "A": "Rand3",
+        "B": "GT",
+        "C": "Rand2",
+        "D": "Rand1"
+      }
     }
   },
   "UOcGbOtUBd8": {
@@ -41219,6 +41519,18 @@
         "C": "GT",
         "D": "Loop"
       }
+    },
+    "S": {
+      "correct": false,
+      "answer": "C",
+      "expected": "B",
+      "reason": "Candidate C’s frames show the progression of the Vikings’ offensive plays, matching the transition from 1st & 10 (BEGINNING) to 3rd & 20 (END) with consistent time and down progression.",
+      "option_map": {
+        "A": "Rand3",
+        "B": "GT",
+        "C": "Rand1",
+        "D": "Rand2"
+      }
     }
   },
   "VuSWSlAZWII.1_0": {
@@ -41434,6 +41746,18 @@
         "B": "Wide",
         "C": "GT",
         "D": "Early"
+      }
+    },
+    "S": {
+      "correct": false,
+      "answer": "C",
+      "expected": "A",
+      "reason": "Candidate C shows the use of a hot glue gun and the assembly of the bow, which connects the initial preparation of materials in the BEGINNING to the final glued and completed bow in the END.",
+      "option_map": {
+        "A": "GT",
+        "B": "Rand2",
+        "C": "Rand3",
+        "D": "Rand1"
       }
     }
   },
@@ -41840,6 +42164,18 @@
         "B": "Early",
         "C": "GT",
         "D": "Wide"
+      }
+    },
+    "C": {
+      "correct": false,
+      "answer": "A",
+      "expected": "C",
+      "reason": "The BEGINNING shows meat and mushrooms being stirred, while the END shows adding canned tomatoes. Candidate A includes adding green onions (via a white bowl) and stirring, which logically connects the initial stirring of meat/mushrooms to the final step of adding tomatoes.",
+      "option_map": {
+        "A": "Reverse",
+        "B": "Shuffle",
+        "C": "GT",
+        "D": "Loop"
       }
     }
   },
@@ -42969,6 +43305,18 @@
         "C": "Late",
         "D": "Early"
       }
+    },
+    "C": {
+      "correct": true,
+      "answer": "A",
+      "expected": "A",
+      "reason": "Candidate A contains gameplay sequences that logically connect the initial goal celebration (21' GOAL) to the final goal celebration (36' GOAL), showing the progression of the match between these two segments.",
+      "option_map": {
+        "A": "GT",
+        "B": "Reverse",
+        "C": "Loop",
+        "D": "Shuffle"
+      }
     }
   },
   "Zjktzs69gJM.6_1": {
@@ -43222,6 +43570,18 @@
         "B": "GT",
         "C": "Late",
         "D": "Wide"
+      }
+    },
+    "C": {
+      "correct": false,
+      "answer": "C",
+      "expected": "D",
+      "reason": "The BEGINNING shows garlic being cut, and the END shows bacon being cut. Candidate C’s clips depict the process of cutting bacon, which logically connects the garlic - cutting (BEGINNING) to the bacon - cutting (END) segments.",
+      "option_map": {
+        "A": "Shuffle",
+        "B": "Loop",
+        "C": "Reverse",
+        "D": "GT"
       }
     }
   },
@@ -44008,6 +44368,18 @@
         "B": "GT",
         "C": "Rand2",
         "D": "Rand1"
+      }
+    },
+    "A": {
+      "correct": false,
+      "answer": "B",
+      "expected": "D",
+      "reason": "Candidate B contains the Pagani car in a sequence that connects the car show scenes in the BEGINNING to the Pagani-focused scenes in the END, maintaining continuity in the video's narrative flow.",
+      "option_map": {
+        "A": "Early",
+        "B": "Late",
+        "C": "Wide",
+        "D": "GT"
       }
     }
   },
@@ -46847,6 +47219,18 @@
         "C": "Loop",
         "D": "Reverse"
       }
+    },
+    "S": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "The BEGINNING shows vegetable chopping, and the END shows a plated meal. Candidate C includes the plated meal (matching the END) and logically connects the cooking process between the initial chopping and final plated dish.",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand2"
+      }
     }
   },
   "fujQBbSNXcA": {
@@ -47366,6 +47750,18 @@
         "B": "Shuffle",
         "C": "Loop",
         "D": "Reverse"
+      }
+    },
+    "S": {
+      "correct": false,
+      "answer": "D",
+      "expected": "B",
+      "reason": "The BEGINNING and END both feature the 'GoPro Line of the Winter' title card, and Candidate D includes this title card along with the action sequences that connect the start and end segments, ensuring continuity.",
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand1",
+        "D": "Rand3"
       }
     }
   },
@@ -49255,6 +49651,18 @@
         "C": "Late",
         "D": "GT"
       }
+    },
+    "S": {
+      "correct": false,
+      "answer": "A",
+      "expected": "C",
+      "reason": "The BEGINNING shows hands handling a mixture, and the END shows a fully mixed mixture. Candidate A depicts a hand using a utensil to mix the mixture, which logically connects the initial handling of ingredients to the final mixed state in the END.",
+      "option_map": {
+        "A": "Rand1",
+        "B": "Rand3",
+        "C": "GT",
+        "D": "Rand2"
+      }
     }
   },
   "m9lu-NfzXUc.2_0": {
@@ -50420,6 +50828,18 @@
         "B": "GT",
         "C": "Shuffle",
         "D": "Loop"
+      }
+    },
+    "A": {
+      "correct": false,
+      "answer": "C",
+      "expected": "D",
+      "reason": "The BEGINNING shows a package with 'PRO 82' and hands, while the END shows the package being handled and cut. Candidate C’s frames depict the package being manipulated, matching the transition between the two segments.",
+      "option_map": {
+        "A": "Wide",
+        "B": "Late",
+        "C": "Early",
+        "D": "GT"
       }
     }
   },
@@ -57184,6 +57604,202 @@
         "B": "GT",
         "C": "Rand3",
         "D": "Rand1"
+      }
+    }
+  },
+  "4YmbEF-0bFk.16_0": {
+    "C": {
+      "correct": false,
+      "answer": "C",
+      "expected": "D",
+      "reason": "Candidate C contains the red container with snow and the bottle, which are key elements present in the END segment, while maintaining the snowy background consistent with the BEGINNING segment.",
+      "option_map": {
+        "A": "Shuffle",
+        "B": "Reverse",
+        "C": "Loop",
+        "D": "GT"
+      }
+    },
+    "S": {
+      "correct": false,
+      "answer": "A",
+      "expected": "B",
+      "reason": "Candidate A maintains the snowy outdoor elements (trees, car) from the BEGINNING and transitions toward the close - up of the red container and hands seen in the END, matching the temporal flow between the two segments.",
+      "option_map": {
+        "A": "Rand1",
+        "B": "GT",
+        "C": "Rand3",
+        "D": "Rand2"
+      }
+    },
+    "A": {
+      "correct": false,
+      "answer": "A",
+      "expected": "B",
+      "reason": "Candidate A shows a transition from the snowy outdoor scene (consistent with BEGINNING) to the close - up of the red container and related items (consistent with END), while other candidates do not bridge these elements effectively.",
+      "option_map": {
+        "A": "Late",
+        "B": "GT",
+        "C": "Early",
+        "D": "Wide"
+      }
+    }
+  },
+  "4RQ3A9X0T7Y.23_5": {
+    "S": {
+      "correct": false,
+      "answer": "A",
+      "expected": "B",
+      "reason": "Candidate A shows a progression from cooking meat and vegetables (matching the BEGINNING) to adding and spreading rice, which logically connects to the END segment featuring eggs and rice being cooked.",
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand3",
+        "D": "Rand1"
+      }
+    },
+    "C": {
+      "correct": false,
+      "answer": "A",
+      "expected": "D",
+      "reason": "The BEGINNING shows cooking meat/veggies, and the END shows cooking eggs. Candidate A’s frames depict the griddle with rice, veggies, and spatula use, bridging the transition from the initial cooking stage to the egg - cooking stage in the END.",
+      "option_map": {
+        "A": "Loop",
+        "B": "Reverse",
+        "C": "Shuffle",
+        "D": "GT"
+      }
+    },
+    "A": {
+      "correct": false,
+      "answer": "A",
+      "expected": "C",
+      "reason": "The BEGINNING shows grilling meat and vegetables, while the END shows rice being spread on the grill. Candidate A depicts the action of spreading rice on the grill, which logically connects the initial grilling stage to the final rice - handling stage.",
+      "option_map": {
+        "A": "Wide",
+        "B": "Late",
+        "C": "GT",
+        "D": "Early"
+      }
+    }
+  },
+  "EE8OB": {
+    "C": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "Candidate B shows the person in a position that logically connects the initial hallway scene (BEGINNING) to the final ceiling fan scene (END), maintaining continuity in the setting and the person’s presence.",
+      "option_map": {
+        "A": "Shuffle",
+        "B": "GT",
+        "C": "Reverse",
+        "D": "Loop"
+      }
+    },
+    "A": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "Candidate C shows the person with pink hair holding a sandwich in a setting consistent with the BEGINNING (near a wooden cabinet with glass doors) and maintains continuity in the action, making it the logical middle segment.",
+      "option_map": {
+        "A": "Early",
+        "B": "Late",
+        "C": "GT",
+        "D": "Wide"
+      }
+    },
+    "S": {
+      "correct": true,
+      "answer": "D",
+      "expected": "D",
+      "reason": "The BEGINNING shows a person with pink hair in a hallway, and the END shows a ceiling fan. Candidate D depicts the person near a cabinet in a room that logically connects the hallway (BEGINNING) to the area with the ceiling fan (END), maintaining continuity of the scene and character presence.",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand1",
+        "C": "Rand2",
+        "D": "GT"
+      }
+    }
+  },
+  "IULMX": {
+    "A": {
+      "correct": false,
+      "answer": "D",
+      "expected": "B",
+      "reason": "Candidate D shows the transition of the person’s position and arm movement that connects the BEGINNING (with the plaid pillow and initial posture) to the END (with the arm extended and relaxed posture).",
+      "raw": "<think>\nSo, let's try to figure out which candidate is the correct middle. First, I need to look at the BEGINNING and END frames, then see which candidate connects them. \n\nThe BEGINNING shows a person lying down with a plaid pillow, and the END shows the person in a different position, maybe more relaxed or with the arm moved. Let's check each candidate. \n\nCandidate D: Let's see the frames. The END has the person with the arm extended, and Candidate D's frames might show the transition. Wait, the key is the continuity of the scene. The BEGINNING has the plaid pillow and the person's position, and the END has the person with the arm up. So the middle segment should show the movement from the BEGINNING to END. \n\nLooking at Candidate D, the frames in D show the person's arm moving and the position changing, which matches the transition from BEGINNING to END. The other candidates might not have the right sequence. So D is the correct middle.\n</think>{\"answer\": \"D\", \"reason\": \"Candidate D shows the transition of the person’s position and arm movement that connects the BEGINNING (with the plaid pillow and initial posture) to the END (with the arm extended and relaxed posture).\"}",
+      "option_map": {
+        "A": "Early",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Late"
+      }
+    },
+    "S": {
+      "correct": false,
+      "answer": "C",
+      "expected": "A",
+      "reason": "Candidate C shows the transition of the person’s position and hand movements that align with the progression from the BEGINNING to the END frames, particularly matching the hand-clasping posture seen in the END segment.",
+      "raw": "<think>\nSo, let's try to figure out which candidate is the correct middle. First, I need to look at the BEGINNING and END frames, then see which candidate connects them. \n\nThe BEGINNING shows a person lying down with a plaid pillow, and the END shows the person in a different position, maybe more relaxed or with hands clasped. Let's check each candidate. \n\nCandidate C has the person with hands clasped, which might transition from the BEGINNING's position to the END. Wait, the END frame has the person with hands clasped, so the middle should show that transition. Let's check the frames. The BEGINNING is the first part, then the middle connects to the END. So Candidate C's frames show the person moving into the position seen in the END. Let me confirm. The END has the person with hands clasped, so the middle segment (Candidate C) would be the one that leads to that. So the answer is C.\n</think>{\"answer\": \"C\", \"reason\": \"Candidate C shows the transition of the person’s position and hand movements that align with the progression from the BEGINNING to the END frames, particularly matching the hand-clasping posture seen in the END segment.\"}",
+      "option_map": {
+        "A": "GT",
+        "B": "Rand2",
+        "C": "Rand3",
+        "D": "Rand1"
+      }
+    },
+    "C": {
+      "correct": false,
+      "answer": "A",
+      "expected": "B",
+      "reason": "Candidate A’s frames show a transition in the person’s position and background elements that logically connect the BEGINNING (with the plaid pillow and initial setup) to the END (with the person in a relaxed state and adjusted background).",
+      "raw": "<think>\nSo, let's try to figure out which candidate is the correct middle. First, I need to look at the BEGINNING and END frames, then see which candidate connects them. \n\nThe BEGINNING shows a person lying down with a plaid pillow, and the END shows the person in a different position, maybe more relaxed. Let's check each candidate. \n\nCandidate A: Let's see the frames. The first frame of A has the person with eyes open, then the next frames. Wait, the END has the person with eyes closed, maybe. Wait, the BEGINNING has the person with eyes closed, and the END also has eyes closed. Wait, no, the END's first frame (the END part) shows the person with eyes closed. Wait, maybe the movement is about the position of the person and the background. \n\nWait, the key is to find the segment that logically connects the start and end. Let's check the background elements. In the BEGINNING, there's a yellow container and some items. In the END, the background has a different setup. Wait, maybe the candidate that shows the transition of the person's position and the background. \n\nWait, looking at Candidate A: the frames in A show the person moving, maybe adjusting. Let's check the other candidates. Candidate B: the frames might not match. Candidate C: maybe not. Candidate D: no. Wait, the correct answer is A? Wait, no, wait. Wait, the BEGINNING and END have the person in a bed with a colorful pillow. The candidate that connects them would have the person in a similar setting. Let me think again. \n\nWait, the user provided the BEGINNING and END, and the candidates. The correct middle should have the person in a position that transitions from BEGINNING to END. Let's check the frames. The BEGINNING has the person with a hand on the pillow, and the END has the person in a different angle. Candidate A's frames show the person moving, which might be the transition. So I think the answer is A.\n</think>{\"answer\": \"A\", \"reason\": \"Candidate A’s frames show a transition in the person’s position and background elements that logically connect the BEGINNING (with the plaid pillow and initial setup) to the END (with the person in a relaxed state and adjusted background).\"}",
+      "option_map": {
+        "A": "Reverse",
+        "B": "GT",
+        "C": "Loop",
+        "D": "Shuffle"
+      }
+    }
+  },
+  "DLKWO": {
+    "S": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "Candidate C shows the person bending to retrieve an item (likely the pot) from a cabinet, which logically connects the initial action of reaching up (BEGINNING) to the final action of being at the stove with the pot (END). Other candidates repeat the initial reaching action or do not show the transition to the stove.",
+      "raw": "<think>\nSo, let's try to figure out which candidate is the correct middle. First, let's look at the BEGINNING and END frames. The BEGINNING shows a person reaching up to a shelf, and the END shows the person at the stove with a pot. Now, let's check each candidate.\n\nCandidate C: The frames here show the person bending down, maybe opening a cabinet, and then moving towards the stove. Let's see the sequence. The BEGINNING is the person reaching up, then the middle should transition to actions like getting something from a cabinet (since in the END they're at the stove with a pot). Candidate C's frames include the person bending, which might be retrieving an item, then moving to the stove. Let's check other candidates. A and B seem to repeat the BEGINNING action (reaching up), which doesn't connect to the END. D also doesn't show the transition to the stove. So Candidate C shows the action of getting something (maybe the pot) from a cabinet, which connects the BEGINNING (reaching up) to the END (at the stove with the pot).\n</think>{\"answer\": \"C\", \"reason\": \"Candidate C shows the person bending to retrieve an item (likely the pot) from a cabinet, which logically connects the initial action of reaching up (BEGINNING) to the final action of being at the stove with the pot (END). Other candidates repeat the initial reaching action or do not show the transition to the stove.\"}",
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand3"
+      }
+    },
+    "A": {
+      "correct": false,
+      "answer": "D",
+      "expected": "B",
+      "reason": "The BEGINNING shows the person reaching toward a shelf, and the END shows the person at the sink. Candidate D depicts the person near the sink area, logically connecting the initial action of reaching toward the shelf to the final action at the sink.",
+      "raw": "<think>\nSo, let's try to figure out which candidate is the correct middle. First, let's look at the BEGINNING and END frames. The BEGINNING shows a person in a kitchen, reaching up to a shelf. The END shows the person at the sink, maybe washing something. Now, we need to find the segment that connects these two. Let's check each candidate.\n\nCandidate A: The person is near the stove, maybe adjusting something. But does that connect? Let's see the actions. The BEGINNING is reaching up, then the middle should show a sequence. Wait, the END has the person at the sink. Let's check Candidate D. Wait, no, let's look at the actions. The correct middle should show the person moving from the shelf area to the sink area. Let's check Candidate D. Wait, no, let's check the frames. Wait, the END frame has the person at the sink, so the middle should show the transition. Let's check Candidate D. Wait, no, let's look at the candidate that matches the flow. Wait, the correct answer is D? Wait, no, let's think again. Wait, the BEGINNING is the person reaching up, then the middle should be the person moving towards the sink. Let's check Candidate D. Wait, no, maybe Candidate D is the one. Wait, no, let's check the images. Wait, the correct answer is D. Wait, no, let's check the reasoning. The BEGINNING is the person reaching up, then the middle segment should show the person moving to the sink area. Candidate D shows the person near the sink, which connects to the END. So the answer is D.\n</think>{\"answer\": \"D\", \"reason\": \"The BEGINNING shows the person reaching toward a shelf, and the END shows the person at the sink. Candidate D depicts the person near the sink area, logically connecting the initial action of reaching toward the shelf to the final action at the sink.\"}",
+      "option_map": {
+        "A": "Late",
+        "B": "GT",
+        "C": "Early",
+        "D": "Wide"
+      }
+    },
+    "C": {
+      "correct": true,
+      "answer": "A",
+      "expected": "A",
+      "reason": "Candidate A shows the person placing an item into a cabinet, which logically connects the initial action of reaching up (likely to retrieve an item) in the BEGINNING to the final action at the sink in the END.",
+      "raw": "<think>\nSo, let's try to figure out which candidate is the correct middle. First, let's look at the BEGINNING and END frames. The BEGINNING shows a person in a kitchen, reaching up to a shelf. The END shows the person at the sink, maybe washing something. Now, the candidates are A, B, C, D. Let's check the actions. The correct middle should connect the start (reaching up) to the end (at the sink). Let's see the candidates. Candidate A: the person is bending over, maybe putting something in a cabinet. Wait, the END has the person at the sink, so the middle should show the transition. Wait, maybe the correct one is the one that shows the person moving from the shelf to the sink. Let's check the frames. The BEGINNING is the person reaching up, then the middle should be the action leading to the END. Let's look at the candidate that matches the flow. The END has the person at the sink, so the middle should be the person moving towards the sink. Let's check each candidate. Candidate A: the person is bending over, maybe placing something. Wait, the correct answer is A? Wait, no. Wait, let's check the images. The BEGINNING is the first frame, then the middle, then END. The END is the last frame. Let's see the actions. The person in BEGINNING is reaching up, then in the middle, they might be putting something away, then in END, they're at the sink. So the correct middle would be the one that shows the person putting something into a cabinet (like Candidate A). Wait, let's check the images. Candidate A's image shows the person bending over, placing a pot into a cabinet. That connects the BEGINNING (reaching up, maybe taking something) to the END (at the sink). So the reason is that Candidate A shows the person placing an item into a cabinet, which logically connects the initial action of reaching up (possibly retrieving an item) to the final action at the sink.\n</think>{\"answer\": \"A\", \"reason\": \"Candidate A shows the person placing an item into a cabinet, which logically connects the initial action of reaching up (likely to retrieve an item) in the BEGINNING to the final action at the sink in the END.\"}",
+      "option_map": {
+        "A": "GT",
+        "B": "Loop",
+        "C": "Shuffle",
+        "D": "Reverse"
       }
     }
   }
