@@ -6,6 +6,7 @@
 """
 
 import json
+import re
 import sys
 from collections import Counter
 from pathlib import Path
@@ -16,11 +17,80 @@ PRESET_DIR = ROOT / PRESET
 EVAL_RESULTS_DIR = PRESET_DIR / "eval_results"
 D_CHOICES = PRESET_DIR / "choices"
 DIMS = ["S", "A", "C"]
+VALID_ANSWERS = {"A", "B", "C", "D"}
 
 DISTRACTOR_NAMES = {
     "A": ["Early", "Late", "Wide"],
     "C": ["Reverse", "Shuffle", "Loop"],
 }
+
+
+def _normalize_answer_value(answer: object) -> str | None:
+    """规范化 answer：仅允许单个 A/B/C/D，支持 <A>。"""
+    if not isinstance(answer, str):
+        return None
+    s = answer.strip().upper()
+    if not s:
+        return None
+    if s.startswith("<") and s.endswith(">") and len(s) >= 3:
+        s = s[1:-1].strip()
+    if len(re.findall(r"[ABCD]", s)) != 1:
+        return None
+    return s if re.fullmatch(r"[ABCD]", s) else None
+
+
+def _parse_raw_answer_strict(raw: object) -> str | None:
+    """
+    严格解析 raw：
+    - 必须是可直接 json.loads 的 JSON 字符串
+    - 必须包含 answer/reason
+    - answer 必须可规范化为单个 A/B/C/D
+    """
+    if not isinstance(raw, str):
+        return None
+    s = raw.strip()
+    if not s:
+        return None
+    try:
+        parsed = json.loads(s)
+    except json.JSONDecodeError:
+        return None
+    if not isinstance(parsed, dict):
+        return None
+    if "answer" not in parsed or "reason" not in parsed:
+        return None
+    if not isinstance(parsed.get("reason"), str):
+        return None
+    return _normalize_answer_value(parsed.get("answer"))
+
+
+def _is_valid_entry(entry: object) -> bool:
+    """
+    统计时的有效 entry 判定：
+    - answer 必须合法
+    - 若含 raw 字段，则 raw 需满足严格 JSON 且与 answer 一致
+    """
+    if not isinstance(entry, dict):
+        return False
+
+    answer = _normalize_answer_value(entry.get("answer"))
+    if answer not in VALID_ANSWERS:
+        return False
+
+    if "raw" in entry:
+        raw_answer = _parse_raw_answer_strict(entry.get("raw"))
+        if raw_answer is None or raw_answer != answer:
+            return False
+
+    return True
+
+
+def _report_suffix_from_eval_dir(eval_dir: Path) -> str:
+    """从 eval_results 目录名提取后缀，例如 eval_results_no_thinking -> _no_thinking。"""
+    name = eval_dir.name
+    if name.startswith("eval_results"):
+        return name[len("eval_results") :]
+    return f"_{name}"
 
 
 def print_table(headers: list[str], rows: list[list[str]], col_widths: list[int]):
@@ -60,12 +130,17 @@ def main():
         # ---- 1. 准确率统计 ----
         dim_correct = {d: 0 for d in DIMS}
         dim_total = {d: 0 for d in DIMS}
+        invalid_entries = 0
         for stem, entries in data.items():
             for d in DIMS:
                 if d not in entries:
                     continue
+                entry = entries[d]
+                if not _is_valid_entry(entry):
+                    invalid_entries += 1
+                    continue
                 dim_total[d] += 1
-                if entries[d].get("correct"):
+                if entry.get("correct"):
                     dim_correct[d] += 1
 
         total = sum(dim_total.values())
@@ -74,7 +149,7 @@ def main():
         right_counts = {0: 0, 1: 0, 2: 0, 3: 0}
         num_stems = 0
         for stem, entries in data.items():
-            dims_present = [d for d in DIMS if d in entries]
+            dims_present = [d for d in DIMS if d in entries and _is_valid_entry(entries[d])]
             if len(dims_present) != 3:
                 continue
             num_stems += 1
@@ -99,9 +174,12 @@ def main():
         w0 = max(len(model) + 2, 6)
         col_widths = [w0] + [8] * 8
         print_table(headers, [acc_row], col_widths)
+        if invalid_entries:
+            print(f"  skipped invalid entries (strict answer/raw check): {invalid_entries}")
 
         model_report: dict = {
             "total_questions": num_stems,
+            "invalid_entries_skipped": invalid_entries,
             "S_acc": dim_correct["S"] / dim_total["S"] if dim_total["S"] else 0,
             "A_acc": dim_correct["A"] / dim_total["A"] if dim_total["A"] else 0,
             "C_acc": dim_correct["C"] / dim_total["C"] if dim_total["C"] else 0,
@@ -122,6 +200,8 @@ def main():
                 if d not in entries:
                     continue
                 entry = entries[d]
+                if not _is_valid_entry(entry):
+                    continue
                 if entry.get("correct"):
                     continue
                 omap = entry.get("option_map")
@@ -159,7 +239,8 @@ def main():
         report["models"][model] = model_report
 
     # 写入 JSON 报告
-    report_path = PRESET_DIR / "analyze_report.json"
+    report_suffix = _report_suffix_from_eval_dir(EVAL_RESULTS_DIR)
+    report_path = PRESET_DIR / f"analyze_report{report_suffix}.json"
     with open(report_path, "w", encoding="utf-8") as f:
         json.dump(report, f, indent=2, ensure_ascii=False)
     print(f"Saved report to {report_path}")

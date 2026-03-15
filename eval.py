@@ -24,15 +24,17 @@ load_dotenv(ROOT / ".env")
 
 PRESET = sys.argv[1] if len(sys.argv) > 1 else "video-cloze"
 PRESET_DIR = ROOT / PRESET
-CHOICES_DIR = PRESET_DIR / "choices"
+CHOICES_SOURCE = {
+    "video-cloze": ROOT / "video-cloze_360p" / "choices",
+    "subset": ROOT / "subset" / "choices",
+}
+CHOICES_DIR = CHOICES_SOURCE.get(PRESET, PRESET_DIR / "choices")
 RESULTS_DIR = PRESET_DIR / "eval_results"
 
 NUM_FRAMES = 16
 MAX_HEIGHT = 360
-# EVAL_MODEL = "google/gemini-2.5-pro"
-# EVAL_MODEL = "doubao-seed-1-6-251015"
-EVAL_MODEL = "qwen/qwen3.5-397b-a17b"
-NUM_WORKERS = 8
+EVAL_MODEL = "claude-sonnet-4-6"
+NUM_WORKERS = 16
 MAX_RETRIES = 3
 
 MODEL_TAG = EVAL_MODEL.split("/")[-1]
@@ -52,7 +54,7 @@ You will then see four candidate middle segments, labeled A, B, C, D. Each candi
 
 Task: Which candidate is the correct middle? Choose one of A, B, C, D.
 
-Output JSON only: {"answer": "<A, B, C, or D>", "reason": "<one or two sentences>"}"""
+**Output JSON only** : {"answer": "<A, B, C, or D>", "reason": "<one or two sentences>"}"""
 
 
 # ==================== 帧采样与编码 ====================
@@ -158,7 +160,7 @@ def eval_one(client: OpenAI, stem: str, dim: str, distractors: list[str]) -> dic
             resp = client.chat.completions.create(
                 model=EVAL_MODEL,
                 messages=[{"role": "user", "content": content}],
-                max_tokens=2048,
+                max_tokens=4096,
                 temperature=0,
             )
             if not resp.choices or not resp.choices[0].message.content:
