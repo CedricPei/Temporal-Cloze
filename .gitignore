@@ -36,3 +36,4 @@ logs/
 *.html
 *.sh
 *.ipynb
+*.zip

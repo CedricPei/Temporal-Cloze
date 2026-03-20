@@ -1,0 +1,228 @@
+{
+  "0018-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0026-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0164-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0086-7": {
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-N9GzCv5nHo.1_0": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-D3BDG_flQI.2_0": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0425-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0490-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0443-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `allenai/Molo2-8B` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  }
+}

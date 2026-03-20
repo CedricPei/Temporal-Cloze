@@ -1,0 +1,286 @@
+{
+  "-4Fn63osbfc.42_1": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    }
+  },
+  "-0elu_w9VN0.0_0": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    }
+  },
+  "-3tpkXFA4uU.11_1": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    }
+  },
+  "-2v17iljK8k.4_0": {
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    },
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    }
+  },
+  "-6h2Rqr1bzs": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    }
+  },
+  "-2qdXD_S5mE": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 500: Internal Server Error. {\"error\":{\"message\":\"Internal server error\",\"type\":\"InternalServerError\",\"param\":null,\"code\":500}}"
+    }
+  },
+  "-D3BDG_flQI.2_0": {
+    "S": {
+      "used_num_frames": 4,
+      "correct": false,
+      "answer": "C",
+      "expected": "B",
+      "reason": "Candidate C shows the player moving through a dark, industrial area with a gun visible, which aligns with the overall first-person shooter theme and the transition from the initial scene to the final one.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through a dark, industrial area with a gun visible, which aligns with the overall first-person shooter theme and the transition from the initial scene to the final one.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through a dark, industrial area with a gun visible, which aligns with the overall first-person shooter theme and the transition from the initial scene to the final one.\"}",
+      "option_map": {
+        "A": "Rand3",
+        "B": "GT",
+        "C": "Rand2",
+        "D": "Rand1"
+      }
+    },
+    "C": {
+      "used_num_frames": 4,
+      "correct": false,
+      "answer": "C",
+      "expected": "B",
+      "reason": "Candidate C shows the player character holding a gun and aiming at a large rusted metal object, which aligns with the progression from the initial scene to the final scene where the player is still holding a gun and aiming at a large rusted metal object.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the player character holding a gun and aiming at a large rusted metal object, which aligns with the progression from the initial scene to the final scene where the player is still holding a gun and aiming at a large rusted metal object.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the player character holding a gun and aiming at a large rusted metal object, which aligns with the progression from the initial scene to the final scene where the player is still holding a gun and aiming at a large rusted metal object.\"}",
+      "option_map": {
+        "A": "Shuffle",
+        "B": "GT",
+        "C": "Reverse",
+        "D": "Loop"
+      }
+    },
+    "A": {
+      "used_num_frames": 4,
+      "correct": false,
+      "answer": "C",
+      "expected": "A",
+      "reason": "Candidate C shows the player moving through a dark, industrial area with a gun visible, which aligns with the transition from the initial first-person view to the final scene of the player standing in front of a large building. The progression of environments and the presence of the weapon in Candidate C make it the most likely middle segment connecting the BEGINNING and END frames.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through a dark, industrial area with a gun visible, which aligns with the transition from the initial first-person view to the final scene of the player standing in front of a large building. The progression of environments and the presence of the weapon in Candidate C make it the most likely middle segment connecting the BEGINNING and END frames.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through a dark, industrial area with a gun visible, which aligns with the transition from the initial first-person view to the final scene of the player standing in front of a large building. The progression of environments and the presence of the weapon in Candidate C make it the most likely middle segment connecting the BEGINNING and END frames.\"}",
+      "option_map": {
+        "A": "GT",
+        "B": "Early",
+        "C": "Late",
+        "D": "Wide"
+      }
+    }
+  },
+  "-EhOTe1frdM.22_1": {
+    "S": {
+      "used_num_frames": 4,
+      "correct": false,
+      "answer": "C",
+      "expected": "D",
+      "reason": "Candidate C shows a scene with a bridge, which matches the bridge visible in both the BEGINNING and END images. The presence of a bridge in the middle segment helps to create a logical flow between the two scenes, suggesting a continuous journey through an urban area with multiple landmarks.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C shows a scene with a bridge, which matches the bridge visible in both the BEGINNING and END images. The presence of a bridge in the middle segment helps to create a logical flow between the two scenes, suggesting a continuous journey through an urban area with multiple landmarks.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows a scene with a bridge, which matches the bridge visible in both the BEGINNING and END images. The presence of a bridge in the middle segment helps to create a logical flow between the two scenes, suggesting a continuous journey through an urban area with multiple landmarks.\"}",
+      "option_map": {
+        "A": "Rand1",
+        "B": "Rand3",
+        "C": "Rand2",
+        "D": "GT"
+      }
+    }
+  },
+  "-N9GzCv5nHo.1_0": {
+    "A": {
+      "used_num_frames": 4,
+      "correct": false,
+      "answer": "C",
+      "expected": "D",
+      "reason": "Candidate C shows the group actively working together to carry and position the corrugated metal sheets, which aligns with the transition from the young man's solo moment to the collaborative effort seen in the final image.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the group actively working together to carry and position the corrugated metal sheets, which aligns with the transition from the young man's solo moment to the collaborative effort seen in the final image.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the group actively working together to carry and position the corrugated metal sheets, which aligns with the transition from the young man's solo moment to the collaborative effort seen in the final image.\"}",
+      "option_map": {
+        "A": "Early",
+        "B": "Late",
+        "C": "Wide",
+        "D": "GT"
+      }
+    },
+    "S": {
+      "used_num_frames": 4,
+      "correct": false,
+      "answer": "C",
+      "expected": "B",
+      "reason": "Candidate C shows the man in the blue shirt pointing to the right, which aligns with the progression from the initial image where he's looking down to the final image where he's looking to the right. This action suggests a natural transition in his focus and movement within the scene.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the man in the blue shirt pointing to the right, which aligns with the progression from the initial image where he's looking down to the final image where he's looking to the right. This action suggests a natural transition in his focus and movement within the scene.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the man in the blue shirt pointing to the right, which aligns with the progression from the initial image where he's looking down to the final image where he's looking to the right. This action suggests a natural transition in his focus and movement within the scene.\"}",
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand3",
+        "D": "Rand1"
+      }
+    },
+    "C": {
+      "used_num_frames": 4,
+      "correct": false,
+      "answer": "C",
+      "expected": "D",
+      "reason": "Candidate C shows the group actively working together to carry and position the corrugated metal sheets, which aligns with the transition from the initial scene of the young man alone to the final scene of multiple people collaborating on the construction project.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the group actively working together to carry and position the corrugated metal sheets, which aligns with the transition from the initial scene of the young man alone to the final scene of multiple people collaborating on the construction project.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the group actively working together to carry and position the corrugated metal sheets, which aligns with the transition from the initial scene of the young man alone to the final scene of multiple people collaborating on the construction project.\"}",
+      "option_map": {
+        "A": "Reverse",
+        "B": "Loop",
+        "C": "Shuffle",
+        "D": "GT"
+      }
+    }
+  },
+  "-P7Y_BlwxO8.42_0": {
+    "S": {
+      "used_num_frames": 4,
+      "correct": false,
+      "answer": "C",
+      "expected": "D",
+      "reason": "The middle segment should show the car continuing to navigate the desert road, with the driver maintaining his grip on the steering wheel and the landscape remaining consistent with the surrounding environment. Candidate C best matches this description, showing the car still on the road with the driver in the same position and the desert scenery unchanged.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"The middle segment should show the car continuing to navigate the desert road, with the driver maintaining his grip on the steering wheel and the landscape remaining consistent with the surrounding environment. Candidate C best matches this description, showing the car still on the road with the driver in the same position and the desert scenery unchanged.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"The middle segment should show the car continuing to navigate the desert road, with the driver maintaining his grip on the steering wheel and the landscape remaining consistent with the surrounding environment. Candidate C best matches this description, showing the car still on the road with the driver in the same position and the desert scenery unchanged.\"}",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand1",
+        "C": "Rand2",
+        "D": "GT"
+      }
+    }
+  }
+}

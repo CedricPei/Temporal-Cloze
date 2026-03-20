@@ -1,0 +1,1528 @@
+{
+  "-4Fn63osbfc.42_1": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-0elu_w9VN0.0_0": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-2v17iljK8k.4_0": {
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-3tpkXFA4uU.11_1": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-6h2Rqr1bzs": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-2qdXD_S5mE": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-D3BDG_flQI.2_0": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-N9GzCv5nHo.1_0": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-EhOTe1frdM.22_1": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-P7Y_BlwxO8.42_0": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-G43Mji8-pU.0_0": {
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-lLfmzJrbA8.12_0": {
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-SLAlDHHh3c.11_0": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-iJMxD4agOE.32_0": {
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-uGOkXmPmOA.10_0": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-uZ7ncui_8M.12_0": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0018-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0026-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0032-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "000v5t8qkpo.6_1": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "-zhRLh80O7s": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0052-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0055-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0086-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0163-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0094-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0106-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0164-7": {
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0166-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0184-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0235-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0239-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0244-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0252-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0254-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0263-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0271-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0286-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0294-7": {
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0309-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0329-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0337-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0349-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0359-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0385-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0389-7": {
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0393-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "03jC--S4BMc.25_3": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0425-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0440-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0442-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0443-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0469-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0484-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0490-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "C",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0493-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0506-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0503-7": {
+    "C": {
+      "correct": false,
+      "answer": null,
+      "expected": "A",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "D",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  },
+  "0521-7": {
+    "S": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    },
+    "A": {
+      "correct": false,
+      "answer": null,
+      "expected": "B",
+      "reason": null,
+      "option_map": null,
+      "error": "vLLM HTTP 404: Not Found. {\"error\":{\"message\":\"The model `lmms-lab/LLaVA-Critic-R1-7B_8002` does not exist.\",\"type\":\"NotFoundError\",\"param\":\"model\",\"code\":404}}"
+    }
+  }
+}

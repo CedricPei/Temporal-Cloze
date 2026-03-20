@@ -1,0 +1,1017 @@
+{
+  "total_questions": 1521,
+  "models": {
+    "vllm-OpenGVLab_InternVL3-38B": {
+      "total_questions": 1521,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.30309007232084156,
+      "A_acc": 0.20118343195266272,
+      "C_acc": 0.32807363576594345,
+      "acc": 0.2774490466798159,
+      "3/3": 0.029585798816568046,
+      "2/3": 0.18277449046679817,
+      "1/3": 0.3780407626561473,
+      "0/3": 0.4095989480604865,
+      "error_source": {
+        "A": {
+          "total_errors": 1215,
+          "Early": {
+            "count": 201,
+            "pct": 0.1654
+          },
+          "Late": {
+            "count": 460,
+            "pct": 0.3786
+          },
+          "Wide": {
+            "count": 554,
+            "pct": 0.456
+          }
+        },
+        "C": {
+          "total_errors": 1022,
+          "Reverse": {
+            "count": 501,
+            "pct": 0.4902
+          },
+          "Shuffle": {
+            "count": 319,
+            "pct": 0.3121
+          },
+          "Loop": {
+            "count": 202,
+            "pct": 0.1977
+          }
+        }
+      }
+    },
+    "vllm-OpenGVLab_InternVL3-8B": {
+      "total_questions": 1521,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.2518080210387903,
+      "A_acc": 0.24589086127547666,
+      "C_acc": 0.2596975673898751,
+      "acc": 0.252465483234714,
+      "3/3": 0.014464168310322156,
+      "2/3": 0.1433267587113741,
+      "1/3": 0.42735042735042733,
+      "0/3": 0.4148586456278764,
+      "error_source": {
+        "A": {
+          "total_errors": 1147,
+          "Early": {
+            "count": 383,
+            "pct": 0.3339
+          },
+          "Late": {
+            "count": 389,
+            "pct": 0.3391
+          },
+          "Wide": {
+            "count": 375,
+            "pct": 0.3269
+          }
+        },
+        "C": {
+          "total_errors": 1126,
+          "Reverse": {
+            "count": 376,
+            "pct": 0.3339
+          },
+          "Shuffle": {
+            "count": 385,
+            "pct": 0.3419
+          },
+          "Loop": {
+            "count": 365,
+            "pct": 0.3242
+          }
+        }
+      }
+    },
+    "vllm-OpenGVLab_InternVL3_5-38B": {
+      "total_questions": 1207,
+      "invalid_entries_skipped": 649,
+      "S_acc": 0.37806748466257667,
+      "A_acc": 0.3263239875389408,
+      "C_acc": 0.4622926093514329,
+      "acc": 0.38962698007153806,
+      "3/3": 0.11350455675227837,
+      "2/3": 0.251864125932063,
+      "1/3": 0.3388566694283347,
+      "0/3": 0.29577464788732394,
+      "error_source": {
+        "A": {
+          "total_errors": 865,
+          "Early": {
+            "count": 171,
+            "pct": 0.1977
+          },
+          "Late": {
+            "count": 517,
+            "pct": 0.5977
+          },
+          "Wide": {
+            "count": 177,
+            "pct": 0.2046
+          }
+        },
+        "C": {
+          "total_errors": 713,
+          "Reverse": {
+            "count": 180,
+            "pct": 0.2525
+          },
+          "Shuffle": {
+            "count": 260,
+            "pct": 0.3647
+          },
+          "Loop": {
+            "count": 273,
+            "pct": 0.3829
+          }
+        }
+      }
+    },
+    "vllm-OpenGVLab_InternVL3_5-8B-HF": {
+      "total_questions": 1521,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.26298487836949375,
+      "A_acc": 0.28336620644312954,
+      "C_acc": 0.29520052596975677,
+      "acc": 0.2805172035941267,
+      "3/3": 0.0381328073635766,
+      "2/3": 0.16370808678500987,
+      "1/3": 0.3997370151216305,
+      "0/3": 0.398422090729783,
+      "error_source": {
+        "A": {
+          "total_errors": 1090,
+          "Early": {
+            "count": 337,
+            "pct": 0.3092
+          },
+          "Late": {
+            "count": 377,
+            "pct": 0.3459
+          },
+          "Wide": {
+            "count": 376,
+            "pct": 0.345
+          }
+        },
+        "C": {
+          "total_errors": 1072,
+          "Reverse": {
+            "count": 417,
+            "pct": 0.389
+          },
+          "Shuffle": {
+            "count": 346,
+            "pct": 0.3228
+          },
+          "Loop": {
+            "count": 309,
+            "pct": 0.2882
+          }
+        }
+      }
+    },
+    "vllm-Qwen_Qwen2.5-VL-7B-Instruct": {
+      "total_questions": 1469,
+      "invalid_entries_skipped": 63,
+      "S_acc": 0.27218145430286855,
+      "A_acc": 0.26220735785953175,
+      "C_acc": 0.24169986719787517,
+      "acc": 0.25866666666666666,
+      "3/3": 0.02110279101429544,
+      "2/3": 0.15588835942818244,
+      "1/3": 0.4023144996596324,
+      "0/3": 0.42069434989788973,
+      "error_source": {
+        "A": {
+          "total_errors": 1103,
+          "Early": {
+            "count": 389,
+            "pct": 0.3527
+          },
+          "Late": {
+            "count": 370,
+            "pct": 0.3354
+          },
+          "Wide": {
+            "count": 344,
+            "pct": 0.3119
+          }
+        },
+        "C": {
+          "total_errors": 1142,
+          "Reverse": {
+            "count": 389,
+            "pct": 0.3406
+          },
+          "Shuffle": {
+            "count": 342,
+            "pct": 0.2995
+          },
+          "Loop": {
+            "count": 411,
+            "pct": 0.3599
+          }
+        }
+      }
+    },
+    "vllm-Qwen_Qwen3-VL-32B-Instruct": {
+      "total_questions": 1521,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.5134779750164365,
+      "A_acc": 0.1091387245233399,
+      "C_acc": 0.6324786324786325,
+      "acc": 0.41836511067280296,
+      "3/3": 0.05456936226166995,
+      "2/3": 0.358974358974359,
+      "1/3": 0.37343852728468113,
+      "0/3": 0.21301775147928995,
+      "error_source": {
+        "A": {
+          "total_errors": 1355,
+          "Early": {
+            "count": 129,
+            "pct": 0.0952
+          },
+          "Late": {
+            "count": 271,
+            "pct": 0.2
+          },
+          "Wide": {
+            "count": 955,
+            "pct": 0.7048
+          }
+        },
+        "C": {
+          "total_errors": 559,
+          "Reverse": {
+            "count": 296,
+            "pct": 0.5295
+          },
+          "Shuffle": {
+            "count": 261,
+            "pct": 0.4669
+          },
+          "Loop": {
+            "count": 2,
+            "pct": 0.0036
+          }
+        }
+      }
+    },
+    "vllm-Qwen_Qwen3-VL-32B-Thinking": {
+      "total_questions": 1520,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.2504930966469428,
+      "A_acc": 0.25378040762656146,
+      "C_acc": 0.25723684210526315,
+      "acc": 0.2538360368259535,
+      "3/3": 0.019078947368421053,
+      "2/3": 0.13486842105263158,
+      "1/3": 0.43355263157894736,
+      "0/3": 0.4125,
+      "error_source": {
+        "A": {
+          "total_errors": 1135,
+          "Early": {
+            "count": 376,
+            "pct": 0.3313
+          },
+          "Late": {
+            "count": 390,
+            "pct": 0.3436
+          },
+          "Wide": {
+            "count": 369,
+            "pct": 0.3251
+          }
+        },
+        "C": {
+          "total_errors": 1129,
+          "Reverse": {
+            "count": 359,
+            "pct": 0.318
+          },
+          "Shuffle": {
+            "count": 357,
+            "pct": 0.3162
+          },
+          "Loop": {
+            "count": 413,
+            "pct": 0.3658
+          }
+        }
+      }
+    },
+    "vllm-Qwen_Qwen3-VL-4B-Instruct": {
+      "total_questions": 1521,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.20381328073635765,
+      "A_acc": 0.19723865877712032,
+      "C_acc": 0.3247863247863248,
+      "acc": 0.24194608809993426,
+      "3/3": 0.027613412228796843,
+      "2/3": 0.12754766600920447,
+      "1/3": 0.3879026955950033,
+      "0/3": 0.4569362261669954,
+      "error_source": {
+        "A": {
+          "total_errors": 1221,
+          "Early": {
+            "count": 276,
+            "pct": 0.226
+          },
+          "Late": {
+            "count": 424,
+            "pct": 0.3473
+          },
+          "Wide": {
+            "count": 521,
+            "pct": 0.4267
+          }
+        },
+        "C": {
+          "total_errors": 1027,
+          "Reverse": {
+            "count": 626,
+            "pct": 0.6095
+          },
+          "Shuffle": {
+            "count": 315,
+            "pct": 0.3067
+          },
+          "Loop": {
+            "count": 86,
+            "pct": 0.0837
+          }
+        }
+      }
+    },
+    "vllm-Qwen_Qwen3-VL-4B-Thinking": {
+      "total_questions": 1521,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.2781065088757396,
+      "A_acc": 0.2485207100591716,
+      "C_acc": 0.2294543063773833,
+      "acc": 0.25202717510409817,
+      "3/3": 0.01643655489809336,
+      "2/3": 0.1393819855358317,
+      "1/3": 0.4280078895463511,
+      "0/3": 0.4161735700197239,
+      "error_source": {
+        "A": {
+          "total_errors": 1143,
+          "Early": {
+            "count": 405,
+            "pct": 0.3543
+          },
+          "Late": {
+            "count": 372,
+            "pct": 0.3255
+          },
+          "Wide": {
+            "count": 366,
+            "pct": 0.3202
+          }
+        },
+        "C": {
+          "total_errors": 1172,
+          "Reverse": {
+            "count": 368,
+            "pct": 0.314
+          },
+          "Shuffle": {
+            "count": 395,
+            "pct": 0.337
+          },
+          "Loop": {
+            "count": 409,
+            "pct": 0.349
+          }
+        }
+      }
+    },
+    "vllm-Qwen_Qwen3-VL-8B-Instruct": {
+      "total_questions": 1518,
+      "invalid_entries_skipped": 3,
+      "S_acc": 0.31138907175773534,
+      "A_acc": 0.15055884286653518,
+      "C_acc": 0.45460526315789473,
+      "acc": 0.30548245614035086,
+      "3/3": 0.03491436100131752,
+      "2/3": 0.20223978919631094,
+      "1/3": 0.4077733860342556,
+      "0/3": 0.35507246376811596,
+      "error_source": {
+        "A": {
+          "total_errors": 1292,
+          "Early": {
+            "count": 179,
+            "pct": 0.1385
+          },
+          "Late": {
+            "count": 458,
+            "pct": 0.3545
+          },
+          "Wide": {
+            "count": 655,
+            "pct": 0.507
+          }
+        },
+        "C": {
+          "total_errors": 829,
+          "Reverse": {
+            "count": 486,
+            "pct": 0.5862
+          },
+          "Shuffle": {
+            "count": 312,
+            "pct": 0.3764
+          },
+          "Loop": {
+            "count": 31,
+            "pct": 0.0374
+          }
+        }
+      }
+    },
+    "vllm-Qwen_Qwen3-VL-8B-Thinking": {
+      "total_questions": 1521,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.2465483234714004,
+      "A_acc": 0.25378040762656146,
+      "C_acc": 0.24589086127547666,
+      "acc": 0.24873986412447951,
+      "3/3": 0.01643655489809336,
+      "2/3": 0.13806706114398423,
+      "1/3": 0.42077580539119,
+      "0/3": 0.4247205785667324,
+      "error_source": {
+        "A": {
+          "total_errors": 1135,
+          "Early": {
+            "count": 354,
+            "pct": 0.3119
+          },
+          "Late": {
+            "count": 384,
+            "pct": 0.3383
+          },
+          "Wide": {
+            "count": 397,
+            "pct": 0.3498
+          }
+        },
+        "C": {
+          "total_errors": 1147,
+          "Reverse": {
+            "count": 386,
+            "pct": 0.3365
+          },
+          "Shuffle": {
+            "count": 374,
+            "pct": 0.3261
+          },
+          "Loop": {
+            "count": 387,
+            "pct": 0.3374
+          }
+        }
+      }
+    },
+    "vllm-Qwen_Qwen3.5-9B": {
+      "total_questions": 0,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.375,
+      "A_acc": 0.20833333333333334,
+      "C_acc": 0.30434782608695654,
+      "acc": 0.2857142857142857,
+      "3/3": 0,
+      "2/3": 0,
+      "1/3": 0,
+      "0/3": 0,
+      "error_source": {
+        "A": {
+          "total_errors": 19,
+          "Early": {
+            "count": 7,
+            "pct": 0.3684
+          },
+          "Late": {
+            "count": 2,
+            "pct": 0.1053
+          },
+          "Wide": {
+            "count": 10,
+            "pct": 0.5263
+          }
+        },
+        "C": {
+          "total_errors": 16,
+          "Reverse": {
+            "count": 6,
+            "pct": 0.375
+          },
+          "Shuffle": {
+            "count": 5,
+            "pct": 0.3125
+          },
+          "Loop": {
+            "count": 5,
+            "pct": 0.3125
+          }
+        }
+      }
+    },
+    "vllm-XiaomiMiMo_MiMo-VL-7B-RL": {
+      "total_questions": 1521,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.2084155161078238,
+      "A_acc": 0.2373438527284681,
+      "C_acc": 0.2879684418145957,
+      "acc": 0.2445759368836292,
+      "3/3": 0.027613412228796843,
+      "2/3": 0.1393819855358317,
+      "1/3": 0.37212360289283364,
+      "0/3": 0.4608809993425378,
+      "error_source": {
+        "A": {
+          "total_errors": 1160,
+          "Early": {
+            "count": 437,
+            "pct": 0.3767
+          },
+          "Late": {
+            "count": 312,
+            "pct": 0.269
+          },
+          "Wide": {
+            "count": 411,
+            "pct": 0.3543
+          }
+        },
+        "C": {
+          "total_errors": 1083,
+          "Reverse": {
+            "count": 506,
+            "pct": 0.4672
+          },
+          "Shuffle": {
+            "count": 348,
+            "pct": 0.3213
+          },
+          "Loop": {
+            "count": 229,
+            "pct": 0.2114
+          }
+        }
+      }
+    },
+    "vllm-XiaomiMiMo_MiMo-VL-7B-SFT": {
+      "total_questions": 1521,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.23405654174884943,
+      "A_acc": 0.20512820512820512,
+      "C_acc": 0.2577251808021039,
+      "acc": 0.23230330922638615,
+      "3/3": 0.022353714661406968,
+      "2/3": 0.12360289283366206,
+      "1/3": 0.3826429980276134,
+      "0/3": 0.4714003944773176,
+      "error_source": {
+        "A": {
+          "total_errors": 1209,
+          "Early": {
+            "count": 403,
+            "pct": 0.3333
+          },
+          "Late": {
+            "count": 406,
+            "pct": 0.3358
+          },
+          "Wide": {
+            "count": 400,
+            "pct": 0.3309
+          }
+        },
+        "C": {
+          "total_errors": 1129,
+          "Reverse": {
+            "count": 634,
+            "pct": 0.5616
+          },
+          "Shuffle": {
+            "count": 275,
+            "pct": 0.2436
+          },
+          "Loop": {
+            "count": 220,
+            "pct": 0.1949
+          }
+        }
+      }
+    },
+    "vllm-allenai_Molmo2-8B": {
+      "total_questions": 372,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.24193548387096775,
+      "A_acc": 0.20698924731182797,
+      "C_acc": 0.24731182795698925,
+      "acc": 0.23207885304659498,
+      "3/3": 0.01881720430107527,
+      "2/3": 0.12365591397849462,
+      "1/3": 0.3924731182795699,
+      "0/3": 0.4650537634408602,
+      "error_source": {
+        "A": {
+          "total_errors": 295,
+          "Early": {
+            "count": 99,
+            "pct": 0.3356
+          },
+          "Late": {
+            "count": 98,
+            "pct": 0.3322
+          },
+          "Wide": {
+            "count": 98,
+            "pct": 0.3322
+          }
+        },
+        "C": {
+          "total_errors": 280,
+          "Reverse": {
+            "count": 80,
+            "pct": 0.2857
+          },
+          "Shuffle": {
+            "count": 107,
+            "pct": 0.3821
+          },
+          "Loop": {
+            "count": 93,
+            "pct": 0.3321
+          }
+        }
+      }
+    },
+    "vllm-deepseek-ai_deepseek-vl2-tiny": {
+      "total_questions": 893,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.24768756423432683,
+      "A_acc": 0.23883495145631067,
+      "C_acc": 0.22977022977022976,
+      "acc": 0.23868175765645805,
+      "3/3": 0.012318029115341545,
+      "2/3": 0.14109742441209405,
+      "1/3": 0.4087346024636058,
+      "0/3": 0.43784994400895855,
+      "error_source": {
+        "A": {
+          "total_errors": 784,
+          "Early": {
+            "count": 263,
+            "pct": 0.3355
+          },
+          "Late": {
+            "count": 244,
+            "pct": 0.3112
+          },
+          "Wide": {
+            "count": 277,
+            "pct": 0.3533
+          }
+        },
+        "C": {
+          "total_errors": 771,
+          "Reverse": {
+            "count": 271,
+            "pct": 0.3515
+          },
+          "Shuffle": {
+            "count": 243,
+            "pct": 0.3152
+          },
+          "Loop": {
+            "count": 257,
+            "pct": 0.3333
+          }
+        }
+      }
+    },
+    "vllm-lmms-lab_LLaVA-Critic-R1-7B": {
+      "total_questions": 1503,
+      "invalid_entries_skipped": 20,
+      "S_acc": 0.23809523809523808,
+      "A_acc": 0.2690019828155982,
+      "C_acc": 0.2536231884057971,
+      "acc": 0.25357693154303323,
+      "3/3": 0.017298735861610112,
+      "2/3": 0.14437791084497673,
+      "1/3": 0.4204923486360612,
+      "0/3": 0.41783100465735196,
+      "error_source": {
+        "A": {
+          "total_errors": 1106,
+          "Early": {
+            "count": 353,
+            "pct": 0.3192
+          },
+          "Late": {
+            "count": 389,
+            "pct": 0.3517
+          },
+          "Wide": {
+            "count": 364,
+            "pct": 0.3291
+          }
+        },
+        "C": {
+          "total_errors": 1133,
+          "Reverse": {
+            "count": 375,
+            "pct": 0.331
+          },
+          "Shuffle": {
+            "count": 370,
+            "pct": 0.3266
+          },
+          "Loop": {
+            "count": 388,
+            "pct": 0.3425
+          }
+        }
+      }
+    },
+    "vllm-moonshotai_Kimi-VL-A3B-Instruct": {
+      "total_questions": 1455,
+      "invalid_entries_skipped": 110,
+      "S_acc": 0.21091644204851753,
+      "A_acc": 0.26783310901749663,
+      "C_acc": 0.23128792987188132,
+      "acc": 0.2366943633505502,
+      "3/3": 0.027491408934707903,
+      "2/3": 0.12852233676975944,
+      "1/3": 0.3663230240549828,
+      "0/3": 0.47766323024054985,
+      "error_source": {
+        "A": {
+          "total_errors": 1088,
+          "Early": {
+            "count": 295,
+            "pct": 0.2711
+          },
+          "Late": {
+            "count": 426,
+            "pct": 0.3915
+          },
+          "Wide": {
+            "count": 367,
+            "pct": 0.3373
+          }
+        },
+        "C": {
+          "total_errors": 1140,
+          "Reverse": {
+            "count": 303,
+            "pct": 0.2658
+          },
+          "Shuffle": {
+            "count": 439,
+            "pct": 0.3851
+          },
+          "Loop": {
+            "count": 398,
+            "pct": 0.3491
+          }
+        }
+      }
+    },
+    "vllm-moonshotai_Kimi-VL-A3B-Thinking": {
+      "total_questions": 690,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.3017391304347826,
+      "A_acc": 0.25520361990950224,
+      "C_acc": 0.24978317432784042,
+      "acc": 0.2690727699530516,
+      "3/3": 0.021739130434782608,
+      "2/3": 0.14057971014492754,
+      "1/3": 0.45942028985507244,
+      "0/3": 0.3782608695652174,
+      "error_source": {
+        "A": {
+          "total_errors": 823,
+          "Early": {
+            "count": 231,
+            "pct": 0.2807
+          },
+          "Late": {
+            "count": 320,
+            "pct": 0.3888
+          },
+          "Wide": {
+            "count": 272,
+            "pct": 0.3305
+          }
+        },
+        "C": {
+          "total_errors": 865,
+          "Reverse": {
+            "count": 323,
+            "pct": 0.3734
+          },
+          "Shuffle": {
+            "count": 292,
+            "pct": 0.3376
+          },
+          "Loop": {
+            "count": 250,
+            "pct": 0.289
+          }
+        }
+      }
+    },
+    "vllm-moonshotai_Kimi-VL-A3B-Thinking_old": {
+      "total_questions": 1521,
+      "invalid_entries_skipped": 0,
+      "S_acc": 0.26232741617357,
+      "A_acc": 0.2583826429980276,
+      "C_acc": 0.26429980276134124,
+      "acc": 0.2616699539776463,
+      "3/3": 0.01643655489809336,
+      "2/3": 0.14661406969099278,
+      "1/3": 0.44247205785667326,
+      "0/3": 0.39447731755424065,
+      "error_source": {
+        "A": {
+          "total_errors": 1128,
+          "Early": {
+            "count": 357,
+            "pct": 0.3165
+          },
+          "Late": {
+            "count": 399,
+            "pct": 0.3537
+          },
+          "Wide": {
+            "count": 372,
+            "pct": 0.3298
+          }
+        },
+        "C": {
+          "total_errors": 1119,
+          "Reverse": {
+            "count": 377,
+            "pct": 0.3369
+          },
+          "Shuffle": {
+            "count": 375,
+            "pct": 0.3351
+          },
+          "Loop": {
+            "count": 367,
+            "pct": 0.328
+          }
+        }
+      }
+    },
+    "vllm-nvidia_NVIDIA-Nemotron-Nano-12B-v2-VL-BF16": {
+      "total_questions": 13,
+      "invalid_entries_skipped": 746,
+      "S_acc": 0.3333333333333333,
+      "A_acc": 0.3684210526315789,
+      "C_acc": 0.25,
+      "acc": 0.32142857142857145,
+      "3/3": 0.0,
+      "2/3": 0.07692307692307693,
+      "1/3": 0.6923076923076923,
+      "0/3": 0.23076923076923078,
+      "error_source": {
+        "A": {
+          "total_errors": 12,
+          "Early": {
+            "count": 4,
+            "pct": 0.3333
+          },
+          "Late": {
+            "count": 7,
+            "pct": 0.5833
+          },
+          "Wide": {
+            "count": 1,
+            "pct": 0.0833
+          }
+        },
+        "C": {
+          "total_errors": 12,
+          "Reverse": {
+            "count": 5,
+            "pct": 0.4167
+          },
+          "Shuffle": {
+            "count": 2,
+            "pct": 0.1667
+          },
+          "Loop": {
+            "count": 5,
+            "pct": 0.4167
+          }
+        }
+      }
+    },
+    "vllm-russwang_ThinkLite-VL-7B": {
+      "total_questions": 1507,
+      "invalid_entries_skipped": 18,
+      "S_acc": 0.24356435643564356,
+      "A_acc": 0.2579155672823219,
+      "C_acc": 0.2357992073976222,
+      "acc": 0.24576457645764577,
+      "3/3": 0.013271400132714002,
+      "2/3": 0.13271400132714,
+      "1/3": 0.43198407431984076,
+      "0/3": 0.42203052422030524,
+      "error_source": {
+        "A": {
+          "total_errors": 1125,
+          "Early": {
+            "count": 385,
+            "pct": 0.3422
+          },
+          "Late": {
+            "count": 352,
+            "pct": 0.3129
+          },
+          "Wide": {
+            "count": 388,
+            "pct": 0.3449
+          }
+        },
+        "C": {
+          "total_errors": 1157,
+          "Reverse": {
+            "count": 369,
+            "pct": 0.3189
+          },
+          "Shuffle": {
+            "count": 367,
+            "pct": 0.3172
+          },
+          "Loop": {
+            "count": 421,
+            "pct": 0.3639
+          }
+        }
+      }
+    },
+    "vllm-zai-org_GLM-4.6V-Flash": {
+      "total_questions": 1515,
+      "invalid_entries_skipped": 16,
+      "S_acc": 0.21782178217821782,
+      "A_acc": 0.1470976253298153,
+      "C_acc": 0.39577836411609496,
+      "acc": 0.25357378491312954,
+      "3/3": 0.030363036303630363,
+      "2/3": 0.14323432343234324,
+      "1/3": 0.38283828382838286,
+      "0/3": 0.44356435643564357,
+      "error_source": {
+        "A": {
+          "total_errors": 1293,
+          "Early": {
+            "count": 408,
+            "pct": 0.3155
+          },
+          "Late": {
+            "count": 299,
+            "pct": 0.2312
+          },
+          "Wide": {
+            "count": 586,
+            "pct": 0.4532
+          }
+        },
+        "C": {
+          "total_errors": 916,
+          "Reverse": {
+            "count": 505,
+            "pct": 0.5513
+          },
+          "Shuffle": {
+            "count": 300,
+            "pct": 0.3275
+          },
+          "Loop": {
+            "count": 111,
+            "pct": 0.1212
+          }
+        }
+      }
+    }
+  }
+}
