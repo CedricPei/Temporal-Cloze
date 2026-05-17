@@ -1,0 +1,472 @@
+{
+  "2YXJO": {
+    "C": {
+      "correct": true,
+      "answer": "D",
+      "expected": "D",
+      "reason": "Candidate D begins with the girl in the pink hoodie still at the sink (matching the BEGINNING), then transitions through the prank sequence where a person enters with a mop/broom and throws something, leading directly into the END frames showing two people in the bathroom with the yellow mop handle visible and the person in the orange shirt.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D begins with the girl in the pink hoodie still at the sink (matching the BEGINNING), then transitions through the prank sequence where a person enters with a mop/broom and throws something, leading directly into the END frames showing two people in the bathroom with the yellow mop handle visible and the person in the orange shirt.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D begins with the girl in the pink hoodie still at the sink (matching the BEGINNING), then transitions through the prank sequence where a person enters with a mop/broom and throws something, leading directly into the END frames showing two people in the bathroom with the yellow mop handle visible and the person in the orange shirt.\"}",
+      "option_map": {
+        "A": "Reverse",
+        "B": "Shuffle",
+        "C": "Loop",
+        "D": "GT"
+      },
+      "output_tokens": 85
+    },
+    "S": {
+      "correct": true,
+      "answer": "D",
+      "expected": "D",
+      "reason": "Candidate D shows the transition from the single girl in pink doing her hair at the sink (matching the BEGINNING) to the arrival of additional people with a yellow mop/broom and a person in an orange shirt (matching the END), including the intermediate frames showing someone entering the bathroom with a pillow/blanket.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D shows the transition from the single girl in pink doing her hair at the sink (matching the BEGINNING) to the arrival of additional people with a yellow mop/broom and a person in an orange shirt (matching the END), including the intermediate frames showing someone entering the bathroom with a pillow/blanket.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D shows the transition from the single girl in pink doing her hair at the sink (matching the BEGINNING) to the arrival of additional people with a yellow mop/broom and a person in an orange shirt (matching the END), including the intermediate frames showing someone entering the bathroom with a pillow/blanket.\"}",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand1",
+        "C": "Rand2",
+        "D": "GT"
+      },
+      "output_tokens": 81
+    },
+    "A": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "Candidate B shows the continuous transition from the girl in pink doing her hair at the sink (matching the BEGINNING), then throwing a pink cloth/towel upward, followed by a person in white entering the bathroom with a mop/broom, which seamlessly connects to the END showing two people (one in white holding a mop, one in orange) in the bathroom together.",
+      "raw_original": "{\"answer\": \"B\", \"reason\": \"Candidate B shows the continuous transition from the girl in pink doing her hair at the sink (matching the BEGINNING), then throwing a pink cloth/towel upward, followed by a person in white entering the bathroom with a mop/broom, which seamlessly connects to the END showing two people (one in white holding a mop, one in orange) in the bathroom together.\"}",
+      "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B shows the continuous transition from the girl in pink doing her hair at the sink (matching the BEGINNING), then throwing a pink cloth/towel upward, followed by a person in white entering the bathroom with a mop/broom, which seamlessly connects to the END showing two people (one in white holding a mop, one in orange) in the bathroom together.\"}",
+      "option_map": {
+        "A": "Early",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Late"
+      },
+      "output_tokens": 94
+    }
+  },
+  "0443-7": {
+    "S": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "Candidate C shows the silver performer jumping/leaping off the platform and transitioning to the open street area, which directly connects the BEGINNING (both performers near the red building with the platform) to the END (performers in the open Covent Garden area with the silver performer doing acrobatics and the golden lady holding flowers). The sequence in C bridges the location change and action transition seamlessly.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the silver performer jumping/leaping off the platform and transitioning to the open street area, which directly connects the BEGINNING (both performers near the red building with the platform) to the END (performers in the open Covent Garden area with the silver performer doing acrobatics and the golden lady holding flowers). The sequence in C bridges the location change and action transition seamlessly.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the silver performer jumping/leaping off the platform and transitioning to the open street area, which directly connects the BEGINNING (both performers near the red building with the platform) to the END (performers in the open Covent Garden area with the silver performer doing acrobatics and the golden lady holding flowers). The sequence in C bridges the location change and action transition seamlessly.\"}",
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand3",
+        "C": "GT",
+        "D": "Rand1"
+      },
+      "output_tokens": 96
+    },
+    "C": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "Candidate B begins with the silver performer still on the platform (matching the end of the BEGINNING segment) and transitions through the acrobatic jump sequence, ending with both performers in the open street position that directly connects to the END segment showing the silver performer jumping and the gold lady receiving flowers.",
+      "raw_original": "{\"answer\": \"B\", \"reason\": \"Candidate B begins with the silver performer still on the platform (matching the end of the BEGINNING segment) and transitions through the acrobatic jump sequence, ending with both performers in the open street position that directly connects to the END segment showing the silver performer jumping and the gold lady receiving flowers.\"}",
+      "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B begins with the silver performer still on the platform (matching the end of the BEGINNING segment) and transitions through the acrobatic jump sequence, ending with both performers in the open street position that directly connects to the END segment showing the silver performer jumping and the gold lady receiving flowers.\"}",
+      "option_map": {
+        "A": "Shuffle",
+        "B": "GT",
+        "C": "Reverse",
+        "D": "Loop"
+      },
+      "output_tokens": 74
+    },
+    "A": {
+      "correct": false,
+      "answer": "A",
+      "expected": "B",
+      "reason": "Candidate A shows the silver performer doing acrobatic moves and transitioning to the position seen at the start of the END segment, with the silver figure jumping/leaping and the gold lady watching, then moving into the scene where papers are scattered on the ground matching the END frames. The final frames of Candidate A also show the wide street view with the lamp post that matches the END segment's opening frames.",
+      "raw_original": "{\"answer\": \"A\", \"reason\": \"Candidate A shows the silver performer doing acrobatic moves and transitioning to the position seen at the start of the END segment, with the silver figure jumping/leaping and the gold lady watching, then moving into the scene where papers are scattered on the ground matching the END frames. The final frames of Candidate A also show the wide street view with the lamp post that matches the END segment's opening frames.\"}",
+      "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A shows the silver performer doing acrobatic moves and transitioning to the position seen at the start of the END segment, with the silver figure jumping/leaping and the gold lady watching, then moving into the scene where papers are scattered on the ground matching the END frames. The final frames of Candidate A also show the wide street view with the lamp post that matches the END segment's opening frames.\"}",
+      "option_map": {
+        "A": "Late",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Early"
+      },
+      "output_tokens": 98
+    }
+  },
+  "DAY1_A2_ALICE_14133000": {
+    "S": {
+      "correct": false,
+      "answer": "A",
+      "expected": "C",
+      "reason": "Candidate A starts by matching the BEGINNING frames (outdoor scene with people around a table, food plate visible, blue-shirted man present) and transitions through the close-up interaction sequence with the pink-haired woman checking her phone, then ends with the camera pulling back to show the outdoor table setup that matches the END frames. The visual flow from the beginning's outdoor gathering through the close-up phone-checking scene to the wider outdoor table view in the END is consistent only with Candidate A.",
+      "raw_original": "{\"answer\": \"A\", \"reason\": \"Candidate A starts by matching the BEGINNING frames (outdoor scene with people around a table, food plate visible, blue-shirted man present) and transitions through the close-up interaction sequence with the pink-haired woman checking her phone, then ends with the camera pulling back to show the outdoor table setup that matches the END frames. The visual flow from the beginning's outdoor gathering through the close-up phone-checking scene to the wider outdoor table view in the END is consistent only with Candidate A.\"}",
+      "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A starts by matching the BEGINNING frames (outdoor scene with people around a table, food plate visible, blue-shirted man present) and transitions through the close-up interaction sequence with the pink-haired woman checking her phone, then ends with the camera pulling back to show the outdoor table setup that matches the END frames. The visual flow from the beginning's outdoor gathering through the close-up phone-checking scene to the wider outdoor table view in the END is consistent only with Candidate A.\"}",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand2"
+      },
+      "output_tokens": 118
+    },
+    "A": {
+      "correct": true,
+      "answer": "A",
+      "expected": "A",
+      "reason": "Candidate A begins with the food plate being handed off (matching the last BEGINNING frames showing the plate being carried), transitions through the camera moving toward the table area, and ends with the group gathered around the table in daylight matching the first END frames. The sequence of the plate handoff, camera movement, and arrival at the table scene connects smoothly to the END segment.",
+      "raw_original": "{\"answer\": \"A\", \"reason\": \"Candidate A begins with the food plate being handed off (matching the last BEGINNING frames showing the plate being carried), transitions through the camera moving toward the table area, and ends with the group gathered around the table in daylight matching the first END frames. The sequence of the plate handoff, camera movement, and arrival at the table scene connects smoothly to the END segment.\"}",
+      "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A begins with the food plate being handed off (matching the last BEGINNING frames showing the plate being carried), transitions through the camera moving toward the table area, and ends with the group gathered around the table in daylight matching the first END frames. The sequence of the plate handoff, camera movement, and arrival at the table scene connects smoothly to the END segment.\"}",
+      "option_map": {
+        "A": "GT",
+        "B": "Late",
+        "C": "Wide",
+        "D": "Early"
+      },
+      "output_tokens": 91
+    },
+    "C": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "Candidate B begins with the food plate handoff scene that matches the end of the BEGINNING segment, then transitions through the camera moving to show people approaching the table area, and ends with the scene matching the START of the END segment where the pink-haired woman with headphones is visible at the table with others gathering around - providing the correct visual and temporal continuity between BEGINNING and END.",
+      "raw_original": "{\"answer\": \"B\", \"reason\": \"Candidate B begins with the food plate handoff scene that matches the end of the BEGINNING segment, then transitions through the camera moving to show people approaching the table area, and ends with the scene matching the START of the END segment where the pink-haired woman with headphones is visible at the table with others gathering around - providing the correct visual and temporal continuity between BEGINNING and END.\"}",
+      "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B begins with the food plate handoff scene that matches the end of the BEGINNING segment, then transitions through the camera moving to show people approaching the table area, and ends with the scene matching the START of the END segment where the pink-haired woman with headphones is visible at the table with others gathering around - providing the correct visual and temporal continuity between BEGINNING and END.\"}",
+      "option_map": {
+        "A": "Reverse",
+        "B": "GT",
+        "C": "Loop",
+        "D": "Shuffle"
+      },
+      "output_tokens": 95
+    }
+  },
+  "30k-11-6-2|P1|399|971": {
+    "A": {
+      "correct": false,
+      "answer": "D",
+      "expected": "C",
+      "reason": "Candidate D shows the person finishing unloading groceries onto the counter, then walking to the sink area and approaching it, which naturally connects the BEGINNING (unloading groceries/refrigerator) to the END (at the sink washing a cutting board). Candidate D also includes the transition from the kitchen counter view to the sink area in a way that matches the lighting and progression seen in the END frames.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D shows the person finishing unloading groceries onto the counter, then walking to the sink area and approaching it, which naturally connects the BEGINNING (unloading groceries/refrigerator) to the END (at the sink washing a cutting board). Candidate D also includes the transition from the kitchen counter view to the sink area in a way that matches the lighting and progression seen in the END frames.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D shows the person finishing unloading groceries onto the counter, then walking to the sink area and approaching it, which naturally connects the BEGINNING (unloading groceries/refrigerator) to the END (at the sink washing a cutting board). Candidate D also includes the transition from the kitchen counter view to the sink area in a way that matches the lighting and progression seen in the END frames.\"}",
+      "option_map": {
+        "A": "Wide",
+        "B": "Early",
+        "C": "GT",
+        "D": "Late"
+      },
+      "output_tokens": 100
+    },
+    "C": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "Candidate B transitions from the kitchen counter scene (matching the BEGINNING's grocery unpacking) through walking to the sink area at night, ending with the first-person view approaching the black sink - which perfectly matches the END segment showing the sink with a cutting board being washed.",
+      "raw_original": "{\"answer\": \"B\", \"reason\": \"Candidate B transitions from the kitchen counter scene (matching the BEGINNING's grocery unpacking) through walking to the sink area at night, ending with the first-person view approaching the black sink - which perfectly matches the END segment showing the sink with a cutting board being washed.\"}",
+      "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B transitions from the kitchen counter scene (matching the BEGINNING's grocery unpacking) through walking to the sink area at night, ending with the first-person view approaching the black sink - which perfectly matches the END segment showing the sink with a cutting board being washed.\"}",
+      "option_map": {
+        "A": "Loop",
+        "B": "GT",
+        "C": "Shuffle",
+        "D": "Reverse"
+      },
+      "output_tokens": 71
+    },
+    "S": {
+      "correct": false,
+      "answer": "A",
+      "expected": "D",
+      "reason": "Candidate A shows the person placing groceries on the counter (matching the BEGINNING), then walking to the refrigerator, opening it, putting items inside, and closing it, then walking back to the counter with the yellow container and bags - which directly connects to the END frames showing the person at the kitchen counter with those same items and then moving to the sink area.",
+      "raw_original": "{\"answer\": \"A\", \"reason\": \"Candidate A shows the person placing groceries on the counter (matching the BEGINNING), then walking to the refrigerator, opening it, putting items inside, and closing it, then walking back to the counter with the yellow container and bags - which directly connects to the END frames showing the person at the kitchen counter with those same items and then moving to the sink area.\"}",
+      "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A shows the person placing groceries on the counter (matching the BEGINNING), then walking to the refrigerator, opening it, putting items inside, and closing it, then walking back to the counter with the yellow container and bags - which directly connects to the END frames showing the person at the kitchen counter with those same items and then moving to the sink area.\"}",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand2",
+        "C": "Rand1",
+        "D": "GT"
+      },
+      "output_tokens": 90
+    }
+  },
+  "5w4el5U1kiE.21_1": {
+    "A": {
+      "correct": false,
+      "answer": "A",
+      "expected": "B",
+      "reason": "Candidate A begins with the child crying and wiping his eyes (matching the end of the BEGINNING segment where the child is upset at the dinner table), then transitions through the father comforting him with subtitles '울지 마, 하진아 아빠도 눈물난다' (Don't cry, Hajin, daddy is also tearing up), and ends with the father and child embracing while crying, which seamlessly connects to the END segment showing their hug with the father saying '마지막 아니야 아빠가 얼른 건강해져서 올 거니까' (It's not the last time, daddy will get better soon and come back).",
+      "raw_original": "{\"answer\": \"A\", \"reason\": \"Candidate A begins with the child crying and wiping his eyes (matching the end of the BEGINNING segment where the child is upset at the dinner table), then transitions through the father comforting him with subtitles '울지 마, 하진아 아빠도 눈물난다' (Don't cry, Hajin, daddy is also tearing up), and ends with the father and child embracing while crying, which seamlessly connects to the END segment showing their hug with the father saying '마지막 아니야 아빠가 얼른 건강해져서 올 거니까' (It's not the last time, daddy will get better soon and come back).\"}",
+      "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A begins with the child crying and wiping his eyes (matching the end of the BEGINNING segment where the child is upset at the dinner table), then transitions through the father comforting him with subtitles '울지 마, 하진아 아빠도 눈물난다' (Don't cry, Hajin, daddy is also tearing up), and ends with the father and child embracing while crying, which seamlessly connects to the END segment showing their hug with the father saying '마지막 아니야 아빠가 얼른 건강해져서 올 거니까' (It's not the last time, daddy will get better soon and come back).\"}",
+      "option_map": {
+        "A": "Early",
+        "B": "GT",
+        "C": "Late",
+        "D": "Wide"
+      },
+      "output_tokens": 172
+    },
+    "C": {
+      "correct": true,
+      "answer": "A",
+      "expected": "A",
+      "reason": "Candidate A correctly bridges the BEGINNING (dining scene with the boy tearing up) to the END (father-son hug in the kitchen) by showing the transition: tears being wiped at the table, the father getting up and moving away from the sofa area, then the emotional embrace beginning — matching the sequence and location changes seen at the start of the END segment.",
+      "raw_original": "{\"answer\": \"A\", \"reason\": \"Candidate A correctly bridges the BEGINNING (dining scene with the boy tearing up) to the END (father-son hug in the kitchen) by showing the transition: tears being wiped at the table, the father getting up and moving away from the sofa area, then the emotional embrace beginning — matching the sequence and location changes seen at the start of the END segment.\"}",
+      "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A correctly bridges the BEGINNING (dining scene with the boy tearing up) to the END (father-son hug in the kitchen) by showing the transition: tears being wiped at the table, the father getting up and moving away from the sofa area, then the emotional embrace beginning — matching the sequence and location changes seen at the start of the END segment.\"}",
+      "option_map": {
+        "A": "GT",
+        "B": "Loop",
+        "C": "Shuffle",
+        "D": "Reverse"
+      },
+      "output_tokens": 92
+    },
+    "S": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "Candidate C bridges the BEGINNING (dinner scene with the boy crying at the table) to the END (father and son hugging in the kitchen) by showing the transition: the boy wiping tears at the dinner table, then the father getting up and moving to hug the crying child, leading into the emotional embrace scene shown in the END. Candidate C also contains the key subtitle about the father thinking tomorrow's hospitalization might be the last time, which explains the emotional context of the hug in the END.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C bridges the BEGINNING (dinner scene with the boy crying at the table) to the END (father and son hugging in the kitchen) by showing the transition: the boy wiping tears at the dinner table, then the father getting up and moving to hug the crying child, leading into the emotional embrace scene shown in the END. Candidate C also contains the key subtitle about the father thinking tomorrow's hospitalization might be the last time, which explains the emotional context of the hug in the END.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C bridges the BEGINNING (dinner scene with the boy crying at the table) to the END (father and son hugging in the kitchen) by showing the transition: the boy wiping tears at the dinner table, then the father getting up and moving to hug the crying child, leading into the emotional embrace scene shown in the END. Candidate C also contains the key subtitle about the father thinking tomorrow's hospitalization might be the last time, which explains the emotional context of the hug in the END.\"}",
+      "option_map": {
+        "A": "Rand1",
+        "B": "Rand3",
+        "C": "GT",
+        "D": "Rand2"
+      },
+      "output_tokens": 120
+    }
+  },
+  "DAY1_A1_JAKE_20393000": {
+    "A": {
+      "correct": false,
+      "answer": "B",
+      "expected": "C",
+      "reason": "Candidate B correctly bridges the beginning (person in yellow shirt walking toward the kitchen area) through the candle-lighting scene, then transitions to the group moving toward the staircase, which matches the END frames showing people descending stairs. It includes the key transitional shots of the person carrying items and approaching the stairwell that directly connect to the END sequence.",
+      "raw_original": "{\"answer\": \"B\", \"reason\": \"Candidate B correctly bridges the beginning (person in yellow shirt walking toward the kitchen area) through the candle-lighting scene, then transitions to the group moving toward the staircase, which matches the END frames showing people descending stairs. It includes the key transitional shots of the person carrying items and approaching the stairwell that directly connect to the END sequence.\"}",
+      "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B correctly bridges the beginning (person in yellow shirt walking toward the kitchen area) through the candle-lighting scene, then transitions to the group moving toward the staircase, which matches the END frames showing people descending stairs. It includes the key transitional shots of the person carrying items and approaching the stairwell that directly connect to the END sequence.\"}",
+      "option_map": {
+        "A": "Early",
+        "B": "Wide",
+        "C": "GT",
+        "D": "Late"
+      },
+      "output_tokens": 89
+    },
+    "S": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "Candidate B transitions from the kitchen/counter area through the room with the red fridge, showing people moving toward the stairwell entrance, which naturally connects to the END segment showing the group descending the stairs.",
+      "raw_original": "Looking at the BEGINNING, the video shows a person in a yellow shirt with red suspenders walking toward a recording studio area. The END shows people going down stairs in a narrow stairwell.\n\nI need to find which candidate bridges from the beginning scene (person walking in room) to the end scene (people on stairs going down).\n\nCandidate A: Shows the beginning scene continuing (person walking), then transitions to a kitchen/counter area with hands working, then back to the room with the red fridge - but ends at the counter scene, not at stairs.\n\nCandidate B: Starts at the counter/kitchen scene, then transitions to people moving around the room with the red fridge, then shows people going toward a stairwell area, ending with the person in yellow shirt near stairs - this connects well to the END showing people on stairs.\n\nCandidate C: Starts already at the stairwell scene (overlapping with END frames), showing people already on stairs - this seems to start too late and overlaps with END.\n\nCandidate D: Shows the beginning scene continuing, transitions through the studio/kitchen area, back to the room with red fridge, then a blurry transition, then counter scene - similar to A but doesn't reach stairs.\n\nCandidate B best bridges the gap - it starts from the counter/kitchen area (where the beginning was heading), moves through the room, and ends with the person in yellow approaching the stairwell, which connects to the END showing them on the stairs.\n\n{\"answer\": \"B\", \"reason\": \"Candidate B transitions from the kitchen/counter area through the room with the red fridge, showing people moving toward the stairwell entrance, which naturally connects to the END segment showing the group descending the stairs.\"}",
+      "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B transitions from the kitchen/counter area through the room with the red fridge, showing people moving toward the stairwell entrance, which naturally connects to the END segment showing the group descending the stairs.\"}",
+      "option_map": {
+        "A": "Rand1",
+        "B": "GT",
+        "C": "Rand3",
+        "D": "Rand2"
+      },
+      "output_tokens": 376
+    },
+    "C": {
+      "correct": true,
+      "answer": "A",
+      "expected": "A",
+      "reason": "Candidate A begins with the kitchen counter scene (matching the end of BEGINNING where the person approaches the counter), then shows activity there, transitions through the room with the red fridge, and ends with the person in the yellow shirt approaching the staircase - directly connecting to the END where they are descending the stairs.",
+      "raw_original": "Looking at the BEGINNING, the video shows a person in a yellow shirt with a red crossbody bag walking toward a kitchen/counter area in what appears to be a studio or apartment. The END shows people going down stairs, with the person in the yellow shirt descending.\n\nI need to find the middle segment that bridges: person approaching the kitchen counter → people going down stairs.\n\nCandidate A: Shows kitchen counter scene (kettle/cups), then transitions to people in the room with the red fridge, then the person in yellow shirt in the main room, then approaching stairs area - ends with the person near stairs going down. This sequence logically connects the beginning (approaching kitchen) through the kitchen activity, back to the room, and toward the stairs shown in the END.\n\nCandidate D: Starts with the person already near the stairs area, then moves through the room - but the ordering seems different.\n\nLooking more carefully at Candidate A: it starts with the kitchen counter scene (matching the last frames of BEGINNING which show the person close to the counter), then shows activity at the counter, then transitions back to the room with people moving around, and ends with the person approaching the staircase area - which directly connects to the END showing people on the stairs.\n\nCandidate A's last frame shows the person in yellow near the staircase entrance, which perfectly connects to the END's first frame of the person going down stairs.\n\n{\"answer\": \"A\", \"reason\": \"Candidate A begins with the kitchen counter scene (matching the end of BEGINNING where the person approaches the counter), then shows activity there, transitions through the room with the red fridge, and ends with the person in the yellow shirt approaching the staircase - directly connecting to the END where they are descending the stairs.\"}",
+      "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A begins with the kitchen counter scene (matching the end of BEGINNING where the person approaches the counter), then shows activity there, transitions through the room with the red fridge, and ends with the person in the yellow shirt approaching the staircase - directly connecting to the END where they are descending the stairs.\"}",
+      "option_map": {
+        "A": "GT",
+        "B": "Loop",
+        "C": "Shuffle",
+        "D": "Reverse"
+      },
+      "output_tokens": 381
+    }
+  },
+  "DAY1_A3_TASHA_11243000": {
+    "C": {
+      "correct": false,
+      "answer": "D",
+      "expected": "C",
+      "reason": "Candidate D starts with the two people at the table (no pink-haired figure visible yet) and progressively shows the pink-haired person appearing on the left side while the standing person moves, matching the transition from the BEGINNING (where the table is mostly empty with just a bottle) through to the END frames where all three people are clearly gathered around the table with the full setup of bowls and chopsticks visible.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D starts with the two people at the table (no pink-haired figure visible yet) and progressively shows the pink-haired person appearing on the left side while the standing person moves, matching the transition from the BEGINNING (where the table is mostly empty with just a bottle) through to the END frames where all three people are clearly gathered around the table with the full setup of bowls and chopsticks visible.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D starts with the two people at the table (no pink-haired figure visible yet) and progressively shows the pink-haired person appearing on the left side while the standing person moves, matching the transition from the BEGINNING (where the table is mostly empty with just a bottle) through to the END frames where all three people are clearly gathered around the table with the full setup of bowls and chopsticks visible.\"}",
+      "option_map": {
+        "A": "Reverse",
+        "B": "Shuffle",
+        "C": "GT",
+        "D": "Loop"
+      },
+      "output_tokens": 103
+    },
+    "A": {
+      "correct": false,
+      "answer": "A",
+      "expected": "C",
+      "reason": "Candidate A shows the smooth transition from the beginning (where the person is standing near the table with minimal items) through the gradual setup of the table with bowls and chopsticks, and the pink-costumed figure appearing, leading naturally into the END frames showing three people around the fully set table. Candidate A's progression of camera angle and scene composition best matches the continuity between BEGINNING and END.",
+      "raw_original": "{\"answer\": \"A\", \"reason\": \"Candidate A shows the smooth transition from the beginning (where the person is standing near the table with minimal items) through the gradual setup of the table with bowls and chopsticks, and the pink-costumed figure appearing, leading naturally into the END frames showing three people around the fully set table. Candidate A's progression of camera angle and scene composition best matches the continuity between BEGINNING and END.\"}",
+      "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A shows the smooth transition from the beginning (where the person is standing near the table with minimal items) through the gradual setup of the table with bowls and chopsticks, and the pink-costumed figure appearing, leading naturally into the END frames showing three people around the fully set table. Candidate A's progression of camera angle and scene composition best matches the continuity between BEGINNING and END.\"}",
+      "option_map": {
+        "A": "Late",
+        "B": "Wide",
+        "C": "GT",
+        "D": "Early"
+      },
+      "output_tokens": 100
+    },
+    "S": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "Candidate C shows the transition from the beginning scene (person standing by table with red fridge visible) through the intermediate setup phase where people gather around the table, and ends with the scene matching the END frames showing three people around the table with the window background and specific table arrangement with bowls and chopsticks visible.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the transition from the beginning scene (person standing by table with red fridge visible) through the intermediate setup phase where people gather around the table, and ends with the scene matching the END frames showing three people around the table with the window background and specific table arrangement with bowls and chopsticks visible.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the transition from the beginning scene (person standing by table with red fridge visible) through the intermediate setup phase where people gather around the table, and ends with the scene matching the END frames showing three people around the table with the window background and specific table arrangement with bowls and chopsticks visible.\"}",
+      "option_map": {
+        "A": "Rand1",
+        "B": "Rand3",
+        "C": "GT",
+        "D": "Rand2"
+      },
+      "output_tokens": 79
+    }
+  },
+  "xmsAag2bcMI": {
+    "S": {
+      "correct": false,
+      "answer": "A",
+      "expected": "D",
+      "reason": "Candidate A begins with the blue Pagani Huayra being viewed from behind/side (matching the end of the BEGINNING segment showing the car from interior/exterior transition), then transitions to a first-person driving view with the rearview mirror visible and a green car ahead, which perfectly matches the END segment showing the same first-person perspective with the green car and rearview mirror.",
+      "raw_original": "{\"answer\": \"A\", \"reason\": \"Candidate A begins with the blue Pagani Huayra being viewed from behind/side (matching the end of the BEGINNING segment showing the car from interior/exterior transition), then transitions to a first-person driving view with the rearview mirror visible and a green car ahead, which perfectly matches the END segment showing the same first-person perspective with the green car and rearview mirror.\"}",
+      "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A begins with the blue Pagani Huayra being viewed from behind/side (matching the end of the BEGINNING segment showing the car from interior/exterior transition), then transitions to a first-person driving view with the rearview mirror visible and a green car ahead, which perfectly matches the END segment showing the same first-person perspective with the green car and rearview mirror.\"}",
+      "option_map": {
+        "A": "Rand1",
+        "B": "Rand3",
+        "C": "Rand2",
+        "D": "GT"
+      },
+      "output_tokens": 97
+    },
+    "C": {
+      "correct": false,
+      "answer": "C",
+      "expected": "D",
+      "reason": "Candidate C begins with the exact same frame visible at the start of the END segment (the blue Pagani viewed from behind/side in foggy rain near a barrier), and its sequence of shots—transitioning from the crash aftermath through various angles of the damaged Pagani—flows naturally into the END segment's continuation of the car driving away in the rain. The other candidates (A, B, D) contain very similar content but C's specific ordering and final frames match the END's opening frames most precisely.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C begins with the exact same frame visible at the start of the END segment (the blue Pagani viewed from behind/side in foggy rain near a barrier), and its sequence of shots—transitioning from the crash aftermath through various angles of the damaged Pagani—flows naturally into the END segment's continuation of the car driving away in the rain. The other candidates (A, B, D) contain very similar content but C's specific ordering and final frames match the END's opening frames most precisely.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C begins with the exact same frame visible at the start of the END segment (the blue Pagani viewed from behind/side in foggy rain near a barrier), and its sequence of shots—transitioning from the crash aftermath through various angles of the damaged Pagani—flows naturally into the END segment's continuation of the car driving away in the rain. The other candidates (A, B, D) contain very similar content but C's specific ordering and final frames match the END's opening frames most precisely.\"}",
+      "option_map": {
+        "A": "Loop",
+        "B": "Shuffle",
+        "C": "Reverse",
+        "D": "GT"
+      },
+      "output_tokens": 120
+    },
+    "A": {
+      "correct": false,
+      "answer": "C",
+      "expected": "A",
+      "reason": "Candidate C transitions from the interior/cockpit view and snowy mountain road seen in the BEGINNING, through the exterior chase/crash sequence with the blue Pagani, and ends with the first-person driving perspective with rearview mirror visible that matches the END segment's view. The sequence in C flows naturally from the beginning's cockpit view to the end's driver-perspective shots following a yellow-green car.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C transitions from the interior/cockpit view and snowy mountain road seen in the BEGINNING, through the exterior chase/crash sequence with the blue Pagani, and ends with the first-person driving perspective with rearview mirror visible that matches the END segment's view. The sequence in C flows naturally from the beginning's cockpit view to the end's driver-perspective shots following a yellow-green car.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C transitions from the interior/cockpit view and snowy mountain road seen in the BEGINNING, through the exterior chase/crash sequence with the blue Pagani, and ends with the first-person driving perspective with rearview mirror visible that matches the END segment's view. The sequence in C flows naturally from the beginning's cockpit view to the end's driver-perspective shots following a yellow-green car.\"}",
+      "option_map": {
+        "A": "GT",
+        "B": "Wide",
+        "C": "Early",
+        "D": "Late"
+      },
+      "output_tokens": 101
+    }
+  },
+  "lzMMFziUfNU.4_0": {
+    "C": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "Candidate B begins exactly where the BEGINNING ends (hand spreading crumbled mixture on a flat surface) and transitions smoothly into the END segment (close-up of the mixed grain/vegetable mixture being stirred with a wooden spoon, showing black beans being incorporated). The visual continuity of the hand movements and the state of the mixture matches the flow from BEGINNING through B to END.",
+      "raw_original": "{\"answer\": \"B\", \"reason\": \"Candidate B begins exactly where the BEGINNING ends (hand spreading crumbled mixture on a flat surface) and transitions smoothly into the END segment (close-up of the mixed grain/vegetable mixture being stirred with a wooden spoon, showing black beans being incorporated). The visual continuity of the hand movements and the state of the mixture matches the flow from BEGINNING through B to END.\"}",
+      "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B begins exactly where the BEGINNING ends (hand spreading crumbled mixture on a flat surface) and transitions smoothly into the END segment (close-up of the mixed grain/vegetable mixture being stirred with a wooden spoon, showing black beans being incorporated). The visual continuity of the hand movements and the state of the mixture matches the flow from BEGINNING through B to END.\"}",
+      "option_map": {
+        "A": "Reverse",
+        "B": "GT",
+        "C": "Shuffle",
+        "D": "Loop"
+      },
+      "output_tokens": 96
+    },
+    "A": {
+      "correct": false,
+      "answer": "A",
+      "expected": "B",
+      "reason": "Candidate A starts with hands crumbling bread/mixture into a bowl with the same ingredients visible in the BEGINNING, transitions through the crumbling process to a fully mixed bowl, and ends with a wooden spoon stirring in black beans - which directly matches the END segment showing the mixture being stirred with black beans visible.",
+      "raw_original": "{\"answer\": \"A\", \"reason\": \"Candidate A starts with hands crumbling bread/mixture into a bowl with the same ingredients visible in the BEGINNING, transitions through the crumbling process to a fully mixed bowl, and ends with a wooden spoon stirring in black beans - which directly matches the END segment showing the mixture being stirred with black beans visible.\"}",
+      "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A starts with hands crumbling bread/mixture into a bowl with the same ingredients visible in the BEGINNING, transitions through the crumbling process to a fully mixed bowl, and ends with a wooden spoon stirring in black beans - which directly matches the END segment showing the mixture being stirred with black beans visible.\"}",
+      "option_map": {
+        "A": "Late",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Early"
+      },
+      "output_tokens": 82
+    },
+    "S": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "Candidate C begins with the crumbled bread/mixture being spread on the table (matching the end of the BEGINNING segment) and transitions through hands mixing the crumbled mixture in the bowl, ending with a close-up of the well-mixed grain mixture that matches the START of the END segment. The visual progression from crumbling to a fully mixed bowl without black beans visible yet connects properly to the END where a wooden spoon begins stirring in the black beans.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C begins with the crumbled bread/mixture being spread on the table (matching the end of the BEGINNING segment) and transitions through hands mixing the crumbled mixture in the bowl, ending with a close-up of the well-mixed grain mixture that matches the START of the END segment. The visual progression from crumbling to a fully mixed bowl without black beans visible yet connects properly to the END where a wooden spoon begins stirring in the black beans.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C begins with the crumbled bread/mixture being spread on the table (matching the end of the BEGINNING segment) and transitions through hands mixing the crumbled mixture in the bowl, ending with a close-up of the well-mixed grain mixture that matches the START of the END segment. The visual progression from crumbling to a fully mixed bowl without black beans visible yet connects properly to the END where a wooden spoon begins stirring in the black beans.\"}",
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand3"
+      },
+      "output_tokens": 112
+    }
+  },
+  "zlluDiPNz28": {
+    "C": {
+      "correct": false,
+      "answer": "C",
+      "expected": "B",
+      "reason": "Candidate C begins with the snowboarder in the terrain park (matching the end of the BEGINNING segment showing the rider landing after a jump and riding through the park), progresses through jumps and tricks, and ends with the rider on a smooth groomed run approaching a kicker - which directly connects to the END segment showing the rider on a clean groomed slope approaching and hitting a large jump.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C begins with the snowboarder in the terrain park (matching the end of the BEGINNING segment showing the rider landing after a jump and riding through the park), progresses through jumps and tricks, and ends with the rider on a smooth groomed run approaching a kicker - which directly connects to the END segment showing the rider on a clean groomed slope approaching and hitting a large jump.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C begins with the snowboarder in the terrain park (matching the end of the BEGINNING segment showing the rider landing after a jump and riding through the park), progresses through jumps and tricks, and ends with the rider on a smooth groomed run approaching a kicker - which directly connects to the END segment showing the rider on a clean groomed slope approaching and hitting a large jump.\"}",
+      "option_map": {
+        "A": "Reverse",
+        "B": "GT",
+        "C": "Shuffle",
+        "D": "Loop"
+      },
+      "output_tokens": 96
+    },
+    "A": {
+      "correct": false,
+      "answer": "D",
+      "expected": "C",
+      "reason": "Candidate D begins with the same close-up shot of the snowboarder (camo jacket, red pants) that matches the end of the BEGINNING segment, then progresses through jumps and park features that align with the terrain and visual continuity seen at the start of the END segment, including the matching jump sequence with the red flag and the Keystone tent visible in both D and the END frames.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D begins with the same close-up shot of the snowboarder (camo jacket, red pants) that matches the end of the BEGINNING segment, then progresses through jumps and park features that align with the terrain and visual continuity seen at the start of the END segment, including the matching jump sequence with the red flag and the Keystone tent visible in both D and the END frames.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D begins with the same close-up shot of the snowboarder (camo jacket, red pants) that matches the end of the BEGINNING segment, then progresses through jumps and park features that align with the terrain and visual continuity seen at the start of the END segment, including the matching jump sequence with the red flag and the Keystone tent visible in both D and the END frames.\"}",
+      "option_map": {
+        "A": "Late",
+        "B": "Wide",
+        "C": "GT",
+        "D": "Early"
+      },
+      "output_tokens": 99
+    },
+    "S": {
+      "correct": false,
+      "answer": "D",
+      "expected": "B",
+      "reason": "Candidate D begins with the title card transition (matching the BEGINNING's title card sequence) and then shows the snowboarder starting their run from the top of the slope near the lift, which directly connects to the END segment showing the snowboarder continuing down through the park with jumps and tricks at Keystone, Colorado.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D begins with the title card transition (matching the BEGINNING's title card sequence) and then shows the snowboarder starting their run from the top of the slope near the lift, which directly connects to the END segment showing the snowboarder continuing down through the park with jumps and tricks at Keystone, Colorado.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D begins with the title card transition (matching the BEGINNING's title card sequence) and then shows the snowboarder starting their run from the top of the slope near the lift, which directly connects to the END segment showing the snowboarder continuing down through the park with jumps and tricks at Keystone, Colorado.\"}",
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand3",
+        "D": "Rand1"
+      },
+      "output_tokens": 82
+    }
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "0443-7": {
+    "A": {
+      "correct": false,
+      "answer": "D",
+      "expected": "B",
+      "reason": "Candidate D provides the smoothest temporal transition between the BEGINNING and END segments, showing the continuous camera movement around the two street performers (gold woman and silver man) with consistent positioning and background elements that match both the end of BEGINNING and start of END sequences.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D provides the smoothest temporal transition between the BEGINNING and END segments, showing the continuous camera movement around the two street performers (gold woman and silver man) with consistent positioning and background elements that match both the end of BEGINNING and start of END sequences.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D provides the smoothest temporal transition between the BEGINNING and END segments, showing the continuous camera movement around the two street performers (gold woman and silver man) with consistent positioning and background elements that match both the end of BEGINNING and start of END sequences.\"}",
+      "option_map": {
+        "A": "Late",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Early"
+      },
+      "output_tokens": 68
+    },
+    "S": {
+      "correct": false,
+      "answer": "D",
+      "expected": "C",
+      "reason": "Candidate D provides the smoothest transition from the BEGINNING (where the camera is panning around the two street performers near the archway) to the END (where the silver performer is on the box and the gold performer is dancing nearby, then the camera pans to show close-ups). Candidate D shows the natural progression of the gold performer moving from the archway area to the street position, with the silver horse/performer becoming more prominent, matching the END sequence's setup and camera movement.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D provides the smoothest transition from the BEGINNING (where the camera is panning around the two street performers near the archway) to the END (where the silver performer is on the box and the gold performer is dancing nearby, then the camera pans to show close-ups). Candidate D shows the natural progression of the gold performer moving from the archway area to the street position, with the silver horse/performer becoming more prominent, matching the END sequence's setup and camera movement.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D provides the smoothest transition from the BEGINNING (where the camera is panning around the two street performers near the archway) to the END (where the silver performer is on the box and the gold performer is dancing nearby, then the camera pans to show close-ups). Candidate D shows the natural progression of the gold performer moving from the archway area to the street position, with the silver horse/performer becoming more prominent, matching the END sequence's setup and camera movement.\"}",
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand3",
+        "C": "GT",
+        "D": "Rand1"
+      },
+      "output_tokens": 116
+    },
+    "C": {
+      "correct": false,
+      "answer": "C",
+      "expected": "B",
+      "reason": "Candidate C provides the correct temporal bridge between the BEGINNING and END segments. It shows the transition from the street performers (gold woman and silver man) in the Covent Garden area, with the camera movement and performer positions matching the continuity from the BEGINNING's final frames through to the END's opening frames, including the correct sequence of the silver performer's movements on the box/platform and the gold performer's positioning.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C provides the correct temporal bridge between the BEGINNING and END segments. It shows the transition from the street performers (gold woman and silver man) in the Covent Garden area, with the camera movement and performer positions matching the continuity from the BEGINNING's final frames through to the END's opening frames, including the correct sequence of the silver performer's movements on the box/platform and the gold performer's positioning.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C provides the correct temporal bridge between the BEGINNING and END segments. It shows the transition from the street performers (gold woman and silver man) in the Covent Garden area, with the camera movement and performer positions matching the continuity from the BEGINNING's final frames through to the END's opening frames, including the correct sequence of the silver performer's movements on the box/platform and the gold performer's positioning.\"}",
+      "option_map": {
+        "A": "Shuffle",
+        "B": "GT",
+        "C": "Reverse",
+        "D": "Loop"
+      },
+      "output_tokens": 101
+    }
+  },
+  "2YXJO": {
+    "C": {
+      "correct": true,
+      "answer": "D",
+      "expected": "D",
+      "reason": "Candidate D shows the correct temporal progression: the girl in pink finishes at the sink, puts on gloves, then a second person enters with a broom, leading naturally into the END segment where both people are present with the broom. The sequence of events flows smoothly from the BEGINNING through D to the END.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D shows the correct temporal progression: the girl in pink finishes at the sink, puts on gloves, then a second person enters with a broom, leading naturally into the END segment where both people are present with the broom. The sequence of events flows smoothly from the BEGINNING through D to the END.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D shows the correct temporal progression: the girl in pink finishes at the sink, puts on gloves, then a second person enters with a broom, leading naturally into the END segment where both people are present with the broom. The sequence of events flows smoothly from the BEGINNING through D to the END.\"}",
+      "option_map": {
+        "A": "Reverse",
+        "B": "Shuffle",
+        "C": "Loop",
+        "D": "GT"
+      },
+      "output_tokens": 81
+    },
+    "S": {
+      "correct": true,
+      "answer": "D",
+      "expected": "D",
+      "reason": "Candidate D shows the transition from the girl alone at the sink in her pink hoodie (matching the BEGINNING) to a second person entering the bathroom with a broom/mop, with the girl removing her pink hoodie to reveal an orange/red shirt underneath, which matches the END where two people are present and the girl is wearing an orange/red shirt. Candidates A and C only show the girl alone at the sink without the second person arriving, and Candidate B starts with the second person already present.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D shows the transition from the girl alone at the sink in her pink hoodie (matching the BEGINNING) to a second person entering the bathroom with a broom/mop, with the girl removing her pink hoodie to reveal an orange/red shirt underneath, which matches the END where two people are present and the girl is wearing an orange/red shirt. Candidates A and C only show the girl alone at the sink without the second person arriving, and Candidate B starts with the second person already present.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D shows the transition from the girl alone at the sink in her pink hoodie (matching the BEGINNING) to a second person entering the bathroom with a broom/mop, with the girl removing her pink hoodie to reveal an orange/red shirt underneath, which matches the END where two people are present and the girl is wearing an orange/red shirt. Candidates A and C only show the girl alone at the sink without the second person arriving, and Candidate B starts with the second person already present.\"}",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand1",
+        "C": "Rand2",
+        "D": "GT"
+      },
+      "output_tokens": 121
+    },
+    "A": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "Candidate B shows the girl in pink finishing at the sink, removing her top to reveal an orange/red shirt, then a second person entering the bathroom with a mop, which smoothly connects the BEGINNING (girl alone at sink in pink) to the END (two people in bathroom with mop, girl now in orange/red). The sequence of events flows naturally between the beginning and end segments.",
+      "raw_original": "{\"answer\": \"B\", \"reason\": \"Candidate B shows the girl in pink finishing at the sink, removing her top to reveal an orange/red shirt, then a second person entering the bathroom with a mop, which smoothly connects the BEGINNING (girl alone at sink in pink) to the END (two people in bathroom with mop, girl now in orange/red). The sequence of events flows naturally between the beginning and end segments.\"}",
+      "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B shows the girl in pink finishing at the sink, removing her top to reveal an orange/red shirt, then a second person entering the bathroom with a mop, which smoothly connects the BEGINNING (girl alone at sink in pink) to the END (two people in bathroom with mop, girl now in orange/red). The sequence of events flows naturally between the beginning and end segments.\"}",
+      "option_map": {
+        "A": "Early",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Late"
+      },
+      "output_tokens": 97
+    }
+  },
+  "30k-11-6-2|P1|399|971": {
+    "C": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "Candidate B is the only one that shows the complete transition from the kitchen counter (with groceries being organized) to walking toward the sink area, matching both the end of the BEGINNING segment and the start of the END segment. It includes the natural progression of walking from the island counter past the kitchen to the sink, which connects seamlessly with the END segment showing the person at the sink with a cutting board.",
+      "raw_original": "{\"answer\": \"B\", \"reason\": \"Candidate B is the only one that shows the complete transition from the kitchen counter (with groceries being organized) to walking toward the sink area, matching both the end of the BEGINNING segment and the start of the END segment. It includes the natural progression of walking from the island counter past the kitchen to the sink, which connects seamlessly with the END segment showing the person at the sink with a cutting board.\"}",
+      "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B is the only one that shows the complete transition from the kitchen counter (with groceries being organized) to walking toward the sink area, matching both the end of the BEGINNING segment and the start of the END segment. It includes the natural progression of walking from the island counter past the kitchen to the sink, which connects seamlessly with the END segment showing the person at the sink with a cutting board.\"}",
+      "option_map": {
+        "A": "Loop",
+        "B": "GT",
+        "C": "Shuffle",
+        "D": "Reverse"
+      },
+      "output_tokens": 98
+    },
+    "A": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "Candidate C provides the correct transition from the BEGINNING (placing items on the counter from the fridge) to the END (at the sink area). It shows the person finishing arranging items on the counter, then walking toward the sink area, which matches the END sequence. The other candidates either have slightly different item arrangements or don't transition as smoothly to the sink scene.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C provides the correct transition from the BEGINNING (placing items on the counter from the fridge) to the END (at the sink area). It shows the person finishing arranging items on the counter, then walking toward the sink area, which matches the END sequence. The other candidates either have slightly different item arrangements or don't transition as smoothly to the sink scene.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C provides the correct transition from the BEGINNING (placing items on the counter from the fridge) to the END (at the sink area). It shows the person finishing arranging items on the counter, then walking toward the sink area, which matches the END sequence. The other candidates either have slightly different item arrangements or don't transition as smoothly to the sink scene.\"}",
+      "option_map": {
+        "A": "Wide",
+        "B": "Early",
+        "C": "GT",
+        "D": "Late"
+      },
+      "output_tokens": 91
+    },
+    "S": {
+      "correct": true,
+      "answer": "D",
+      "expected": "D",
+      "reason": "Candidate D is the only one that shows the transition from the kitchen counter (with groceries being placed) to walking toward the sink area, matching the beginning's counter scene and the end's sink scene. It includes the intermediate steps of arranging items on the counter and then moving to the sink area, providing the correct spatial and temporal bridge between BEGINNING and END.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D is the only one that shows the transition from the kitchen counter (with groceries being placed) to walking toward the sink area, matching the beginning's counter scene and the end's sink scene. It includes the intermediate steps of arranging items on the counter and then moving to the sink area, providing the correct spatial and temporal bridge between BEGINNING and END.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D is the only one that shows the transition from the kitchen counter (with groceries being placed) to walking toward the sink area, matching the beginning's counter scene and the end's sink scene. It includes the intermediate steps of arranging items on the counter and then moving to the sink area, providing the correct spatial and temporal bridge between BEGINNING and END.\"}",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand2",
+        "C": "Rand1",
+        "D": "GT"
+      },
+      "output_tokens": 89
+    }
+  },
+  "5w4el5U1kiE.21_1": {
+    "C": {
+      "correct": false,
+      "answer": "D",
+      "expected": "A",
+      "reason": "Candidate D is the correct middle segment because it follows the proper narrative flow: it begins with the hospital hugging scene that transitions back to the dining table scene where the boy's tears are wiped and he looks up, which connects naturally to the END segment's emotional hospital embrace. The sequence in D shows the boy's face close-up at the table with tears being wiped, then the father carrying him away, matching the transition from the BEGINNING's mealtime scene to the END's hospital hugging scene.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D is the correct middle segment because it follows the proper narrative flow: it begins with the hospital hugging scene that transitions back to the dining table scene where the boy's tears are wiped and he looks up, which connects naturally to the END segment's emotional hospital embrace. The sequence in D shows the boy's face close-up at the table with tears being wiped, then the father carrying him away, matching the transition from the BEGINNING's mealtime scene to the END's hospital hugging scene.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D is the correct middle segment because it follows the proper narrative flow: it begins with the hospital hugging scene that transitions back to the dining table scene where the boy's tears are wiped and he looks up, which connects naturally to the END segment's emotional hospital embrace. The sequence in D shows the boy's face close-up at the table with tears being wiped, then the father carrying him away, matching the transition from the BEGINNING's mealtime scene to the END's hospital hugging scene.\"}",
+      "option_map": {
+        "A": "GT",
+        "B": "Loop",
+        "C": "Shuffle",
+        "D": "Reverse"
+      },
+      "output_tokens": 120
+    },
+    "S": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "Candidate C is the correct middle segment because it bridges the dining table scene (BEGINNING) with the hospital hugging scene (END). It shows the boy crying at the table, wiping tears, then transitioning to the father picking him up and hugging him in what appears to be a hospital/kitchen setting, with the child crying about hospitalization ('내일 입원하면 마지막이라고 생각되니까'), which naturally leads into the emotional embrace in the END segment. Candidates A and B skip the table-to-hospital transition, while D duplicates too much of the BEGINNING content.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C is the correct middle segment because it bridges the dining table scene (BEGINNING) with the hospital hugging scene (END). It shows the boy crying at the table, wiping tears, then transitioning to the father picking him up and hugging him in what appears to be a hospital/kitchen setting, with the child crying about hospitalization ('내일 입원하면 마지막이라고 생각되니까'), which naturally leads into the emotional embrace in the END segment. Candidates A and B skip the table-to-hospital transition, while D duplicates too much of the BEGINNING content.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C is the correct middle segment because it bridges the dining table scene (BEGINNING) with the hospital hugging scene (END). It shows the boy crying at the table, wiping tears, then transitioning to the father picking him up and hugging him in what appears to be a hospital/kitchen setting, with the child crying about hospitalization ('내일 입원하면 마지막이라고 생각되니까'), which naturally leads into the emotional embrace in the END segment. Candidates A and B skip the table-to-hospital transition, while D duplicates too much of the BEGINNING content.\"}",
+      "option_map": {
+        "A": "Rand1",
+        "B": "Rand3",
+        "C": "GT",
+        "D": "Rand2"
+      },
+      "output_tokens": 146
+    },
+    "A": {
+      "correct": false,
+      "answer": "D",
+      "expected": "B",
+      "reason": "Candidate D correctly bridges the BEGINNING (dining scene with the boy crying/rubbing eyes) to the END (emotional hugging scene) by showing the complete transition: the boy wiping tears at the table, being comforted, the father picking him up, the crying/hugging sequence with subtitles about hospitalization, and then leading into the sustained embrace shown in the END. The sequence of frames matches the natural narrative flow without duplicating frames already present in the BEGINNING or END sections.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D correctly bridges the BEGINNING (dining scene with the boy crying/rubbing eyes) to the END (emotional hugging scene) by showing the complete transition: the boy wiping tears at the table, being comforted, the father picking him up, the crying/hugging sequence with subtitles about hospitalization, and then leading into the sustained embrace shown in the END. The sequence of frames matches the natural narrative flow without duplicating frames already present in the BEGINNING or END sections.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D correctly bridges the BEGINNING (dining scene with the boy crying/rubbing eyes) to the END (emotional hugging scene) by showing the complete transition: the boy wiping tears at the table, being comforted, the father picking him up, the crying/hugging sequence with subtitles about hospitalization, and then leading into the sustained embrace shown in the END. The sequence of frames matches the natural narrative flow without duplicating frames already present in the BEGINNING or END sections.\"}",
+      "option_map": {
+        "A": "Early",
+        "B": "GT",
+        "C": "Late",
+        "D": "Wide"
+      },
+      "output_tokens": 118
+    }
+  },
+  "DAY1_A1_JAKE_20393000": {
+    "S": {
+      "correct": false,
+      "answer": "D",
+      "expected": "B",
+      "reason": "Candidate D matches the BEGINNING sequence perfectly, showing the person walking through the room, past the red fridge, then transitioning to the kitchen counter scene with cups, which connects seamlessly to the END sequence showing people going up the stairs. The visual flow and scene transitions in D are consistent with both the BEGINNING and END segments.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D matches the BEGINNING sequence perfectly, showing the person walking through the room, past the red fridge, then transitioning to the kitchen counter scene with cups, which connects seamlessly to the END sequence showing people going up the stairs. The visual flow and scene transitions in D are consistent with both the BEGINNING and END segments.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D matches the BEGINNING sequence perfectly, showing the person walking through the room, past the red fridge, then transitioning to the kitchen counter scene with cups, which connects seamlessly to the END sequence showing people going up the stairs. The visual flow and scene transitions in D are consistent with both the BEGINNING and END segments.\"}",
+      "option_map": {
+        "A": "Rand1",
+        "B": "GT",
+        "C": "Rand3",
+        "D": "Rand2"
+      },
+      "output_tokens": 83
+    },
+    "C": {
+      "correct": false,
+      "answer": "C",
+      "expected": "A",
+      "reason": "Candidate C is the correct middle segment because it shows the complete transition from the kitchen/counter area (matching the end of BEGINNING) through the room with people interacting, to approaching the stairway area (matching the start of END), with the kitchen counter close-up shots with mugs connecting naturally to both segments. The other candidates either have the wrong ordering or are missing key transitional frames.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C is the correct middle segment because it shows the complete transition from the kitchen/counter area (matching the end of BEGINNING) through the room with people interacting, to approaching the stairway area (matching the start of END), with the kitchen counter close-up shots with mugs connecting naturally to both segments. The other candidates either have the wrong ordering or are missing key transitional frames.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C is the correct middle segment because it shows the complete transition from the kitchen/counter area (matching the end of BEGINNING) through the room with people interacting, to approaching the stairway area (matching the start of END), with the kitchen counter close-up shots with mugs connecting naturally to both segments. The other candidates either have the wrong ordering or are missing key transitional frames.\"}",
+      "option_map": {
+        "A": "GT",
+        "B": "Loop",
+        "C": "Shuffle",
+        "D": "Reverse"
+      },
+      "output_tokens": 97
+    },
+    "A": {
+      "correct": false,
+      "answer": "D",
+      "expected": "C",
+      "reason": "Candidate D provides the correct transitional sequence: it shows the person in the white shirt moving through the room, interacting with another person in black, then heading toward and ascending the staircase, which connects smoothly to the END segment showing them continuing up the stairs. Candidates A and B are nearly identical and include kitchen counter scenes that don't properly bridge to the staircase ending, while Candidate C skips key transitional moments.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D provides the correct transitional sequence: it shows the person in the white shirt moving through the room, interacting with another person in black, then heading toward and ascending the staircase, which connects smoothly to the END segment showing them continuing up the stairs. Candidates A and B are nearly identical and include kitchen counter scenes that don't properly bridge to the staircase ending, while Candidate C skips key transitional moments.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D provides the correct transitional sequence: it shows the person in the white shirt moving through the room, interacting with another person in black, then heading toward and ascending the staircase, which connects smoothly to the END segment showing them continuing up the stairs. Candidates A and B are nearly identical and include kitchen counter scenes that don't properly bridge to the staircase ending, while Candidate C skips key transitional moments.\"}",
+      "option_map": {
+        "A": "Early",
+        "B": "Wide",
+        "C": "GT",
+        "D": "Late"
+      },
+      "output_tokens": 106
+    }
+  },
+  "DAY1_A2_ALICE_14133000": {
+    "S": {
+      "correct": false,
+      "answer": "A",
+      "expected": "C",
+      "reason": "Candidate A provides the smoothest transition from the BEGINNING (where the camera holder is close to the people with a plate of food, the man in blue is still present) through the middle section (showing the gradual shift as the man in blue leaves, the camera moves closer to the table, and the woman in the teal dress turns away) to the END (where everyone is seated at the table with the person in pink arriving). The other candidates either skip too far ahead (B, D) or show discontinuous camera positions (C).",
+      "raw_original": "{\"answer\": \"A\", \"reason\": \"Candidate A provides the smoothest transition from the BEGINNING (where the camera holder is close to the people with a plate of food, the man in blue is still present) through the middle section (showing the gradual shift as the man in blue leaves, the camera moves closer to the table, and the woman in the teal dress turns away) to the END (where everyone is seated at the table with the person in pink arriving). The other candidates either skip too far ahead (B, D) or show discontinuous camera positions (C).\"}",
+      "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A provides the smoothest transition from the BEGINNING (where the camera holder is close to the people with a plate of food, the man in blue is still present) through the middle section (showing the gradual shift as the man in blue leaves, the camera moves closer to the table, and the woman in the teal dress turns away) to the END (where everyone is seated at the table with the person in pink arriving). The other candidates either skip too far ahead (B, D) or show discontinuous camera positions (C).\"}",
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand2"
+      },
+      "output_tokens": 126
+    },
+    "C": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "Candidate B provides the smoothest temporal transition from the BEGINNING (where the camera holder is eating from a plate of food near the table) through the middle segment (showing the plate being held, walking to the table area, sitting down, with the blonde woman and others settling at the table) to the END (where everyone is seated at the table with the person in pink standing/working at the table). The sequence of actions and camera movements in B connects naturally between the two segments.",
+      "raw_original": "{\"answer\": \"B\", \"reason\": \"Candidate B provides the smoothest temporal transition from the BEGINNING (where the camera holder is eating from a plate of food near the table) through the middle segment (showing the plate being held, walking to the table area, sitting down, with the blonde woman and others settling at the table) to the END (where everyone is seated at the table with the person in pink standing/working at the table). The sequence of actions and camera movements in B connects naturally between the two segments.\"}",
+      "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B provides the smoothest temporal transition from the BEGINNING (where the camera holder is eating from a plate of food near the table) through the middle segment (showing the plate being held, walking to the table area, sitting down, with the blonde woman and others settling at the table) to the END (where everyone is seated at the table with the person in pink standing/working at the table). The sequence of actions and camera movements in B connects naturally between the two segments.\"}",
+      "option_map": {
+        "A": "Reverse",
+        "B": "GT",
+        "C": "Loop",
+        "D": "Shuffle"
+      },
+      "output_tokens": 113
+    },
+    "A": {
+      "correct": false,
+      "answer": "D",
+      "expected": "A",
+      "reason": "Candidate D provides the smoothest temporal transition from the BEGINNING (where the camera holder is eating from a plate of food while standing near the blonde woman and woman in teal dress) through the middle (showing continued eating, walking to the table area, and sitting down) to the END (where everyone is seated at the table with the person in pink setting up items). The sequence of holding the plate, walking over, and transitioning to the seated table scene matches naturally.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D provides the smoothest temporal transition from the BEGINNING (where the camera holder is eating from a plate of food while standing near the blonde woman and woman in teal dress) through the middle (showing continued eating, walking to the table area, and sitting down) to the END (where everyone is seated at the table with the person in pink setting up items). The sequence of holding the plate, walking over, and transitioning to the seated table scene matches naturally.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D provides the smoothest temporal transition from the BEGINNING (where the camera holder is eating from a plate of food while standing near the blonde woman and woman in teal dress) through the middle (showing continued eating, walking to the table area, and sitting down) to the END (where everyone is seated at the table with the person in pink setting up items). The sequence of holding the plate, walking over, and transitioning to the seated table scene matches naturally.\"}",
+      "option_map": {
+        "A": "GT",
+        "B": "Late",
+        "C": "Wide",
+        "D": "Early"
+      },
+      "output_tokens": 111
+    }
+  },
+  "DAY1_A3_TASHA_11243000": {
+    "A": {
+      "correct": false,
+      "answer": "D",
+      "expected": "C",
+      "reason": "Candidate D is the only one that includes the transitional frames showing the room from a different angle with the tripod and photo wall (matching the BEGINNING's later frames showing movement away from the table area), followed by the progression to the seated table scene with the woman and man in orange shirt. It provides the correct temporal bridge between the BEGINNING's exploration of the room and the END's settled table scene.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D is the only one that includes the transitional frames showing the room from a different angle with the tripod and photo wall (matching the BEGINNING's later frames showing movement away from the table area), followed by the progression to the seated table scene with the woman and man in orange shirt. It provides the correct temporal bridge between the BEGINNING's exploration of the room and the END's settled table scene.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D is the only one that includes the transitional frames showing the room from a different angle with the tripod and photo wall (matching the BEGINNING's later frames showing movement away from the table area), followed by the progression to the seated table scene with the woman and man in orange shirt. It provides the correct temporal bridge between the BEGINNING's exploration of the room and the END's settled table scene.\"}",
+      "option_map": {
+        "A": "Late",
+        "B": "Wide",
+        "C": "GT",
+        "D": "Early"
+      },
+      "output_tokens": 98
+    },
+    "S": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "Candidate C provides the smoothest transition from the BEGINNING sequence (where the camera pans from the kitchen area through the room) to the END sequence (where multiple people are seated/standing at the table with bowls). It shows the gradual arrival of people at the table and the placement of items, with the camera perspective and scene elements matching consistently between the last frames of BEGINNING and first frames of END.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C provides the smoothest transition from the BEGINNING sequence (where the camera pans from the kitchen area through the room) to the END sequence (where multiple people are seated/standing at the table with bowls). It shows the gradual arrival of people at the table and the placement of items, with the camera perspective and scene elements matching consistently between the last frames of BEGINNING and first frames of END.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C provides the smoothest transition from the BEGINNING sequence (where the camera pans from the kitchen area through the room) to the END sequence (where multiple people are seated/standing at the table with bowls). It shows the gradual arrival of people at the table and the placement of items, with the camera perspective and scene elements matching consistently between the last frames of BEGINNING and first frames of END.\"}",
+      "option_map": {
+        "A": "Rand1",
+        "B": "Rand3",
+        "C": "GT",
+        "D": "Rand2"
+      },
+      "output_tokens": 99
+    },
+    "C": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "Candidate C shows the smoothest transition from the BEGINNING's last frames (where the person in the orange shirt is standing near the table with the woman seated, and the camera holder's feet are visible) to the END's first frames (where a third person with pink hair has joined the table scene). The progression of the man's position moving from right side toward center and the gradual appearance of the pink-haired person sitting down matches the temporal flow best.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the smoothest transition from the BEGINNING's last frames (where the person in the orange shirt is standing near the table with the woman seated, and the camera holder's feet are visible) to the END's first frames (where a third person with pink hair has joined the table scene). The progression of the man's position moving from right side toward center and the gradual appearance of the pink-haired person sitting down matches the temporal flow best.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the smoothest transition from the BEGINNING's last frames (where the person in the orange shirt is standing near the table with the woman seated, and the camera holder's feet are visible) to the END's first frames (where a third person with pink hair has joined the table scene). The progression of the man's position moving from right side toward center and the gradual appearance of the pink-haired person sitting down matches the temporal flow best.\"}",
+      "option_map": {
+        "A": "Reverse",
+        "B": "Shuffle",
+        "C": "GT",
+        "D": "Loop"
+      },
+      "output_tokens": 109
+    }
+  },
+  "xmsAag2bcMI": {
+    "A": {
+      "correct": false,
+      "answer": "C",
+      "expected": "A",
+      "reason": "Candidate C provides the correct transition from the BEGINNING's interior cockpit/exterior Pagani racing scenes through the middle segment showing the blue Pagani in various racing angles on the wet road, connecting smoothly to the END's first-person driving view with the rearview mirror and green car ahead. The sequence of camera angles and scene progression in C matches the natural flow between BEGINNING and END.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C provides the correct transition from the BEGINNING's interior cockpit/exterior Pagani racing scenes through the middle segment showing the blue Pagani in various racing angles on the wet road, connecting smoothly to the END's first-person driving view with the rearview mirror and green car ahead. The sequence of camera angles and scene progression in C matches the natural flow between BEGINNING and END.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C provides the correct transition from the BEGINNING's interior cockpit/exterior Pagani racing scenes through the middle segment showing the blue Pagani in various racing angles on the wet road, connecting smoothly to the END's first-person driving view with the rearview mirror and green car ahead. The sequence of camera angles and scene progression in C matches the natural flow between BEGINNING and END.\"}",
+      "option_map": {
+        "A": "GT",
+        "B": "Wide",
+        "C": "Early",
+        "D": "Late"
+      },
+      "output_tokens": 98
+    },
+    "S": {
+      "correct": true,
+      "answer": "D",
+      "expected": "D",
+      "reason": "Candidate D shows the blue Pagani transitioning from the side-view/spinning perspective seen at the end of the BEGINNING segment through various angles on the wet road with heavy rain and trees, naturally connecting to the exterior rear chase-cam views in the END segment. The other candidates either include cockpit views (C), different camera transitions (A, B with green car), or don't match the continuous flow of the blue Pagani's movement between BEGINNING and END.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D shows the blue Pagani transitioning from the side-view/spinning perspective seen at the end of the BEGINNING segment through various angles on the wet road with heavy rain and trees, naturally connecting to the exterior rear chase-cam views in the END segment. The other candidates either include cockpit views (C), different camera transitions (A, B with green car), or don't match the continuous flow of the blue Pagani's movement between BEGINNING and END.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D shows the blue Pagani transitioning from the side-view/spinning perspective seen at the end of the BEGINNING segment through various angles on the wet road with heavy rain and trees, naturally connecting to the exterior rear chase-cam views in the END segment. The other candidates either include cockpit views (C), different camera transitions (A, B with green car), or don't match the continuous flow of the blue Pagani's movement between BEGINNING and END.\"}",
+      "option_map": {
+        "A": "Rand1",
+        "B": "Rand3",
+        "C": "Rand2",
+        "D": "GT"
+      },
+      "output_tokens": 113
+    },
+    "C": {
+      "correct": true,
+      "answer": "D",
+      "expected": "D",
+      "reason": "Candidate D's last frames show the blue Pagani from a rear-quarter angle driving on the wet road with trees, which smoothly transitions into the END segment's first frame showing the same car from a similar rear perspective. The sequence of camera angles and car positioning in D connects the BEGINNING's side-view passing shot to the END's rear chase view most naturally.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D's last frames show the blue Pagani from a rear-quarter angle driving on the wet road with trees, which smoothly transitions into the END segment's first frame showing the same car from a similar rear perspective. The sequence of camera angles and car positioning in D connects the BEGINNING's side-view passing shot to the END's rear chase view most naturally.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D's last frames show the blue Pagani from a rear-quarter angle driving on the wet road with trees, which smoothly transitions into the END segment's first frame showing the same car from a similar rear perspective. The sequence of camera angles and car positioning in D connects the BEGINNING's side-view passing shot to the END's rear chase view most naturally.\"}",
+      "option_map": {
+        "A": "Loop",
+        "B": "Shuffle",
+        "C": "Reverse",
+        "D": "GT"
+      },
+      "output_tokens": 91
+    }
+  },
+  "lzMMFziUfNU.4_0": {
+    "A": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "Candidate B starts with the hand finishing crumbling over the mixture (matching the end of BEGINNING where hands are crumbling food), then transitions through mixing by hand and eventually shows the close-up of the fully crumbled mixture that matches the start of END. The other candidates either repeat earlier stages (C, D still show breaking apart chunks) or skip ahead too quickly (A jumps to stirring with a spoon).",
+      "raw_original": "{\"answer\": \"B\", \"reason\": \"Candidate B starts with the hand finishing crumbling over the mixture (matching the end of BEGINNING where hands are crumbling food), then transitions through mixing by hand and eventually shows the close-up of the fully crumbled mixture that matches the start of END. The other candidates either repeat earlier stages (C, D still show breaking apart chunks) or skip ahead too quickly (A jumps to stirring with a spoon).\"}",
+      "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B starts with the hand finishing crumbling over the mixture (matching the end of BEGINNING where hands are crumbling food), then transitions through mixing by hand and eventually shows the close-up of the fully crumbled mixture that matches the start of END. The other candidates either repeat earlier stages (C, D still show breaking apart chunks) or skip ahead too quickly (A jumps to stirring with a spoon).\"}",
+      "option_map": {
+        "A": "Late",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Early"
+      },
+      "output_tokens": 104
+    },
+    "S": {
+      "correct": true,
+      "answer": "C",
+      "expected": "C",
+      "reason": "Candidate C bridges the gap between the BEGINNING (hands crumbling/shredding chicken into a bowl) and the END (fully crumbled mixture being stirred with a spoon, then mixed with beans). C shows the transition from finishing the hand-crumbling to the mixture being spread out and tossed by hand, leading into the close-up of the completed crumbled mixture seen at the start of END. Candidates A and B skip stages or duplicate content, while D jumps too quickly to the stirring/mixing phase.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C bridges the gap between the BEGINNING (hands crumbling/shredding chicken into a bowl) and the END (fully crumbled mixture being stirred with a spoon, then mixed with beans). C shows the transition from finishing the hand-crumbling to the mixture being spread out and tossed by hand, leading into the close-up of the completed crumbled mixture seen at the start of END. Candidates A and B skip stages or duplicate content, while D jumps too quickly to the stirring/mixing phase.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C bridges the gap between the BEGINNING (hands crumbling/shredding chicken into a bowl) and the END (fully crumbled mixture being stirred with a spoon, then mixed with beans). C shows the transition from finishing the hand-crumbling to the mixture being spread out and tossed by hand, leading into the close-up of the completed crumbled mixture seen at the start of END. Candidates A and B skip stages or duplicate content, while D jumps too quickly to the stirring/mixing phase.\"}",
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand3"
+      },
+      "output_tokens": 130
+    },
+    "C": {
+      "correct": true,
+      "answer": "B",
+      "expected": "B",
+      "reason": "Candidate B shows the natural progression from the end of the BEGINNING segment (hands crumbling food close-up over the bowl) through continued crumbling with the hand moving across the mixture, transitioning smoothly to the static close-up shots of the fully crumbled mixture seen at the start of the END segment. The hand motion and camera angle changes in B bridge the two segments most coherently.",
+      "raw_original": "{\"answer\": \"B\", \"reason\": \"Candidate B shows the natural progression from the end of the BEGINNING segment (hands crumbling food close-up over the bowl) through continued crumbling with the hand moving across the mixture, transitioning smoothly to the static close-up shots of the fully crumbled mixture seen at the start of the END segment. The hand motion and camera angle changes in B bridge the two segments most coherently.\"}",
+      "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B shows the natural progression from the end of the BEGINNING segment (hands crumbling food close-up over the bowl) through continued crumbling with the hand moving across the mixture, transitioning smoothly to the static close-up shots of the fully crumbled mixture seen at the start of the END segment. The hand motion and camera angle changes in B bridge the two segments most coherently.\"}",
+      "option_map": {
+        "A": "Reverse",
+        "B": "GT",
+        "C": "Shuffle",
+        "D": "Loop"
+      },
+      "output_tokens": 99
+    }
+  },
+  "zlluDiPNz28": {
+    "S": {
+      "correct": false,
+      "answer": "C",
+      "expected": "B",
+      "reason": "Candidate C is the correct middle segment because it seamlessly connects the BEGINNING (which ends with the snowboarder landing from jumps in the terrain park) to the END (which shows the rider continuing downhill past jumps and approaching the camera). Candidates A and D include the intro title card/transition graphics that already appeared in the BEGINNING, making them redundant. Candidate B shows a different sequence of terrain park features that doesn't match the flow between BEGINNING and END as naturally as C does.",
+      "raw_original": "{\"answer\": \"C\", \"reason\": \"Candidate C is the correct middle segment because it seamlessly connects the BEGINNING (which ends with the snowboarder landing from jumps in the terrain park) to the END (which shows the rider continuing downhill past jumps and approaching the camera). Candidates A and D include the intro title card/transition graphics that already appeared in the BEGINNING, making them redundant. Candidate B shows a different sequence of terrain park features that doesn't match the flow between BEGINNING and END as naturally as C does.\"}",
+      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C is the correct middle segment because it seamlessly connects the BEGINNING (which ends with the snowboarder landing from jumps in the terrain park) to the END (which shows the rider continuing downhill past jumps and approaching the camera). Candidates A and D include the intro title card/transition graphics that already appeared in the BEGINNING, making them redundant. Candidate B shows a different sequence of terrain park features that doesn't match the flow between BEGINNING and END as naturally as C does.\"}",
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand3",
+        "D": "Rand1"
+      },
+      "output_tokens": 120
+    },
+    "A": {
+      "correct": false,
+      "answer": "D",
+      "expected": "C",
+      "reason": "Candidate D shows the correct sequence that bridges the BEGINNING and END segments. It starts with the snowboarder in the same position/area seen at the end of BEGINNING (riding near the chairlift area), progresses through multiple jumps and terrain park features, and ends with the rider approaching the area seen in the first frames of END. The flow of movement, terrain features, and camera angles match seamlessly between the BEGINNING→D→END sequence. Candidate B is very similar but D includes the additional yellow-post area and rider positioning that better matches the transition to END.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D shows the correct sequence that bridges the BEGINNING and END segments. It starts with the snowboarder in the same position/area seen at the end of BEGINNING (riding near the chairlift area), progresses through multiple jumps and terrain park features, and ends with the rider approaching the area seen in the first frames of END. The flow of movement, terrain features, and camera angles match seamlessly between the BEGINNING→D→END sequence. Candidate B is very similar but D includes the additional yellow-post area and rider positioning that better matches the transition to END.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D shows the correct sequence that bridges the BEGINNING and END segments. It starts with the snowboarder in the same position/area seen at the end of BEGINNING (riding near the chairlift area), progresses through multiple jumps and terrain park features, and ends with the rider approaching the area seen in the first frames of END. The flow of movement, terrain features, and camera angles match seamlessly between the BEGINNING→D→END sequence. Candidate B is very similar but D includes the additional yellow-post area and rider positioning that better matches the transition to END.\"}",
+      "option_map": {
+        "A": "Late",
+        "B": "Wide",
+        "C": "GT",
+        "D": "Early"
+      },
+      "output_tokens": 136
+    },
+    "C": {
+      "correct": false,
+      "answer": "D",
+      "expected": "B",
+      "reason": "Candidate D's last frames show the snowboarder landing and riding in the same area/position that matches the beginning of the END segment, where the rider is cruising past the yellow marker near the terrain park features. The sequence of jumps and terrain features in D also connects smoothly from the BEGINNING's last frames showing the rider approaching the park area.",
+      "raw_original": "{\"answer\": \"D\", \"reason\": \"Candidate D's last frames show the snowboarder landing and riding in the same area/position that matches the beginning of the END segment, where the rider is cruising past the yellow marker near the terrain park features. The sequence of jumps and terrain features in D also connects smoothly from the BEGINNING's last frames showing the rider approaching the park area.\"}",
+      "raw": "{\"answer\": \"D\", \"reason\": \"Candidate D's last frames show the snowboarder landing and riding in the same area/position that matches the beginning of the END segment, where the rider is cruising past the yellow marker near the terrain park features. The sequence of jumps and terrain features in D also connects smoothly from the BEGINNING's last frames showing the rider approaching the park area.\"}",
+      "option_map": {
+        "A": "Reverse",
+        "B": "GT",
+        "C": "Shuffle",
+        "D": "Loop"
+      },
+      "output_tokens": 88
+    }
+  }
+}

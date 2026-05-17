@@ -13,8 +13,11 @@ __pycache__/
 # 视频与数据目录
 choices/
 src/downloaded/
+video/
+videos/
 
 # 日志
+log/
 logs/
 *.log
 
@@ -26,8 +29,17 @@ logs/
 *.mkv
 *.avi
 *.mov
+*.webm
+*.flv
+*.wmv
+*.m4v
+*.mpeg
+*.mp
 
 *.aac
+
+figure/
+pics/
 
 # 其它不提交的类型
 *.md

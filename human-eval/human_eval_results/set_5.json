@@ -1,0 +1,2815 @@
+{
+  "dataset_id": "set_5",
+  "schedule_policy": "single_folder_navigation_v1",
+  "seed": 2272518247231126090,
+  "choices_dir": "/Users/wzy/Downloads/video_cloze_human_five_sets/video_cloze_human_set_5/choices_human/set_5",
+  "result_path": "/Users/wzy/Downloads/video_cloze_human_five_sets/video_cloze_human_set_5/human_eval_results/set_5.json",
+  "started_at_utc": "2026-05-14T00:59:40.077687+00:00",
+  "completed_at_utc": "2026-05-14T02:54:45.625407+00:00",
+  "stems": [
+    "-uZ7ncui_8M.12_0",
+    "0244-7",
+    "0HzbpwB3xDk_video",
+    "1118-7",
+    "1285-7",
+    "1K4ZT",
+    "26k-11-10-7|P1|3204|3726",
+    "26k-11-3-7|P1|467|937",
+    "27l-12-4-2|P1|1118|1677",
+    "28hKF2Rhebs.31_1",
+    "2UXXB",
+    "30k-21-6-1|P2|1678|2099",
+    "5D1_T-cuFsw.9_0",
+    "7zqrldCae3k",
+    "D9NDFlAhVA0",
+    "DAY1_A1_JAKE_13010000",
+    "DAY1_A1_JAKE_20353000",
+    "DAY1_A3_TASHA_19513000",
+    "DAY1_A3_TASHA_19573000",
+    "DAY1_A4_LUCIA_13560000",
+    "DAY1_A4_LUCIA_18160000",
+    "DAY1_A4_LUCIA_19523000",
+    "DAY1_A4_LUCIA_20150000",
+    "DAY1_A5_KATRINA_18190000",
+    "DAY1_A6_SHURE_11393000",
+    "IllwKJlEeW4.11_0",
+    "MMbtOXDjssQ",
+    "MOQPmROxZhQ.65_0",
+    "MjvCnDNh8Wc",
+    "O4Ctq8R3EuY.19_0",
+    "QCpqMdquc-A.14_1",
+    "Qau9hFQ9PE4.20_0",
+    "UZiKsNznRGk.4_1",
+    "Z3ECBgBpuKg.29_1",
+    "djvc9TpwrqE.105_0",
+    "dvVyn09LY5k.44_0",
+    "gOPOtFN5TZk.10_2",
+    "iVhs8_pHeCo",
+    "rZHcntubBLQ.64_0",
+    "v_00007041_10"
+  ],
+  "schedule": [
+    {
+      "stem": "7zqrldCae3k",
+      "dim": "C"
+    },
+    {
+      "stem": "DAY1_A4_LUCIA_18160000",
+      "dim": "S"
+    },
+    {
+      "stem": "1118-7",
+      "dim": "C"
+    },
+    {
+      "stem": "28hKF2Rhebs.31_1",
+      "dim": "C"
+    },
+    {
+      "stem": "0244-7",
+      "dim": "S"
+    },
+    {
+      "stem": "IllwKJlEeW4.11_0",
+      "dim": "C"
+    },
+    {
+      "stem": "DAY1_A1_JAKE_20353000",
+      "dim": "C"
+    },
+    {
+      "stem": "DAY1_A4_LUCIA_19523000",
+      "dim": "S"
+    },
+    {
+      "stem": "26k-11-10-7|P1|3204|3726",
+      "dim": "C"
+    },
+    {
+      "stem": "1118-7",
+      "dim": "S"
+    },
+    {
+      "stem": "-uZ7ncui_8M.12_0",
+      "dim": "C"
+    },
+    {
+      "stem": "dvVyn09LY5k.44_0",
+      "dim": "A"
+    },
+    {
+      "stem": "30k-21-6-1|P2|1678|2099",
+      "dim": "C"
+    },
+    {
+      "stem": "v_00007041_10",
+      "dim": "A"
+    },
+    {
+      "stem": "DAY1_A5_KATRINA_18190000",
+      "dim": "C"
+    },
+    {
+      "stem": "2UXXB",
+      "dim": "A"
+    },
+    {
+      "stem": "1285-7",
+      "dim": "A"
+    },
+    {
+      "stem": "DAY1_A4_LUCIA_19523000",
+      "dim": "A"
+    },
+    {
+      "stem": "26k-11-10-7|P1|3204|3726",
+      "dim": "S"
+    },
+    {
+      "stem": "DAY1_A1_JAKE_13010000",
+      "dim": "C"
+    },
+    {
+      "stem": "DAY1_A4_LUCIA_13560000",
+      "dim": "A"
+    },
+    {
+      "stem": "DAY1_A6_SHURE_11393000",
+      "dim": "C"
+    },
+    {
+      "stem": "dvVyn09LY5k.44_0",
+      "dim": "S"
+    },
+    {
+      "stem": "0244-7",
+      "dim": "A"
+    },
+    {
+      "stem": "27l-12-4-2|P1|1118|1677",
+      "dim": "C"
+    },
+    {
+      "stem": "7zqrldCae3k",
+      "dim": "A"
+    },
+    {
+      "stem": "D9NDFlAhVA0",
+      "dim": "C"
+    },
+    {
+      "stem": "DAY1_A4_LUCIA_19523000",
+      "dim": "C"
+    },
+    {
+      "stem": "iVhs8_pHeCo",
+      "dim": "A"
+    },
+    {
+      "stem": "D9NDFlAhVA0",
+      "dim": "A"
+    },
+    {
+      "stem": "27l-12-4-2|P1|1118|1677",
+      "dim": "A"
+    },
+    {
+      "stem": "DAY1_A4_LUCIA_20150000",
+      "dim": "A"
+    },
+    {
+      "stem": "2UXXB",
+      "dim": "S"
+    },
+    {
+      "stem": "1K4ZT",
+      "dim": "C"
+    },
+    {
+      "stem": "1285-7",
+      "dim": "S"
+    },
+    {
+      "stem": "DAY1_A4_LUCIA_13560000",
+      "dim": "S"
+    },
+    {
+      "stem": "DAY1_A5_KATRINA_18190000",
+      "dim": "A"
+    },
+    {
+      "stem": "MMbtOXDjssQ",
+      "dim": "A"
+    },
+    {
+      "stem": "0HzbpwB3xDk_video",
+      "dim": "S"
+    },
+    {
+      "stem": "gOPOtFN5TZk.10_2",
+      "dim": "A"
+    },
+    {
+      "stem": "-uZ7ncui_8M.12_0",
+      "dim": "A"
+    },
+    {
+      "stem": "djvc9TpwrqE.105_0",
+      "dim": "A"
+    },
+    {
+      "stem": "Qau9hFQ9PE4.20_0",
+      "dim": "A"
+    },
+    {
+      "stem": "v_00007041_10",
+      "dim": "S"
+    },
+    {
+      "stem": "DAY1_A3_TASHA_19513000",
+      "dim": "S"
+    },
+    {
+      "stem": "Qau9hFQ9PE4.20_0",
+      "dim": "C"
+    },
+    {
+      "stem": "Z3ECBgBpuKg.29_1",
+      "dim": "C"
+    },
+    {
+      "stem": "QCpqMdquc-A.14_1",
+      "dim": "C"
+    },
+    {
+      "stem": "0244-7",
+      "dim": "C"
+    },
+    {
+      "stem": "IllwKJlEeW4.11_0",
+      "dim": "A"
+    },
+    {
+      "stem": "UZiKsNznRGk.4_1",
+      "dim": "A"
+    },
+    {
+      "stem": "DAY1_A1_JAKE_13010000",
+      "dim": "A"
+    },
+    {
+      "stem": "-uZ7ncui_8M.12_0",
+      "dim": "S"
+    },
+    {
+      "stem": "gOPOtFN5TZk.10_2",
+      "dim": "S"
+    },
+    {
+      "stem": "5D1_T-cuFsw.9_0",
+      "dim": "A"
+    },
+    {
+      "stem": "5D1_T-cuFsw.9_0",
+      "dim": "C"
+    },
+    {
+      "stem": "26k-11-3-7|P1|467|937",
+      "dim": "C"
+    },
+    {
+      "stem": "27l-12-4-2|P1|1118|1677",
+      "dim": "S"
+    },
+    {
+      "stem": "DAY1_A1_JAKE_20353000",
+      "dim": "S"
+    },
+    {
+      "stem": "DAY1_A1_JAKE_20353000",
+      "dim": "A"
+    },
+    {
+      "stem": "2UXXB",
+      "dim": "C"
+    },
+    {
+      "stem": "Z3ECBgBpuKg.29_1",
+      "dim": "A"
+    },
+    {
+      "stem": "1K4ZT",
+      "dim": "A"
+    },
+    {
+      "stem": "rZHcntubBLQ.64_0",
+      "dim": "C"
+    },
+    {
+      "stem": "DAY1_A3_TASHA_19573000",
+      "dim": "C"
+    },
+    {
+      "stem": "DAY1_A3_TASHA_19573000",
+      "dim": "A"
+    },
+    {
+      "stem": "UZiKsNznRGk.4_1",
+      "dim": "C"
+    },
+    {
+      "stem": "DAY1_A4_LUCIA_20150000",
+      "dim": "C"
+    },
+    {
+      "stem": "1K4ZT",
+      "dim": "S"
+    },
+    {
+      "stem": "0HzbpwB3xDk_video",
+      "dim": "C"
+    },
+    {
+      "stem": "DAY1_A6_SHURE_11393000",
+      "dim": "S"
+    },
+    {
+      "stem": "26k-11-3-7|P1|467|937",
+      "dim": "S"
+    },
+    {
+      "stem": "30k-21-6-1|P2|1678|2099",
+      "dim": "A"
+    },
+    {
+      "stem": "DAY1_A4_LUCIA_13560000",
+      "dim": "C"
+    },
+    {
+      "stem": "MjvCnDNh8Wc",
+      "dim": "C"
+    },
+    {
+      "stem": "30k-21-6-1|P2|1678|2099",
+      "dim": "S"
+    },
+    {
+      "stem": "iVhs8_pHeCo",
+      "dim": "C"
+    },
+    {
+      "stem": "DAY1_A4_LUCIA_20150000",
+      "dim": "S"
+    },
+    {
+      "stem": "iVhs8_pHeCo",
+      "dim": "S"
+    },
+    {
+      "stem": "IllwKJlEeW4.11_0",
+      "dim": "S"
+    },
+    {
+      "stem": "MOQPmROxZhQ.65_0",
+      "dim": "A"
+    },
+    {
+      "stem": "MjvCnDNh8Wc",
+      "dim": "A"
+    },
+    {
+      "stem": "0HzbpwB3xDk_video",
+      "dim": "A"
+    },
+    {
+      "stem": "DAY1_A4_LUCIA_18160000",
+      "dim": "C"
+    },
+    {
+      "stem": "DAY1_A6_SHURE_11393000",
+      "dim": "A"
+    },
+    {
+      "stem": "DAY1_A1_JAKE_13010000",
+      "dim": "S"
+    },
+    {
+      "stem": "QCpqMdquc-A.14_1",
+      "dim": "A"
+    },
+    {
+      "stem": "O4Ctq8R3EuY.19_0",
+      "dim": "C"
+    },
+    {
+      "stem": "DAY1_A3_TASHA_19513000",
+      "dim": "C"
+    },
+    {
+      "stem": "MjvCnDNh8Wc",
+      "dim": "S"
+    },
+    {
+      "stem": "1118-7",
+      "dim": "A"
+    },
+    {
+      "stem": "26k-11-10-7|P1|3204|3726",
+      "dim": "A"
+    },
+    {
+      "stem": "1285-7",
+      "dim": "C"
+    },
+    {
+      "stem": "28hKF2Rhebs.31_1",
+      "dim": "S"
+    },
+    {
+      "stem": "dvVyn09LY5k.44_0",
+      "dim": "C"
+    },
+    {
+      "stem": "Qau9hFQ9PE4.20_0",
+      "dim": "S"
+    },
+    {
+      "stem": "rZHcntubBLQ.64_0",
+      "dim": "A"
+    },
+    {
+      "stem": "DAY1_A5_KATRINA_18190000",
+      "dim": "S"
+    },
+    {
+      "stem": "MOQPmROxZhQ.65_0",
+      "dim": "S"
+    },
+    {
+      "stem": "QCpqMdquc-A.14_1",
+      "dim": "S"
+    },
+    {
+      "stem": "5D1_T-cuFsw.9_0",
+      "dim": "S"
+    },
+    {
+      "stem": "DAY1_A3_TASHA_19573000",
+      "dim": "S"
+    },
+    {
+      "stem": "djvc9TpwrqE.105_0",
+      "dim": "S"
+    },
+    {
+      "stem": "rZHcntubBLQ.64_0",
+      "dim": "S"
+    },
+    {
+      "stem": "MOQPmROxZhQ.65_0",
+      "dim": "C"
+    },
+    {
+      "stem": "O4Ctq8R3EuY.19_0",
+      "dim": "S"
+    },
+    {
+      "stem": "djvc9TpwrqE.105_0",
+      "dim": "C"
+    },
+    {
+      "stem": "Z3ECBgBpuKg.29_1",
+      "dim": "S"
+    },
+    {
+      "stem": "O4Ctq8R3EuY.19_0",
+      "dim": "A"
+    },
+    {
+      "stem": "MMbtOXDjssQ",
+      "dim": "C"
+    },
+    {
+      "stem": "MMbtOXDjssQ",
+      "dim": "S"
+    },
+    {
+      "stem": "28hKF2Rhebs.31_1",
+      "dim": "A"
+    },
+    {
+      "stem": "D9NDFlAhVA0",
+      "dim": "S"
+    },
+    {
+      "stem": "v_00007041_10",
+      "dim": "C"
+    },
+    {
+      "stem": "UZiKsNznRGk.4_1",
+      "dim": "S"
+    },
+    {
+      "stem": "26k-11-3-7|P1|467|937",
+      "dim": "A"
+    },
+    {
+      "stem": "DAY1_A4_LUCIA_18160000",
+      "dim": "A"
+    },
+    {
+      "stem": "7zqrldCae3k",
+      "dim": "S"
+    },
+    {
+      "stem": "DAY1_A3_TASHA_19513000",
+      "dim": "A"
+    },
+    {
+      "stem": "gOPOtFN5TZk.10_2",
+      "dim": "C"
+    }
+  ],
+  "responses": {
+    "0": {
+      "task_index": 0,
+      "stem": "7zqrldCae3k",
+      "dim": "C",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Reverse",
+        "C": "Loop",
+        "D": "Shuffle"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 112.679,
+      "answered_at_utc": "2026-05-14T01:01:32.758265+00:00",
+      "redo_count": 0
+    },
+    "1": {
+      "task_index": 1,
+      "stem": "DAY1_A4_LUCIA_18160000",
+      "dim": "S",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand2",
+        "C": "Rand1",
+        "D": "GT"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 60.561,
+      "answered_at_utc": "2026-05-14T01:02:33.320880+00:00",
+      "redo_count": 0
+    },
+    "2": {
+      "task_index": 2,
+      "stem": "1118-7",
+      "dim": "C",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Loop",
+        "C": "Shuffle",
+        "D": "Reverse"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 32.772,
+      "answered_at_utc": "2026-05-14T01:03:06.096312+00:00",
+      "redo_count": 0
+    },
+    "4": {
+      "task_index": 4,
+      "stem": "0244-7",
+      "dim": "S",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Rand3",
+        "C": "Rand2",
+        "D": "Rand1"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 36.686,
+      "answered_at_utc": "2026-05-14T01:04:38.700840+00:00",
+      "redo_count": 0
+    },
+    "5": {
+      "task_index": 5,
+      "stem": "IllwKJlEeW4.11_0",
+      "dim": "C",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Loop",
+        "B": "GT",
+        "C": "Reverse",
+        "D": "Shuffle"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 9.99,
+      "answered_at_utc": "2026-05-14T01:07:20.354592+00:00",
+      "redo_count": 1
+    },
+    "6": {
+      "task_index": 6,
+      "stem": "DAY1_A1_JAKE_20353000",
+      "dim": "C",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Shuffle",
+        "C": "Loop",
+        "D": "Reverse"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 26.284,
+      "answered_at_utc": "2026-05-14T01:07:46.642939+00:00",
+      "redo_count": 0
+    },
+    "7": {
+      "task_index": 7,
+      "stem": "DAY1_A4_LUCIA_19523000",
+      "dim": "S",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand3",
+        "D": "Rand1"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 80.001,
+      "answered_at_utc": "2026-05-14T01:09:06.646685+00:00",
+      "redo_count": 0
+    },
+    "3": {
+      "task_index": 3,
+      "stem": "28hKF2Rhebs.31_1",
+      "dim": "C",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Shuffle",
+        "B": "GT",
+        "C": "Reverse",
+        "D": "Loop"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 68.795,
+      "answered_at_utc": "2026-05-14T01:10:16.948973+00:00",
+      "redo_count": 0
+    },
+    "8": {
+      "task_index": 8,
+      "stem": "26k-11-10-7|P1|3204|3726",
+      "dim": "C",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Reverse",
+        "B": "Loop",
+        "C": "GT",
+        "D": "Shuffle"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 39.739,
+      "answered_at_utc": "2026-05-14T01:10:56.690369+00:00",
+      "redo_count": 0
+    },
+    "9": {
+      "task_index": 9,
+      "stem": "1118-7",
+      "dim": "S",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Rand1",
+        "C": "Rand2",
+        "D": "Rand3"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 27.576,
+      "answered_at_utc": "2026-05-14T01:11:24.268016+00:00",
+      "redo_count": 0
+    },
+    "10": {
+      "task_index": 10,
+      "stem": "-uZ7ncui_8M.12_0",
+      "dim": "C",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Shuffle",
+        "B": "GT",
+        "C": "Reverse",
+        "D": "Loop"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 71.902,
+      "answered_at_utc": "2026-05-14T01:12:36.172059+00:00",
+      "redo_count": 0
+    },
+    "11": {
+      "task_index": 11,
+      "stem": "dvVyn09LY5k.44_0",
+      "dim": "A",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Wide",
+        "C": "Early",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 54.774,
+      "answered_at_utc": "2026-05-14T01:13:30.947856+00:00",
+      "redo_count": 0
+    },
+    "12": {
+      "task_index": 12,
+      "stem": "30k-21-6-1|P2|1678|2099",
+      "dim": "C",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Shuffle",
+        "B": "Reverse",
+        "C": "GT",
+        "D": "Loop"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 2.461,
+      "answered_at_utc": "2026-05-14T01:25:07.918571+00:00",
+      "redo_count": 0
+    },
+    "13": {
+      "task_index": 13,
+      "stem": "v_00007041_10",
+      "dim": "A",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Wide",
+        "C": "Early",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 19.052,
+      "answered_at_utc": "2026-05-14T01:25:26.975307+00:00",
+      "redo_count": 0
+    },
+    "14": {
+      "task_index": 14,
+      "stem": "DAY1_A5_KATRINA_18190000",
+      "dim": "C",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Loop",
+        "B": "Reverse",
+        "C": "Shuffle",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 160.216,
+      "answered_at_utc": "2026-05-14T01:28:07.194361+00:00",
+      "redo_count": 0
+    },
+    "15": {
+      "task_index": 15,
+      "stem": "2UXXB",
+      "dim": "A",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Early",
+        "C": "Wide",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 15.83,
+      "answered_at_utc": "2026-05-14T01:28:23.027195+00:00",
+      "redo_count": 0
+    },
+    "16": {
+      "task_index": 16,
+      "stem": "1285-7",
+      "dim": "A",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 166.56,
+      "answered_at_utc": "2026-05-14T01:31:09.588872+00:00",
+      "redo_count": 0
+    },
+    "18": {
+      "task_index": 18,
+      "stem": "26k-11-10-7|P1|3204|3726",
+      "dim": "S",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand1",
+        "C": "Rand3",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 10.453,
+      "answered_at_utc": "2026-05-14T01:32:11.239496+00:00",
+      "redo_count": 0
+    },
+    "19": {
+      "task_index": 19,
+      "stem": "DAY1_A1_JAKE_13010000",
+      "dim": "C",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Reverse",
+        "B": "GT",
+        "C": "Shuffle",
+        "D": "Loop"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 9.609,
+      "answered_at_utc": "2026-05-14T01:32:20.848885+00:00",
+      "redo_count": 0
+    },
+    "20": {
+      "task_index": 20,
+      "stem": "DAY1_A4_LUCIA_13560000",
+      "dim": "A",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 8.445,
+      "answered_at_utc": "2026-05-14T01:32:29.297992+00:00",
+      "redo_count": 0
+    },
+    "21": {
+      "task_index": 21,
+      "stem": "DAY1_A6_SHURE_11393000",
+      "dim": "C",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Reverse",
+        "C": "Shuffle",
+        "D": "Loop"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 21.224,
+      "answered_at_utc": "2026-05-14T01:32:50.522850+00:00",
+      "redo_count": 0
+    },
+    "22": {
+      "task_index": 22,
+      "stem": "dvVyn09LY5k.44_0",
+      "dim": "S",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand3",
+        "D": "Rand1"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 16.949,
+      "answered_at_utc": "2026-05-14T01:33:07.475905+00:00",
+      "redo_count": 0
+    },
+    "23": {
+      "task_index": 23,
+      "stem": "0244-7",
+      "dim": "A",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 10.508,
+      "answered_at_utc": "2026-05-14T01:33:17.988405+00:00",
+      "redo_count": 0
+    },
+    "24": {
+      "task_index": 24,
+      "stem": "27l-12-4-2|P1|1118|1677",
+      "dim": "C",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Shuffle",
+        "B": "GT",
+        "C": "Loop",
+        "D": "Reverse"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 496.755,
+      "answered_at_utc": "2026-05-14T01:41:34.748613+00:00",
+      "redo_count": 0
+    },
+    "25": {
+      "task_index": 25,
+      "stem": "7zqrldCae3k",
+      "dim": "A",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Late",
+        "B": "GT",
+        "C": "Early",
+        "D": "Wide"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 4.292,
+      "answered_at_utc": "2026-05-14T01:41:39.043732+00:00",
+      "redo_count": 0
+    },
+    "26": {
+      "task_index": 26,
+      "stem": "D9NDFlAhVA0",
+      "dim": "C",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Reverse",
+        "C": "Shuffle",
+        "D": "Loop"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 3.461,
+      "answered_at_utc": "2026-05-14T01:41:42.509467+00:00",
+      "redo_count": 0
+    },
+    "28": {
+      "task_index": 28,
+      "stem": "iVhs8_pHeCo",
+      "dim": "A",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Wide",
+        "C": "Early",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 158.92,
+      "answered_at_utc": "2026-05-14T01:44:25.584265+00:00",
+      "redo_count": 0
+    },
+    "29": {
+      "task_index": 29,
+      "stem": "D9NDFlAhVA0",
+      "dim": "A",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Late",
+        "C": "Early",
+        "D": "Wide"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 3.218,
+      "answered_at_utc": "2026-05-14T01:44:32.935322+00:00",
+      "redo_count": 0
+    },
+    "30": {
+      "task_index": 30,
+      "stem": "27l-12-4-2|P1|1118|1677",
+      "dim": "A",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "Late",
+        "C": "GT",
+        "D": "Wide"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 4.589,
+      "answered_at_utc": "2026-05-14T01:44:37.528116+00:00",
+      "redo_count": 0
+    },
+    "31": {
+      "task_index": 31,
+      "stem": "DAY1_A4_LUCIA_20150000",
+      "dim": "A",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Early",
+        "C": "Late",
+        "D": "Wide"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 51.082,
+      "answered_at_utc": "2026-05-14T01:45:28.611228+00:00",
+      "redo_count": 0
+    },
+    "32": {
+      "task_index": 32,
+      "stem": "2UXXB",
+      "dim": "S",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Rand1",
+        "B": "GT",
+        "C": "Rand2",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 197.791,
+      "answered_at_utc": "2026-05-14T01:48:46.406674+00:00",
+      "redo_count": 0
+    },
+    "33": {
+      "task_index": 33,
+      "stem": "1K4ZT",
+      "dim": "C",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Shuffle",
+        "C": "Reverse",
+        "D": "Loop"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 4.303,
+      "answered_at_utc": "2026-05-14T01:48:50.713861+00:00",
+      "redo_count": 0
+    },
+    "34": {
+      "task_index": 34,
+      "stem": "1285-7",
+      "dim": "S",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Rand1",
+        "B": "GT",
+        "C": "Rand3",
+        "D": "Rand2"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 4.686,
+      "answered_at_utc": "2026-05-14T01:48:55.401184+00:00",
+      "redo_count": 0
+    },
+    "35": {
+      "task_index": 35,
+      "stem": "DAY1_A4_LUCIA_13560000",
+      "dim": "S",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Rand2",
+        "C": "Rand1",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 11.086,
+      "answered_at_utc": "2026-05-14T01:49:06.492457+00:00",
+      "redo_count": 0
+    },
+    "36": {
+      "task_index": 36,
+      "stem": "DAY1_A5_KATRINA_18190000",
+      "dim": "A",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Wide",
+        "B": "Early",
+        "C": "GT",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 30.991,
+      "answered_at_utc": "2026-05-14T01:49:37.491239+00:00",
+      "redo_count": 0
+    },
+    "37": {
+      "task_index": 37,
+      "stem": "MMbtOXDjssQ",
+      "dim": "A",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 5.51,
+      "answered_at_utc": "2026-05-14T01:49:43.006576+00:00",
+      "redo_count": 0
+    },
+    "38": {
+      "task_index": 38,
+      "stem": "0HzbpwB3xDk_video",
+      "dim": "S",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Rand2",
+        "C": "Rand1",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 5.31,
+      "answered_at_utc": "2026-05-14T01:49:48.321259+00:00",
+      "redo_count": 0
+    },
+    "39": {
+      "task_index": 39,
+      "stem": "gOPOtFN5TZk.10_2",
+      "dim": "A",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Wide",
+        "B": "GT",
+        "C": "Early",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 19.1,
+      "answered_at_utc": "2026-05-14T01:50:07.425246+00:00",
+      "redo_count": 0
+    },
+    "40": {
+      "task_index": 40,
+      "stem": "-uZ7ncui_8M.12_0",
+      "dim": "A",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Late",
+        "B": "GT",
+        "C": "Early",
+        "D": "Wide"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 70.469,
+      "answered_at_utc": "2026-05-14T01:51:17.898725+00:00",
+      "redo_count": 0
+    },
+    "41": {
+      "task_index": 41,
+      "stem": "djvc9TpwrqE.105_0",
+      "dim": "A",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Late",
+        "B": "Early",
+        "C": "GT",
+        "D": "Wide"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 18.002,
+      "answered_at_utc": "2026-05-14T01:51:35.905918+00:00",
+      "redo_count": 0
+    },
+    "42": {
+      "task_index": 42,
+      "stem": "Qau9hFQ9PE4.20_0",
+      "dim": "A",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "GT",
+        "C": "Late",
+        "D": "Wide"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 19.457,
+      "answered_at_utc": "2026-05-14T01:51:55.365961+00:00",
+      "redo_count": 0
+    },
+    "43": {
+      "task_index": 43,
+      "stem": "v_00007041_10",
+      "dim": "S",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand2",
+        "C": "Rand1",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 10.921,
+      "answered_at_utc": "2026-05-14T01:52:06.291303+00:00",
+      "redo_count": 0
+    },
+    "44": {
+      "task_index": 44,
+      "stem": "DAY1_A3_TASHA_19513000",
+      "dim": "S",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Rand3",
+        "C": "Rand1",
+        "D": "Rand2"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 49.958,
+      "answered_at_utc": "2026-05-14T01:52:56.253817+00:00",
+      "redo_count": 0
+    },
+    "45": {
+      "task_index": 45,
+      "stem": "Qau9hFQ9PE4.20_0",
+      "dim": "C",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Loop",
+        "C": "Shuffle",
+        "D": "Reverse"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 8.888,
+      "answered_at_utc": "2026-05-14T01:53:05.143881+00:00",
+      "redo_count": 0
+    },
+    "46": {
+      "task_index": 46,
+      "stem": "Z3ECBgBpuKg.29_1",
+      "dim": "C",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Shuffle",
+        "B": "Reverse",
+        "C": "GT",
+        "D": "Loop"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 7.779,
+      "answered_at_utc": "2026-05-14T01:53:12.930208+00:00",
+      "redo_count": 0
+    },
+    "47": {
+      "task_index": 47,
+      "stem": "QCpqMdquc-A.14_1",
+      "dim": "C",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Loop",
+        "B": "Reverse",
+        "C": "GT",
+        "D": "Shuffle"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 11.197,
+      "answered_at_utc": "2026-05-14T01:53:24.133030+00:00",
+      "redo_count": 0
+    },
+    "48": {
+      "task_index": 48,
+      "stem": "0244-7",
+      "dim": "C",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Reverse",
+        "B": "Shuffle",
+        "C": "Loop",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 4.449,
+      "answered_at_utc": "2026-05-14T01:53:28.587424+00:00",
+      "redo_count": 0
+    },
+    "49": {
+      "task_index": 49,
+      "stem": "IllwKJlEeW4.11_0",
+      "dim": "A",
+      "answer": "B",
+      "expected": "A",
+      "correct": false,
+      "option_map": {
+        "A": "GT",
+        "B": "Late",
+        "C": "Early",
+        "D": "Wide"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 8.789,
+      "answered_at_utc": "2026-05-14T01:53:37.380855+00:00",
+      "redo_count": 0
+    },
+    "50": {
+      "task_index": 50,
+      "stem": "UZiKsNznRGk.4_1",
+      "dim": "A",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "Late",
+        "C": "Wide",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 8.015,
+      "answered_at_utc": "2026-05-14T01:53:45.401317+00:00",
+      "redo_count": 0
+    },
+    "51": {
+      "task_index": 51,
+      "stem": "DAY1_A1_JAKE_13010000",
+      "dim": "A",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Late",
+        "B": "Early",
+        "C": "GT",
+        "D": "Wide"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 11.626,
+      "answered_at_utc": "2026-05-14T01:53:57.032338+00:00",
+      "redo_count": 0
+    },
+    "52": {
+      "task_index": 52,
+      "stem": "-uZ7ncui_8M.12_0",
+      "dim": "S",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Rand2",
+        "C": "Rand3",
+        "D": "Rand1"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 14.368,
+      "answered_at_utc": "2026-05-14T01:54:11.403795+00:00",
+      "redo_count": 0
+    },
+    "53": {
+      "task_index": 53,
+      "stem": "gOPOtFN5TZk.10_2",
+      "dim": "S",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand2",
+        "C": "GT",
+        "D": "Rand1"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 5.705,
+      "answered_at_utc": "2026-05-14T01:54:17.112215+00:00",
+      "redo_count": 0
+    },
+    "54": {
+      "task_index": 54,
+      "stem": "5D1_T-cuFsw.9_0",
+      "dim": "A",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "Wide",
+        "C": "GT",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 6.699,
+      "answered_at_utc": "2026-05-14T02:06:14.072149+00:00",
+      "redo_count": 1
+    },
+    "55": {
+      "task_index": 55,
+      "stem": "5D1_T-cuFsw.9_0",
+      "dim": "C",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Loop",
+        "B": "GT",
+        "C": "Shuffle",
+        "D": "Reverse"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 21.471,
+      "answered_at_utc": "2026-05-14T02:06:35.546470+00:00",
+      "redo_count": 0
+    },
+    "56": {
+      "task_index": 56,
+      "stem": "26k-11-3-7|P1|467|937",
+      "dim": "C",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Loop",
+        "B": "Shuffle",
+        "C": "Reverse",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 62.436,
+      "answered_at_utc": "2026-05-14T02:07:37.984511+00:00",
+      "redo_count": 0
+    },
+    "57": {
+      "task_index": 57,
+      "stem": "27l-12-4-2|P1|1118|1677",
+      "dim": "S",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand2"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 132.942,
+      "answered_at_utc": "2026-05-14T02:09:50.932881+00:00",
+      "redo_count": 0
+    },
+    "58": {
+      "task_index": 58,
+      "stem": "DAY1_A1_JAKE_20353000",
+      "dim": "S",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Rand2",
+        "C": "Rand1",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 7.298,
+      "answered_at_utc": "2026-05-14T02:09:58.235018+00:00",
+      "redo_count": 0
+    },
+    "60": {
+      "task_index": 60,
+      "stem": "2UXXB",
+      "dim": "C",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Shuffle",
+        "C": "Reverse",
+        "D": "Loop"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 4.474,
+      "answered_at_utc": "2026-05-14T02:10:17.807535+00:00",
+      "redo_count": 0
+    },
+    "61": {
+      "task_index": 61,
+      "stem": "Z3ECBgBpuKg.29_1",
+      "dim": "A",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Late",
+        "B": "GT",
+        "C": "Wide",
+        "D": "Early"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 306.477,
+      "answered_at_utc": "2026-05-14T02:15:24.289519+00:00",
+      "redo_count": 0
+    },
+    "62": {
+      "task_index": 62,
+      "stem": "1K4ZT",
+      "dim": "A",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Wide",
+        "B": "Early",
+        "C": "Late",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 7.291,
+      "answered_at_utc": "2026-05-14T02:15:31.586204+00:00",
+      "redo_count": 0
+    },
+    "63": {
+      "task_index": 63,
+      "stem": "rZHcntubBLQ.64_0",
+      "dim": "C",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Shuffle",
+        "B": "GT",
+        "C": "Loop",
+        "D": "Reverse"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 5.743,
+      "answered_at_utc": "2026-05-14T02:15:37.334406+00:00",
+      "redo_count": 0
+    },
+    "64": {
+      "task_index": 64,
+      "stem": "DAY1_A3_TASHA_19573000",
+      "dim": "C",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Shuffle",
+        "C": "Loop",
+        "D": "Reverse"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 51.363,
+      "answered_at_utc": "2026-05-14T02:16:28.704317+00:00",
+      "redo_count": 0
+    },
+    "65": {
+      "task_index": 65,
+      "stem": "DAY1_A3_TASHA_19573000",
+      "dim": "A",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "GT",
+        "C": "Late",
+        "D": "Wide"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 10.06,
+      "answered_at_utc": "2026-05-14T02:16:38.769725+00:00",
+      "redo_count": 0
+    },
+    "66": {
+      "task_index": 66,
+      "stem": "UZiKsNznRGk.4_1",
+      "dim": "C",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Reverse",
+        "B": "GT",
+        "C": "Shuffle",
+        "D": "Loop"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 7.616,
+      "answered_at_utc": "2026-05-14T02:16:46.391163+00:00",
+      "redo_count": 0
+    },
+    "67": {
+      "task_index": 67,
+      "stem": "DAY1_A4_LUCIA_20150000",
+      "dim": "C",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Shuffle",
+        "B": "GT",
+        "C": "Reverse",
+        "D": "Loop"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 11.382,
+      "answered_at_utc": "2026-05-14T02:16:57.778710+00:00",
+      "redo_count": 0
+    },
+    "68": {
+      "task_index": 68,
+      "stem": "1K4ZT",
+      "dim": "S",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand1",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 4.121,
+      "answered_at_utc": "2026-05-14T02:17:01.904852+00:00",
+      "redo_count": 0
+    },
+    "69": {
+      "task_index": 69,
+      "stem": "0HzbpwB3xDk_video",
+      "dim": "C",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Shuffle",
+        "B": "Reverse",
+        "C": "Loop",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 81.837,
+      "answered_at_utc": "2026-05-14T02:18:23.747629+00:00",
+      "redo_count": 0
+    },
+    "70": {
+      "task_index": 70,
+      "stem": "DAY1_A6_SHURE_11393000",
+      "dim": "S",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Rand1",
+        "C": "Rand3",
+        "D": "Rand2"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 6.524,
+      "answered_at_utc": "2026-05-14T02:18:30.277138+00:00",
+      "redo_count": 0
+    },
+    "71": {
+      "task_index": 71,
+      "stem": "26k-11-3-7|P1|467|937",
+      "dim": "S",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Rand2",
+        "C": "Rand1",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 9.959,
+      "answered_at_utc": "2026-05-14T02:18:40.241881+00:00",
+      "redo_count": 0
+    },
+    "72": {
+      "task_index": 72,
+      "stem": "30k-21-6-1|P2|1678|2099",
+      "dim": "A",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "Late",
+        "C": "GT",
+        "D": "Wide"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 449.276,
+      "answered_at_utc": "2026-05-14T02:26:09.523326+00:00",
+      "redo_count": 0
+    },
+    "73": {
+      "task_index": 73,
+      "stem": "DAY1_A4_LUCIA_13560000",
+      "dim": "C",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Loop",
+        "B": "GT",
+        "C": "Shuffle",
+        "D": "Reverse"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 8.135,
+      "answered_at_utc": "2026-05-14T02:26:17.664798+00:00",
+      "redo_count": 0
+    },
+    "74": {
+      "task_index": 74,
+      "stem": "MjvCnDNh8Wc",
+      "dim": "C",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Reverse",
+        "B": "Shuffle",
+        "C": "Loop",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 24.551,
+      "answered_at_utc": "2026-05-14T02:26:42.221225+00:00",
+      "redo_count": 0
+    },
+    "75": {
+      "task_index": 75,
+      "stem": "30k-21-6-1|P2|1678|2099",
+      "dim": "S",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand3",
+        "C": "GT",
+        "D": "Rand1"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 15.51,
+      "answered_at_utc": "2026-05-14T02:26:57.737941+00:00",
+      "redo_count": 0
+    },
+    "76": {
+      "task_index": 76,
+      "stem": "iVhs8_pHeCo",
+      "dim": "C",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Reverse",
+        "B": "GT",
+        "C": "Loop",
+        "D": "Shuffle"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 2.707,
+      "answered_at_utc": "2026-05-14T02:27:00.450152+00:00",
+      "redo_count": 0
+    },
+    "77": {
+      "task_index": 77,
+      "stem": "DAY1_A4_LUCIA_20150000",
+      "dim": "S",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand2",
+        "C": "GT",
+        "D": "Rand1"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 18.319,
+      "answered_at_utc": "2026-05-14T02:27:18.774425+00:00",
+      "redo_count": 0
+    },
+    "78": {
+      "task_index": 78,
+      "stem": "iVhs8_pHeCo",
+      "dim": "S",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Rand1",
+        "C": "Rand2",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 571.344,
+      "answered_at_utc": "2026-05-14T02:36:50.124439+00:00",
+      "redo_count": 0
+    },
+    "79": {
+      "task_index": 79,
+      "stem": "IllwKJlEeW4.11_0",
+      "dim": "S",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Rand3",
+        "C": "Rand2",
+        "D": "Rand1"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 4.815,
+      "answered_at_utc": "2026-05-14T02:36:54.945234+00:00",
+      "redo_count": 0
+    },
+    "80": {
+      "task_index": 80,
+      "stem": "MOQPmROxZhQ.65_0",
+      "dim": "A",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Wide",
+        "C": "Early",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 17.346,
+      "answered_at_utc": "2026-05-14T02:37:12.296825+00:00",
+      "redo_count": 0
+    },
+    "81": {
+      "task_index": 81,
+      "stem": "MjvCnDNh8Wc",
+      "dim": "A",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Early",
+        "C": "Wide",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 219.641,
+      "answered_at_utc": "2026-05-14T02:40:51.942834+00:00",
+      "redo_count": 0
+    },
+    "82": {
+      "task_index": 82,
+      "stem": "0HzbpwB3xDk_video",
+      "dim": "A",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Early",
+        "C": "Wide",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 3.557,
+      "answered_at_utc": "2026-05-14T02:40:55.506969+00:00",
+      "redo_count": 0
+    },
+    "83": {
+      "task_index": 83,
+      "stem": "DAY1_A4_LUCIA_18160000",
+      "dim": "C",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Reverse",
+        "B": "Loop",
+        "C": "GT",
+        "D": "Shuffle"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 110.844,
+      "answered_at_utc": "2026-05-14T02:42:46.356638+00:00",
+      "redo_count": 0
+    },
+    "84": {
+      "task_index": 84,
+      "stem": "DAY1_A6_SHURE_11393000",
+      "dim": "A",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Wide",
+        "B": "GT",
+        "C": "Early",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 13.068,
+      "answered_at_utc": "2026-05-14T02:42:59.430874+00:00",
+      "redo_count": 0
+    },
+    "85": {
+      "task_index": 85,
+      "stem": "DAY1_A1_JAKE_13010000",
+      "dim": "S",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Rand1",
+        "B": "GT",
+        "C": "Rand3",
+        "D": "Rand2"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 9.46,
+      "answered_at_utc": "2026-05-14T02:43:08.895102+00:00",
+      "redo_count": 0
+    },
+    "86": {
+      "task_index": 86,
+      "stem": "QCpqMdquc-A.14_1",
+      "dim": "A",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Late",
+        "B": "Early",
+        "C": "Wide",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 205.759,
+      "answered_at_utc": "2026-05-14T02:46:34.660480+00:00",
+      "redo_count": 0
+    },
+    "87": {
+      "task_index": 87,
+      "stem": "O4Ctq8R3EuY.19_0",
+      "dim": "C",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Shuffle",
+        "B": "Loop",
+        "C": "GT",
+        "D": "Reverse"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 11.393,
+      "answered_at_utc": "2026-05-14T02:46:46.060449+00:00",
+      "redo_count": 0
+    },
+    "88": {
+      "task_index": 88,
+      "stem": "DAY1_A3_TASHA_19513000",
+      "dim": "C",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Loop",
+        "B": "Shuffle",
+        "C": "Reverse",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 7.881,
+      "answered_at_utc": "2026-05-14T02:46:53.946723+00:00",
+      "redo_count": 0
+    },
+    "89": {
+      "task_index": 89,
+      "stem": "MjvCnDNh8Wc",
+      "dim": "S",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Rand3",
+        "B": "GT",
+        "C": "Rand1",
+        "D": "Rand2"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 3.61,
+      "answered_at_utc": "2026-05-14T02:46:57.562930+00:00",
+      "redo_count": 0
+    },
+    "90": {
+      "task_index": 90,
+      "stem": "1118-7",
+      "dim": "A",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "Wide",
+        "C": "GT",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 4.934,
+      "answered_at_utc": "2026-05-14T02:47:02.502956+00:00",
+      "redo_count": 0
+    },
+    "91": {
+      "task_index": 91,
+      "stem": "26k-11-10-7|P1|3204|3726",
+      "dim": "A",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Wide",
+        "B": "GT",
+        "C": "Early",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 4.406,
+      "answered_at_utc": "2026-05-14T02:47:06.913233+00:00",
+      "redo_count": 0
+    },
+    "92": {
+      "task_index": 92,
+      "stem": "1285-7",
+      "dim": "C",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Shuffle",
+        "B": "GT",
+        "C": "Loop",
+        "D": "Reverse"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 4.211,
+      "answered_at_utc": "2026-05-14T02:47:11.130191+00:00",
+      "redo_count": 0
+    },
+    "93": {
+      "task_index": 93,
+      "stem": "28hKF2Rhebs.31_1",
+      "dim": "S",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 8.466,
+      "answered_at_utc": "2026-05-14T02:47:19.602373+00:00",
+      "redo_count": 0
+    },
+    "94": {
+      "task_index": 94,
+      "stem": "dvVyn09LY5k.44_0",
+      "dim": "C",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Reverse",
+        "B": "Shuffle",
+        "C": "Loop",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 37.211,
+      "answered_at_utc": "2026-05-14T02:47:56.819179+00:00",
+      "redo_count": 0
+    },
+    "95": {
+      "task_index": 95,
+      "stem": "Qau9hFQ9PE4.20_0",
+      "dim": "S",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand3",
+        "C": "Rand1",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 16.236,
+      "answered_at_utc": "2026-05-14T02:48:13.062826+00:00",
+      "redo_count": 0
+    },
+    "96": {
+      "task_index": 96,
+      "stem": "rZHcntubBLQ.64_0",
+      "dim": "A",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "Wide",
+        "C": "GT",
+        "D": "Late"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 7.298,
+      "answered_at_utc": "2026-05-14T02:48:20.367177+00:00",
+      "redo_count": 0
+    },
+    "97": {
+      "task_index": 97,
+      "stem": "DAY1_A5_KATRINA_18190000",
+      "dim": "S",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Rand2",
+        "C": "Rand1",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 12.461,
+      "answered_at_utc": "2026-05-14T02:48:32.832304+00:00",
+      "redo_count": 0
+    },
+    "98": {
+      "task_index": 98,
+      "stem": "MOQPmROxZhQ.65_0",
+      "dim": "S",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand3",
+        "C": "GT",
+        "D": "Rand1"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 18.364,
+      "answered_at_utc": "2026-05-14T02:48:51.203623+00:00",
+      "redo_count": 0
+    },
+    "99": {
+      "task_index": 99,
+      "stem": "QCpqMdquc-A.14_1",
+      "dim": "S",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand1",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 8.028,
+      "answered_at_utc": "2026-05-14T02:48:59.237649+00:00",
+      "redo_count": 0
+    },
+    "100": {
+      "task_index": 100,
+      "stem": "5D1_T-cuFsw.9_0",
+      "dim": "S",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand1",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 17.599,
+      "answered_at_utc": "2026-05-14T02:49:16.842101+00:00",
+      "redo_count": 0
+    },
+    "101": {
+      "task_index": 101,
+      "stem": "DAY1_A3_TASHA_19573000",
+      "dim": "S",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand1",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 20.619,
+      "answered_at_utc": "2026-05-14T02:49:37.467765+00:00",
+      "redo_count": 0
+    },
+    "102": {
+      "task_index": 102,
+      "stem": "djvc9TpwrqE.105_0",
+      "dim": "S",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand2"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 14.589,
+      "answered_at_utc": "2026-05-14T02:49:52.063076+00:00",
+      "redo_count": 0
+    },
+    "103": {
+      "task_index": 103,
+      "stem": "rZHcntubBLQ.64_0",
+      "dim": "S",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Rand2",
+        "C": "Rand1",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 4.294,
+      "answered_at_utc": "2026-05-14T02:49:56.361573+00:00",
+      "redo_count": 0
+    },
+    "104": {
+      "task_index": 104,
+      "stem": "MOQPmROxZhQ.65_0",
+      "dim": "C",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Shuffle",
+        "C": "Reverse",
+        "D": "Loop"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 10.858,
+      "answered_at_utc": "2026-05-14T02:50:07.224125+00:00",
+      "redo_count": 0
+    },
+    "105": {
+      "task_index": 105,
+      "stem": "O4Ctq8R3EuY.19_0",
+      "dim": "S",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand3"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 16.711,
+      "answered_at_utc": "2026-05-14T02:50:23.941162+00:00",
+      "redo_count": 0
+    },
+    "106": {
+      "task_index": 106,
+      "stem": "djvc9TpwrqE.105_0",
+      "dim": "C",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Loop",
+        "B": "Reverse",
+        "C": "GT",
+        "D": "Shuffle"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 12.962,
+      "answered_at_utc": "2026-05-14T02:50:36.910528+00:00",
+      "redo_count": 0
+    },
+    "107": {
+      "task_index": 107,
+      "stem": "Z3ECBgBpuKg.29_1",
+      "dim": "S",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand1",
+        "C": "Rand3",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 2.871,
+      "answered_at_utc": "2026-05-14T02:50:39.789264+00:00",
+      "redo_count": 0
+    },
+    "108": {
+      "task_index": 108,
+      "stem": "O4Ctq8R3EuY.19_0",
+      "dim": "A",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Late",
+        "B": "Wide",
+        "C": "Early",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 7.877,
+      "answered_at_utc": "2026-05-14T02:50:47.671892+00:00",
+      "redo_count": 0
+    },
+    "109": {
+      "task_index": 109,
+      "stem": "MMbtOXDjssQ",
+      "dim": "C",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Loop",
+        "B": "Shuffle",
+        "C": "GT",
+        "D": "Reverse"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 6.412,
+      "answered_at_utc": "2026-05-14T02:50:54.090003+00:00",
+      "redo_count": 0
+    },
+    "110": {
+      "task_index": 110,
+      "stem": "MMbtOXDjssQ",
+      "dim": "S",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Rand3",
+        "B": "Rand1",
+        "C": "GT",
+        "D": "Rand2"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 6.34,
+      "answered_at_utc": "2026-05-14T02:51:00.436443+00:00",
+      "redo_count": 0
+    },
+    "111": {
+      "task_index": 111,
+      "stem": "28hKF2Rhebs.31_1",
+      "dim": "A",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "Wide",
+        "C": "Late",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 12.127,
+      "answered_at_utc": "2026-05-14T02:51:12.569847+00:00",
+      "redo_count": 0
+    },
+    "112": {
+      "task_index": 112,
+      "stem": "D9NDFlAhVA0",
+      "dim": "S",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand1",
+        "C": "Rand3",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 8.931,
+      "answered_at_utc": "2026-05-14T02:51:21.505903+00:00",
+      "redo_count": 0
+    },
+    "113": {
+      "task_index": 113,
+      "stem": "v_00007041_10",
+      "dim": "C",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Reverse",
+        "B": "Shuffle",
+        "C": "Loop",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 9.096,
+      "answered_at_utc": "2026-05-14T02:51:30.609581+00:00",
+      "redo_count": 0
+    },
+    "114": {
+      "task_index": 114,
+      "stem": "UZiKsNznRGk.4_1",
+      "dim": "S",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand1",
+        "C": "Rand3",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 4.588,
+      "answered_at_utc": "2026-05-14T02:51:35.204049+00:00",
+      "redo_count": 0
+    },
+    "115": {
+      "task_index": 115,
+      "stem": "26k-11-3-7|P1|467|937",
+      "dim": "A",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Late",
+        "C": "Wide",
+        "D": "Early"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 12.411,
+      "answered_at_utc": "2026-05-14T02:51:47.621078+00:00",
+      "redo_count": 0
+    },
+    "119": {
+      "task_index": 119,
+      "stem": "gOPOtFN5TZk.10_2",
+      "dim": "C",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Shuffle",
+        "B": "Loop",
+        "C": "Reverse",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 0.89,
+      "answered_at_utc": "2026-05-14T02:54:45.625378+00:00",
+      "redo_count": 3
+    },
+    "117": {
+      "task_index": 117,
+      "stem": "7zqrldCae3k",
+      "dim": "S",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "Rand3",
+        "C": "Rand1",
+        "D": "GT"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 11.083,
+      "answered_at_utc": "2026-05-14T02:54:30.914078+00:00",
+      "redo_count": 2
+    },
+    "118": {
+      "task_index": 118,
+      "stem": "DAY1_A3_TASHA_19513000",
+      "dim": "A",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Wide",
+        "B": "Late",
+        "C": "GT",
+        "D": "Early"
+      },
+      "display_mode": "frames",
+      "answer_flow": "immediate",
+      "elapsed_sec": 6.77,
+      "answered_at_utc": "2026-05-14T02:54:37.689669+00:00",
+      "redo_count": 1
+    },
+    "17": {
+      "task_index": 17,
+      "stem": "DAY1_A4_LUCIA_19523000",
+      "dim": "A",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Late",
+        "C": "Wide",
+        "D": "Early"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 16.529,
+      "answered_at_utc": "2026-05-14T02:52:36.472521+00:00",
+      "redo_count": 0
+    },
+    "27": {
+      "task_index": 27,
+      "stem": "DAY1_A4_LUCIA_19523000",
+      "dim": "C",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Reverse",
+        "B": "Shuffle",
+        "C": "Loop",
+        "D": "GT"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 10.905,
+      "answered_at_utc": "2026-05-14T02:52:47.384923+00:00",
+      "redo_count": 0
+    },
+    "59": {
+      "task_index": 59,
+      "stem": "DAY1_A1_JAKE_20353000",
+      "dim": "A",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Late",
+        "C": "Wide",
+        "D": "Early"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 18.773,
+      "answered_at_utc": "2026-05-14T02:53:06.161585+00:00",
+      "redo_count": 0
+    },
+    "116": {
+      "task_index": 116,
+      "stem": "DAY1_A4_LUCIA_18160000",
+      "dim": "A",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Early",
+        "C": "Late",
+        "D": "Wide"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": 73.654,
+      "answered_at_utc": "2026-05-14T02:54:19.821536+00:00",
+      "redo_count": 0
+    }
+  }
+}

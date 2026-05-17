@@ -1,8 +1,4 @@
 {
-  "026dzf-vc5g_video.mp4": {
-    "gap_start": 15.43,
-    "gap_end": 36.76
-  },
   "0HzbpwB3xDk_video.mp4": {
     "gap_start": 11.42,
     "gap_end": 22.43
@@ -174,9 +170,5 @@
   "vBrspDt3ib0_video.mp4": {
     "gap_start": 11.05,
     "gap_end": 20.96
-  },
-  "zGVKSnlJFhY_video.mp4": {
-    "gap_start": 10.32,
-    "gap_end": 20.88
   }
 }

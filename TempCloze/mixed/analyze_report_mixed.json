@@ -1,0 +1,100 @@
+{
+  "models": {
+    "doubao-seed-1-6-251015": {
+      "total": 300,
+      "correct": 229,
+      "acc": 0.7633,
+      "error_total": 71,
+      "unanswered": 0,
+      "error_source": {
+        "S": {
+          "count": 8,
+          "pct_of_errors": 0.1127,
+          "pct_of_total": 0.0267
+        },
+        "A": {
+          "count": 59,
+          "pct_of_errors": 0.831,
+          "pct_of_total": 0.1967
+        },
+        "C": {
+          "count": 4,
+          "pct_of_errors": 0.0563,
+          "pct_of_total": 0.0133
+        }
+      }
+    },
+    "gemini-2.5-pro": {
+      "total": 299,
+      "correct": 206,
+      "acc": 0.689,
+      "error_total": 93,
+      "unanswered": 0,
+      "error_source": {
+        "S": {
+          "count": 21,
+          "pct_of_errors": 0.2258,
+          "pct_of_total": 0.0702
+        },
+        "A": {
+          "count": 44,
+          "pct_of_errors": 0.4731,
+          "pct_of_total": 0.1472
+        },
+        "C": {
+          "count": 28,
+          "pct_of_errors": 0.3011,
+          "pct_of_total": 0.0936
+        }
+      }
+    },
+    "qwen3-vl-8b-instruct": {
+      "total": 300,
+      "correct": 72,
+      "acc": 0.24,
+      "error_total": 228,
+      "unanswered": 0,
+      "error_source": {
+        "S": {
+          "count": 88,
+          "pct_of_errors": 0.386,
+          "pct_of_total": 0.2933
+        },
+        "A": {
+          "count": 112,
+          "pct_of_errors": 0.4912,
+          "pct_of_total": 0.3733
+        },
+        "C": {
+          "count": 28,
+          "pct_of_errors": 0.1228,
+          "pct_of_total": 0.0933
+        }
+      }
+    },
+    "qwen3.5-397b-a17b": {
+      "total": 300,
+      "correct": 186,
+      "acc": 0.62,
+      "error_total": 114,
+      "unanswered": 0,
+      "error_source": {
+        "S": {
+          "count": 27,
+          "pct_of_errors": 0.2368,
+          "pct_of_total": 0.09
+        },
+        "A": {
+          "count": 61,
+          "pct_of_errors": 0.5351,
+          "pct_of_total": 0.2033
+        },
+        "C": {
+          "count": 26,
+          "pct_of_errors": 0.2281,
+          "pct_of_total": 0.0867
+        }
+      }
+    }
+  }
+}
