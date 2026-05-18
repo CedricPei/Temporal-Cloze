@@ -5,7 +5,7 @@
   "choices_dir": "D:\\WeChat Files\\wxid_t0xzc9bofv6f22\\FileStorage\\File\\2026-05\\video_cloze_human_set_1\\video_cloze_human_five_sets\\video_cloze_human_set_1\\choices_human\\set_1",
   "result_path": "D:\\WeChat Files\\wxid_t0xzc9bofv6f22\\FileStorage\\File\\2026-05\\video_cloze_human_set_1\\video_cloze_human_five_sets\\video_cloze_human_set_1\\human_eval_results\\set_1.json",
   "started_at_utc": "2026-05-17T11:45:27.777377+00:00",
-  "completed_at_utc": "2026-05-17T15:10:32.664453+00:00",
+  "completed_at_utc": "2026-05-18T09:56:33.162719+00:00",
   "stems": [
     "-P7Y_BlwxO8.42_0",
     "1184-7",
@@ -13,6 +13,8 @@
     "1284-7",
     "1EWatN4ZpWc.42_0",
     "1K4ZT",
+    "27l-12-4-2|P1|1118|1677",
+    "29k-12-10-3|P1|4161|4578",
     "6JKr8OtP6CY.11_0",
     "7g2u14hKfEY.15_1",
     "DAY1_A1_JAKE_13090000",
@@ -502,6 +504,30 @@
     {
       "stem": "DAY1_A5_KATRINA_11353000",
       "dim": "A"
+    },
+    {
+      "stem": "29k-12-10-3|P1|4161|4578",
+      "dim": "S"
+    },
+    {
+      "stem": "29k-12-10-3|P1|4161|4578",
+      "dim": "A"
+    },
+    {
+      "stem": "29k-12-10-3|P1|4161|4578",
+      "dim": "C"
+    },
+    {
+      "stem": "27l-12-4-2|P1|1118|1677",
+      "dim": "S"
+    },
+    {
+      "stem": "27l-12-4-2|P1|1118|1677",
+      "dim": "A"
+    },
+    {
+      "stem": "27l-12-4-2|P1|1118|1677",
+      "dim": "C"
     }
   ],
   "responses": {
@@ -2670,6 +2696,126 @@
       "elapsed_sec": 1.443,
       "answered_at_utc": "2026-05-17T15:10:32.664453+00:00",
       "redo_count": 1
+    },
+    "114": {
+      "task_index": 114,
+      "stem": "29k-12-10-3|P1|4161|4578",
+      "dim": "S",
+      "answer": "B",
+      "expected": "B",
+      "correct": true,
+      "option_map": {
+        "A": "Rand2",
+        "B": "GT",
+        "C": "Rand1",
+        "D": "Rand3"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": null,
+      "answered_at_utc": "2026-05-18T09:56:33.162719+00:00",
+      "redo_count": 0,
+      "backfilled_from_annotator_report": true
+    },
+    "115": {
+      "task_index": 115,
+      "stem": "29k-12-10-3|P1|4161|4578",
+      "dim": "A",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Early",
+        "B": "Late",
+        "C": "GT",
+        "D": "Wide"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": null,
+      "answered_at_utc": "2026-05-18T09:56:33.162719+00:00",
+      "redo_count": 0,
+      "backfilled_from_annotator_report": true
+    },
+    "116": {
+      "task_index": 116,
+      "stem": "29k-12-10-3|P1|4161|4578",
+      "dim": "C",
+      "answer": "A",
+      "expected": "A",
+      "correct": true,
+      "option_map": {
+        "A": "GT",
+        "B": "Shuffle",
+        "C": "Loop",
+        "D": "Reverse"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": null,
+      "answered_at_utc": "2026-05-18T09:56:33.162719+00:00",
+      "redo_count": 0,
+      "backfilled_from_annotator_report": true
+    },
+    "117": {
+      "task_index": 117,
+      "stem": "27l-12-4-2|P1|1118|1677",
+      "dim": "S",
+      "answer": "D",
+      "expected": "D",
+      "correct": true,
+      "option_map": {
+        "A": "Rand1",
+        "B": "Rand3",
+        "C": "Rand2",
+        "D": "GT"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": null,
+      "answered_at_utc": "2026-05-18T09:56:33.162719+00:00",
+      "redo_count": 0,
+      "backfilled_from_annotator_report": true
+    },
+    "118": {
+      "task_index": 118,
+      "stem": "27l-12-4-2|P1|1118|1677",
+      "dim": "A",
+      "answer": "C",
+      "expected": "C",
+      "correct": true,
+      "option_map": {
+        "A": "Wide",
+        "B": "Early",
+        "C": "GT",
+        "D": "Late"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": null,
+      "answered_at_utc": "2026-05-18T09:56:33.162719+00:00",
+      "redo_count": 0,
+      "backfilled_from_annotator_report": true
+    },
+    "119": {
+      "task_index": 119,
+      "stem": "27l-12-4-2|P1|1118|1677",
+      "dim": "C",
+      "answer": "A",
+      "expected": "C",
+      "correct": false,
+      "option_map": {
+        "A": "Shuffle",
+        "B": "Loop",
+        "C": "GT",
+        "D": "Reverse"
+      },
+      "display_mode": "video",
+      "answer_flow": "immediate",
+      "elapsed_sec": null,
+      "answered_at_utc": "2026-05-18T09:56:33.162719+00:00",
+      "redo_count": 0,
+      "backfilled_from_annotator_report": true
     }
   }
 }

@@ -7,6 +7,7 @@
 输出：plots/
   fig_frames_dims.png          帧数 vs 准确率
   fig_passk_dims.png           pass@k
+  boundary_k.pdf               边界上下文帧数 vs 准确率
   perm_consistency_table.csv   排列一致性统计表
 
 Usage:
@@ -36,6 +37,7 @@ FRAMES_TAGS = [
 ]
 PASSK_TAGS = FRAMES_TAGS
 PERM_TAGS  = FRAMES_TAGS
+BOUNDARY_TAGS = FRAMES_TAGS
 
 # 子图布局顺序：左上→右上→左下→右下
 PLOT_ORDER = [
@@ -81,7 +83,7 @@ def _auto_ylim(ax, pad: float = 0.12, bottom_min: float = 0.0):
 
 LEGEND_FS   = 16   # 图例字号
 LABEL_FS    = 15   # 轴标签字号
-TITLE_FS    = 18   # 子图标题字号
+TITLE_FS    = 20   # 子图标题字号
 TICK_FS     = 14   # 刻度字号
 TEXT_WEIGHT = "semibold"
 TITLE_WEIGHT = "bold"
@@ -104,8 +106,8 @@ def _build_legend_handles(include_overall: bool = False):
 
 def _attach_legend(fig, xlabel, include_overall=False):
     handles = _build_legend_handles(include_overall)
-    legend = fig.legend(handles=handles, loc="upper center", ncol=4,
-                        bbox_to_anchor=(0.5, 1.01), fontsize=LEGEND_FS,
+    legend = fig.legend(handles=handles, loc="upper center", ncol=len(handles),
+                        bbox_to_anchor=(0.5, 1.02), fontsize=LEGEND_FS,
                         framealpha=0.95, handlelength=2.9, columnspacing=1.8,
                         handletextpad=0.7, borderpad=0.6)
     for txt in legend.get_texts():
@@ -116,7 +118,7 @@ def _attach_legend(fig, xlabel, include_overall=False):
         for tick in ax.get_xticklabels() + ax.get_yticklabels():
             tick.set_fontweight(TEXT_WEIGHT)
     fig.tight_layout()
-    fig.subplots_adjust(top=0.87, hspace=0.38, wspace=0.18)
+    fig.subplots_adjust(top=0.85, hspace=0.38, wspace=0.18)
 
 
 def _draw_subplots(axes_flat, plot_order, all_data, xs, x_fn, ylabel):
@@ -285,6 +287,88 @@ def plot_passk():
     print(f"Wrote {out}")
 
 
+# ==================== Boundary K ====================
+
+def plot_boundary_k():
+    all_data = {}
+    for tag in BOUNDARY_TAGS:
+        p = RESULTS_DIR / f"boundary_k_{tag}.json"
+        if not p.exists():
+            print(f"[skip] {p.name} not found")
+            continue
+        all_data[tag] = json.loads(p.read_text(encoding="utf-8"))
+
+    if not all_data:
+        print("No boundary-k data.")
+        return
+
+    conditions = [("K1", 0), ("K4", 4), ("K8", 8), ("K12", 12), ("Full", 16)]
+    xs = [x for _, x in conditions]
+    xlabels = ["Endpoint", "25%", "50%", "75%", "Full"]
+
+    fig, axes = plt.subplots(2, 2, figsize=(10, 7))
+    axes_flat = axes.flatten()
+
+    for ax, tag in zip(axes_flat, PLOT_ORDER):
+        if tag not in all_data:
+            ax.set_visible(False)
+            continue
+        data = all_data[tag]
+
+        for dim in DIMS:
+            x_plot, ys = [], []
+            for condition, x in conditions:
+                entries = [
+                    v for key, v in data.items()
+                    if key.rsplit("|", 2)[1] == dim
+                    and key.rsplit("|", 1)[1] == condition
+                ]
+                if not entries:
+                    continue
+                x_plot.append(x)
+                ys.append(sum(1 for e in entries if e.get("correct")) / len(entries))
+            if x_plot:
+                ax.plot(
+                    x_plot, ys,
+                    color=DIM_COLOR[dim], marker=DIM_MARKER[dim],
+                    linestyle="--", linewidth=1.8, markersize=6,
+                )
+
+        x_ov, y_ov = [], []
+        for condition, x in conditions:
+            entries = [
+                v for key, v in data.items()
+                if key.rsplit("|", 1)[1] == condition
+            ]
+            if not entries:
+                continue
+            x_ov.append(x)
+            y_ov.append(sum(1 for e in entries if e.get("correct")) / len(entries))
+        if x_ov:
+            ax.plot(
+                x_ov, y_ov, color="red", linewidth=2.2,
+                linestyle="-", marker="D", markersize=5, zorder=5,
+            )
+
+        ax.set_title(MODEL_LABEL[tag], fontsize=TITLE_FS, pad=6, fontweight=TITLE_WEIGHT)
+        ax.set_ylabel("Accuracy (%)", fontsize=LABEL_FS, style="italic", fontweight=TEXT_WEIGHT)
+        ax.set_xticks(xs)
+        ax.set_xticklabels(xlabels)
+        ax.yaxis.set_major_formatter(mticker.FuncFormatter(pct_fmt))
+        ax.grid(True, linestyle=":", alpha=0.5)
+        _auto_ylim(ax)
+
+    for ax in axes_flat[len(PLOT_ORDER):]:
+        ax.set_visible(False)
+
+    _attach_legend(fig, xlabel="Visible Span", include_overall=True)
+
+    out = PLOTS_DIR / "boundary_k.pdf"
+    fig.savefig(out, bbox_inches="tight")
+    plt.close(fig)
+    print(f"Wrote {out}")
+
+
 # ==================== Permutation Table ====================
 
 def _load_perm_data(tag: str) -> dict:
@@ -407,4 +491,5 @@ if __name__ == "__main__":
     PLOTS_DIR.mkdir(parents=True, exist_ok=True)
     plot_frames()
     plot_passk()
+    plot_boundary_k()
     print_perm_table()
