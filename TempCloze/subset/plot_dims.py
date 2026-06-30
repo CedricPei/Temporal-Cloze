@@ -5,6 +5,7 @@
   Qwen3.5-397B    |  Qwen3-VL-8B
 
 输出：plots/
+  be_bars.pdf                  B/E/BE 上下文消融
   fig_frames_dims.png          帧数 vs 准确率
   fig_passk_dims.png           pass@k
   boundary_k.pdf               边界上下文帧数 vs 准确率
@@ -23,6 +24,7 @@ from pathlib import Path
 import matplotlib.lines as mlines
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
+import numpy as np
 
 RESULTS_DIR = Path(__file__).parent / "eval_results"
 PLOTS_DIR   = Path(__file__).parent / "plots"
@@ -38,6 +40,7 @@ FRAMES_TAGS = [
 PASSK_TAGS = FRAMES_TAGS
 PERM_TAGS  = FRAMES_TAGS
 BOUNDARY_TAGS = FRAMES_TAGS
+BE_TAGS = FRAMES_TAGS
 
 # 子图布局顺序：左上→右上→左下→右下
 PLOT_ORDER = [
@@ -53,12 +56,22 @@ MODEL_LABEL = {
     "qwen3.5-397b-a17b":      "Qwen3.5-397B-A17B",
     "qwen3-vl-8b-instruct":   "Qwen3VL-8B-I",
 }
+BE_MODEL_LABEL = {
+    "doubao-seed-1-6-251015": "Seed-1.6",
+    "gemini-2.5-pro":         "Gemini-2.5-Pro",
+    "qwen3.5-397b-a17b":      "Qwen3.5-397B",
+    "qwen3-vl-8b-instruct":   "Qwen3-VL-8B",
+}
 
 # ── 维度编码：统一颜色 + 统一虚线，用标记区分 ────────────────────────────
 DIM_COLOR  = {"S": "#4A90D9", "A": "#E07B39", "C": "#56A76B"}
 DIM_MARKER = {"S": "o",       "A": "s",        "C": "^"}
 DIM_LABEL  = {"S": "Semantic", "A": "Alignment", "C": "Progression"}
 ALL_PERMS  = ["A", "B", "C", "D"]
+BE_MODES = ["B", "E", "BE"]
+BE_MODE_COLOR = {"B": "#4E79A7", "E": "#F28E2B", "BE": "#59A14F"}
+BE_MODE_LABEL = {"B": "Beginning Only", "E": "Ending Only", "BE": "Beginning + Ending"}
+BE_DIM_TICK = {"S": "S", "A": "A", "C": "P"}
 
 
 # ── 通用工具 ──────────────────────────────────────────────────────────────
@@ -148,6 +161,113 @@ def _draw_subplots(axes_flat, plot_order, all_data, xs, x_fn, ylabel):
         ax.set_xticks(xs)
         ax.yaxis.set_major_formatter(mticker.FuncFormatter(pct_fmt))
         ax.grid(True, linestyle=":", alpha=0.5)
+
+
+# ==================== BE bars ====================
+
+def plot_be_bars():
+    all_data = {}
+    for tag in BE_TAGS:
+        p = RESULTS_DIR / f"be_{tag}.json"
+        if not p.exists():
+            print(f"[skip] {p.name} not found")
+            continue
+        all_data[tag] = json.loads(p.read_text(encoding="utf-8"))
+
+    if not all_data:
+        print("No BE data.")
+        return
+
+    fig, axes = plt.subplots(2, 2, figsize=(10.2, 7.8), sharey=True)
+    axes_flat = axes.flatten()
+    x = np.arange(len(DIMS))
+    bar_w = 0.22
+
+    for ax_idx, (ax, tag) in enumerate(zip(axes_flat, PLOT_ORDER)):
+        if tag not in all_data:
+            ax.set_visible(False)
+            continue
+        data = all_data[tag]
+
+        for mode_idx, mode in enumerate(BE_MODES):
+            offsets = (mode_idx - 1) * bar_w
+            vals = []
+            for dim in DIMS:
+                entries = [
+                    v for k, v in data.items()
+                    if k.rsplit("|", 2)[1] == dim and k.rsplit("|", 1)[1] == mode
+                ]
+                if entries:
+                    vals.append(sum(1 for e in entries if e.get("correct")) / len(entries))
+                else:
+                    vals.append(np.nan)
+
+            bars = ax.bar(
+                x + offsets,
+                vals,
+                width=bar_w,
+                color=BE_MODE_COLOR[mode],
+                edgecolor="white",
+                linewidth=0.8,
+                alpha=0.92,
+                label=BE_MODE_LABEL[mode],
+            )
+            for bar, v in zip(bars, vals):
+                if np.isfinite(v):
+                    ax.text(
+                        bar.get_x() + bar.get_width() / 2,
+                        v + 0.02,
+                        f"{v*100:.0f}",
+                        ha="center",
+                        va="bottom",
+                        fontsize=11,
+                        fontweight=TEXT_WEIGHT,
+                        color="#3A3A3A",
+                    )
+
+        ax.axhline(0.25, ls="--", color="#9E9E9E", lw=1.2, zorder=0)
+        ax.set_title(BE_MODEL_LABEL[tag], fontsize=TITLE_FS + 2, pad=10, fontweight=TITLE_WEIGHT)
+        ax.set_xticks(x)
+        ax.set_xticklabels([BE_DIM_TICK[d] for d in DIMS], fontsize=TICK_FS, fontweight=TEXT_WEIGHT)
+        ax.set_ylim(0.0, 1.0)
+        ax.set_yticks([0, 0.25, 0.5, 0.75, 1.0])
+        ax.yaxis.set_major_formatter(mticker.FuncFormatter(pct_fmt))
+        ax.tick_params(axis="both", labelsize=TICK_FS)
+        for tick in ax.get_xticklabels() + ax.get_yticklabels():
+            tick.set_fontweight(TEXT_WEIGHT)
+        ax.grid(axis="y", linestyle="-", alpha=0.22)
+
+        if ax_idx % 2 == 0:
+            ax.set_ylabel("Accuracy (%)", fontsize=LABEL_FS + 2, style="italic", fontweight=TEXT_WEIGHT)
+
+    fig.tight_layout()
+    plot_left, plot_right = 0.10, 0.98
+    fig.subplots_adjust(left=plot_left, right=plot_right, top=0.88, hspace=0.28, wspace=0.08)
+
+    handles = [
+        mlines.Line2D([], [], color=BE_MODE_COLOR[m], linewidth=10, label=BE_MODE_LABEL[m])
+        for m in BE_MODES
+    ]
+    legend = fig.legend(
+        handles=handles,
+        loc="upper center",
+        ncol=3,
+        bbox_to_anchor=((plot_left + plot_right) / 2, 1.03),
+        bbox_transform=fig.transFigure,
+        fontsize=LEGEND_FS + 1,
+        framealpha=0.95,
+        handlelength=1.4,
+        columnspacing=1.6,
+        handletextpad=0.7,
+        borderpad=0.5,
+    )
+    for txt in legend.get_texts():
+        txt.set_fontweight(TEXT_WEIGHT)
+
+    out = PLOTS_DIR / "be_bars.pdf"
+    fig.savefig(out, bbox_inches="tight")
+    plt.close(fig)
+    print(f"Wrote {out}")
 
 
 # ==================== Frames ====================
@@ -489,6 +609,7 @@ def print_perm_table():
 
 if __name__ == "__main__":
     PLOTS_DIR.mkdir(parents=True, exist_ok=True)
+    plot_be_bars()
     plot_frames()
     plot_passk()
     plot_boundary_k()

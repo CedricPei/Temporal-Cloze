@@ -1,0 +1,795 @@
+{
+  "dataset_id": "human_quality_eval_set_1",
+  "schedule_policy": "single_folder_quality_rating_v1",
+  "seed": 16742178984735451508,
+  "choices_dir": "D:\\human_quality_eval_set_1\\human_quality_eval_set_1\\choices",
+  "result_path": "D:\\human_quality_eval_set_1\\human_quality_eval_set_1\\human_quality_eval_results\\human_quality_eval_set_1.json",
+  "started_at_utc": "2026-05-20T13:40:16.955394+00:00",
+  "completed_at_utc": "2026-05-23T13:15:11.695016+00:00",
+  "stems": [
+    "sample_001",
+    "sample_002",
+    "sample_003",
+    "sample_004",
+    "sample_005",
+    "sample_006",
+    "sample_007",
+    "sample_008",
+    "sample_009",
+    "sample_010",
+    "sample_011",
+    "sample_012",
+    "sample_013",
+    "sample_014",
+    "sample_015",
+    "sample_016",
+    "sample_017",
+    "sample_018",
+    "sample_019",
+    "sample_020",
+    "sample_021",
+    "sample_022",
+    "sample_023",
+    "sample_024",
+    "sample_025",
+    "sample_026",
+    "sample_027",
+    "sample_028",
+    "sample_029",
+    "sample_030",
+    "sample_031",
+    "sample_032",
+    "sample_033",
+    "sample_034",
+    "sample_035",
+    "sample_036",
+    "sample_037",
+    "sample_038",
+    "sample_039",
+    "sample_040",
+    "sample_041",
+    "sample_042",
+    "sample_043",
+    "sample_044",
+    "sample_045",
+    "sample_046",
+    "sample_047",
+    "sample_048",
+    "sample_049",
+    "sample_050",
+    "sample_051",
+    "sample_052",
+    "sample_053",
+    "sample_054",
+    "sample_055",
+    "sample_056",
+    "sample_057",
+    "sample_058",
+    "sample_059",
+    "sample_060"
+  ],
+  "schedule": [
+    {
+      "stem": "sample_046"
+    },
+    {
+      "stem": "sample_059"
+    },
+    {
+      "stem": "sample_028"
+    },
+    {
+      "stem": "sample_030"
+    },
+    {
+      "stem": "sample_002"
+    },
+    {
+      "stem": "sample_054"
+    },
+    {
+      "stem": "sample_045"
+    },
+    {
+      "stem": "sample_025"
+    },
+    {
+      "stem": "sample_044"
+    },
+    {
+      "stem": "sample_012"
+    },
+    {
+      "stem": "sample_058"
+    },
+    {
+      "stem": "sample_009"
+    },
+    {
+      "stem": "sample_037"
+    },
+    {
+      "stem": "sample_016"
+    },
+    {
+      "stem": "sample_039"
+    },
+    {
+      "stem": "sample_040"
+    },
+    {
+      "stem": "sample_011"
+    },
+    {
+      "stem": "sample_005"
+    },
+    {
+      "stem": "sample_048"
+    },
+    {
+      "stem": "sample_003"
+    },
+    {
+      "stem": "sample_053"
+    },
+    {
+      "stem": "sample_038"
+    },
+    {
+      "stem": "sample_019"
+    },
+    {
+      "stem": "sample_022"
+    },
+    {
+      "stem": "sample_057"
+    },
+    {
+      "stem": "sample_060"
+    },
+    {
+      "stem": "sample_024"
+    },
+    {
+      "stem": "sample_031"
+    },
+    {
+      "stem": "sample_035"
+    },
+    {
+      "stem": "sample_015"
+    },
+    {
+      "stem": "sample_043"
+    },
+    {
+      "stem": "sample_034"
+    },
+    {
+      "stem": "sample_010"
+    },
+    {
+      "stem": "sample_033"
+    },
+    {
+      "stem": "sample_013"
+    },
+    {
+      "stem": "sample_001"
+    },
+    {
+      "stem": "sample_049"
+    },
+    {
+      "stem": "sample_023"
+    },
+    {
+      "stem": "sample_017"
+    },
+    {
+      "stem": "sample_050"
+    },
+    {
+      "stem": "sample_014"
+    },
+    {
+      "stem": "sample_004"
+    },
+    {
+      "stem": "sample_020"
+    },
+    {
+      "stem": "sample_006"
+    },
+    {
+      "stem": "sample_042"
+    },
+    {
+      "stem": "sample_052"
+    },
+    {
+      "stem": "sample_018"
+    },
+    {
+      "stem": "sample_027"
+    },
+    {
+      "stem": "sample_021"
+    },
+    {
+      "stem": "sample_008"
+    },
+    {
+      "stem": "sample_032"
+    },
+    {
+      "stem": "sample_026"
+    },
+    {
+      "stem": "sample_007"
+    },
+    {
+      "stem": "sample_056"
+    },
+    {
+      "stem": "sample_051"
+    },
+    {
+      "stem": "sample_047"
+    },
+    {
+      "stem": "sample_029"
+    },
+    {
+      "stem": "sample_055"
+    },
+    {
+      "stem": "sample_036"
+    },
+    {
+      "stem": "sample_041"
+    }
+  ],
+  "responses": {
+    "0": {
+      "task_index": 0,
+      "stem": "sample_046",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 7.516,
+      "answered_at_utc": "2026-05-23T13:11:44.881038+00:00",
+      "redo_count": 1
+    },
+    "1": {
+      "task_index": 1,
+      "stem": "sample_059",
+      "rating": 3,
+      "display_mode": "video",
+      "elapsed_sec": 6.993,
+      "answered_at_utc": "2026-05-23T13:11:53.401228+00:00",
+      "redo_count": 1
+    },
+    "2": {
+      "task_index": 2,
+      "stem": "sample_028",
+      "rating": 5,
+      "display_mode": "frames",
+      "elapsed_sec": 6.712,
+      "answered_at_utc": "2026-05-23T13:11:14.129972+00:00",
+      "redo_count": 0
+    },
+    "3": {
+      "task_index": 3,
+      "stem": "sample_030",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 16.272,
+      "answered_at_utc": "2026-05-23T13:11:30.408323+00:00",
+      "redo_count": 0
+    },
+    "4": {
+      "task_index": 4,
+      "stem": "sample_002",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 5.958,
+      "answered_at_utc": "2026-05-23T13:11:59.362840+00:00",
+      "redo_count": 0
+    },
+    "5": {
+      "task_index": 5,
+      "stem": "sample_054",
+      "rating": 3,
+      "display_mode": "video",
+      "elapsed_sec": 1.997,
+      "answered_at_utc": "2026-05-23T13:12:01.366026+00:00",
+      "redo_count": 0
+    },
+    "6": {
+      "task_index": 6,
+      "stem": "sample_045",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 4.225,
+      "answered_at_utc": "2026-05-23T13:12:05.595938+00:00",
+      "redo_count": 0
+    },
+    "7": {
+      "task_index": 7,
+      "stem": "sample_025",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 2.332,
+      "answered_at_utc": "2026-05-23T13:12:07.933319+00:00",
+      "redo_count": 0
+    },
+    "8": {
+      "task_index": 8,
+      "stem": "sample_044",
+      "rating": 3,
+      "display_mode": "video",
+      "elapsed_sec": 6.402,
+      "answered_at_utc": "2026-05-23T13:12:14.339954+00:00",
+      "redo_count": 0
+    },
+    "9": {
+      "task_index": 9,
+      "stem": "sample_012",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 1.775,
+      "answered_at_utc": "2026-05-23T13:12:16.120550+00:00",
+      "redo_count": 0
+    },
+    "10": {
+      "task_index": 10,
+      "stem": "sample_058",
+      "rating": 3,
+      "display_mode": "video",
+      "elapsed_sec": 1.533,
+      "answered_at_utc": "2026-05-23T13:12:17.659635+00:00",
+      "redo_count": 0
+    },
+    "11": {
+      "task_index": 11,
+      "stem": "sample_009",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 2.082,
+      "answered_at_utc": "2026-05-23T13:12:19.745322+00:00",
+      "redo_count": 0
+    },
+    "12": {
+      "task_index": 12,
+      "stem": "sample_037",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 1.899,
+      "answered_at_utc": "2026-05-23T13:12:21.650748+00:00",
+      "redo_count": 0
+    },
+    "13": {
+      "task_index": 13,
+      "stem": "sample_016",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 2.711,
+      "answered_at_utc": "2026-05-23T13:12:24.369360+00:00",
+      "redo_count": 0
+    },
+    "14": {
+      "task_index": 14,
+      "stem": "sample_039",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 4.314,
+      "answered_at_utc": "2026-05-23T13:12:28.687865+00:00",
+      "redo_count": 0
+    },
+    "15": {
+      "task_index": 15,
+      "stem": "sample_040",
+      "rating": 3,
+      "display_mode": "video",
+      "elapsed_sec": 1.735,
+      "answered_at_utc": "2026-05-23T13:12:30.427811+00:00",
+      "redo_count": 0
+    },
+    "16": {
+      "task_index": 16,
+      "stem": "sample_011",
+      "rating": 3,
+      "display_mode": "video",
+      "elapsed_sec": 1.402,
+      "answered_at_utc": "2026-05-23T13:12:31.834084+00:00",
+      "redo_count": 0
+    },
+    "17": {
+      "task_index": 17,
+      "stem": "sample_005",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 2.507,
+      "answered_at_utc": "2026-05-23T13:12:34.346707+00:00",
+      "redo_count": 0
+    },
+    "18": {
+      "task_index": 18,
+      "stem": "sample_048",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 3.607,
+      "answered_at_utc": "2026-05-23T13:12:37.958680+00:00",
+      "redo_count": 0
+    },
+    "19": {
+      "task_index": 19,
+      "stem": "sample_003",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 1.704,
+      "answered_at_utc": "2026-05-23T13:12:39.668259+00:00",
+      "redo_count": 0
+    },
+    "20": {
+      "task_index": 20,
+      "stem": "sample_053",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 3.409,
+      "answered_at_utc": "2026-05-23T13:12:43.083547+00:00",
+      "redo_count": 0
+    },
+    "21": {
+      "task_index": 21,
+      "stem": "sample_038",
+      "rating": 3,
+      "display_mode": "video",
+      "elapsed_sec": 2.096,
+      "answered_at_utc": "2026-05-23T13:12:45.185107+00:00",
+      "redo_count": 0
+    },
+    "22": {
+      "task_index": 22,
+      "stem": "sample_019",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 1.898,
+      "answered_at_utc": "2026-05-23T13:12:47.089060+00:00",
+      "redo_count": 0
+    },
+    "23": {
+      "task_index": 23,
+      "stem": "sample_022",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 2.655,
+      "answered_at_utc": "2026-05-23T13:12:49.748742+00:00",
+      "redo_count": 0
+    },
+    "24": {
+      "task_index": 24,
+      "stem": "sample_057",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 4.346,
+      "answered_at_utc": "2026-05-23T13:12:54.101312+00:00",
+      "redo_count": 0
+    },
+    "25": {
+      "task_index": 25,
+      "stem": "sample_060",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 9.923,
+      "answered_at_utc": "2026-05-23T13:13:04.029176+00:00",
+      "redo_count": 0
+    },
+    "26": {
+      "task_index": 26,
+      "stem": "sample_024",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 5.183,
+      "answered_at_utc": "2026-05-23T13:13:09.230021+00:00",
+      "redo_count": 0
+    },
+    "27": {
+      "task_index": 27,
+      "stem": "sample_031",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 2.028,
+      "answered_at_utc": "2026-05-23T13:13:11.261970+00:00",
+      "redo_count": 0
+    },
+    "28": {
+      "task_index": 28,
+      "stem": "sample_035",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 2.274,
+      "answered_at_utc": "2026-05-23T13:13:13.541948+00:00",
+      "redo_count": 0
+    },
+    "29": {
+      "task_index": 29,
+      "stem": "sample_015",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 2.592,
+      "answered_at_utc": "2026-05-23T13:13:16.139063+00:00",
+      "redo_count": 0
+    },
+    "30": {
+      "task_index": 30,
+      "stem": "sample_043",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 1.482,
+      "answered_at_utc": "2026-05-23T13:13:17.626789+00:00",
+      "redo_count": 0
+    },
+    "31": {
+      "task_index": 31,
+      "stem": "sample_034",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 1.003,
+      "answered_at_utc": "2026-05-23T13:13:18.636110+00:00",
+      "redo_count": 0
+    },
+    "32": {
+      "task_index": 32,
+      "stem": "sample_010",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 2.467,
+      "answered_at_utc": "2026-05-23T13:13:21.109072+00:00",
+      "redo_count": 0
+    },
+    "33": {
+      "task_index": 33,
+      "stem": "sample_033",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 3.164,
+      "answered_at_utc": "2026-05-23T13:13:24.277872+00:00",
+      "redo_count": 0
+    },
+    "34": {
+      "task_index": 34,
+      "stem": "sample_013",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 1.655,
+      "answered_at_utc": "2026-05-23T13:13:25.937962+00:00",
+      "redo_count": 0
+    },
+    "35": {
+      "task_index": 35,
+      "stem": "sample_001",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 3.145,
+      "answered_at_utc": "2026-05-23T13:13:29.086910+00:00",
+      "redo_count": 0
+    },
+    "36": {
+      "task_index": 36,
+      "stem": "sample_049",
+      "rating": 2,
+      "display_mode": "video",
+      "elapsed_sec": 13.94,
+      "answered_at_utc": "2026-05-23T13:13:43.034242+00:00",
+      "redo_count": 0
+    },
+    "37": {
+      "task_index": 37,
+      "stem": "sample_023",
+      "rating": 3,
+      "display_mode": "video",
+      "elapsed_sec": 3.274,
+      "answered_at_utc": "2026-05-23T13:13:46.314133+00:00",
+      "redo_count": 0
+    },
+    "38": {
+      "task_index": 38,
+      "stem": "sample_017",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 2.665,
+      "answered_at_utc": "2026-05-23T13:13:48.985204+00:00",
+      "redo_count": 0
+    },
+    "39": {
+      "task_index": 39,
+      "stem": "sample_050",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 2.129,
+      "answered_at_utc": "2026-05-23T13:13:51.119763+00:00",
+      "redo_count": 0
+    },
+    "40": {
+      "task_index": 40,
+      "stem": "sample_014",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 1.106,
+      "answered_at_utc": "2026-05-23T13:13:58.677519+00:00",
+      "redo_count": 2
+    },
+    "41": {
+      "task_index": 41,
+      "stem": "sample_004",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 1.514,
+      "answered_at_utc": "2026-05-23T13:14:00.198130+00:00",
+      "redo_count": 0
+    },
+    "42": {
+      "task_index": 42,
+      "stem": "sample_020",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 1.655,
+      "answered_at_utc": "2026-05-23T13:14:01.864751+00:00",
+      "redo_count": 0
+    },
+    "43": {
+      "task_index": 43,
+      "stem": "sample_006",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 4.001,
+      "answered_at_utc": "2026-05-23T13:14:05.871143+00:00",
+      "redo_count": 0
+    },
+    "44": {
+      "task_index": 44,
+      "stem": "sample_042",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 1.661,
+      "answered_at_utc": "2026-05-23T13:14:07.539027+00:00",
+      "redo_count": 0
+    },
+    "45": {
+      "task_index": 45,
+      "stem": "sample_052",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 10.765,
+      "answered_at_utc": "2026-05-23T13:14:18.309497+00:00",
+      "redo_count": 0
+    },
+    "46": {
+      "task_index": 46,
+      "stem": "sample_018",
+      "rating": 3,
+      "display_mode": "video",
+      "elapsed_sec": 2.967,
+      "answered_at_utc": "2026-05-23T13:14:21.282913+00:00",
+      "redo_count": 0
+    },
+    "47": {
+      "task_index": 47,
+      "stem": "sample_027",
+      "rating": 3,
+      "display_mode": "video",
+      "elapsed_sec": 1.532,
+      "answered_at_utc": "2026-05-23T13:14:22.823251+00:00",
+      "redo_count": 0
+    },
+    "48": {
+      "task_index": 48,
+      "stem": "sample_021",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 1.802,
+      "answered_at_utc": "2026-05-23T13:14:24.631551+00:00",
+      "redo_count": 0
+    },
+    "49": {
+      "task_index": 49,
+      "stem": "sample_008",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 2.656,
+      "answered_at_utc": "2026-05-23T13:14:27.293899+00:00",
+      "redo_count": 0
+    },
+    "50": {
+      "task_index": 50,
+      "stem": "sample_032",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 2.879,
+      "answered_at_utc": "2026-05-23T13:14:30.176578+00:00",
+      "redo_count": 0
+    },
+    "51": {
+      "task_index": 51,
+      "stem": "sample_026",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 1.805,
+      "answered_at_utc": "2026-05-23T13:14:31.987530+00:00",
+      "redo_count": 0
+    },
+    "52": {
+      "task_index": 52,
+      "stem": "sample_007",
+      "rating": 2,
+      "display_mode": "video",
+      "elapsed_sec": 10.496,
+      "answered_at_utc": "2026-05-23T13:14:42.496722+00:00",
+      "redo_count": 0
+    },
+    "53": {
+      "task_index": 53,
+      "stem": "sample_056",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 2.704,
+      "answered_at_utc": "2026-05-23T13:14:45.206870+00:00",
+      "redo_count": 0
+    },
+    "54": {
+      "task_index": 54,
+      "stem": "sample_051",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 13.969,
+      "answered_at_utc": "2026-05-23T13:14:59.183602+00:00",
+      "redo_count": 0
+    },
+    "55": {
+      "task_index": 55,
+      "stem": "sample_047",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 2.483,
+      "answered_at_utc": "2026-05-23T13:15:01.671316+00:00",
+      "redo_count": 0
+    },
+    "56": {
+      "task_index": 56,
+      "stem": "sample_029",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 1.716,
+      "answered_at_utc": "2026-05-23T13:15:03.392970+00:00",
+      "redo_count": 0
+    },
+    "57": {
+      "task_index": 57,
+      "stem": "sample_055",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 2.14,
+      "answered_at_utc": "2026-05-23T13:15:05.538119+00:00",
+      "redo_count": 0
+    },
+    "58": {
+      "task_index": 58,
+      "stem": "sample_036",
+      "rating": 4,
+      "display_mode": "video",
+      "elapsed_sec": 2.642,
+      "answered_at_utc": "2026-05-23T13:15:08.192321+00:00",
+      "redo_count": 0
+    },
+    "59": {
+      "task_index": 59,
+      "stem": "sample_041",
+      "rating": 5,
+      "display_mode": "video",
+      "elapsed_sec": 3.496,
+      "answered_at_utc": "2026-05-23T13:15:11.695016+00:00",
+      "redo_count": 0
+    }
+  }
+}

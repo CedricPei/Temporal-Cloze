@@ -1,0 +1,1219 @@
+{
+  "updated_at_utc": "2026-05-20T13:26:26.468978+00:00",
+  "source_choices_dir": "/users/henry/Temporal-Cloze/TempCloze/choices",
+  "naming": "portable sample_001..sample_060 directory names; original stems preserved in manifests",
+  "set_count": 5,
+  "samples_per_set": 60,
+  "sets": {
+    "human_quality_eval_set_1": [
+      {
+        "sample_id": "sample_001",
+        "original_stem": "P2WjqM6ZVD4"
+      },
+      {
+        "sample_id": "sample_002",
+        "original_stem": "ejyNtYoW_mg"
+      },
+      {
+        "sample_id": "sample_003",
+        "original_stem": "mBp5WyZ2ucI"
+      },
+      {
+        "sample_id": "sample_004",
+        "original_stem": "DAY1_A4_LUCIA_11100000"
+      },
+      {
+        "sample_id": "sample_005",
+        "original_stem": "DAY1_A3_TASHA_12543000"
+      },
+      {
+        "sample_id": "sample_006",
+        "original_stem": "Ek-5JMwBuIw"
+      },
+      {
+        "sample_id": "sample_007",
+        "original_stem": "uevILpP2oCU"
+      },
+      {
+        "sample_id": "sample_008",
+        "original_stem": "DAY1_A2_ALICE_19493000"
+      },
+      {
+        "sample_id": "sample_009",
+        "original_stem": "v_00012658_2"
+      },
+      {
+        "sample_id": "sample_010",
+        "original_stem": "DAY1_A2_ALICE_13293000"
+      },
+      {
+        "sample_id": "sample_011",
+        "original_stem": "DAY1_A4_LUCIA_13273000"
+      },
+      {
+        "sample_id": "sample_012",
+        "original_stem": "W5DE2Dbxkos.16_0"
+      },
+      {
+        "sample_id": "sample_013",
+        "original_stem": "DAY1_A5_KATRINA_18153000"
+      },
+      {
+        "sample_id": "sample_014",
+        "original_stem": "Oqz0QkQ-aGY.11_0"
+      },
+      {
+        "sample_id": "sample_015",
+        "original_stem": "DAY1_A1_JAKE_19443000"
+      },
+      {
+        "sample_id": "sample_016",
+        "original_stem": "cnd9llMusVc.30_2"
+      },
+      {
+        "sample_id": "sample_017",
+        "original_stem": "1aRUJCnlF7U"
+      },
+      {
+        "sample_id": "sample_018",
+        "original_stem": "30k-21-2-1|P2|1208|1722"
+      },
+      {
+        "sample_id": "sample_019",
+        "original_stem": "DAY1_A4_LUCIA_11370000"
+      },
+      {
+        "sample_id": "sample_020",
+        "original_stem": "7g2u14hKfEY.15_1"
+      },
+      {
+        "sample_id": "sample_021",
+        "original_stem": "Z3ECBgBpuKg.29_1"
+      },
+      {
+        "sample_id": "sample_022",
+        "original_stem": "ijrEH_yyFeU.35_2"
+      },
+      {
+        "sample_id": "sample_023",
+        "original_stem": "mrew-_N-EAI"
+      },
+      {
+        "sample_id": "sample_024",
+        "original_stem": "v_00010607_0"
+      },
+      {
+        "sample_id": "sample_025",
+        "original_stem": "jrT22IUBr_E"
+      },
+      {
+        "sample_id": "sample_026",
+        "original_stem": "0337-7"
+      },
+      {
+        "sample_id": "sample_027",
+        "original_stem": "DAY1_A3_TASHA_20220000"
+      },
+      {
+        "sample_id": "sample_028",
+        "original_stem": "v_00004005_0"
+      },
+      {
+        "sample_id": "sample_029",
+        "original_stem": "TR6JqONBF8k.22_0"
+      },
+      {
+        "sample_id": "sample_030",
+        "original_stem": "0493-7"
+      },
+      {
+        "sample_id": "sample_031",
+        "original_stem": "26k-11-5-7|P1|1826|2414"
+      },
+      {
+        "sample_id": "sample_032",
+        "original_stem": "cR5ebD8aJYM.2_1"
+      },
+      {
+        "sample_id": "sample_033",
+        "original_stem": "DAY1_A6_SHURE_11150000"
+      },
+      {
+        "sample_id": "sample_034",
+        "original_stem": "DAY1_A5_KATRINA_19420000"
+      },
+      {
+        "sample_id": "sample_035",
+        "original_stem": "9t37-SzTgqY"
+      },
+      {
+        "sample_id": "sample_036",
+        "original_stem": "DAY1_A3_TASHA_19140000"
+      },
+      {
+        "sample_id": "sample_037",
+        "original_stem": "gcNetdWv1Pc.9_1"
+      },
+      {
+        "sample_id": "sample_038",
+        "original_stem": "DAY1_A3_TASHA_14123000"
+      },
+      {
+        "sample_id": "sample_039",
+        "original_stem": "DAY1_A5_KATRINA_19333000"
+      },
+      {
+        "sample_id": "sample_040",
+        "original_stem": "DAY1_A6_SHURE_12283000"
+      },
+      {
+        "sample_id": "sample_041",
+        "original_stem": "RAFRW8p7LnM.28_0"
+      },
+      {
+        "sample_id": "sample_042",
+        "original_stem": "v_00014883_2"
+      },
+      {
+        "sample_id": "sample_043",
+        "original_stem": "DAY1_A1_JAKE_19073000"
+      },
+      {
+        "sample_id": "sample_044",
+        "original_stem": "bg7-3A2zeyw.17_2"
+      },
+      {
+        "sample_id": "sample_045",
+        "original_stem": "DAY1_A4_LUCIA_17463000"
+      },
+      {
+        "sample_id": "sample_046",
+        "original_stem": "DAY1_A4_LUCIA_19040000"
+      },
+      {
+        "sample_id": "sample_047",
+        "original_stem": "0309-7"
+      },
+      {
+        "sample_id": "sample_048",
+        "original_stem": "29k-21-2-2|P2|2786|3237"
+      },
+      {
+        "sample_id": "sample_049",
+        "original_stem": "0592-7"
+      },
+      {
+        "sample_id": "sample_050",
+        "original_stem": "0506-7"
+      },
+      {
+        "sample_id": "sample_051",
+        "original_stem": "V2Zqcozeqio.14_0"
+      },
+      {
+        "sample_id": "sample_052",
+        "original_stem": "1021-7"
+      },
+      {
+        "sample_id": "sample_053",
+        "original_stem": "XaqqqOGkk_4.50_2"
+      },
+      {
+        "sample_id": "sample_054",
+        "original_stem": "DAY1_A3_TASHA_13070000"
+      },
+      {
+        "sample_id": "sample_055",
+        "original_stem": "z8WtVKoA5_w.6_1"
+      },
+      {
+        "sample_id": "sample_056",
+        "original_stem": "913JhnW28U4_video"
+      },
+      {
+        "sample_id": "sample_057",
+        "original_stem": "DAY1_A3_TASHA_20430000"
+      },
+      {
+        "sample_id": "sample_058",
+        "original_stem": "DAY1_A4_LUCIA_13173000"
+      },
+      {
+        "sample_id": "sample_059",
+        "original_stem": "DAY1_A3_TASHA_13043000"
+      },
+      {
+        "sample_id": "sample_060",
+        "original_stem": "Pv91eiIcAno"
+      }
+    ],
+    "human_quality_eval_set_2": [
+      {
+        "sample_id": "sample_001",
+        "original_stem": "A-IsDym1IlE.5_0"
+      },
+      {
+        "sample_id": "sample_002",
+        "original_stem": "DAY1_A1_JAKE_20333000"
+      },
+      {
+        "sample_id": "sample_003",
+        "original_stem": "0055-7"
+      },
+      {
+        "sample_id": "sample_004",
+        "original_stem": "1u5f0szr7pc.23_2"
+      },
+      {
+        "sample_id": "sample_005",
+        "original_stem": "kIuMz9ZEqcU.5_1"
+      },
+      {
+        "sample_id": "sample_006",
+        "original_stem": "-EhOTe1frdM.22_1"
+      },
+      {
+        "sample_id": "sample_007",
+        "original_stem": "aX_oo-n32uY"
+      },
+      {
+        "sample_id": "sample_008",
+        "original_stem": "DAY1_A3_TASHA_19583000"
+      },
+      {
+        "sample_id": "sample_009",
+        "original_stem": "DAY1_A3_TASHA_17123000"
+      },
+      {
+        "sample_id": "sample_010",
+        "original_stem": "5VW3teDBdB4.13_0"
+      },
+      {
+        "sample_id": "sample_011",
+        "original_stem": "27l-22-4-2|P2|495|1088"
+      },
+      {
+        "sample_id": "sample_012",
+        "original_stem": "DAY1_A2_ALICE_17560000"
+      },
+      {
+        "sample_id": "sample_013",
+        "original_stem": "5D3X6"
+      },
+      {
+        "sample_id": "sample_014",
+        "original_stem": "Qebi017GbE4.22_0"
+      },
+      {
+        "sample_id": "sample_015",
+        "original_stem": "1103-7"
+      },
+      {
+        "sample_id": "sample_016",
+        "original_stem": "t0MSr28t39g.11_0"
+      },
+      {
+        "sample_id": "sample_017",
+        "original_stem": "DAY1_A5_KATRINA_13070000"
+      },
+      {
+        "sample_id": "sample_018",
+        "original_stem": "DAY1_A5_KATRINA_17220000"
+      },
+      {
+        "sample_id": "sample_019",
+        "original_stem": "DAY1_A2_ALICE_19460000"
+      },
+      {
+        "sample_id": "sample_020",
+        "original_stem": "1188-7"
+      },
+      {
+        "sample_id": "sample_021",
+        "original_stem": "000v5t8qkpo.6_1"
+      },
+      {
+        "sample_id": "sample_022",
+        "original_stem": "NiVGun7GdnU.38_0"
+      },
+      {
+        "sample_id": "sample_023",
+        "original_stem": "hCaT79hT2DA.78_0"
+      },
+      {
+        "sample_id": "sample_024",
+        "original_stem": "DAY1_A6_SHURE_17550000"
+      },
+      {
+        "sample_id": "sample_025",
+        "original_stem": "km2Jm2Vzym8"
+      },
+      {
+        "sample_id": "sample_026",
+        "original_stem": "higu2xc2DAk"
+      },
+      {
+        "sample_id": "sample_027",
+        "original_stem": "v_00007041_10"
+      },
+      {
+        "sample_id": "sample_028",
+        "original_stem": "PkHbYlym82o.29_0"
+      },
+      {
+        "sample_id": "sample_029",
+        "original_stem": "DAY1_A1_JAKE_19420000"
+      },
+      {
+        "sample_id": "sample_030",
+        "original_stem": "DAY1_A5_KATRINA_19230000"
+      },
+      {
+        "sample_id": "sample_031",
+        "original_stem": "0951-7"
+      },
+      {
+        "sample_id": "sample_032",
+        "original_stem": "H61mz-HWyLA.8_1"
+      },
+      {
+        "sample_id": "sample_033",
+        "original_stem": "FJdPecSUCgo.11_0"
+      },
+      {
+        "sample_id": "sample_034",
+        "original_stem": "DAY1_A2_ALICE_14103000"
+      },
+      {
+        "sample_id": "sample_035",
+        "original_stem": "DAY1_A1_JAKE_20263000"
+      },
+      {
+        "sample_id": "sample_036",
+        "original_stem": "DAY1_A4_LUCIA_21353000"
+      },
+      {
+        "sample_id": "sample_037",
+        "original_stem": "8Z0Zp4oyRms.28_0"
+      },
+      {
+        "sample_id": "sample_038",
+        "original_stem": "DAY1_A2_ALICE_20310000"
+      },
+      {
+        "sample_id": "sample_039",
+        "original_stem": "V-JxnANIG58.53_0"
+      },
+      {
+        "sample_id": "sample_040",
+        "original_stem": "Y_CY6BtlxDI.19_1"
+      },
+      {
+        "sample_id": "sample_041",
+        "original_stem": "7ZP_dIDxt0I.7_1"
+      },
+      {
+        "sample_id": "sample_042",
+        "original_stem": "DAY1_A2_ALICE_20280000"
+      },
+      {
+        "sample_id": "sample_043",
+        "original_stem": "N3VXtaEJjiA.27_0"
+      },
+      {
+        "sample_id": "sample_044",
+        "original_stem": "v_00002077_26"
+      },
+      {
+        "sample_id": "sample_045",
+        "original_stem": "v_00004635_0"
+      },
+      {
+        "sample_id": "sample_046",
+        "original_stem": "RHndwbGiY78.9_2"
+      },
+      {
+        "sample_id": "sample_047",
+        "original_stem": "IbN3wvcBH_0"
+      },
+      {
+        "sample_id": "sample_048",
+        "original_stem": "t8tM1aXvuEw.5_0"
+      },
+      {
+        "sample_id": "sample_049",
+        "original_stem": "Ke6qP1bGIfw.40_4"
+      },
+      {
+        "sample_id": "sample_050",
+        "original_stem": "DAY1_A2_ALICE_12000000"
+      },
+      {
+        "sample_id": "sample_051",
+        "original_stem": "0393-7"
+      },
+      {
+        "sample_id": "sample_052",
+        "original_stem": "DAY1_A4_LUCIA_19503000"
+      },
+      {
+        "sample_id": "sample_053",
+        "original_stem": "0018-7"
+      },
+      {
+        "sample_id": "sample_054",
+        "original_stem": "cFHV7Ptg_H8"
+      },
+      {
+        "sample_id": "sample_055",
+        "original_stem": "LBdZWSpq3Kw.17_0"
+      },
+      {
+        "sample_id": "sample_056",
+        "original_stem": "26k-11-7-7|P1|3399|3829"
+      },
+      {
+        "sample_id": "sample_057",
+        "original_stem": "BVHQhXKrQBg.13_0"
+      },
+      {
+        "sample_id": "sample_058",
+        "original_stem": "DAY1_A6_SHURE_11220000"
+      },
+      {
+        "sample_id": "sample_059",
+        "original_stem": "DAY1_A2_ALICE_11350000"
+      },
+      {
+        "sample_id": "sample_060",
+        "original_stem": "DAY1_A1_JAKE_18290000"
+      }
+    ],
+    "human_quality_eval_set_3": [
+      {
+        "sample_id": "sample_001",
+        "original_stem": "DAY1_A2_ALICE_13303000"
+      },
+      {
+        "sample_id": "sample_002",
+        "original_stem": "0M08yijCUVY.18_1"
+      },
+      {
+        "sample_id": "sample_003",
+        "original_stem": "v_00009404_0"
+      },
+      {
+        "sample_id": "sample_004",
+        "original_stem": "1000-7"
+      },
+      {
+        "sample_id": "sample_005",
+        "original_stem": "DAY1_A1_JAKE_17243000"
+      },
+      {
+        "sample_id": "sample_006",
+        "original_stem": "DAY1_A2_ALICE_17533000"
+      },
+      {
+        "sample_id": "sample_007",
+        "original_stem": "DAY1_A3_TASHA_20193000"
+      },
+      {
+        "sample_id": "sample_008",
+        "original_stem": "Qo3FhcPJNVY.2_1"
+      },
+      {
+        "sample_id": "sample_009",
+        "original_stem": "lAPQ_fbK680"
+      },
+      {
+        "sample_id": "sample_010",
+        "original_stem": "43l88CAaEOk.22_0"
+      },
+      {
+        "sample_id": "sample_011",
+        "original_stem": "EavQ0LtEICY_video"
+      },
+      {
+        "sample_id": "sample_012",
+        "original_stem": "DAY1_A6_SHURE_18263000"
+      },
+      {
+        "sample_id": "sample_013",
+        "original_stem": "29k-12-10-3|P1|5675|6118"
+      },
+      {
+        "sample_id": "sample_014",
+        "original_stem": "XKrPt6jG0rE"
+      },
+      {
+        "sample_id": "sample_015",
+        "original_stem": "BpiebvnF2x4.7_1"
+      },
+      {
+        "sample_id": "sample_016",
+        "original_stem": "0856-7"
+      },
+      {
+        "sample_id": "sample_017",
+        "original_stem": "H0uxrf4pJY0"
+      },
+      {
+        "sample_id": "sample_018",
+        "original_stem": "ftKMIDiTIW0.21_2"
+      },
+      {
+        "sample_id": "sample_019",
+        "original_stem": "27k-12-4-3|P1|0|395"
+      },
+      {
+        "sample_id": "sample_020",
+        "original_stem": "HSHa3C6_vTc.68_1"
+      },
+      {
+        "sample_id": "sample_021",
+        "original_stem": "BKYBhsy3gZQ.40_0"
+      },
+      {
+        "sample_id": "sample_022",
+        "original_stem": "Ip7c9bM4RFQ.9_2"
+      },
+      {
+        "sample_id": "sample_023",
+        "original_stem": "CFFwcmmltCU.42_1"
+      },
+      {
+        "sample_id": "sample_024",
+        "original_stem": "DAY1_A1_JAKE_14150000"
+      },
+      {
+        "sample_id": "sample_025",
+        "original_stem": "PFU-MhA1ubc_video"
+      },
+      {
+        "sample_id": "sample_026",
+        "original_stem": "aQ9parp-_GU.6_0"
+      },
+      {
+        "sample_id": "sample_027",
+        "original_stem": "26l-21-3-2|P1|882|1479"
+      },
+      {
+        "sample_id": "sample_028",
+        "original_stem": "WDa1Yz4c7NE.14_0"
+      },
+      {
+        "sample_id": "sample_029",
+        "original_stem": "7ivIUT1WRqs.0_2"
+      },
+      {
+        "sample_id": "sample_030",
+        "original_stem": "DAY1_A3_TASHA_19580000"
+      },
+      {
+        "sample_id": "sample_031",
+        "original_stem": "_M5HX3lk6gk.37_0"
+      },
+      {
+        "sample_id": "sample_032",
+        "original_stem": "DAY1_A4_LUCIA_19030000"
+      },
+      {
+        "sample_id": "sample_033",
+        "original_stem": "HwAPGFLvoHg.60_0"
+      },
+      {
+        "sample_id": "sample_034",
+        "original_stem": "KD1yxRyFAZQ_video"
+      },
+      {
+        "sample_id": "sample_035",
+        "original_stem": "DAY1_A2_ALICE_20220000"
+      },
+      {
+        "sample_id": "sample_036",
+        "original_stem": "v_00009591_0"
+      },
+      {
+        "sample_id": "sample_037",
+        "original_stem": "DAY1_A5_KATRINA_12563000"
+      },
+      {
+        "sample_id": "sample_038",
+        "original_stem": "Zjktzs69gJM.6_1"
+      },
+      {
+        "sample_id": "sample_039",
+        "original_stem": "DAY1_A1_JAKE_12543000"
+      },
+      {
+        "sample_id": "sample_040",
+        "original_stem": "Njw34OmL8CM"
+      },
+      {
+        "sample_id": "sample_041",
+        "original_stem": "ZEfWb0-vs6o.1_0"
+      },
+      {
+        "sample_id": "sample_042",
+        "original_stem": "DAY1_A5_KATRINA_18190000"
+      },
+      {
+        "sample_id": "sample_043",
+        "original_stem": "DAY1_A6_SHURE_17210000"
+      },
+      {
+        "sample_id": "sample_044",
+        "original_stem": "29k-22-4-2|P2|429|877"
+      },
+      {
+        "sample_id": "sample_045",
+        "original_stem": "1Fb3wBufclk.12_0"
+      },
+      {
+        "sample_id": "sample_046",
+        "original_stem": "C9WmWA0TRvs"
+      },
+      {
+        "sample_id": "sample_047",
+        "original_stem": "v_00003574_0"
+      },
+      {
+        "sample_id": "sample_048",
+        "original_stem": "DAY1_A3_TASHA_20213000"
+      },
+      {
+        "sample_id": "sample_049",
+        "original_stem": "2tBRn4xKmzM_video"
+      },
+      {
+        "sample_id": "sample_050",
+        "original_stem": "yPAglEvhlaI.0_1"
+      },
+      {
+        "sample_id": "sample_051",
+        "original_stem": "OE4rLHCMOm4.8_1"
+      },
+      {
+        "sample_id": "sample_052",
+        "original_stem": "DAY1_A2_ALICE_20300000"
+      },
+      {
+        "sample_id": "sample_053",
+        "original_stem": "eTYCUxER-T0.24_0"
+      },
+      {
+        "sample_id": "sample_054",
+        "original_stem": "DAY1_A2_ALICE_14133000"
+      },
+      {
+        "sample_id": "sample_055",
+        "original_stem": "29k-21-7-1|P2|449|974"
+      },
+      {
+        "sample_id": "sample_056",
+        "original_stem": "7CCM1"
+      },
+      {
+        "sample_id": "sample_057",
+        "original_stem": "pGF0h_1tP6A.41_0"
+      },
+      {
+        "sample_id": "sample_058",
+        "original_stem": "DAY1_A1_JAKE_12300000"
+      },
+      {
+        "sample_id": "sample_059",
+        "original_stem": "0442-7"
+      },
+      {
+        "sample_id": "sample_060",
+        "original_stem": "pQOqIbJn3iA.1_3"
+      }
+    ],
+    "human_quality_eval_set_4": [
+      {
+        "sample_id": "sample_001",
+        "original_stem": "V25MiUIpLEw.6_0"
+      },
+      {
+        "sample_id": "sample_002",
+        "original_stem": "DAY1_A6_SHURE_17113000"
+      },
+      {
+        "sample_id": "sample_003",
+        "original_stem": "DAY1_A6_SHURE_11370000"
+      },
+      {
+        "sample_id": "sample_004",
+        "original_stem": "OzN26UqzXIY"
+      },
+      {
+        "sample_id": "sample_005",
+        "original_stem": "iMwaS1oGahc"
+      },
+      {
+        "sample_id": "sample_006",
+        "original_stem": "Hb-9GSU5OgM.28_0"
+      },
+      {
+        "sample_id": "sample_007",
+        "original_stem": "DAY1_A5_KATRINA_19460000"
+      },
+      {
+        "sample_id": "sample_008",
+        "original_stem": "5-X0RJdodhg.9_0"
+      },
+      {
+        "sample_id": "sample_009",
+        "original_stem": "F563fDRVvTk.1_21"
+      },
+      {
+        "sample_id": "sample_010",
+        "original_stem": "Z-ut2qWvnIg"
+      },
+      {
+        "sample_id": "sample_011",
+        "original_stem": "36E3XXqab40_video"
+      },
+      {
+        "sample_id": "sample_012",
+        "original_stem": "DAY1_A2_ALICE_19443000"
+      },
+      {
+        "sample_id": "sample_013",
+        "original_stem": "3G1OQ"
+      },
+      {
+        "sample_id": "sample_014",
+        "original_stem": "ozHgtN4rUAc.24_7"
+      },
+      {
+        "sample_id": "sample_015",
+        "original_stem": "DAY1_A1_JAKE_18180000"
+      },
+      {
+        "sample_id": "sample_016",
+        "original_stem": "FertzbgAhbo"
+      },
+      {
+        "sample_id": "sample_017",
+        "original_stem": "v_00001387_0"
+      },
+      {
+        "sample_id": "sample_018",
+        "original_stem": "O1aza19D0jQ"
+      },
+      {
+        "sample_id": "sample_019",
+        "original_stem": "DAY1_A5_KATRINA_19550000"
+      },
+      {
+        "sample_id": "sample_020",
+        "original_stem": "DAY1_A4_LUCIA_14053000"
+      },
+      {
+        "sample_id": "sample_021",
+        "original_stem": "sdmBcnjBmOY.11_2"
+      },
+      {
+        "sample_id": "sample_022",
+        "original_stem": "DAY1_A4_LUCIA_18230000"
+      },
+      {
+        "sample_id": "sample_023",
+        "original_stem": "DAY1_A3_TASHA_18340000"
+      },
+      {
+        "sample_id": "sample_024",
+        "original_stem": "DAY1_A5_KATRINA_18143000"
+      },
+      {
+        "sample_id": "sample_025",
+        "original_stem": "DAY1_A2_ALICE_19433000"
+      },
+      {
+        "sample_id": "sample_026",
+        "original_stem": "DAY1_A2_ALICE_20273000"
+      },
+      {
+        "sample_id": "sample_027",
+        "original_stem": "26k-21-6-1|P1|446|968"
+      },
+      {
+        "sample_id": "sample_028",
+        "original_stem": "30k-12-1-2|P1|4186|4674"
+      },
+      {
+        "sample_id": "sample_029",
+        "original_stem": "p3jO6wZx_jk"
+      },
+      {
+        "sample_id": "sample_030",
+        "original_stem": "sBXr1tzugzs.11_1"
+      },
+      {
+        "sample_id": "sample_031",
+        "original_stem": "s8j7wL9mclU.57_0"
+      },
+      {
+        "sample_id": "sample_032",
+        "original_stem": "gSURmOU_u94.3_0"
+      },
+      {
+        "sample_id": "sample_033",
+        "original_stem": "30k-21-6-1|P2|2098|2520"
+      },
+      {
+        "sample_id": "sample_034",
+        "original_stem": "krSLYC9LAhg.7_0"
+      },
+      {
+        "sample_id": "sample_035",
+        "original_stem": "DAY1_A1_JAKE_20133000"
+      },
+      {
+        "sample_id": "sample_036",
+        "original_stem": "0796-7"
+      },
+      {
+        "sample_id": "sample_037",
+        "original_stem": "CPC2zIu9rYc.6_0"
+      },
+      {
+        "sample_id": "sample_038",
+        "original_stem": "D6PwqjfZ0nU.5_0"
+      },
+      {
+        "sample_id": "sample_039",
+        "original_stem": "c51qes_vajY.16_0"
+      },
+      {
+        "sample_id": "sample_040",
+        "original_stem": "cvazJjuYtJI.3_0"
+      },
+      {
+        "sample_id": "sample_041",
+        "original_stem": "uTeTOMPXB8s.23_1"
+      },
+      {
+        "sample_id": "sample_042",
+        "original_stem": "v_00011221_1"
+      },
+      {
+        "sample_id": "sample_043",
+        "original_stem": "idg2kCT33m4.10_0"
+      },
+      {
+        "sample_id": "sample_044",
+        "original_stem": "TVVrtVdMSzM.13_0"
+      },
+      {
+        "sample_id": "sample_045",
+        "original_stem": "0789-7"
+      },
+      {
+        "sample_id": "sample_046",
+        "original_stem": "7cbQwnC-PGI.9_0"
+      },
+      {
+        "sample_id": "sample_047",
+        "original_stem": "DAY1_A1_JAKE_17530000"
+      },
+      {
+        "sample_id": "sample_048",
+        "original_stem": "3RZlNwEv3XI_video"
+      },
+      {
+        "sample_id": "sample_049",
+        "original_stem": "W9qqwQSjJAg.5_0"
+      },
+      {
+        "sample_id": "sample_050",
+        "original_stem": "DUDNo9vFMqQ.27_0"
+      },
+      {
+        "sample_id": "sample_051",
+        "original_stem": "DAY1_A6_SHURE_17570000"
+      },
+      {
+        "sample_id": "sample_052",
+        "original_stem": "rZHcntubBLQ.64_0"
+      },
+      {
+        "sample_id": "sample_053",
+        "original_stem": "6xvo3cg36gE.12_2"
+      },
+      {
+        "sample_id": "sample_054",
+        "original_stem": "us60lnZ7CGQ"
+      },
+      {
+        "sample_id": "sample_055",
+        "original_stem": "hEAASx8ipsI.9_0"
+      },
+      {
+        "sample_id": "sample_056",
+        "original_stem": "d3rJZJtzCJ0.43_0"
+      },
+      {
+        "sample_id": "sample_057",
+        "original_stem": "DAY1_A2_ALICE_17360000"
+      },
+      {
+        "sample_id": "sample_058",
+        "original_stem": "0527-7"
+      },
+      {
+        "sample_id": "sample_059",
+        "original_stem": "1pPTL_FtoIs.24_0"
+      },
+      {
+        "sample_id": "sample_060",
+        "original_stem": "DAY1_A3_TASHA_13593000"
+      }
+    ],
+    "human_quality_eval_set_5": [
+      {
+        "sample_id": "sample_001",
+        "original_stem": "0634-7"
+      },
+      {
+        "sample_id": "sample_002",
+        "original_stem": "DAY1_A5_KATRINA_17380000"
+      },
+      {
+        "sample_id": "sample_003",
+        "original_stem": "Rfm5gDYLCjQ.29_1"
+      },
+      {
+        "sample_id": "sample_004",
+        "original_stem": "9GiHfFkj7WU.6_1"
+      },
+      {
+        "sample_id": "sample_005",
+        "original_stem": "vn0Ts96_KSI.44_1"
+      },
+      {
+        "sample_id": "sample_006",
+        "original_stem": "wuZ5nuG_Hmk"
+      },
+      {
+        "sample_id": "sample_007",
+        "original_stem": "bpA7sxzg7ZM.5_1"
+      },
+      {
+        "sample_id": "sample_008",
+        "original_stem": "4jTustPq1Ic.91_1"
+      },
+      {
+        "sample_id": "sample_009",
+        "original_stem": "28hKF2Rhebs.31_1"
+      },
+      {
+        "sample_id": "sample_010",
+        "original_stem": "DAY1_A2_ALICE_17470000"
+      },
+      {
+        "sample_id": "sample_011",
+        "original_stem": "J8Lxm85vvfs.8_1"
+      },
+      {
+        "sample_id": "sample_012",
+        "original_stem": "26l-12-3-2|P1|0|562"
+      },
+      {
+        "sample_id": "sample_013",
+        "original_stem": "V9hXXmaNxTg.23_0"
+      },
+      {
+        "sample_id": "sample_014",
+        "original_stem": "DAY1_A2_ALICE_17260000"
+      },
+      {
+        "sample_id": "sample_015",
+        "original_stem": "DAY1_A4_LUCIA_13013000"
+      },
+      {
+        "sample_id": "sample_016",
+        "original_stem": "Kv94jjwWqTA.28_0"
+      },
+      {
+        "sample_id": "sample_017",
+        "original_stem": "v_00001379_10"
+      },
+      {
+        "sample_id": "sample_018",
+        "original_stem": "v_00009721_0"
+      },
+      {
+        "sample_id": "sample_019",
+        "original_stem": "DAY1_A4_LUCIA_19490000"
+      },
+      {
+        "sample_id": "sample_020",
+        "original_stem": "Zm9OeRAqiCo.27_0"
+      },
+      {
+        "sample_id": "sample_021",
+        "original_stem": "dMkMfWWNSqM.47_1"
+      },
+      {
+        "sample_id": "sample_022",
+        "original_stem": "DAY1_A1_JAKE_18090000"
+      },
+      {
+        "sample_id": "sample_023",
+        "original_stem": "DAY1_A5_KATRINA_21493000"
+      },
+      {
+        "sample_id": "sample_024",
+        "original_stem": "DAY1_A2_ALICE_20030000"
+      },
+      {
+        "sample_id": "sample_025",
+        "original_stem": "DAY1_A6_SHURE_21360000"
+      },
+      {
+        "sample_id": "sample_026",
+        "original_stem": "V9OMIQTTTTM.36_0"
+      },
+      {
+        "sample_id": "sample_027",
+        "original_stem": "MMbtOXDjssQ"
+      },
+      {
+        "sample_id": "sample_028",
+        "original_stem": "MVGpd4TH54A.0_0"
+      },
+      {
+        "sample_id": "sample_029",
+        "original_stem": "v_00001948_5"
+      },
+      {
+        "sample_id": "sample_030",
+        "original_stem": "zWwyyNZ5bFQ"
+      },
+      {
+        "sample_id": "sample_031",
+        "original_stem": "29k-12-11-2|P1|0|440"
+      },
+      {
+        "sample_id": "sample_032",
+        "original_stem": "DAY1_A5_KATRINA_11433000"
+      },
+      {
+        "sample_id": "sample_033",
+        "original_stem": "4YmbEF-0bFk.16_0"
+      },
+      {
+        "sample_id": "sample_034",
+        "original_stem": "8t8jfd4IJGI.35_0"
+      },
+      {
+        "sample_id": "sample_035",
+        "original_stem": "psnVwfcjpXg"
+      },
+      {
+        "sample_id": "sample_036",
+        "original_stem": "DAY1_A1_JAKE_17143000"
+      },
+      {
+        "sample_id": "sample_037",
+        "original_stem": "P9HZhIVkuTg.17_0"
+      },
+      {
+        "sample_id": "sample_038",
+        "original_stem": "D9NDFlAhVA0"
+      },
+      {
+        "sample_id": "sample_039",
+        "original_stem": "v_00006264_1"
+      },
+      {
+        "sample_id": "sample_040",
+        "original_stem": "0mYtH39MEck"
+      },
+      {
+        "sample_id": "sample_041",
+        "original_stem": "DAY1_A2_ALICE_20033000"
+      },
+      {
+        "sample_id": "sample_042",
+        "original_stem": "EVBLytm4mN0.21_1"
+      },
+      {
+        "sample_id": "sample_043",
+        "original_stem": "0086-7"
+      },
+      {
+        "sample_id": "sample_044",
+        "original_stem": "DAY1_A4_LUCIA_14173000"
+      },
+      {
+        "sample_id": "sample_045",
+        "original_stem": "96u7T_JEBDc.25_0"
+      },
+      {
+        "sample_id": "sample_046",
+        "original_stem": "TZOZq4jqGmk.8_2"
+      },
+      {
+        "sample_id": "sample_047",
+        "original_stem": "vI0x7FgjH80"
+      },
+      {
+        "sample_id": "sample_048",
+        "original_stem": "0032-7"
+      },
+      {
+        "sample_id": "sample_049",
+        "original_stem": "HY_YTckM9uk.0_0"
+      },
+      {
+        "sample_id": "sample_050",
+        "original_stem": "DAY1_A5_KATRINA_17573000"
+      },
+      {
+        "sample_id": "sample_051",
+        "original_stem": "v_00009689_0"
+      },
+      {
+        "sample_id": "sample_052",
+        "original_stem": "v_00010075_0"
+      },
+      {
+        "sample_id": "sample_053",
+        "original_stem": "DAY1_A1_JAKE_19153000"
+      },
+      {
+        "sample_id": "sample_054",
+        "original_stem": "0252-7"
+      },
+      {
+        "sample_id": "sample_055",
+        "original_stem": "MOfj20AvJ0s.41_0"
+      },
+      {
+        "sample_id": "sample_056",
+        "original_stem": "0052-7"
+      },
+      {
+        "sample_id": "sample_057",
+        "original_stem": "oVGg6191Wmc.10_0"
+      },
+      {
+        "sample_id": "sample_058",
+        "original_stem": "Z9E_idJy97M.19_0"
+      },
+      {
+        "sample_id": "sample_059",
+        "original_stem": "ixVmusdbsto.15_0"
+      },
+      {
+        "sample_id": "sample_060",
+        "original_stem": "0982-7"
+      }
+    ]
+  }
+}

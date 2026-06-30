@@ -161,15 +161,38 @@ def download_one(key: str, url: str, start: str, end: str) -> bool:
 # ==================== o3 过滤 ====================
 
 O3_PROMPT = """[Temporal Cloze Task Suitability]
-Can this video be used for a "temporal cloze" task?
-(Given the beginning and end of a video, predict what happens in the middle gap)
 
-✓ PASS: Video has causal/temporal continuity where the middle can be inferred from before & after
-✗ REJECT: Middle segment cannot be meaningfully predicted
+You are judging whether the video described by the caption is suitable for a temporal cloze benchmark. In this benchmark, a video is split into three ordered visual segments:
+- BEGINNING: the context shown before the missing middle.
+- ANSWER: the missing middle segment that a model should choose or predict.
+- ENDING: the context shown after the missing middle.
 
-Caption: {caption}
+A good example lets a viewer infer a plausible ANSWER from BEGINNING and ENDING through visual temporal and causal continuity. Judge only what can be supported by visible actions or events in the caption. Ignore audio-only information, speech or dialogue content, subtitles, narration, background music, creator commentary, and any purely emotional or aesthetic judgment unless it is visually grounded.
 
-JSON: {{"pass": true/false, "reason": "one or two brief sentences"}}
+Please consider these quality aspects:
+- Scene transition: whether BEGINNING, ANSWER, and ENDING appear to belong to a coherent visual scene or a justifiable scene transition.
+- Subject consistency: whether the main person, object, or environment remains consistent across the three segments.
+- Action consistency: whether the motion or activity in ANSWER reasonably continues from BEGINNING and leads toward ENDING.
+- Logical consistency: whether the full sequence makes temporal and causal sense as a middle-completion example.
+
+PASS only if:
+- The caption describes a concrete visual process, action, interaction, transformation, or event with ordered steps.
+- The likely ANSWER segment would be visually distinguishable and meaningfully constrained by BEGINNING and ENDING.
+- BEGINNING, ANSWER, and ENDING would form one coherent temporal sequence with stable subjects and a reasonable causal or physical progression.
+
+REJECT if any of these apply:
+- The caption is mostly static description, scenery, appearance, atmosphere, or a montage without a clear ordered visual action.
+- The event depends mainly on dialogue, audio, text, subtitles, narration, or hidden intent rather than visible motion.
+- The middle could be almost anything, is too ambiguous, or cannot be inferred from before/after visual context.
+- There are abrupt unrelated scene cuts, inconsistent subjects or environments, or disconnected actions that would make BEGINNING, ANSWER, and ENDING incoherent.
+- The video only shows repeated motion with no meaningful progress, or a single state with little temporal change.
+
+Caption:
+{caption}
+
+Return valid JSON only, using one of these shapes:
+{{"pass": true, "reason": "one or two concise sentences naming the decisive quality aspects"}}
+{{"pass": false, "reason": "one or two concise sentences naming the decisive quality aspects"}}
 """
 
 
