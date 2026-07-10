@@ -2,8 +2,6 @@
   "dataset_id": "set_4",
   "schedule_policy": "single_folder_navigation_v1",
   "seed": 453691976706101979,
-  "choices_dir": "/Users/bytedance/Desktop/video_cloze_human_five_sets/video_cloze_human_set_4/choices_human/set_4",
-  "result_path": "/Users/bytedance/Desktop/video_cloze_human_five_sets/video_cloze_human_set_4/human_eval_results/set_4.json",
   "started_at_utc": "2026-05-17T05:23:07.857604+00:00",
   "completed_at_utc": "2026-05-17T06:46:01.272453+00:00",
   "stems": [

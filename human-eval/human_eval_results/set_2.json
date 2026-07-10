@@ -2,8 +2,6 @@
   "dataset_id": "set_2",
   "schedule_policy": "single_folder_navigation_v1",
   "seed": 11581582076890691273,
-  "choices_dir": "choices_human/set_2",
-  "result_path": "human_eval_results/set_2.json",
   "started_at_utc": "2026-05-17T16:43:46.461750+00:00",
   "completed_at_utc": "2026-05-17T18:23:40.661327+00:00",
   "stems": [

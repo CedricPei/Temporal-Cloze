@@ -194,7 +194,7 @@ def derive_consistency_bins(model_stats: dict) -> dict[str, float]:
 
     s_acc = model_stats.get("S_acc")
     a_acc = model_stats.get("A_acc")
-    p_acc = model_stats.get("P_acc", model_stats.get("C_acc"))
+    p_acc = model_stats.get("P_acc")
     sa = model_stats.get("S+A")
     sp = model_stats.get("S+P", model_stats.get("S+C"))
     ap = model_stats.get("A+P", model_stats.get("A+C"))
@@ -333,7 +333,7 @@ def build_dataframe(report: dict):
             "invalid_entries_skipped": m.get("invalid_entries_skipped", 0),
             "S_acc": m.get("S_acc", np.nan),
             "A_acc": m.get("A_acc", np.nan),
-            "C_acc": m.get("P_acc", m.get("C_acc", np.nan)),
+            "P_acc": m.get("P_acc", np.nan),
             "acc": m.get("acc", np.nan),
             "3/3": consistency["3/3"],
             "2/3": consistency["2/3"],
@@ -358,11 +358,11 @@ def build_dataframe(report: dict):
         # Derived metrics
         row["error_S"] = 1 - row["S_acc"]
         row["error_A"] = 1 - row["A_acc"]
-        row["error_C"] = 1 - row["C_acc"]
-        row["A_bottleneck"] = ((row["S_acc"] + row["C_acc"]) / 2) - row["A_acc"]
-        row["C_minus_S"] = row["C_acc"] - row["S_acc"]
+        row["error_P"] = 1 - row["P_acc"]
+        row["A_bottleneck"] = ((row["S_acc"] + row["P_acc"]) / 2) - row["A_acc"]
+        row["P_minus_S"] = row["P_acc"] - row["S_acc"]
         row["A_minus_S"] = row["A_acc"] - row["S_acc"]
-        row["C_minus_A"] = row["C_acc"] - row["A_acc"]
+        row["P_minus_A"] = row["P_acc"] - row["A_acc"]
         row["consistency_balance"] = row["3/3"] - row["0/3"]
         rows.append(row)
 
@@ -373,14 +373,12 @@ def build_dataframe(report: dict):
 
 def export_metrics_table(df: pd.DataFrame, out_dir: str):
     cols = [
-        "model", "acc", "S_acc", "A_acc", "C_acc",
+        "model", "acc", "S_acc", "A_acc", "P_acc",
         "3/3", "2/3", "1/3", "0/3",
-        "A_bottleneck", "C_minus_S", "A_Earlier_pct", "A_Later_pct", "A_Extended_pct",
+        "A_bottleneck", "P_minus_S", "A_Earlier_pct", "A_Later_pct", "A_Extended_pct",
         "C_Reverse_pct", "C_Shuffle_pct", "C_Loop_pct"
     ]
     export_df = df[cols].rename(columns={
-        "C_acc": "P_acc",
-        "C_minus_S": "P_minus_S",
         "C_Reverse_pct": "P_Reverse_pct",
         "C_Shuffle_pct": "P_Shuffle_pct",
         "C_Loop_pct": "P_Loop_pct",
@@ -453,8 +451,8 @@ def plot_task_overview(out_dir):
 # ---------------------------------------------------------
 def plot_capability_map(df, out_dir):
     pairs = [
-        ("A_acc", "C_acc", "A Accuracy", "P Accuracy", "A vs P", "figure_02_capability_map_A_vs_C_v2"),
-        ("C_acc", "S_acc", "P Accuracy", "S Accuracy", "P vs S", "figure_02_capability_map_C_vs_S_v2"),
+        ("A_acc", "P_acc", "A Accuracy", "P Accuracy", "A vs P", "figure_02_capability_map_A_vs_C_v2"),
+        ("P_acc", "S_acc", "P Accuracy", "S Accuracy", "P vs S", "figure_02_capability_map_C_vs_S_v2"),
         ("S_acc", "A_acc", "S Accuracy", "A Accuracy", "S vs A", "figure_02_capability_map_S_vs_A_v2"),
     ]
 
@@ -566,7 +564,7 @@ def plot_capability_map_3d(
     sc = ax.scatter(
         df["S_acc"],
         df["A_acc"],
-        df["C_acc"],
+        df["P_acc"],
         s=sizes,
         c=acc,
         cmap="viridis",
@@ -618,7 +616,7 @@ def plot_capability_map_3d(
     d = df.sort_values("acc", ascending=False).head(label_topk)
     fig.canvas.draw()
     for _, r in d.iterrows():
-        x2, y2, _ = proj3d.proj_transform(r["S_acc"], r["A_acc"], r["C_acc"], ax.get_proj())
+        x2, y2, _ = proj3d.proj_transform(r["S_acc"], r["A_acc"], r["P_acc"], ax.get_proj())
         ax.annotate(
             r["model"],
             xy=(x2, y2),
@@ -645,7 +643,7 @@ def plot_error_ternary(df, out_dir):
                       title="Where does each model's error budget go?")
     xs, ys = [], []
     for _, r in df.iterrows():
-        x, y = ternary_to_xy(r["error_S"], r["error_A"], r["error_C"])
+        x, y = ternary_to_xy(r["error_S"], r["error_A"], r["error_P"])
         xs.append(x); ys.append(y)
     sizes = 100 + 900 * df["acc"].to_numpy()
     colors_arr = df["A_bottleneck"].to_numpy()
@@ -1127,7 +1125,7 @@ def plot_dimension_slopegraph(df, out_dir, top_k=18):
     x = [0, 1, 2]
     labels = ["S", "A", "C"]
     for i, r in d.iterrows():
-        ys = [r["S_acc"], r["A_acc"], r["C_acc"]]
+        ys = [r["S_acc"], r["A_acc"], r["P_acc"]]
         ax.plot(x, ys, color="#999999", alpha=0.55, lw=1.7)
         ax.scatter(x, ys, s=36, color=[COLOR_S, COLOR_A, COLOR_C], zorder=3)
         ax.text(-0.06, ys[0], r["model"], ha="right", va="center", fontsize=8)
@@ -1144,12 +1142,12 @@ def plot_dimension_slopegraph(df, out_dir, top_k=18):
 def plot_bottleneck_quadrant(df, out_dir):
     fig, ax = plt.subplots(figsize=(10, 8))
     x = df["A_bottleneck"]
-    y = df["C_minus_S"]
+    y = df["P_minus_S"]
     sizes = 120 + 1000 * df["3/3"]
     sc = ax.scatter(x, y, s=sizes, c=df["acc"], cmap="plasma", edgecolor="black", linewidth=0.7, alpha=0.88)
     texts = []
     for _, r in df.iterrows():
-        texts.append(ax.text(r["A_bottleneck"] + 0.004, r["C_minus_S"] + 0.002, r["model"], fontsize=12))
+        texts.append(ax.text(r["A_bottleneck"] + 0.004, r["P_minus_S"] + 0.002, r["model"], fontsize=12))
     maybe_adjust_text(ax, texts, x=x.to_numpy(), y=y.to_numpy())
 
     ax.axvline(0, color="#888888", ls="--", lw=1.0)
@@ -1185,7 +1183,7 @@ def plot_subtype_ternary(df, out_dir, dim="A"):
         labels = ["Reverse", "Reorder", "Repeat"]
         title = "C-subtype error simplex"
         cmap = "PuBuGn"
-        colorval = df["C_acc"].to_numpy()
+        colorval = df["P_acc"].to_numpy()
         stem = "figure_11_C_subtype_ternary_v2"
 
     fig, ax = plt.subplots(figsize=(9, 8))
@@ -1207,7 +1205,7 @@ def plot_clustered_feature_heatmap(df, out_dir):
     from scipy.spatial.distance import pdist
 
     cols = [
-        "S_acc", "A_acc", "C_acc", "3/3", "2/3", "1/3", "0/3",
+        "S_acc", "A_acc", "P_acc", "3/3", "2/3", "1/3", "0/3",
         "A_Earlier_pct", "A_Later_pct", "A_Extended_pct",
         "C_Reverse_pct", "C_Shuffle_pct", "C_Loop_pct"
     ]
@@ -1254,7 +1252,7 @@ def plot_pca_archetypes(df, out_dir):
     from sklearn.preprocessing import StandardScaler
 
     cols = [
-        "S_acc", "A_acc", "C_acc", "3/3", "2/3", "1/3", "0/3",
+        "S_acc", "A_acc", "P_acc", "3/3", "2/3", "1/3", "0/3",
         "A_Earlier_pct", "A_Later_pct", "A_Extended_pct",
         "C_Reverse_pct", "C_Shuffle_pct", "C_Loop_pct"
     ]
@@ -1386,7 +1384,7 @@ def plot_top6_metric_bars(df, out_dir, top_k=10, font_scale=1.0, show_value_labe
     metrics = [
         ("S_acc", "S", "#3B82F6"),
         ("A_acc", "A", "#F59E0B"),
-        ("C_acc", "P", "#14B8A6"),
+        ("P_acc", "P", "#14B8A6"),
     ]
 
     labels = [wrap_label(x, width=10) for x in d["model_display"].tolist()]

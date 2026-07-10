@@ -2,8 +2,6 @@
   "dataset_id": "set_1",
   "schedule_policy": "single_folder_navigation_v1",
   "seed": 8800808831473759713,
-  "choices_dir": "D:\\WeChat Files\\wxid_t0xzc9bofv6f22\\FileStorage\\File\\2026-05\\video_cloze_human_set_1\\video_cloze_human_five_sets\\video_cloze_human_set_1\\choices_human\\set_1",
-  "result_path": "D:\\WeChat Files\\wxid_t0xzc9bofv6f22\\FileStorage\\File\\2026-05\\video_cloze_human_set_1\\video_cloze_human_five_sets\\video_cloze_human_set_1\\human_eval_results\\set_1.json",
   "started_at_utc": "2026-05-17T11:45:27.777377+00:00",
   "completed_at_utc": "2026-05-18T09:56:33.162719+00:00",
   "stems": [

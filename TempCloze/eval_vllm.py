@@ -39,8 +39,6 @@ from tqdm import tqdm
 ROOT = Path(__file__).parent
 load_dotenv(ROOT / ".env")
 
-os.environ["CHOICES_DIR"] = "/users/henry/Temporal-Cloze/video-cloze/choices"
-os.environ["EVAL_RESULTS_DIR"] = "/users/henry/Temporal-Cloze/video-cloze/eval_results/customization_exp"
 # ==================== 基本配置 ====================
 NUM_FRAMES = 16
 NUM_WORKERS = 16
@@ -59,7 +57,7 @@ def _resolve_path(env_key: str, default_rel: str) -> Path:
 
 
 CHOICES_DIR = _resolve_path("CHOICES_DIR", "choices")
-RESULTS_DIR = _resolve_path("EVAL_RESULTS_DIR", "eval_results_")
+RESULTS_DIR = _resolve_path("EVAL_RESULTS_DIR", "eval_results/customization_exp")
 LOG_DIR = ROOT / "logs"
 
 
@@ -112,7 +110,7 @@ log.addHandler(_fh)
 # region agent log
 def _agent_debug_log(hypothesis_id: str, message: str, data: dict | None = None, run_id: str = "initial") -> None:
     """
-    轻量调试日志：按 NDJSON 追加到 /home/wenqi/Temporal-Cloze/.cursor/debug.log。
+    轻量调试日志：按 NDJSON 追加到仓库内的 .cursor/debug.log。
     避免引入第三方，仅用于本次 Debug，会在确认修复后移除。
     """
     try:
@@ -125,7 +123,8 @@ def _agent_debug_log(hypothesis_id: str, message: str, data: dict | None = None,
             "runId": run_id,
             "hypothesisId": hypothesis_id,
         }
-        debug_path = Path("/home/wenqi/Temporal-Cloze/.cursor/debug.log")
+        debug_path = ROOT.parent / ".cursor" / "debug.log"
+        debug_path.parent.mkdir(parents=True, exist_ok=True)
         with debug_path.open("a", encoding="utf-8") as f:
             f.write(json.dumps(payload, ensure_ascii=False) + "\n")
     except Exception:

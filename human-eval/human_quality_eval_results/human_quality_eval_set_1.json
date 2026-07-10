@@ -2,8 +2,6 @@
   "dataset_id": "human_quality_eval_set_1",
   "schedule_policy": "single_folder_quality_rating_v1",
   "seed": 16742178984735451508,
-  "choices_dir": "D:\\human_quality_eval_set_1\\human_quality_eval_set_1\\choices",
-  "result_path": "D:\\human_quality_eval_set_1\\human_quality_eval_set_1\\human_quality_eval_results\\human_quality_eval_set_1.json",
   "started_at_utc": "2026-05-20T13:40:16.955394+00:00",
   "completed_at_utc": "2026-05-23T13:15:11.695016+00:00",
   "stems": [

@@ -7,7 +7,7 @@
     "remotePath": "",
     "localPath": "",
     "disable": false,
-    "private_key": "~/.ssh/id_rsa"
+    "private_key": ""
 },{
     "name":"",
     "host": "",
@@ -17,5 +17,5 @@
     "remotePath": "",
     "localPath": "",
     "disable": false,
-    "private_key": "~/.ssh/id_rsa"
+    "private_key": ""
 }]

@@ -2,8 +2,6 @@
   "dataset_id": "human_quality_eval_set_3",
   "schedule_policy": "single_folder_quality_rating_v1",
   "seed": 16742178984735451508,
-  "choices_dir": "/home/chenhan/visbench_wenqi/human_quality_eval_set_3/choices",
-  "result_path": "/home/chenhan/visbench_wenqi/human_quality_eval_set_3/human_quality_eval_results/human_quality_eval_set_3.json",
   "started_at_utc": "2026-05-21T13:00:22.068457+00:00",
   "completed_at_utc": "2026-05-23T12:29:51.635854+00:00",
   "stems": [

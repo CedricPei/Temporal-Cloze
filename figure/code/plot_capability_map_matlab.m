@@ -1,25 +1,33 @@
-function plot_capability_map_matlab(jsonPath, outDir, scale)
+function plot_capability_map_matlab(jsonPath, scale)
 % Generate only the 3 capability maps in MATLAB, with draggable model labels.
 %
 % Usage:
-%   plot_capability_map_matlab('video-cloze/eval_results/analyze_report_all.json', 'figure/pics/capability_maps', 1.0)
+%   plot_capability_map_matlab()
+%   plot_capability_map_matlab(jsonPath, scale)
 %
 % Notes:
+% - Default input and the fixed output directory are resolved relative to
+%   this script, so the function can be called from any working directory.
 % - Follows current Python logic:
 %   1) filter by acc outside [0.23, 0.27] and acc~=0
 %   2) top13 by overall acc, keep ~half (1st,3rd,5th,...) as green triangles
 %   3) non-top13 shown as orange circles
 % - Labels are draggable by mouse in each figure window.
 
+scriptPath = mfilename('fullpath');
+codeDir = fileparts(scriptPath);
+figureDir = fileparts(codeDir);
+repoRoot = fileparts(figureDir);
+
 if nargin < 1 || isempty(jsonPath)
-    jsonPath = '/users/henry/Temporal-Cloze/video-cloze/eval_results/analyze_report_all.json';
+    jsonPath = fullfile(repoRoot, 'TempCloze', 'eval_results', 'analyze_report_all.json');
 end
-if nargin < 2 || isempty(outDir)
-    outDir = '/users/henry/Temporal-Cloze/figure/pics/capability_maps';
-end
-if nargin < 3 || isempty(scale)
+if nargin < 2 || isempty(scale)
     scale = 1.0;
 end
+
+% Output is intentionally fixed inside the repository.
+outDir = fullfile(figureDir, 'pics', 'capability_maps_tmp');
 
 if ~exist(outDir, 'dir')
     mkdir(outDir);
@@ -219,22 +227,26 @@ end
 
 function rows = build_rows(data, modelNameMap)
 models = fieldnames(data.models);
-rows = struct('model', {}, 'S_acc', {}, 'A_acc', {}, 'C_acc', {}, 'acc', {});
+rows = struct('model', {}, 'S_acc', {}, 'A_acc', {}, 'P_acc', {}, 'acc', {});
 
 for i = 1:numel(models)
     name = models{i};
     m = data.models.(name);
 
-    if ~isfield(m, 'S_acc') || ~isfield(m, 'A_acc') || ~isfield(m, 'C_acc') || ~isfield(m, 'acc')
+    if ~isfield(m, 'S_acc') || ~isfield(m, 'A_acc') || ~isfield(m, 'acc')
         continue;
     end
 
+    if ~isfield(m, 'P_acc')
+        continue;
+    end
+    p = double(m.P_acc);
+
     s = double(m.S_acc);
     a = double(m.A_acc);
-    c = double(m.C_acc);
     o = double(m.acc);
 
-    if any(~isfinite([s, a, c, o]))
+    if any(~isfinite([s, a, p, o]))
         continue;
     end
 
@@ -246,7 +258,7 @@ for i = 1:numel(models)
     row.model = displayName;
     row.S_acc = s;
     row.A_acc = a;
-    row.C_acc = c;
+    row.P_acc = p;
     row.acc = o;
     rows(end + 1) = row; %#ok<AGROW>
 end

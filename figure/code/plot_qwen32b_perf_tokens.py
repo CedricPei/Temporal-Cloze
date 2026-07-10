@@ -4,10 +4,14 @@ import json
 import math
 import os
 import re
+import tempfile
 from pathlib import Path
 
 import matplotlib
-os.environ.setdefault("MPLCONFIGDIR", "/tmp/matplotlib")
+os.environ.setdefault(
+    "MPLCONFIGDIR",
+    str(Path(tempfile.gettempdir()) / "temporal-cloze-matplotlib"),
+)
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
@@ -19,9 +23,11 @@ matplotlib.rcParams["ps.fonttype"] = 42
 matplotlib.rcParams["svg.fonttype"] = "none"
 
 
-DEFAULT_INSTRUCT = Path("/users/henry/Temporal-Cloze/video-cloze/eval_results/open/eval_results/Qwen3VL-32B-Instruct.json")
-DEFAULT_THINKING = Path("/users/henry/Temporal-Cloze/video-cloze/eval_results/open/eval_results/Qwen3VL-32B-Thinking.json")
-DEFAULT_OUT = Path("/users/henry/Temporal-Cloze/figure_draft/figure_qwen32b_instruct_vs_thinking_perf_tokens.png")
+REPO_ROOT = Path(__file__).resolve().parents[2]
+MODEL_RESULTS_DIR = REPO_ROOT / "TempCloze" / "eval_results" / "open" / "eval_results"
+DEFAULT_INSTRUCT = MODEL_RESULTS_DIR / "Qwen3VL-32B-Instruct.json"
+DEFAULT_THINKING = MODEL_RESULTS_DIR / "Qwen3VL-32B-Thinking.json"
+DEFAULT_OUT = REPO_ROOT / "figure" / "pics" / "figure_qwen32b_instruct_vs_thinking_perf_tokens.png"
 
 DEFAULT_MODEL_COLORS = [
     "#EEDC77",

@@ -2,8 +2,6 @@
   "dataset_id": "participant",
   "schedule_policy": "single_folder_quality_rating_v1",
   "seed": 16742178984735451508,
-  "choices_dir": "choices",
-  "result_path": "human_quality_eval_results/participant.json",
   "started_at_utc": "2026-05-23T16:08:26.352258+00:00",
   "completed_at_utc": "2026-05-23T16:27:13.488585+00:00",
   "stems": [

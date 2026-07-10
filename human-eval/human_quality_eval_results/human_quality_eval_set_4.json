@@ -2,8 +2,6 @@
   "dataset_id": "human_quality_eval_set_4",
   "schedule_policy": "single_folder_quality_rating_v1",
   "seed": 16742178984735451508,
-  "choices_dir": "/Users/bytedance/Downloads/human_quality_eval_set_4/choices",
-  "result_path": "/Users/bytedance/Downloads/human_quality_eval_set_4/human_quality_eval_results/human_quality_eval_set_4.json",
   "started_at_utc": "2026-05-23T07:20:43.769271+00:00",
   "completed_at_utc": "2026-05-23T09:48:03.237165+00:00",
   "stems": [

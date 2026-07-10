@@ -15,6 +15,7 @@ ROOT = Path(__file__).parent          # = video-cloze/eval_results/
 CHOICES_DIR = ROOT.parent / "choices" # = video-cloze/choices/
 EVAL_BASE = ROOT                       # = video-cloze/eval_results/
 DIMS = ["S", "A", "C"]
+DISPLAY_DIM = {"S": "S", "A": "A", "C": "P"}
 VALID_ANSWERS = {"A", "B", "C", "D"}
 
 DISTRACTOR_NAMES = {
@@ -28,6 +29,97 @@ SCOPE_MAP = {
     "all":    [EVAL_BASE / "closed" / "eval_results",
                EVAL_BASE / "open" / "eval_results"],
 }
+
+# Keep report model identifiers stable even though raw result filenames use
+# provider-specific spellings. Downstream figure code selects these names.
+ALL_MODEL_NAMES = {
+    "claude-opus-4-6": "Claude4.6-Opus",
+    "claude-sonnet-4-6": "Claude4.6-Sonnet",
+    "gemini-2.5-flash": "Gemini2.5-Flash",
+    "gemini-2.5-pro": "Gemini2.5-Pro",
+    "gemini-3-flash-preview": "Gemini3.Flash",
+    "gpt-5.4": "GPT5.4",
+    "grok-4.1": "Grok4.1",
+    "kimi-k2.5": "KimiK2.5",
+    "qwen3.5-35b-a3b": "Qwen3.5-35B-A3B",
+    "qwen3.5-397b-a17b": "Qwen3.5-397B-A17B",
+    "qwen3.5-plus": "Qwen3.5-Plus",
+    "seed-1-6": "Seed1.6",
+    "seed-1-8-thinking": "Seed1.8-T",
+    "seed-1-8": "Seed1.8-I",
+    "GLM-4.6V-Flash": "GLM4.6V-Flash",
+    "InternVL3-38B": "InternVL3-38B",
+    "InternVL3-8B": "InternVL3-8B",
+    "InternVL3_5-38B": "InternVL3.5-38B",
+    "InternVL3_5-8B-HF": "InternVL3.5-8B",
+    "Kimi-VL-A3B-Instruct": "KimiVL-A3B-I",
+    "Kimi-VL-A3B-Thinking": "KimiVL-A3B-T",
+    "LLaVA-Critic-R1-7B": "LLaVACriticR1-7B",
+    "MiMo-VL-7B-RL": "MiMoVL-7B-RL",
+    "MiMo-VL-7B-SFT": "MiMoVL-7B-SFT",
+    "Molmo2-8B": "Molmo2-8B",
+    "Qwen2.5-VL-7B-Instruct": "Qwen2.5VL-7B-I",
+    "Qwen3-VL-4B-Instruct": "Qwen3VL-4B-I",
+    "Qwen3-VL-4B-Thinking": "Qwen3VL-4B-T",
+    "Qwen3-VL-8B-Instruct": "Qwen3VL-8B-I",
+    "Qwen3-VL-8B-Thinking": "Qwen3VL-8B-T",
+    "Qwen3.5-9B": "Qwen3.5-9B",
+    "Qwen3VL-32B-Instruct": "Qwen3VL-32B-I",
+    "Qwen3VL-32B-Thinking": "Qwen3VL-32B-T",
+    "ThinkLite-VL-7B": "ThinkLiteVL-7B",
+}
+
+ALL_EXCLUDED_MODELS = {
+    "molomoDisCa",
+    "deepseek-vl2-tiny",
+    "Kimi-VL-A3B-Thinking_old",
+    "NVIDIA-Nemotron-Nano-12B-v2-VL-BF16",
+    "Qwen3-VL-4B-Thinking_nothinking_mode",
+    "Qwen3-VL-8B-Thinking_nothinking_mode",
+}
+
+OPEN_MODEL_NAMES = {
+    "InternVL3-38B": "vllm-OpenGVLab_InternVL3-38B",
+    "InternVL3-8B": "vllm-OpenGVLab_InternVL3-8B",
+    "InternVL3_5-38B": "vllm-OpenGVLab_InternVL3_5-38B",
+    "InternVL3_5-8B-HF": "vllm-OpenGVLab_InternVL3_5-8B-HF",
+    "Qwen2.5-VL-7B-Instruct": "vllm-Qwen_Qwen2.5-VL-7B-Instruct",
+    "Qwen3VL-32B-Instruct": "vllm-Qwen_Qwen3VL-32B-Instruct",
+    "Qwen3VL-32B-Thinking": "vllm-Qwen_Qwen3VL-32B-Thinking",
+    "Qwen3-VL-4B-Instruct": "vllm-Qwen_Qwen3VL-4B-Instruct",
+    "Qwen3-VL-4B-Thinking": "vllm-Qwen_Qwen3VL-4B-Thinking",
+    "Qwen3-VL-8B-Instruct": "vllm-Qwen_Qwen3VL-8B-Instruct",
+    "Qwen3-VL-8B-Thinking": "vllm-Qwen_Qwen3VL-8B-Thinking",
+    "Qwen3.5-9B": "vllm-Qwen_Qwen3.5-9B",
+    "MiMo-VL-7B-RL": "vllm-XiaomiMiMo_MiMo-VL-7B-RL",
+    "MiMo-VL-7B-SFT": "vllm-XiaomiMiMo_MiMo-VL-7B-SFT",
+    "Molmo2-8B": "vllm-allenai_Molmo2-8B",
+    "deepseek-vl2-tiny": "vllm-deepseek-ai_deepseek-vl2-tiny",
+    "LLaVA-Critic-R1-7B": "vllm-lmms-lab_LLaVA-Critic-R1-7B",
+    "Kimi-VL-A3B-Instruct": "vllm-moonshotai_Kimi-VL-A3B-Instruct",
+    "Kimi-VL-A3B-Thinking": "vllm-moonshotai_Kimi-VL-A3B-Thinking",
+    "Kimi-VL-A3B-Thinking_old": "vllm-moonshotai_Kimi-VL-A3B-Thinking_old",
+    "ThinkLite-VL-7B": "vllm-russwang_ThinkLite-VL-7B",
+    "GLM-4.6V-Flash": "vllm-zai-org_GLM-4.6V-Flash",
+}
+
+OPEN_EXCLUDED_MODELS = {
+    "NVIDIA-Nemotron-Nano-12B-v2-VL-BF16",
+    "Qwen3-VL-4B-Thinking_nothinking_mode",
+    "Qwen3-VL-8B-Thinking_nothinking_mode",
+}
+
+
+def report_model_name(scope: str, stem: str) -> str | None:
+    if scope == "all":
+        if stem in ALL_EXCLUDED_MODELS:
+            return None
+        return ALL_MODEL_NAMES.get(stem, stem)
+    if scope == "open":
+        if stem in OPEN_EXCLUDED_MODELS:
+            return None
+        return OPEN_MODEL_NAMES.get(stem, stem)
+    return stem
 
 
 def collect_json_files(scope: str) -> list[Path]:
@@ -83,7 +175,7 @@ def analyze_model(model: str, data: dict) -> dict:
     total = sum(dim_total.values())
     correct_all = sum(dim_correct.values())
 
-    # 联合准确率：S+A, S+C, A+C, S+A+C（仅 S/A/C 三维都有效的 stem）
+    # 联合准确率：底层数据仍使用 S/A/C，报告统一展示为 S/A/P。
     joint_groups = [("S", "A"), ("S", "C"), ("A", "C"), ("S", "A", "C")]
     joint_correct = {g: 0 for g in joint_groups}
     num_stems = 0
@@ -96,15 +188,15 @@ def analyze_model(model: str, data: dict) -> dict:
             if all(entries[d].get("correct") for d in g):
                 joint_correct[g] += 1
 
-    joint_label = {("S","A"): "S+A", ("S","C"): "S+C",
-                   ("A","C"): "A+C", ("S","A","C"): "S+A+C"}
+    joint_label = {("S","A"): "S+A", ("S","C"): "S+P",
+                   ("A","C"): "A+P", ("S","A","C"): "S+A+P"}
 
     # 打印表格
     row = [model] + [pct(dim_correct[d], dim_total[d]) for d in DIMS] + [
         pct(correct_all, total),
         *(pct(joint_correct[g], num_stems) for g in joint_groups),
     ]
-    headers = ["model", "S acc", "A acc", "C acc", "acc",
+    headers = ["model", "S acc", "A acc", "P acc", "acc",
                *(joint_label[g] for g in joint_groups)]
     w0 = max(len(model) + 2, 8)
     print_table(headers, [row], [w0] + [8] * (len(headers) - 1))
@@ -129,8 +221,9 @@ def analyze_model(model: str, data: dict) -> dict:
         if n_err:
             parts = [f"{name}={counts.get(name, 0)}({pct(counts.get(name, 0), n_err)})"
                      for name in DISTRACTOR_NAMES[d]]
-            print(f"  {d} errors ({n_err}): {', '.join(parts)}")
-            error_report[d] = {
+            display_dim = DISPLAY_DIM[d]
+            print(f"  {display_dim} errors ({n_err}): {', '.join(parts)}")
+            error_report[display_dim] = {
                 "total": n_err,
                 **{name: {"count": counts.get(name, 0),
                           "pct": round(counts.get(name, 0) / n_err, 4)}
@@ -142,7 +235,7 @@ def analyze_model(model: str, data: dict) -> dict:
         "num_stems": num_stems, "skipped": skipped,
         "S_acc": dim_correct["S"] / dim_total["S"] if dim_total["S"] else 0,
         "A_acc": dim_correct["A"] / dim_total["A"] if dim_total["A"] else 0,
-        "C_acc": dim_correct["C"] / dim_total["C"] if dim_total["C"] else 0,
+        "P_acc": dim_correct["C"] / dim_total["C"] if dim_total["C"] else 0,
         "acc": correct_all / total if total else 0,
         **{joint_label[g]: (joint_correct[g] / num_stems if num_stems else 0)
            for g in joint_groups},
@@ -163,12 +256,24 @@ def main():
         print(f"No JSON files found for scope '{scope}'")
         return
 
-    num_questions = sum(1 for p in CHOICES_DIR.iterdir() if p.is_dir()) if CHOICES_DIR.exists() else 0
-    print(f"Scope: {scope} | Total questions: {num_questions} | Models: {len(files)}\n")
+    if CHOICES_DIR.exists():
+        num_questions = sum(1 for p in CHOICES_DIR.iterdir() if p.is_dir())
+    else:
+        # choices/ may be intentionally omitted from Git. Preserve useful
+        # report metadata by deriving the dataset size from model results.
+        num_questions = max(
+            (len(json.loads(path.read_text(encoding="utf-8"))) for path in files),
+            default=0,
+        )
+    selected_files = [
+        (path, report_model_name(scope, path.stem))
+        for path in files
+    ]
+    selected_files = [(path, name) for path, name in selected_files if name is not None]
+    print(f"Scope: {scope} | Total questions: {num_questions} | Models: {len(selected_files)}\n")
 
     report = {"total_questions": num_questions, "scope": scope, "models": {}}
-    for path in files:
-        model = path.stem
+    for path, model in selected_files:
         data = json.loads(path.read_text(encoding="utf-8"))
         report["models"][model] = analyze_model(model, data)
 

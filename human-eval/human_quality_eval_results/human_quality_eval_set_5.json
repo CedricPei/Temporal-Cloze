@@ -2,8 +2,6 @@
   "dataset_id": "human_quality_eval_set_5",
   "schedule_policy": "single_folder_quality_rating_v1",
   "seed": 16742178984735451508,
-  "choices_dir": "/Users/wzy/Downloads/video_cloze_human_five_sets/video_cloze_human_set_5/human_quality_eval_set_5/choices",
-  "result_path": "/Users/wzy/Downloads/video_cloze_human_five_sets/video_cloze_human_set_5/human_quality_eval_set_5/human_quality_eval_results/human_quality_eval_set_5.json",
   "started_at_utc": "2026-05-23T16:17:58.238886+00:00",
   "completed_at_utc": "2026-05-23T16:32:32.046428+00:00",
   "stems": [

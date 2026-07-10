@@ -11,9 +11,9 @@ Expected package layout:
     ...
 
 Optional environment variables:
-  HUMAN_QUALITY_EVAL_CHOICES_DIR=/path/to/choices_human
-  HUMAN_EVAL_CHOICES_DIR=/path/to/choices_human
-  HUMAN_QUALITY_EVAL_RESULTS_DIR=/path/to/results
+  HUMAN_QUALITY_EVAL_CHOICES_DIR=./choices_human
+  HUMAN_EVAL_CHOICES_DIR=./choices_human
+  HUMAN_QUALITY_EVAL_RESULTS_DIR=./human_quality_eval_results
 """
 
 from __future__ import annotations
@@ -32,22 +32,33 @@ import cv2
 import streamlit as st
 
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).resolve().parent
+
+
+def resolve_config_path(value: str, default: Path) -> Path:
+    path = Path(value).expanduser() if value.strip() else default
+    return path.resolve() if path.is_absolute() else (ROOT / path).resolve()
+
+
 DEFAULT_CHOICES_ROOT = ROOT / "choices" if (ROOT / "choices").exists() else ROOT / "choices_human"
-CHOICES_ROOT = Path(
+CHOICES_ROOT = resolve_config_path(
     os.getenv(
         "HUMAN_QUALITY_EVAL_CHOICES_DIR",
-        os.getenv("HUMAN_EVAL_CHOICES_DIR", DEFAULT_CHOICES_ROOT),
-    )
-).expanduser()
-RESULTS_DIR = Path(
-    os.getenv("HUMAN_QUALITY_EVAL_RESULTS_DIR", ROOT / "human_quality_eval_results")
-).expanduser()
+        os.getenv("HUMAN_EVAL_CHOICES_DIR", ""),
+    ),
+    DEFAULT_CHOICES_ROOT,
+)
+RESULTS_DIR = resolve_config_path(
+    os.getenv("HUMAN_QUALITY_EVAL_RESULTS_DIR", ""),
+    ROOT / "human_quality_eval_results",
+)
 DEFAULT_DISPLAY_MODE = os.getenv("HUMAN_QUALITY_EVAL_DISPLAY_MODE", "video").strip().lower()
 NUM_FRAMES = int(os.getenv("HUMAN_QUALITY_EVAL_NUM_FRAMES", "16"))
 MAX_HEIGHT = int(os.getenv("HUMAN_QUALITY_EVAL_MAX_HEIGHT", "360"))
 SCHEDULE_SEED = os.getenv("HUMAN_QUALITY_EVAL_SCHEDULE_SEED", "temporal-cloze-quality-eval-v1")
 SCHEDULE_POLICY = "single_folder_quality_rating_v1"
+RUNTIME_CHOICES_DIR = "_runtime_choices_dir"
+RUNTIME_RESULT_PATH = "_runtime_result_path"
 DISPLAY_MODES = ("frames", "video")
 
 REQUIRED_FILES = [
@@ -145,8 +156,19 @@ def dataset_id_for(choice_dir: Path) -> str:
 
 
 def write_result(data: dict) -> None:
-    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
-    Path(data["result_path"]).write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+    result_path = Path(data[RUNTIME_RESULT_PATH])
+    result_path.parent.mkdir(parents=True, exist_ok=True)
+    persisted = {key: value for key, value in data.items() if not key.startswith("_runtime_")}
+    result_path.write_text(json.dumps(persisted, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def attach_runtime_paths(data: dict, choice_dir: Path, result_path: Path) -> None:
+    # Legacy result files stored machine-specific paths. Keep paths only in
+    # memory so newly written results remain portable across machines.
+    data.pop("choices_dir", None)
+    data.pop("result_path", None)
+    data[RUNTIME_CHOICES_DIR] = str(choice_dir)
+    data[RUNTIME_RESULT_PATH] = str(result_path)
 
 
 def normalize_responses(data: dict) -> None:
@@ -164,7 +186,7 @@ def normalize_responses(data: dict) -> None:
 def run_matches_config(data: dict, choice_dir: Path) -> bool:
     return (
         data.get("schedule_policy") == SCHEDULE_POLICY
-        and data.get("choices_dir") == str(choice_dir)
+        and data.get("dataset_id") == dataset_id_for(choice_dir)
         and data.get("seed") == folder_seed(choice_dir)
     )
 
@@ -176,12 +198,14 @@ def backup_incompatible_result(path: Path) -> None:
 
 
 def load_or_create_run(choice_dir: Path) -> dict:
+    choice_dir = choice_dir.expanduser().resolve()
     result_path = result_path_for(choice_dir)
     if result_path.exists():
         existing = json.loads(result_path.read_text(encoding="utf-8"))
         normalize_responses(existing)
         if run_matches_config(existing, choice_dir):
-            existing["result_path"] = str(result_path)
+            attach_runtime_paths(existing, choice_dir, result_path)
+            write_result(existing)
             return existing
         backup_incompatible_result(result_path)
 
@@ -191,14 +215,13 @@ def load_or_create_run(choice_dir: Path) -> dict:
         "dataset_id": dataset_id_for(choice_dir),
         "schedule_policy": SCHEDULE_POLICY,
         "seed": seed,
-        "choices_dir": str(choice_dir),
-        "result_path": str(result_path),
         "started_at_utc": now_iso(),
         "completed_at_utc": None,
         "stems": stems,
         "schedule": build_schedule(stems, seed),
         "responses": {},
     }
+    attach_runtime_paths(data, choice_dir, result_path)
     write_result(data)
     return data
 
@@ -412,7 +435,7 @@ def render_task(data: dict) -> None:
         return
 
     task = data["schedule"][idx]
-    base = Path(data["choices_dir"]) / task["stem"]
+    base = Path(data[RUNTIME_CHOICES_DIR]) / task["stem"]
     display_mode = st.session_state.get("display_mode", DEFAULT_DISPLAY_MODE)
     existing = get_response(data, idx)
 

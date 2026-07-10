@@ -2,8 +2,6 @@
   "dataset_id": "choices",
   "schedule_policy": "single_folder_quality_rating_v1",
   "seed": 16742178984735451508,
-  "choices_dir": "/users/henry/Temporal-Cloze/TempCloze/choices",
-  "result_path": "/users/henry/Temporal-Cloze/human-eval/human_quality_eval_results/choices.json",
   "started_at_utc": "2026-05-20T12:35:02.592242+00:00",
   "completed_at_utc": null,
   "stems": [

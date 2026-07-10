@@ -2,8 +2,6 @@
   "dataset_id": "set_5",
   "schedule_policy": "single_folder_navigation_v1",
   "seed": 2272518247231126090,
-  "choices_dir": "/Users/wzy/Downloads/video_cloze_human_five_sets/video_cloze_human_set_5/choices_human/set_5",
-  "result_path": "/Users/wzy/Downloads/video_cloze_human_five_sets/video_cloze_human_set_5/human_eval_results/set_5.json",
   "started_at_utc": "2026-05-14T00:59:40.077687+00:00",
   "completed_at_utc": "2026-05-14T02:54:45.625407+00:00",
   "stems": [

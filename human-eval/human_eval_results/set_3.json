@@ -2,8 +2,6 @@
   "dataset_id": "set_3",
   "schedule_policy": "single_folder_navigation_v1",
   "seed": 10217874110139369342,
-  "choices_dir": "/home/chenhan/visbench_wenqi/video_cloze_human_five_sets/video_cloze_human_set_3/choices_human/set_3",
-  "result_path": "/home/chenhan/visbench_wenqi/video_cloze_human_five_sets/video_cloze_human_set_3/human_eval_results/set_3.json",
   "started_at_utc": "2026-05-14T09:02:50.659820+00:00",
   "completed_at_utc": "2026-05-18T09:38:32.757172+00:00",
   "stems": [

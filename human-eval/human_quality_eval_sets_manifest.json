@@ -1,6 +1,6 @@
 {
   "updated_at_utc": "2026-05-20T13:26:26.468978+00:00",
-  "source_choices_dir": "/users/henry/Temporal-Cloze/TempCloze/choices",
+  "source_dataset": "TempCloze/choices",
   "naming": "portable sample_001..sample_060 directory names; original stems preserved in manifests",
   "set_count": 5,
   "samples_per_set": 60,
