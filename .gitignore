@@ -38,8 +38,8 @@ logs/
 
 *.aac
 
-figure/
-pics/
+# figure/
+# pics/
 
 # 其它不提交的类型
 *.md
