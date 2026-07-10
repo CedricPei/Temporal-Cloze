@@ -5968,32 +5968,6 @@
       }
     }
   },
-  "1K4ZT": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    }
-  },
   "1Fb3wBufclk.12_0": {
     "A": {
       "used_num_frames": 16,
@@ -6089,22 +6063,6 @@
     }
   },
   "1X9A1": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "C": {
       "used_num_frames": 16,
       "correct": false,
@@ -6354,32 +6312,6 @@
         "C": "Late",
         "D": "Early"
       }
-    }
-  },
-  "2544C": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "26k-11-10-7|P1|3204|3726": {
@@ -6853,22 +6785,6 @@
     }
   },
   "26k-11-7-7|P1|3824|4249": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "C": {
       "used_num_frames": 16,
       "correct": false,
@@ -8108,14 +8024,6 @@
     }
   },
   "27k-22-11-2|P1|413|867": {
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -9323,14 +9231,6 @@
     }
   },
   "29k-21-7-1|P2|449|974": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": false,
@@ -9457,14 +9357,6 @@
     }
   },
   "29k-21-7-3|P1|1898|2373": {
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -9544,14 +9436,6 @@
     }
   },
   "2Q6SZ": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": false,
@@ -11605,14 +11489,6 @@
     }
   },
   "350qgmeha2g.33_1": {
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -11927,22 +11803,6 @@
     }
   },
   "3IW7578PicA_video": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "C": {
       "used_num_frames": 16,
       "correct": true,
@@ -12007,14 +11867,6 @@
     }
   },
   "3Qli5msTyH8_video": {
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": true,
@@ -12467,32 +12319,6 @@
         "C": "Shuffle",
         "D": "Reverse"
       }
-    }
-  },
-  "4Y1AW": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "4YmbEF-0bFk.16_0": {
@@ -14376,22 +14202,6 @@
     }
   },
   "6zM6Kf4faH0": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": false,
@@ -14735,32 +14545,6 @@
         "C": "Wide",
         "D": "Early"
       }
-    }
-  },
-  "7cbQwnC-PGI.9_0": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "7_7xk4WCnS4.2_0": {
@@ -16362,14 +16146,6 @@
     }
   },
   "9jjTGpWmc5U_video": {
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -16402,14 +16178,6 @@
     }
   },
   "9knfg-7ARcc.30_0": {
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "C": {
       "used_num_frames": 16,
       "correct": true,
@@ -16489,22 +16257,6 @@
     }
   },
   "9wQEAnnBgXc.14_0": {
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -16707,32 +16459,6 @@
         "C": "Early",
         "D": "GT"
       }
-    }
-  },
-  "ANA5N": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "AKQgP1JekP8.556_1": {
@@ -18005,14 +17731,6 @@
     }
   },
   "D6MZ4": {
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -18027,14 +17745,6 @@
         "C": "Rand1",
         "D": "Rand2"
       }
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "D6PwqjfZ0nU.5_0": {
@@ -38905,32 +38615,6 @@
       }
     }
   },
-  "DLKWO": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    }
-  },
   "DLFPX": {
     "A": {
       "used_num_frames": 16,
@@ -39449,14 +39133,6 @@
     }
   },
   "E1NwwMxG_YQ": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": false,
@@ -40429,14 +40105,6 @@
     }
   },
   "FQQh5qj5tvM": {
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": true,
@@ -41048,14 +40716,6 @@
         "D": "Wide"
       }
     },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": true,
@@ -41120,22 +40780,6 @@
     }
   },
   "GDzuMTvHnJE_video": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "C": {
       "used_num_frames": 16,
       "correct": false,
@@ -42516,14 +42160,6 @@
     }
   },
   "IIreVWXmnqg": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": false,
@@ -43167,22 +42803,6 @@
     }
   },
   "JqJOqX325TE.0_1": {
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": true,
@@ -43670,14 +43290,6 @@
     }
   },
   "KNe49xAa1iE.9_3": {
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": true,
@@ -44649,32 +44261,6 @@
       }
     }
   },
-  "LfZh_obXfLs_video": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    }
-  },
   "LZn_3QhATzk.22_0": {
     "S": {
       "used_num_frames": 16,
@@ -45566,32 +45152,6 @@
         "C": "Late",
         "D": "Early"
       }
-    }
-  },
-  "Mdl6b4qwJBU": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "M_8qxw0pLSo": {
@@ -47099,14 +46659,6 @@
     }
   },
   "PVnYui8iM9s.13_4": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": true,
@@ -47656,14 +47208,6 @@
     }
   },
   "Qau9hFQ9PE4.20_0": {
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -48354,22 +47898,6 @@
     }
   },
   "RXSAOeAHfX8": {
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -48481,14 +48009,6 @@
     }
   },
   "Ramc5o_meyw.11_0": {
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -48709,14 +48229,6 @@
     }
   },
   "S0-9sFVxyGE.9_1": {
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": false,
@@ -48890,22 +48402,6 @@
     }
   },
   "SZRxEbvKih0_video": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "C": {
       "used_num_frames": 16,
       "correct": false,
@@ -49158,14 +48654,6 @@
     }
   },
   "T3dkTkVNvIQ": {
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -49715,14 +49203,6 @@
     }
   },
   "UBQTkQGTcxw.7_1": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": true,
@@ -49990,14 +49470,6 @@
     }
   },
   "UZMKC": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "C": {
       "used_num_frames": 16,
       "correct": false,
@@ -51956,32 +51428,6 @@
       }
     }
   },
-  "XCUehWYzYBM.11_0": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    }
-  },
   "XAkr7VjP63E.0_12": {
     "S": {
       "used_num_frames": 16,
@@ -52359,14 +51805,6 @@
     }
   },
   "XxkkEzeX8qU": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": true,
@@ -52540,14 +51978,6 @@
     }
   },
   "Y436W": {
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -54272,14 +53702,6 @@
     }
   },
   "a9itMBaYAJs.17_2": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "C": {
       "used_num_frames": 16,
       "correct": false,
@@ -54688,14 +54110,6 @@
     }
   },
   "ajsFqLzkSfg.0_5": {
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": true,
@@ -56655,22 +56069,6 @@
     }
   },
   "dx-4UEStriI.28_0": {
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -57205,14 +56603,6 @@
     }
   },
   "evCWPkl2bSY.7_2": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": false,
@@ -57386,14 +56776,6 @@
     }
   },
   "f3hkGL6cz9Q.27_4": {
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -57990,14 +57372,6 @@
     }
   },
   "fvVHw6pwjJM.6_10": {
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": true,
@@ -59017,14 +58391,6 @@
     }
   },
   "hxnh6C5pev4": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "C": {
       "used_num_frames": 16,
       "correct": false,
@@ -59289,32 +58655,6 @@
         "C": "Reverse",
         "D": "GT"
       }
-    }
-  },
-  "iMebZcc3kw4.42_1": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "iMcd77cgfAQ.32_0": {
@@ -60070,22 +59410,6 @@
     }
   },
   "jyYdZUfqc_w.7_2": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "C": {
       "used_num_frames": 16,
       "correct": false,
@@ -60526,14 +59850,6 @@
     }
   },
   "l24YFkNg6rM": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": false,
@@ -60895,14 +60211,6 @@
     }
   },
   "lqHvWTek4v0.33_6": {
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -61499,22 +60807,6 @@
     }
   },
   "mw-ELDS9FrE": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "C": {
       "used_num_frames": 16,
       "correct": true,
@@ -61579,14 +60871,6 @@
     }
   },
   "nDyWf2L8qPw.4_1": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": false,
@@ -62086,32 +61370,6 @@
         "C": "GT",
         "D": "Wide"
       }
-    }
-  },
-  "oVGg6191Wmc.10_0": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "oUU-qoqlpn8.13_4": {
@@ -63572,14 +62830,6 @@
     }
   },
   "sBXr1tzugzs.11_1": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": false,
@@ -65821,14 +65071,6 @@
     }
   },
   "v_00002188_4": {
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": false,
@@ -65969,22 +65211,6 @@
         "C": "Rand2",
         "D": "GT"
       }
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "v_00003197_0": {
@@ -67773,32 +66999,6 @@
       }
     }
   },
-  "v_00008644_0": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    }
-  },
   "v_00009485_0": {
     "S": {
       "used_num_frames": 16,
@@ -67988,14 +67188,6 @@
     }
   },
   "v_00009537_0": {
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": false,
@@ -68104,14 +67296,6 @@
         "C": "GT",
         "D": "Late"
       }
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "HTTPConnectionPool(host='127.0.0.1', port=8005): Read timed out. (read timeout=600)"
     }
   },
   "v_00009689_0": {
@@ -68444,14 +67628,6 @@
     }
   },
   "v_00010607_0": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "A": {
       "used_num_frames": 16,
       "correct": true,
@@ -68466,14 +67642,6 @@
         "C": "Early",
         "D": "Late"
       }
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "v_00011221_1": {
@@ -68521,32 +67689,6 @@
         "C": "GT",
         "D": "Reverse"
       }
-    }
-  },
-  "v_00011376_0": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "v_00011273_0": {
@@ -69019,32 +68161,6 @@
       }
     }
   },
-  "v_00013853_0": {
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    }
-  },
   "v_00014469_3": {
     "S": {
       "used_num_frames": 16,
@@ -69202,14 +68318,6 @@
         "D": "Rand3"
       }
     },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "C": {
       "used_num_frames": 16,
       "correct": false,
@@ -69227,22 +68335,6 @@
     }
   },
   "v_00015029_0": {
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
     "S": {
       "used_num_frames": 16,
       "correct": true,

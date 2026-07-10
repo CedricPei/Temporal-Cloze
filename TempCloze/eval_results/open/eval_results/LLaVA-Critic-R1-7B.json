@@ -875,14 +875,6 @@
         "C": "Loop",
         "D": "Reverse"
       }
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "0026-7": {
@@ -5333,14 +5325,6 @@
         "C": "GT",
         "D": "Rand1"
       }
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "1194-7": {
@@ -5796,14 +5780,6 @@
         "D": "Loop"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The man is holding the girl up and then letting her go. The girl is then spinning around on the swing.\"}"
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "1300-7": {
@@ -12181,14 +12157,6 @@
         "C": "Wide",
         "D": "Late"
       }
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "4m5khG0emPE_video": {
@@ -17438,14 +17406,6 @@
         "D": "GT"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The video shows a large inflatable slide in a water park. The slide is partially submerged in water, and the camera pans to show the surrounding area, including a building and some trees. The video ends with a view of the slide from a different angle, showing the water and the slide's structure. The candidate video D matches this description.\"}"
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "Cou_ZJ93074": {
@@ -30999,22 +30959,6 @@
         "D": "Reverse"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The man in the blue shirt is talking to the woman in the yellow shirt and the woman in the white shirt is looking at the man in the blue shirt.\"}"
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "DAY1_A4_LUCIA_18090000": {
@@ -40071,14 +40015,6 @@
         "C": "Loop",
         "D": "Reverse"
       }
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "FRvKd5xBZA8.30_1": {
@@ -41756,14 +41692,6 @@
         "D": "Reverse"
       },
       "raw_original": "```json\n{\"answer\": \"D\", \"reason\": \"The sequence of movements and the final position match the end frame, indicating that Candidate D is the correct middle segment.\"}\n```"
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "HbsgXNuvn_8.114_2": {
@@ -45932,14 +45860,6 @@
         "D": "Early"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The camera pans to the right, showing the rear of the car. The camera then zooms in on the rear of the car, showing the license plate and the exhaust pipes.\"}"
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "O1aza19D0jQ": {
@@ -46771,14 +46691,6 @@
         "D": "GT"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The car is moving on the track.\"}"
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "PRBeGAD4YX8": {
@@ -48127,14 +48039,6 @@
         "D": "Early"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The rider is riding a bike and the camera is mounted on the bike. The rider is wearing a helmet and the bike has a front wheel and handlebars. The rider is riding on a dirt path and the camera is facing forward. The rider is wearing a yellow vest and the bike has a front wheel and handlebars. The rider is riding on a dirt path and the camera is facing forward.\"}"
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "Ramc5o_meyw.11_0": {
@@ -50799,14 +50703,6 @@
         "C": "Loop",
         "D": "GT"
       }
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "VuSWSlAZWII.1_0": {
@@ -52249,14 +52145,6 @@
         "D": "Reverse"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The man in the yellow helmet is seen interacting with the crowd, making gestures and speaking. The crowd is also seen taking pictures and videos with their phones. The man in the yellow helmet is also seen holding up a shirt with the words 'Claudius Vertesi' on it, which is consistent with the video ending where the man in the yellow helmet is seen holding up a shirt with the words 'Claudius Vertesi' on it.\"}"
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "YID1VrkkxUQ.26_1": {
@@ -54216,14 +54104,6 @@
         "D": "Shuffle"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The man in the black shirt is walking towards the horse and the man in the blue shirt is holding the horse's reins. This matches the end frame where the man in the black shirt is walking towards the horse and the man in the blue shirt is holding the horse's reins.\"}"
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "adtOQyNWGrg_video": {
@@ -55760,14 +55640,6 @@
         "D": "Shuffle"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The camera pans to the right, showing a snowy mountain landscape with a clear blue sky and a few clouds. The sun is shining brightly, casting shadows on the snow. The camera then zooms in on a person skiing down the mountain, leaving a trail of snow behind them. The skier is wearing a helmet and goggles, and they are moving quickly down the slope. The camera follows the skier as they navigate the terrain, passing by a few trees and rocks. The skier continues to descend, eventually reaching the bottom of the mountain and coming to a stop. The camera then pans back to the top of the mountain, showing the skier standing on the snow, looking up at the sky.\"}"
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "cuh3ITAxWQs": {
@@ -64542,14 +64414,6 @@
         "D": "Reverse"
       },
       "raw_original": "```json\n{\"answer\": \"D\", \"reason\": \"The thread is being pulled through the fabric, indicating the continuation of the embroidery process. This matches the end frame where the thread is still being pulled through the fabric, suggesting that the embroidery is still in progress.\"}\n```"
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "uevILpP2oCU": {
@@ -67872,14 +67736,6 @@
         "D": "Rand3"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The man is pushing the lawn mower and the child is pushing the toy mower. The man is looking at the child and smiling. The man is wearing a black shirt and blue jeans. The child is wearing a white onesie with a pattern and white boots. The lawn mower is red and black with a gray bag attached to it. The toy mower is blue and pink with yellow wheels. The man is standing on the grass and the child is standing on the sidewalk. The man is pushing the lawn mower forward and the child is pushing the toy mower forward. The man is looking at the child and smiling. The man is wearing a black shirt and blue jeans. The child is wearing a white onesie with a pattern and white boots. The lawn mower is red and black with a gray bag attached to it. The toy mower is blue and pink with yellow wheels. The man is standing on the grass and the child is standing on the sidewalk. The man is pushing the lawn mower forward and the child is pushing the toy mower forward.\"}"
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "v_00009731_0": {
@@ -71140,22 +70996,6 @@
         "C": "Reverse",
         "D": "Loop"
       }
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "v_00003905_0": {

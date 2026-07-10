@@ -45651,22 +45651,6 @@
         "D": "Loop"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The cars are racing on the track.\"}"
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "PRBeGAD4YX8": {
@@ -55193,14 +55177,6 @@
         "D": "Wide"
       },
       "raw_original": "{\"answer\": \"<C>\", \"reason\": \"The people are walking down the street.\"}"
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "fvVHw6pwjJM.6_10": {
@@ -58100,14 +58076,6 @@
         "D": "Shuffle"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The man points to the damaged car.\"}"
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "m_MfpiO-Gig.3_1": {
@@ -61947,14 +61915,6 @@
         "D": "Wide"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The butcher cuts the meat with the knife.\"}"
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "v_00001383_2": {
@@ -66343,22 +66303,6 @@
         "D": "Wide"
       },
       "raw_original": "{\"answer\": \"D\", \"reason\": \"The woman is holding the fabric with her left hand and using her right hand to sew it with the sewing machine.\"}"
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "2pxjZHp-p-A.9_3": {
@@ -66391,14 +66335,6 @@
         "D": "Late"
       },
       "raw_original": "{\"answer\": \"<C>\", \"reason\": \"C is the only candidate that shows the man spraying the gun.\"}"
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "3HzIK3wrnoE": {
@@ -67183,14 +67119,6 @@
         "D": "Wide"
       },
       "raw_original": "{\"answer\": \"<C>\", \"reason\": \"The man is walking on the wooden path.\"}"
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "FQQh5qj5tvM": {
@@ -68586,14 +68514,6 @@
         "D": "Shuffle"
       },
       "raw_original": "{\"answer\": \"<C>\", \"reason\": \"The people are walking down the sidewalk.\"}"
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "cVed2CVwYAg.4_0": {
@@ -68673,14 +68593,6 @@
         "C": "Rand3",
         "D": "Rand1"
       }
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "dowblV4QTps": {
@@ -70593,14 +70505,6 @@
         "C": "GT",
         "D": "Early"
       }
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Read timed out. (read timeout=600)"
     }
   },
   "8X8BS3t4lSM.26_0": {
@@ -70680,14 +70584,6 @@
         "C": "Early",
         "D": "Late"
       }
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Read timed out. (read timeout=600)"
     }
   },
   "EVBLytm4mN0.21_1": {
@@ -70814,40 +70710,6 @@
         "C": "Rand1",
         "D": "Rand2"
       }
-    },
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    }
-  },
-  "Sw0WjCr2EV4": {
-    "A": {
-      "correct": false,
-      "answer": null,
-      "expected": "D",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "B",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "C",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "VPf-eKQ2BoY.5_1": {
@@ -71256,14 +71118,6 @@
         "C": "Reverse",
         "D": "Loop"
       }
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer."
     }
   },
   "v_00008647_0": {

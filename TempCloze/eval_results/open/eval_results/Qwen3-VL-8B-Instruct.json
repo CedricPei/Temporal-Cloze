@@ -42705,16 +42705,6 @@
         "C": "Wide",
         "D": "Early"
       }
-    },
-    "C": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer.",
-      "raw_original": "{\"answer\": \"A\", \"reason\": \"Candidate A shows the continuous action of inserting and securing the knife into the pocket, matching the beginning and end frames. The other candidates either show the knife already secured (C, D) or show an unrelated action (B).\"",
-      "raw": null
     }
   },
   "I-zP-DreDUA": {
@@ -44862,16 +44852,6 @@
         "C": "GT",
         "D": "Wide"
       }
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer.",
-      "raw_original": "{\"answer\": \"B\", \"reason\": \"Candidate B shows the exact sequence of adding egg yolks to the blender, which directly follows the BEGINNING frames and precedes the END frames. The other candidates either show only flour addition (C, D) or an incorrect sequence (A).\"",
-      "raw": null
     }
   },
   "LQ73YrrewqY.11_8": {
@@ -59004,16 +58984,6 @@
         "C": "Reverse",
         "D": "GT"
       }
-    },
-    "S": {
-      "correct": false,
-      "answer": null,
-      "expected": "A",
-      "reason": null,
-      "option_map": null,
-      "error": "Parse failed: raw must contain JSON with a single A/B/C/D answer.",
-      "raw_original": "{\"answer\": \"B\", \"reason\": \"Candidate B shows the exact sequence of unwrapping and revealing the white Shopkins character, matching the transition from the BEGINNING to the END frames. The other candidates either show a different toy (A, D) or repeat the same action without the correct progression (C).\"",
-      "raw": null
     }
   },
   "h1DkYTTRMqg.1_0": {
