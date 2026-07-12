@@ -17,6 +17,7 @@
 然后设置环境变量（可选）:
   VLLM_BASE_URL=http://127.0.0.1:8000
   VLLM_MODEL=Qwen/Qwen2-VL-7B-Instruct
+  EVAL_NUM_FRAMES=16
 """
 
 import argparse
@@ -40,8 +41,9 @@ ROOT = Path(__file__).parent
 load_dotenv(ROOT / ".env")
 
 # ==================== 基本配置 ====================
-NUM_FRAMES = 16
-NUM_WORKERS = 16
+NUM_FRAMES = max(1, int(os.environ.get("EVAL_NUM_FRAMES", "16")))
+NUM_WORKERS = int(os.environ.get("EVAL_NUM_WORKERS", "16"))
+TASK_ORDER = os.environ.get("EVAL_TASK_ORDER", "by_stem").strip().lower()
 FRAME_RETRY_SCHEDULE = [16, 12, 4, 2, 1]
 # vLLM OpenAI 兼容接口地址与模型名
 VLLM_BASE_URL = os.environ.get("VLLM_BASE_URL", "http://127.0.0.1:8002").rstrip("/")
@@ -268,18 +270,23 @@ def _extract_response_payload(raw: str) -> dict | None:
         s = "\n".join(lines).strip()
 
     candidates = [s]
-    start = s.find("{")
-    end = s.rfind("}")
-    if start != -1 and end != -1 and end > start:
-        wrapped = s[start : end + 1]
-        if wrapped != s:
-            candidates.append(wrapped)
-
-    for candidate in candidates:
+    decoder = json.JSONDecoder()
+    for match in re.finditer(r"\{", s):
         try:
-            parsed = json.loads(candidate)
+            obj, _ = decoder.raw_decode(s[match.start() :])
         except json.JSONDecodeError:
             continue
+        if isinstance(obj, dict):
+            candidates.append(obj)
+
+    for candidate in reversed(candidates):
+        if isinstance(candidate, dict):
+            parsed = candidate
+        else:
+            try:
+                parsed = json.loads(candidate)
+            except json.JSONDecodeError:
+                continue
         if not isinstance(parsed, dict):
             continue
         if "answer" not in parsed or "reason" not in parsed:
@@ -287,6 +294,57 @@ def _extract_response_payload(raw: str) -> dict | None:
         if not isinstance(parsed.get("reason"), str):
             continue
         return parsed
+
+    # Molmo sometimes emits nearly valid JSON but misses the final quote/brace.
+    # Salvage the explicit answer/reason fields instead of treating it as an API error.
+    jsonish_answer_matches = list(
+        re.finditer(r"""["']answer["']\s*:\s*["']?\s*([ABCD])\b""", s, re.IGNORECASE)
+    )
+    if jsonish_answer_matches:
+        answer_match = jsonish_answer_matches[-1]
+        answer = answer_match.group(1).upper()
+        reason = ""
+        reason_match = re.search(
+            r"""["']reason["']\s*:\s*(.+)""",
+            s[answer_match.end() :],
+            re.IGNORECASE | re.DOTALL,
+        )
+        if reason_match:
+            reason = reason_match.group(1).strip()
+            reason = reason.rstrip("}").strip()
+            if len(reason) >= 2 and reason[0] == reason[-1] and reason[0] in {"'", '"'}:
+                reason = reason[1:-1].strip()
+            elif reason[:1] in {"'", '"'}:
+                reason = reason[1:].strip()
+            try:
+                reason = json.loads(f'"{reason}"')
+            except Exception:
+                pass
+        return {"answer": answer, "reason": reason}
+
+    answer_matches = list(
+        re.finditer(r"(?:final\s+answer|answer)\s*[:：]\s*(?:\*\*)?\s*<?([ABCD])>?", s, re.IGNORECASE)
+    )
+    if answer_matches:
+        answer = answer_matches[-1].group(1).upper()
+        reason = ""
+        reason_match = re.search(r"(?:reason)\s*[:：]\s*(?:\*\*)?\s*(.+)", s[answer_matches[-1].end() :], re.IGNORECASE | re.DOTALL)
+        if reason_match:
+            reason = reason_match.group(1).strip()
+        return {"answer": answer, "reason": reason}
+
+    final_answer_matches = list(
+        re.finditer(
+            r"(?:answer\s+is|correct\s+middle\s+segment\s+is|correct\s+answer\s+is)\s+"
+            r"(?:\*\*)?\s*(?:candidate\s*)?([ABCD])(?:\*\*)?",
+            s,
+            re.IGNORECASE,
+        )
+    )
+    if final_answer_matches:
+        answer = final_answer_matches[-1].group(1).upper()
+        tail = s[final_answer_matches[-1].start() :].strip()
+        return {"answer": answer, "reason": tail}
     return None
 
 
@@ -666,13 +724,22 @@ def run(targets: list[str] | None = None, output_name: str = ""):
 
     # 构建任务：只包含尚未完成的 (stem, dim)
     tasks: list[tuple[str, str, list[str]]] = []
-    for stem in stems:
-        if not (CHOICES_DIR / stem / "GT.mp4").exists():
-            continue
+    if TASK_ORDER == "by_dim":
         for dim, distractors in DIMENSIONS.items():
-            if stem in all_results and dim in all_results[stem]:
+            for stem in stems:
+                if not (CHOICES_DIR / stem / "GT.mp4").exists():
+                    continue
+                if stem in all_results and dim in all_results[stem]:
+                    continue
+                tasks.append((stem, dim, distractors))
+    else:
+        for stem in stems:
+            if not (CHOICES_DIR / stem / "GT.mp4").exists():
                 continue
-            tasks.append((stem, dim, distractors))
+            for dim, distractors in DIMENSIONS.items():
+                if stem in all_results and dim in all_results[stem]:
+                    continue
+                tasks.append((stem, dim, distractors))
 
     already_done = sum(len(v) for v in all_results.values())
     # region agent log
