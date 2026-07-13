@@ -1,13 +1,10 @@
 {
   "-4Fn63osbfc.42_1": {
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows the surfer successfully riding the wave and maintaining balance, which logically follows the initial action in the BEGINNING and leads to the surfer's position in the END.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the surfer successfully riding the wave and maintaining balance, which logically follows the initial action in the BEGINNING and leads to the surfer's position in the END.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the surfer successfully riding the wave and maintaining balance, which logically follows the initial action in the BEGINNING and leads to the surfer's position in the END.\"}",
       "option_map": {
         "A": "Rand3",
         "B": "GT",
@@ -16,13 +13,10 @@
       }
     },
     "A": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the surfer continuing to ride the wave after the initial maneuver, maintaining the flow of the action from the beginning to the end of the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the surfer continuing to ride the wave after the initial maneuver, maintaining the flow of the action from the beginning to the end of the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the surfer continuing to ride the wave after the initial maneuver, maintaining the flow of the action from the beginning to the end of the video.\"}",
       "option_map": {
         "A": "Early",
         "B": "Late",
@@ -31,13 +25,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows the surfer continuing to ride the wave after the initial maneuver, maintaining the flow of the action from the beginning to the end of the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the surfer continuing to ride the wave after the initial maneuver, maintaining the flow of the action from the beginning to the end of the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the surfer continuing to ride the wave after the initial maneuver, maintaining the flow of the action from the beginning to the end of the video.\"}",
       "option_map": {
         "A": "Reverse",
         "B": "GT",
@@ -48,13 +39,10 @@
   },
   "-0elu_w9VN0.0_0": {
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "A",
       "reason": "Candidate C shows the woman and the dog in a continuous interaction, maintaining the flow from the beginning to the end of the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the woman and the dog in a continuous interaction, maintaining the flow from the beginning to the end of the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the woman and the dog in a continuous interaction, maintaining the flow from the beginning to the end of the video.\"}",
       "option_map": {
         "A": "GT",
         "B": "Rand2",
@@ -63,13 +51,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the woman and the dog in a relaxed pose together, which smoothly transitions from the playful interaction in the BEGINNING to the affectionate moment in the END.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the woman and the dog in a relaxed pose together, which smoothly transitions from the playful interaction in the BEGINNING to the affectionate moment in the END.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the woman and the dog in a relaxed pose together, which smoothly transitions from the playful interaction in the BEGINNING to the affectionate moment in the END.\"}",
       "option_map": {
         "A": "Reverse",
         "B": "Loop",
@@ -78,13 +63,10 @@
       }
     },
     "A": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows a smooth transition from the woman and dog in a domestic setting to the abstract, colorful graphics, maintaining a playful and whimsical theme consistent with the beginning and end of the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows a smooth transition from the woman and dog in a domestic setting to the abstract, colorful graphics, maintaining a playful and whimsical theme consistent with the beginning and end of the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows a smooth transition from the woman and dog in a domestic setting to the abstract, colorful graphics, maintaining a playful and whimsical theme consistent with the beginning and end of the video.\"}",
       "option_map": {
         "A": "Wide",
         "B": "GT",
@@ -95,13 +77,10 @@
   },
   "-6h2Rqr1bzs": {
     "A": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "D",
       "reason": "The correct middle segment should show the children actively participating in the soccer training, with scenes of them running, kicking the ball, and interacting with the coach. Segment C fits this description, as it includes footage of the children running towards the coach, engaging in the activity, and then returning to the group, which logically connects the beginning and end of the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the children actively participating in the soccer training, with scenes of them running, kicking the ball, and interacting with the coach. Segment C fits this description, as it includes footage of the children running towards the coach, engaging in the activity, and then returning to the group, which logically connects the beginning and end of the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the children actively participating in the soccer training, with scenes of them running, kicking the ball, and interacting with the coach. Segment C fits this description, as it includes footage of the children running towards the coach, engaging in the activity, and then returning to the group, which logically connects the beginning and end of the video.\"}",
       "option_map": {
         "A": "Early",
         "B": "Wide",
@@ -110,13 +89,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "D",
       "reason": "The correct middle segment should show the children actively participating in the soccer training, with a focus on kicking the ball and interacting with the coach. Candidate C depicts this scenario, with children running towards the goal and engaging with the coach, which logically follows the beginning where they are preparing to kick the ball and precedes the end where they are celebrating their efforts.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the children actively participating in the soccer training, with a focus on kicking the ball and interacting with the coach. Candidate C depicts this scenario, with children running towards the goal and engaging with the coach, which logically follows the beginning where they are preparing to kick the ball and precedes the end where they are celebrating their efforts.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the children actively participating in the soccer training, with a focus on kicking the ball and interacting with the coach. Candidate C depicts this scenario, with children running towards the goal and engaging with the coach, which logically follows the beginning where they are preparing to kick the ball and precedes the end where they are celebrating their efforts.\"}",
       "option_map": {
         "A": "Loop",
         "B": "Shuffle",
@@ -125,13 +101,10 @@
       }
     },
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "D",
       "reason": "The correct middle segment should show the children actively participating in the soccer training, with a focus on their interactions with the coach and the soccer balls. Candidate C depicts this scenario, with children running towards the coach and engaging with the soccer balls, which aligns with the activities shown in the beginning and end of the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the children actively participating in the soccer training, with a focus on their interactions with the coach and the soccer balls. Candidate C depicts this scenario, with children running towards the coach and engaging with the soccer balls, which aligns with the activities shown in the beginning and end of the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the children actively participating in the soccer training, with a focus on their interactions with the coach and the soccer balls. Candidate C depicts this scenario, with children running towards the coach and engaging with the soccer balls, which aligns with the activities shown in the beginning and end of the video.\"}",
       "option_map": {
         "A": "Rand2",
         "B": "Rand3",
@@ -142,13 +115,10 @@
   },
   "-D3BDG_flQI.2_0": {
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows the player moving through a corridor and exiting into an open area, which logically connects the indoor setting of the beginning to the outdoor environment of the end.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through a corridor and exiting into an open area, which logically connects the indoor setting of the beginning to the outdoor environment of the end.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through a corridor and exiting into an open area, which logically connects the indoor setting of the beginning to the outdoor environment of the end.\"}",
       "option_map": {
         "A": "Rand3",
         "B": "GT",
@@ -157,13 +127,10 @@
       }
     },
     "A": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the player moving through a building and exiting to the street, which logically connects the indoor start of the video to the outdoor end. The other candidates either show unrelated scenes or do not provide a smooth transition between the beginning and end.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through a building and exiting to the street, which logically connects the indoor start of the video to the outdoor end. The other candidates either show unrelated scenes or do not provide a smooth transition between the beginning and end.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through a building and exiting to the street, which logically connects the indoor start of the video to the outdoor end. The other candidates either show unrelated scenes or do not provide a smooth transition between the beginning and end.\"}",
       "option_map": {
         "A": "Late",
         "B": "Early",
@@ -172,13 +139,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the player moving through the environment in a way that logically connects the beginning and end of the video, maintaining the flow of the action and the player's position relative to the surroundings.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through the environment in a way that logically connects the beginning and end of the video, maintaining the flow of the action and the player's position relative to the surroundings.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through the environment in a way that logically connects the beginning and end of the video, maintaining the flow of the action and the player's position relative to the surroundings.\"}",
       "option_map": {
         "A": "Shuffle",
         "B": "Reverse",
@@ -189,13 +153,10 @@
   },
   "-EhOTe1frdM.22_1": {
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows a continuation of the urban environment and traffic flow consistent with the beginning and end of the video, maintaining the same direction and context of the journey.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows a continuation of the urban environment and traffic flow consistent with the beginning and end of the video, maintaining the same direction and context of the journey.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows a continuation of the urban environment and traffic flow consistent with the beginning and end of the video, maintaining the same direction and context of the journey.\"}",
       "option_map": {
         "A": "Rand3",
         "B": "GT",
@@ -204,13 +165,10 @@
       }
     },
     "A": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "D",
       "reason": "Candidate C shows a continuation of the urban environment and traffic flow consistent with the beginning and end of the video, maintaining the same direction and context of the journey.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows a continuation of the urban environment and traffic flow consistent with the beginning and end of the video, maintaining the same direction and context of the journey.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows a continuation of the urban environment and traffic flow consistent with the beginning and end of the video, maintaining the same direction and context of the journey.\"}",
       "option_map": {
         "A": "Early",
         "B": "Wide",
@@ -219,13 +177,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows a continuation of the urban environment and traffic flow consistent with the beginning and end of the video, maintaining the same direction and context.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows a continuation of the urban environment and traffic flow consistent with the beginning and end of the video, maintaining the same direction and context.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows a continuation of the urban environment and traffic flow consistent with the beginning and end of the video, maintaining the same direction and context.\"}",
       "option_map": {
         "A": "Loop",
         "B": "Shuffle",
@@ -236,13 +191,10 @@
   },
   "-G43Mji8-pU.0_0": {
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "A",
       "reason": "Candidate C shows the child being lifted and then swimming, which logically follows the beginning where the child is being held and leads into the end where the child is swimming independently.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the child being lifted and then swimming, which logically follows the beginning where the child is being held and leads into the end where the child is swimming independently.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the child being lifted and then swimming, which logically follows the beginning where the child is being held and leads into the end where the child is swimming independently.\"}",
       "option_map": {
         "A": "GT",
         "B": "Rand1",
@@ -251,13 +203,10 @@
       }
     },
     "A": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows the child being lifted and then swimming, which logically follows the beginning where the child is being supported and leads into the end where the child is swimming independently.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the child being lifted and then swimming, which logically follows the beginning where the child is being supported and leads into the end where the child is swimming independently.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the child being lifted and then swimming, which logically follows the beginning where the child is being supported and leads into the end where the child is swimming independently.\"}",
       "option_map": {
         "A": "Wide",
         "B": "GT",
@@ -266,13 +215,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the child being lifted and then swimming, which logically follows the beginning where the child is being supported and leads into the end where the child is swimming independently.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the child being lifted and then swimming, which logically follows the beginning where the child is being supported and leads into the end where the child is swimming independently.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the child being lifted and then swimming, which logically follows the beginning where the child is being supported and leads into the end where the child is swimming independently.\"}",
       "option_map": {
         "A": "Reverse",
         "B": "Loop",
@@ -283,13 +229,10 @@
   },
   "-N9GzCv5nHo.1_0": {
     "S": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the group of people carrying the corrugated metal sheets, which logically follows the initial scene of the man pointing and precedes the final scene where the metal sheets are placed against the wall. This sequence maintains the continuity of the activity depicted in the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the group of people carrying the corrugated metal sheets, which logically follows the initial scene of the man pointing and precedes the final scene where the metal sheets are placed against the wall. This sequence maintains the continuity of the activity depicted in the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the group of people carrying the corrugated metal sheets, which logically follows the initial scene of the man pointing and precedes the final scene where the metal sheets are placed against the wall. This sequence maintains the continuity of the activity depicted in the video.\"}",
       "option_map": {
         "A": "Rand1",
         "B": "Rand2",
@@ -300,13 +243,10 @@
   },
   "-2v17iljK8k.4_0": {
     "A": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows the person cutting the pipe with a red hacksaw, which is the logical continuation of the actions in the BEGINNING and leads to the END where the cut pipe is removed.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the person cutting the pipe with a red hacksaw, which is the logical continuation of the actions in the BEGINNING and leads to the END where the cut pipe is removed.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the person cutting the pipe with a red hacksaw, which is the logical continuation of the actions in the BEGINNING and leads to the END where the cut pipe is removed.\"}",
       "option_map": {
         "A": "Late",
         "B": "GT",
@@ -315,13 +255,10 @@
       }
     },
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows the person cutting the pipe with a red hacksaw, which is the logical continuation of the actions in the BEGINNING and leads to the END where the cut pipe is removed.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the person cutting the pipe with a red hacksaw, which is the logical continuation of the actions in the BEGINNING and leads to the END where the cut pipe is removed.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the person cutting the pipe with a red hacksaw, which is the logical continuation of the actions in the BEGINNING and leads to the END where the cut pipe is removed.\"}",
       "option_map": {
         "A": "Rand1",
         "B": "GT",
@@ -330,13 +267,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "A",
       "reason": "Candidate C shows the person cutting the pipe with a red hacksaw, which is the action that logically follows the initial setup and precedes the final arrangement of the cut pipes on the table.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the person cutting the pipe with a red hacksaw, which is the action that logically follows the initial setup and precedes the final arrangement of the cut pipes on the table.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the person cutting the pipe with a red hacksaw, which is the action that logically follows the initial setup and precedes the final arrangement of the cut pipes on the table.\"}",
       "option_map": {
         "A": "GT",
         "B": "Reverse",
@@ -347,13 +281,10 @@
   },
   "-SLAlDHHh3c.11_0": {
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "D",
       "reason": "Candidate C shows the player moving through the environment in a way that logically connects the initial position in the beginning to the final position in the end, maintaining continuity in the player's actions and location.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through the environment in a way that logically connects the initial position in the beginning to the final position in the end, maintaining continuity in the player's actions and location.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through the environment in a way that logically connects the initial position in the beginning to the final position in the end, maintaining continuity in the player's actions and location.\"}",
       "option_map": {
         "A": "Rand2",
         "B": "Rand3",
@@ -362,13 +293,10 @@
       }
     },
     "A": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "A",
       "reason": "Candidate C shows the player moving through the environment in a way that logically connects the initial and final segments, maintaining the flow of the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through the environment in a way that logically connects the initial and final segments, maintaining the flow of the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through the environment in a way that logically connects the initial and final segments, maintaining the flow of the video.\"}",
       "option_map": {
         "A": "GT",
         "B": "Late",
@@ -377,13 +305,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "D",
       "reason": "Candidate C shows the player moving through the environment in a way that logically connects the beginning and end of the video, maintaining the flow of the action and the player's position within the game world.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through the environment in a way that logically connects the beginning and end of the video, maintaining the flow of the action and the player's position within the game world.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the player moving through the environment in a way that logically connects the beginning and end of the video, maintaining the flow of the action and the player's position within the game world.\"}",
       "option_map": {
         "A": "Reverse",
         "B": "Shuffle",
@@ -394,13 +319,10 @@
   },
   "-iJMxD4agOE.32_0": {
     "S": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "The correct middle segment should show the transition from preparing the lemon to the final step of the recipe, which involves using a knife to cut the lemon. Candidate C depicts this action, making it the logical continuation from the beginning and leading into the end of the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the transition from preparing the lemon to the final step of the recipe, which involves using a knife to cut the lemon. Candidate C depicts this action, making it the logical continuation from the beginning and leading into the end of the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the transition from preparing the lemon to the final step of the recipe, which involves using a knife to cut the lemon. Candidate C depicts this action, making it the logical continuation from the beginning and leading into the end of the video.\"}",
       "option_map": {
         "A": "Rand3",
         "B": "Rand1",
@@ -409,13 +331,10 @@
       }
     },
     "A": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "A",
       "reason": "The correct middle segment should show the progression of preparing the lemon for use, which includes cutting it in half and squeezing it, as seen in Candidate C. This action logically follows the initial handling of the lemon and precedes the final step of adding the lemon juice to the blender, which is shown in the END segment.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the progression of preparing the lemon for use, which includes cutting it in half and squeezing it, as seen in Candidate C. This action logically follows the initial handling of the lemon and precedes the final step of adding the lemon juice to the blender, which is shown in the END segment.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the progression of preparing the lemon for use, which includes cutting it in half and squeezing it, as seen in Candidate C. This action logically follows the initial handling of the lemon and precedes the final step of adding the lemon juice to the blender, which is shown in the END segment.\"}",
       "option_map": {
         "A": "GT",
         "B": "Early",
@@ -424,13 +343,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "D",
       "reason": "The correct middle segment should show the progression of preparing the lemon for the recipe, which includes cutting it in half and squeezing it. Candidate C depicts these actions, making it the logical continuation from the beginning and leading into the end where the lemon is fully utilized.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the progression of preparing the lemon for the recipe, which includes cutting it in half and squeezing it. Candidate C depicts these actions, making it the logical continuation from the beginning and leading into the end where the lemon is fully utilized.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the progression of preparing the lemon for the recipe, which includes cutting it in half and squeezing it. Candidate C depicts these actions, making it the logical continuation from the beginning and leading into the end where the lemon is fully utilized.\"}",
       "option_map": {
         "A": "Reverse",
         "B": "Shuffle",
@@ -441,13 +357,10 @@
   },
   "-P7Y_BlwxO8.42_0": {
     "C": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "A",
       "reason": "Candidate C shows the driver continuing to navigate the track with consistent driving behavior and track conditions, maintaining the flow from the beginning to the end of the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the driver continuing to navigate the track with consistent driving behavior and track conditions, maintaining the flow from the beginning to the end of the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the driver continuing to navigate the track with consistent driving behavior and track conditions, maintaining the flow from the beginning to the end of the video.\"}",
       "option_map": {
         "A": "GT",
         "B": "Shuffle",
@@ -456,13 +369,10 @@
       }
     },
     "A": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "A",
       "reason": "Candidate C shows the driver continuing to navigate the track with consistent driving behavior and track conditions, maintaining the flow from the beginning to the end of the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the driver continuing to navigate the track with consistent driving behavior and track conditions, maintaining the flow from the beginning to the end of the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the driver continuing to navigate the track with consistent driving behavior and track conditions, maintaining the flow from the beginning to the end of the video.\"}",
       "option_map": {
         "A": "GT",
         "B": "Wide",
@@ -473,13 +383,10 @@
   },
   "-3tpkXFA4uU.11_1": {
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "D",
       "reason": "Candidate C shows a woman walking towards horses, which logically follows the beginning where she is seen petting a horse and precedes the end where she is riding a horse. This sequence maintains the continuity of the video's narrative.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows a woman walking towards horses, which logically follows the beginning where she is seen petting a horse and precedes the end where she is riding a horse. This sequence maintains the continuity of the video's narrative.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows a woman walking towards horses, which logically follows the beginning where she is seen petting a horse and precedes the end where she is riding a horse. This sequence maintains the continuity of the video's narrative.\"}",
       "option_map": {
         "A": "Rand3",
         "B": "Rand1",
@@ -490,13 +397,10 @@
   },
   "-lLfmzJrbA8.12_0": {
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows the hands placing the waffle iron on top of the yellow substance and pressing down, which is the action needed to complete the assembly shown in the END frames.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the hands placing the waffle iron on top of the yellow substance and pressing down, which is the action needed to complete the assembly shown in the END frames.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the hands placing the waffle iron on top of the yellow substance and pressing down, which is the action needed to complete the assembly shown in the END frames.\"}",
       "option_map": {
         "A": "Rand1",
         "B": "GT",
@@ -505,13 +409,10 @@
       }
     },
     "A": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the hands placing the waffle iron on top of the yellow substance and pressing down, which is the action that connects the beginning and end of the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the hands placing the waffle iron on top of the yellow substance and pressing down, which is the action that connects the beginning and end of the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the hands placing the waffle iron on top of the yellow substance and pressing down, which is the action that connects the beginning and end of the video.\"}",
       "option_map": {
         "A": "Late",
         "B": "Early",
@@ -520,13 +421,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows the hands placing the wooden waffle iron on top of the yellow dough and pressing down, which is the action that connects the beginning (preparing the dough) to the end (revealing the waffle shape).",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the hands placing the wooden waffle iron on top of the yellow dough and pressing down, which is the action that connects the beginning (preparing the dough) to the end (revealing the waffle shape).\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the hands placing the wooden waffle iron on top of the yellow dough and pressing down, which is the action that connects the beginning (preparing the dough) to the end (revealing the waffle shape).\"}",
       "option_map": {
         "A": "Reverse",
         "B": "GT",
@@ -537,13 +435,10 @@
   },
   "-uZ7ncui_8M.12_0": {
     "A": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the motorcycle moving forward from the initial position at the traffic light, maintaining the same lane and direction as seen in the beginning and end segments, ensuring a smooth transition between the clips.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the motorcycle moving forward from the initial position at the traffic light, maintaining the same lane and direction as seen in the beginning and end segments, ensuring a smooth transition between the clips.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the motorcycle moving forward from the initial position at the traffic light, maintaining the same lane and direction as seen in the beginning and end segments, ensuring a smooth transition between the clips.\"}",
       "option_map": {
         "A": "Late",
         "B": "Wide",
@@ -552,13 +447,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "The correct middle segment should show the motorcycle moving forward and passing the silver car, which is consistent with the flow of traffic and the position of the motorcycle in the beginning and end frames. Candidate C depicts this scenario accurately.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the motorcycle moving forward and passing the silver car, which is consistent with the flow of traffic and the position of the motorcycle in the beginning and end frames. Candidate C depicts this scenario accurately.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"The correct middle segment should show the motorcycle moving forward and passing the silver car, which is consistent with the flow of traffic and the position of the motorcycle in the beginning and end frames. Candidate C depicts this scenario accurately.\"}",
       "option_map": {
         "A": "Shuffle",
         "B": "GT",
@@ -569,13 +461,10 @@
   },
   "-uGOkXmPmOA.10_0": {
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "D",
       "reason": "Candidate C shows the progression of the pepper arrangement from a scattered layout to a more organized, shape-representative formation, which logically connects the initial state in BEGINNING to the final, complete shape in END.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the progression of the pepper arrangement from a scattered layout to a more organized, shape-representative formation, which logically connects the initial state in BEGINNING to the final, complete shape in END.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the progression of the pepper arrangement from a scattered layout to a more organized, shape-representative formation, which logically connects the initial state in BEGINNING to the final, complete shape in END.\"}",
       "option_map": {
         "A": "Rand2",
         "B": "Rand3",
@@ -584,13 +473,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows the progression of the pepper arrangement from a scattered layout to a more organized, shape-representative formation, which logically connects the initial state in BEGINNING to the final, complete shape in END.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the progression of the pepper arrangement from a scattered layout to a more organized, shape-representative formation, which logically connects the initial state in BEGINNING to the final, complete shape in END.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the progression of the pepper arrangement from a scattered layout to a more organized, shape-representative formation, which logically connects the initial state in BEGINNING to the final, complete shape in END.\"}",
       "option_map": {
         "A": "Loop",
         "B": "GT",
@@ -599,13 +485,10 @@
       }
     },
     "A": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the progression of the pepper arrangement from a scattered layout to a more organized, shape-representative formation, which logically connects the initial state in BEGINNING to the final, complete shape in END.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the progression of the pepper arrangement from a scattered layout to a more organized, shape-representative formation, which logically connects the initial state in BEGINNING to the final, complete shape in END.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the progression of the pepper arrangement from a scattered layout to a more organized, shape-representative formation, which logically connects the initial state in BEGINNING to the final, complete shape in END.\"}",
       "option_map": {
         "A": "Late",
         "B": "Wide",
@@ -616,13 +499,10 @@
   },
   "-zhRLh80O7s": {
     "A": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "A",
       "reason": "Candidate C shows the truck from a side angle, focusing on the 'Explorer' badge and the white stripe, which matches the transition from the beginning's close-up of the front to the end's rear view. This segment maintains the video's focus on the truck's exterior features and design elements, making it the correct middle part of the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the truck from a side angle, focusing on the 'Explorer' badge and the white stripe, which matches the transition from the beginning's close-up of the front to the end's rear view. This segment maintains the video's focus on the truck's exterior features and design elements, making it the correct middle part of the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the truck from a side angle, focusing on the 'Explorer' badge and the white stripe, which matches the transition from the beginning's close-up of the front to the end's rear view. This segment maintains the video's focus on the truck's exterior features and design elements, making it the correct middle part of the video.\"}",
       "option_map": {
         "A": "GT",
         "B": "Wide",
@@ -631,13 +511,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows the rear view of the truck, which logically follows the front view shown in the beginning and precedes the close-up details of the truck's side and rear in the end.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the rear view of the truck, which logically follows the front view shown in the beginning and precedes the close-up details of the truck's side and rear in the end.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the rear view of the truck, which logically follows the front view shown in the beginning and precedes the close-up details of the truck's side and rear in the end.\"}",
       "option_map": {
         "A": "Loop",
         "B": "GT",
@@ -648,13 +525,10 @@
   },
   "000v5t8qkpo.6_1": {
     "S": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the hands removing the bolts from the suspension component, which is the logical next step after the initial setup shown in the beginning and before the final adjustment or removal shown in the end.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the hands removing the bolts from the suspension component, which is the logical next step after the initial setup shown in the beginning and before the final adjustment or removal shown in the end.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the hands removing the bolts from the suspension component, which is the logical next step after the initial setup shown in the beginning and before the final adjustment or removal shown in the end.\"}",
       "option_map": {
         "A": "Rand3",
         "B": "Rand2",
@@ -663,13 +537,10 @@
       }
     },
     "A": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "A",
       "reason": "Candidate C shows the hands using a wrench to remove a bolt, which is a logical step in the sequence of actions under the car, connecting the initial preparation with the final removal of the part.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the hands using a wrench to remove a bolt, which is a logical step in the sequence of actions under the car, connecting the initial preparation with the final removal of the part.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the hands using a wrench to remove a bolt, which is a logical step in the sequence of actions under the car, connecting the initial preparation with the final removal of the part.\"}",
       "option_map": {
         "A": "GT",
         "B": "Early",
@@ -678,13 +549,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "D",
       "reason": "Candidate C shows the hands using a wrench to remove a bolt, which is a logical step in the sequence of actions leading to the final state shown in the END frames.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the hands using a wrench to remove a bolt, which is a logical step in the sequence of actions leading to the final state shown in the END frames.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the hands using a wrench to remove a bolt, which is a logical step in the sequence of actions leading to the final state shown in the END frames.\"}",
       "option_map": {
         "A": "Loop",
         "B": "Shuffle",
@@ -695,13 +563,10 @@
   },
   "0018-7": {
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "A",
       "reason": "Candidate C shows the continuation of the interaction where the woman in the purple dress is seen speaking to the men in maroon shirts, which aligns with the context of the beginning and end frames where the conversation and actions are taking place.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the continuation of the interaction where the woman in the purple dress is seen speaking to the men in maroon shirts, which aligns with the context of the beginning and end frames where the conversation and actions are taking place.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the continuation of the interaction where the woman in the purple dress is seen speaking to the men in maroon shirts, which aligns with the context of the beginning and end frames where the conversation and actions are taking place.\"}",
       "option_map": {
         "A": "GT",
         "B": "Rand1",
@@ -712,13 +577,10 @@
   },
   "0032-7": {
     "S": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the correct sequence of actions where the person writes the equation '9 - 3 = 6' on the table, which is the correct solution to the genius test presented in the video. This action logically connects the beginning of the video, where the test is introduced, to the end, where the solution is confirmed.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the correct sequence of actions where the person writes the equation '9 - 3 = 6' on the table, which is the correct solution to the genius test presented in the video. This action logically connects the beginning of the video, where the test is introduced, to the end, where the solution is confirmed.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the correct sequence of actions where the person writes the equation '9 - 3 = 6' on the table, which is the correct solution to the genius test presented in the video. This action logically connects the beginning of the video, where the test is introduced, to the end, where the solution is confirmed.\"}",
       "option_map": {
         "A": "Rand2",
         "B": "Rand3",
@@ -727,13 +589,10 @@
       }
     },
     "A": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows the woman actively engaging with the math problem on the table, which logically follows the initial setup and precedes the final solution reveal. It captures the moment of problem-solving, making it the correct middle segment.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the woman actively engaging with the math problem on the table, which logically follows the initial setup and precedes the final solution reveal. It captures the moment of problem-solving, making it the correct middle segment.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the woman actively engaging with the math problem on the table, which logically follows the initial setup and precedes the final solution reveal. It captures the moment of problem-solving, making it the correct middle segment.\"}",
       "option_map": {
         "A": "Wide",
         "B": "GT",
@@ -742,13 +601,10 @@
       }
     },
     "C": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows the woman actively engaging with the math problem on the table, which logically follows the initial setup and precedes the final solution reveal.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the woman actively engaging with the math problem on the table, which logically follows the initial setup and precedes the final solution reveal.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the woman actively engaging with the math problem on the table, which logically follows the initial setup and precedes the final solution reveal.\"}",
       "option_map": {
         "A": "Reverse",
         "B": "GT",
@@ -759,13 +615,10 @@
   },
   "0094-7": {
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C shows the red blood vessels being tied together, which logically follows the removal of the vessels and precedes the visualization of the vessels' length in relation to the Earth's circumference.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the red blood vessels being tied together, which logically follows the removal of the vessels and precedes the visualization of the vessels' length in relation to the Earth's circumference.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the red blood vessels being tied together, which logically follows the removal of the vessels and precedes the visualization of the vessels' length in relation to the Earth's circumference.\"}",
       "option_map": {
         "A": "Rand2",
         "B": "GT",
@@ -776,13 +629,10 @@
   },
   "0106-7": {
     "A": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "D",
       "reason": "Candidate C shows the man pushing the strollers forward, which logically follows the beginning where he is seen preparing the strollers and precedes the end where he is walking away with them. The other candidates either show actions that do not connect the beginning and end or are out of sequence.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the man pushing the strollers forward, which logically follows the beginning where he is seen preparing the strollers and precedes the end where he is walking away with them. The other candidates either show actions that do not connect the beginning and end or are out of sequence.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the man pushing the strollers forward, which logically follows the beginning where he is seen preparing the strollers and precedes the end where he is walking away with them. The other candidates either show actions that do not connect the beginning and end or are out of sequence.\"}",
       "option_map": {
         "A": "Late",
         "B": "Wide",
@@ -793,13 +643,10 @@
   },
   "0163-7": {
     "S": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the golfer completing the swing and following through, which logically connects to the END where the golfer is seen walking away, indicating the completion of the action.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the golfer completing the swing and following through, which logically connects to the END where the golfer is seen walking away, indicating the completion of the action.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the golfer completing the swing and following through, which logically connects to the END where the golfer is seen walking away, indicating the completion of the action.\"}",
       "option_map": {
         "A": "Rand3",
         "B": "Rand2",
@@ -808,13 +655,10 @@
       }
     },
     "A": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the golfer completing the swing and reacting to the shot, which logically follows the initial setup and leads to the final reaction seen in the END frames.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the golfer completing the swing and reacting to the shot, which logically follows the initial setup and leads to the final reaction seen in the END frames.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the golfer completing the swing and reacting to the shot, which logically follows the initial setup and leads to the final reaction seen in the END frames.\"}",
       "option_map": {
         "A": "Late",
         "B": "Early",
@@ -825,13 +669,10 @@
   },
   "0271-7": {
     "A": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the man in the white robe continuing to rake the sand, which is the action that logically follows the beginning and leads to the end where the sand is fully raked.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the man in the white robe continuing to rake the sand, which is the action that logically follows the beginning and leads to the end where the sand is fully raked.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the man in the white robe continuing to rake the sand, which is the action that logically follows the beginning and leads to the end where the sand is fully raked.\"}",
       "option_map": {
         "A": "Early",
         "B": "Wide",
@@ -842,13 +683,10 @@
   },
   "0294-7": {
     "S": {
-      "used_num_frames": 16,
       "correct": false,
       "answer": "C",
       "expected": "B",
       "reason": "Candidate C maintains the continuity of the scene by showing the woman's reaction as she interacts with the green creature, which aligns with the beginning and end of the video where she is seen in various states of surprise and engagement with the creature.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C maintains the continuity of the scene by showing the woman's reaction as she interacts with the green creature, which aligns with the beginning and end of the video where she is seen in various states of surprise and engagement with the creature.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C maintains the continuity of the scene by showing the woman's reaction as she interacts with the green creature, which aligns with the beginning and end of the video where she is seen in various states of surprise and engagement with the creature.\"}",
       "option_map": {
         "A": "Rand2",
         "B": "GT",
@@ -859,13 +697,10 @@
   },
   "0286-7": {
     "S": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the person in the train control room receiving a card and then smiling, which logically follows the initial scene of the train approaching and leads into the final scene of the person exiting the train. This sequence maintains a coherent narrative flow from the beginning to the end of the video.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the person in the train control room receiving a card and then smiling, which logically follows the initial scene of the train approaching and leads into the final scene of the person exiting the train. This sequence maintains a coherent narrative flow from the beginning to the end of the video.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the person in the train control room receiving a card and then smiling, which logically follows the initial scene of the train approaching and leads into the final scene of the person exiting the train. This sequence maintains a coherent narrative flow from the beginning to the end of the video.\"}",
       "option_map": {
         "A": "Rand1",
         "B": "Rand3",
@@ -876,13 +711,10 @@
   },
   "0617-7": {
     "S": {
-      "used_num_frames": 16,
       "correct": true,
       "answer": "C",
       "expected": "C",
       "reason": "Candidate C shows the man continuing the action of applying the yellow substance to the car's surface, which logically follows the beginning and leads to the end where the task is completed.",
-      "raw_original": "```json\n{\"answer\": \"C\", \"reason\": \"Candidate C shows the man continuing the action of applying the yellow substance to the car's surface, which logically follows the beginning and leads to the end where the task is completed.\"}\n```",
-      "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the man continuing the action of applying the yellow substance to the car's surface, which logically follows the beginning and leads to the end where the task is completed.\"}",
       "option_map": {
         "A": "Rand3",
         "B": "Rand1",

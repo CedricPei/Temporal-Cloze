@@ -26,7 +26,6 @@ import json
 import logging
 import os
 import random
-import re
 import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -109,32 +108,6 @@ _fh.setFormatter(_fmt)
 log.addHandler(_fh)
 
 
-# region agent log
-def _agent_debug_log(hypothesis_id: str, message: str, data: dict | None = None, run_id: str = "initial") -> None:
-    """
-    轻量调试日志：按 NDJSON 追加到仓库内的 .cursor/debug.log。
-    避免引入第三方，仅用于本次 Debug，会在确认修复后移除。
-    """
-    try:
-        payload = {
-            "id": f"log_{int(time.time() * 1000)}",
-            "timestamp": int(time.time() * 1000),
-            "location": "eval_vllm.py",
-            "message": message,
-            "data": data or {},
-            "runId": run_id,
-            "hypothesisId": hypothesis_id,
-        }
-        debug_path = ROOT.parent / ".cursor" / "debug.log"
-        debug_path.parent.mkdir(parents=True, exist_ok=True)
-        with debug_path.open("a", encoding="utf-8") as f:
-            f.write(json.dumps(payload, ensure_ascii=False) + "\n")
-    except Exception:
-        # 调试日志失败不能影响正常评测流程
-        pass
-# endregion
-
-
 # ==================== 帧采样与编码 ====================
 
 def sample_and_encode(video_path: Path, num_frames: int | None = None) -> list[str]:
@@ -207,9 +180,9 @@ def _extract_response_text(resp_json: dict) -> str:
     raise ValueError("Message content is not str or list")
 
 
-def _is_html_response(raw: str) -> bool:
+def _is_html_response(text: str) -> bool:
     """接口偶尔可能返回 HTML 错误页，这种要忽略。"""
-    s = (raw or "").strip()
+    s = (text or "").strip()
     if not s or len(s) < 50:
         return False
     s_lower = s[:500].lower()
@@ -235,138 +208,42 @@ def _is_model_length_error(err_str: str) -> bool:
     return any(k in s for k in keywords)
 
 
-def _normalize_answer_value(answer: object) -> str | None:
-    """规范化 answer：仅允许单个 A/B/C/D，支持 <A>，不接受多选。"""
-    if not isinstance(answer, str):
-        return None
+def parse_eval_response(text: str, letters: list[str]) -> tuple[str | None, str]:
+    """从模型返回文本中解析 answer、reason。"""
+    text = (text or "").strip()
+    if not text:
+        return None, ""
 
-    s = answer.strip().upper()
-    if not s:
-        return None
-
-    # 支持 <A> 这类输出
-    if s.startswith("<") and s.endswith(">") and len(s) >= 3:
-        s = s[1:-1].strip()
-
-    # 多选（如 <A, B> / A,B / A/B）统一视为非法
-    if len(re.findall(r"[ABCD]", s)) != 1:
-        return None
-
-    return s if re.fullmatch(r"[ABCD]", s) else None
-
-
-def _extract_response_payload(raw: str) -> dict | None:
-    """从原始输出中提取 answer/reason JSON 对象。"""
-    s = (raw or "").strip()
-    if not s or _is_html_response(s):
-        return None
-
-    if s.startswith("```"):
-        lines = s.split("\n")
+    if text.startswith("```"):
+        lines = text.split("\n")
         if lines[0].strip().startswith("```"):
             lines = lines[1:]
         if lines and lines[-1].strip() == "```":
             lines = lines[:-1]
-        s = "\n".join(lines).strip()
+        text = "\n".join(lines).strip()
 
-    candidates = [s]
-    decoder = json.JSONDecoder()
-    for match in re.finditer(r"\{", s):
+    try:
+        parsed = json.loads(text)
+        answer = (parsed.get("answer") or "").strip().upper()
+        reason = parsed.get("reason") or ""
+        if answer in letters:
+            return answer, reason
+    except json.JSONDecodeError:
+        pass
+
+    start = text.find("{")
+    end = text.rfind("}")
+    if start != -1 and end != -1 and end > start:
         try:
-            obj, _ = decoder.raw_decode(s[match.start() :])
+            parsed = json.loads(text[start : end + 1])
+            answer = (parsed.get("answer") or "").strip().upper()
+            reason = parsed.get("reason") or ""
+            if answer in letters:
+                return answer, reason
         except json.JSONDecodeError:
-            continue
-        if isinstance(obj, dict):
-            candidates.append(obj)
+            pass
 
-    for candidate in reversed(candidates):
-        if isinstance(candidate, dict):
-            parsed = candidate
-        else:
-            try:
-                parsed = json.loads(candidate)
-            except json.JSONDecodeError:
-                continue
-        if not isinstance(parsed, dict):
-            continue
-        if "answer" not in parsed or "reason" not in parsed:
-            continue
-        if not isinstance(parsed.get("reason"), str):
-            continue
-        return parsed
-
-    # Molmo sometimes emits nearly valid JSON but misses the final quote/brace.
-    # Salvage the explicit answer/reason fields instead of treating it as an API error.
-    jsonish_answer_matches = list(
-        re.finditer(r"""["']answer["']\s*:\s*["']?\s*([ABCD])\b""", s, re.IGNORECASE)
-    )
-    if jsonish_answer_matches:
-        answer_match = jsonish_answer_matches[-1]
-        answer = answer_match.group(1).upper()
-        reason = ""
-        reason_match = re.search(
-            r"""["']reason["']\s*:\s*(.+)""",
-            s[answer_match.end() :],
-            re.IGNORECASE | re.DOTALL,
-        )
-        if reason_match:
-            reason = reason_match.group(1).strip()
-            reason = reason.rstrip("}").strip()
-            if len(reason) >= 2 and reason[0] == reason[-1] and reason[0] in {"'", '"'}:
-                reason = reason[1:-1].strip()
-            elif reason[:1] in {"'", '"'}:
-                reason = reason[1:].strip()
-            try:
-                reason = json.loads(f'"{reason}"')
-            except Exception:
-                pass
-        return {"answer": answer, "reason": reason}
-
-    answer_matches = list(
-        re.finditer(r"(?:final\s+answer|answer)\s*[:：]\s*(?:\*\*)?\s*<?([ABCD])>?", s, re.IGNORECASE)
-    )
-    if answer_matches:
-        answer = answer_matches[-1].group(1).upper()
-        reason = ""
-        reason_match = re.search(r"(?:reason)\s*[:：]\s*(?:\*\*)?\s*(.+)", s[answer_matches[-1].end() :], re.IGNORECASE | re.DOTALL)
-        if reason_match:
-            reason = reason_match.group(1).strip()
-        return {"answer": answer, "reason": reason}
-
-    final_answer_matches = list(
-        re.finditer(
-            r"(?:answer\s+is|correct\s+middle\s+segment\s+is|correct\s+answer\s+is)\s+"
-            r"(?:\*\*)?\s*(?:candidate\s*)?([ABCD])(?:\*\*)?",
-            s,
-            re.IGNORECASE,
-        )
-    )
-    if final_answer_matches:
-        answer = final_answer_matches[-1].group(1).upper()
-        tail = s[final_answer_matches[-1].start() :].strip()
-        return {"answer": answer, "reason": tail}
-    return None
-
-
-def _normalize_raw_json(answer: str, reason: str) -> str:
-    return json.dumps({"answer": answer, "reason": reason}, ensure_ascii=False)
-
-
-def parse_eval_response(raw: str, letters: list[str]) -> tuple[str | None, str, str | None]:
-    """兼容 code fence / 包裹文本，解析 answer、reason，并返回规范化后的 raw。"""
-    parsed = _extract_response_payload(raw)
-    if not isinstance(parsed, dict):
-        return None, "", None
-
-    answer = _normalize_answer_value(parsed.get("answer"))
-    if answer not in letters:
-        return None, "", None
-
-    reason = parsed.get("reason")
-    if not isinstance(reason, str):
-        return None, "", None
-
-    return answer, reason, _normalize_raw_json(answer, reason)
+    return None, ""
 
 
 def _is_valid_answer(answer: object) -> bool:
@@ -384,23 +261,7 @@ def _vllm_chat(content: list[dict]) -> dict:
         "temperature": 0,
         "max_tokens": 8192,
     }
-    # region agent log
-    _agent_debug_log(
-        hypothesis_id="H9",
-        message="Preparing vLLM HTTP request",
-        data={"base_url": VLLM_BASE_URL, "url": url, "model": EVAL_MODEL},
-        run_id="initial",
-    )
-    # endregion
     resp = requests.post(url, json=payload, timeout=600)
-    # region agent log
-    _agent_debug_log(
-        hypothesis_id="H10",
-        message="vLLM HTTP response received",
-        data={"status_code": resp.status_code, "ok": resp.ok},
-        run_id="initial",
-    )
-    # endregion
     if not resp.ok:
         try:
             err_body = (resp.text or resp.content and resp.content.decode("utf-8", errors="replace")) or ""
@@ -419,20 +280,12 @@ def eval_one(stem: str, dim: str, distractors: list[str]) -> dict:
     with _frames_lock:
         start_nf = _effective_num_frames
 
-    # region agent log
-    _agent_debug_log(
-        hypothesis_id="H5",
-        message="eval_one start",
-        data={"stem": stem, "dim": dim, "nf": start_nf, "base": str(base)},
-        run_id="initial",
-    )
-    # endregion
-
     # GT + 3个干扰，打乱（同一次请求的降帧重试保持同一选项顺序）
     options = [("GT.mp4", True)] + [(d, False) for d in distractors]
     random.shuffle(options)
     letters = [chr(65 + i) for i in range(len(options))]
     correct_letter = next(letters[i] for i, (_, is_gt) in enumerate(options) if is_gt)
+    option_map = {letters[i]: Path(rel_path).stem for i, (rel_path, _) in enumerate(options)}
 
     def build_content_for_frames(nf: int) -> list[dict]:
         before_b64 = sample_and_encode(base / "before.mp4", nf)
@@ -462,81 +315,37 @@ def eval_one(stem: str, dim: str, distractors: list[str]) -> dict:
         frame_candidates.insert(0, start_nf)
 
     last_error: Exception | None = None
-    last_raw_original: str | None = None
-    last_raw_normalized: str | None = None
     # 全局降帧重试：触发后会更新 _effective_num_frames，影响后续请求。
     for idx, nf in enumerate(frame_candidates):
         content = build_content_for_frames(nf)
 
         # 每个 nf 下最多重试 3 次（网络抖动等）
         for attempt in range(3):
-            attempt_raw_original: str | None = None
             try:
-                # region agent log
-                _agent_debug_log(
-                    hypothesis_id="H6",
-                    message="Calling _vllm_chat",
-                    data={"stem": stem, "dim": dim, "attempt": attempt + 1, "num_images": len(content), "nf": nf},
-                    run_id="initial",
-                )
-                # endregion
                 resp_json = _vllm_chat(content)
-                raw = _extract_response_text(resp_json)
-                if not raw:
+                text = _extract_response_text(resp_json)
+                if not text:
                     raise ValueError("Empty response from vLLM")
-                if _is_html_response(raw):
+                if _is_html_response(text):
                     raise ValueError("vLLM returned HTML instead of model output")
-                attempt_raw_original = raw
-                last_raw_original = raw
-                answer, reason, normalized_raw = parse_eval_response(raw, letters)
-                last_raw_normalized = normalized_raw
+                answer, reason = parse_eval_response(text, letters)
                 if not _is_valid_answer(answer):
                     raise ValueError(
-                        "Parse failed: raw must contain JSON with a single A/B/C/D answer."
+                        "Parse failed: response must contain JSON with a single A/B/C/D answer."
                     )
                 correct = answer == correct_letter
-                option_map = {letters[i]: Path(rel_path).stem for i, (rel_path, _) in enumerate(options)}
-                # region agent log
-                _agent_debug_log(
-                    hypothesis_id="H7",
-                    message="eval_one success",
-                    data={
-                        "stem": stem,
-                        "dim": dim,
-                        "attempt": attempt + 1,
-                        "answer": answer,
-                        "correct": correct,
-                        "nf": nf,
-                    },
-                    run_id="initial",
-                )
-                # endregion
                 return {
                     "stem": stem,
                     "dim": dim,
-                    "used_num_frames": nf,
                     "correct": correct,
                     "answer": answer,
                     "expected": correct_letter,
                     "reason": reason,
-                    "raw_original": raw,
-                    "raw": normalized_raw,
                     "option_map": option_map,
                 }
             except Exception as e:
                 last_error = e
                 err_str = str(e).lower()
-                # 尽量保留当次原始输出，确保最终报错时仍能落盘 raw_original
-                if isinstance(attempt_raw_original, str) and attempt_raw_original.strip():
-                    last_raw_original = attempt_raw_original
-                # region agent log
-                _agent_debug_log(
-                    hypothesis_id="H8",
-                    message="eval_one exception before decision",
-                    data={"stem": stem, "dim": dim, "attempt": attempt + 1, "error": str(e)[:200], "nf": nf},
-                    run_id="initial",
-                )
-                # endregion
 
                 # model_length 报错：进入下一档帧数，并全局下调，影响后续请求。
                 if _is_model_length_error(err_str):
@@ -557,14 +366,12 @@ def eval_one(stem: str, dim: str, distractors: list[str]) -> dict:
                     return {
                         "stem": stem,
                         "dim": dim,
-                        "used_num_frames": nf,
                         "correct": False,
                         "answer": None,
                         "expected": correct_letter,
                         "reason": None,
+                        "option_map": option_map,
                         "error": str(e)[:200],
-                        "raw_original": last_raw_original,
-                        "raw": last_raw_normalized,
                     }
 
     final_err = str(last_error)[:200] if last_error else "Model length retries exhausted"
@@ -572,14 +379,12 @@ def eval_one(stem: str, dim: str, distractors: list[str]) -> dict:
     return {
         "stem": stem,
         "dim": dim,
-        "used_num_frames": frame_candidates[-1] if frame_candidates else start_nf,
         "correct": False,
         "answer": None,
         "expected": correct_letter,
         "reason": None,
+        "option_map": option_map,
         "error": final_err,
-        "raw_original": last_raw_original,
-        "raw": last_raw_normalized,
     }
 
 
@@ -597,50 +402,15 @@ def run(targets: list[str] | None = None, output_name: str = ""):
             "[eval_vllm] 请创建该目录并放入题目（每题为子目录且含 GT.mp4），"
             "或设置环境变量 CHOICES_DIR，例如: CHOICES_DIR=Videos-LVD2M/choices python eval_vllm.py"
         )
-        # region agent log
-        _agent_debug_log(
-            hypothesis_id="H1",
-            message="CHOICES_DIR does not exist",
-            data={"CHOICES_DIR": str(CHOICES_DIR), "targets": targets or [], "reason": "missing_choices_dir"},
-            run_id="initial",
-        )
-        # endregion
         return
 
     all_stems = sorted(
         p.name for p in CHOICES_DIR.iterdir() if p.is_dir() and (p / "GT.mp4").exists()
     )
 
-    # region agent log
-    _agent_debug_log(
-        hypothesis_id="H2",
-        message="After building all_stems",
-        data={
-            "CHOICES_DIR": str(CHOICES_DIR),
-            "num_all_stems": len(all_stems),
-            "sample_all_stems": all_stems[:10],
-            "targets": targets or [],
-        },
-        run_id="initial",
-    )
-    # endregion
-
     if targets:
         missing = [s for s in targets if s not in all_stems]
         stems = [s for s in targets if s in all_stems]
-        # region agent log
-        _agent_debug_log(
-            hypothesis_id="H3",
-            message="After filtering stems by targets",
-            data={
-                "targets": targets,
-                "stems": stems,
-                "missing": missing,
-                "num_all_stems": len(all_stems),
-            },
-            run_id="initial",
-        )
-        # endregion
     else:
         stems = all_stems
 
@@ -657,7 +427,7 @@ def run(targets: list[str] | None = None, output_name: str = ""):
         with open(results_path, "r", encoding="utf-8") as f:
             all_results = json.load(f)
         removed_invalid = 0
-        normalized_existing = 0
+        compacted_existing = 0
         for stem in list(all_results.keys()):
             stem_results = all_results.get(stem)
             if not isinstance(stem_results, dict):
@@ -670,37 +440,37 @@ def run(targets: list[str] | None = None, output_name: str = ""):
                     removed_invalid += 1
                     continue
 
-                answer = _normalize_answer_value(entry.get("answer"))
-                raw = entry.get("raw")
-                raw_original = entry.get("raw_original")
-                source_raw = raw_original if isinstance(raw_original, str) else raw
-                parsed_answer, parsed_reason, normalized_raw = parse_eval_response(
-                    source_raw if isinstance(source_raw, str) else "",
-                    ANSWER_LETTERS,
-                )
-                if not _is_valid_answer(answer) or parsed_answer is None or parsed_answer != answer:
+                saved_answer = entry.get("answer")
+                answer = saved_answer.strip().upper() if isinstance(saved_answer, str) else None
+                if answer not in ANSWER_LETTERS:
                     del stem_results[dim]
                     removed_invalid += 1
                     continue
-                if isinstance(source_raw, str) and "raw_original" not in entry:
-                    entry["raw_original"] = source_raw
-                    normalized_existing += 1
-                if isinstance(normalized_raw, str) and raw != normalized_raw:
-                    entry["raw"] = normalized_raw
-                    if entry.get("reason") != parsed_reason:
-                        entry["reason"] = parsed_reason
-                    normalized_existing += 1
+                if entry.get("answer") != answer:
+                    entry["answer"] = answer
+                    compacted_existing += 1
+
+                compact_entry = {
+                    "correct": entry.get("correct"),
+                    "answer": entry.get("answer"),
+                    "expected": entry.get("expected"),
+                    "reason": entry.get("reason"),
+                    "option_map": entry.get("option_map"),
+                }
+                if entry != compact_entry:
+                    stem_results[dim] = compact_entry
+                    compacted_existing += 1
             if not stem_results:
                 del all_results[stem]
 
-        if removed_invalid or normalized_existing:
+        if removed_invalid or compacted_existing:
             log.info(
                 f"Resume cleanup: removed {removed_invalid} invalid entries, "
-                f"normalized {normalized_existing} raw fields"
+                f"compacted {compacted_existing} result entries"
             )
             print(
                 f"[eval_vllm] 断点续做: 清理了 {removed_invalid} 条无效记录，"
-                f"规范化了 {normalized_existing} 条 raw，将继续评测剩余任务"
+                f"压缩了 {compacted_existing} 条结果字段，将继续评测剩余任务"
             )
             try:
                 with open(results_path, "w", encoding="utf-8") as f:
@@ -742,20 +512,6 @@ def run(targets: list[str] | None = None, output_name: str = ""):
                 tasks.append((stem, dim, distractors))
 
     already_done = sum(len(v) for v in all_results.values())
-    # region agent log
-    _agent_debug_log(
-        hypothesis_id="H4",
-        message="After building tasks",
-        data={
-            "num_stems": len(stems),
-            "stems": stems,
-            "num_tasks": len(tasks),
-            "already_done": already_done,
-            "results_path": str(results_path),
-        },
-        run_id="initial",
-    )
-    # endregion
     log.info(f"Tasks to run: {len(tasks)}, already done: {already_done}")
 
     if not tasks:
@@ -783,10 +539,9 @@ def run(targets: list[str] | None = None, output_name: str = ""):
                 log.error(f"Unexpected error in worker for {stem} {dim}: {e}")
                 continue
 
-            used_nf = result.get("used_num_frames")
             with _frames_lock:
                 global_nf = _effective_num_frames
-            pbar.set_postfix_str(f"nf={used_nf}, global_nf={global_nf}", refresh=False)
+            pbar.set_postfix_str(f"global_nf={global_nf}", refresh=False)
 
             if "error" in result:
                 err_msg = result["error"]
@@ -800,9 +555,6 @@ def run(targets: list[str] | None = None, output_name: str = ""):
                     "expected": result.get("expected"),
                     "reason": result.get("reason"),
                     "option_map": result.get("option_map"),
-                    "error": err_msg,
-                    "raw_original": result.get("raw_original"),
-                    "raw": result.get("raw"),
                 }
                 try:
                     with open(results_path, "w", encoding="utf-8") as f:
@@ -817,18 +569,20 @@ def run(targets: list[str] | None = None, output_name: str = ""):
                     f"Invalid final answer on {stem} {dim}: {answer!r}. "
                     "Expected one of A/B/C/D after all retries."
                 )
-                raw_detail = result.get("raw") or result.get("reason") or ""
-                raw_preview = str(raw_detail).replace("\n", "\\n")
-                if len(raw_preview) > 240:
-                    raw_preview = raw_preview[:240] + "..."
                 log.error(f"Skip saving result with invalid answer on {stem} {dim}: {err_msg}")
                 print(
                     f"[eval_vllm] WARN: {stem} {dim} answer无效({answer!r})，"
-                    f"raw={raw_preview!r}，不写入JSON，后续可续跑"
+                    "不写入JSON，后续可续跑"
                 )
                 continue
 
-            entry = {k: v for k, v in result.items() if k not in ("stem", "dim")}
+            entry = {
+                "correct": result.get("correct"),
+                "answer": result.get("answer"),
+                "expected": result.get("expected"),
+                "reason": result.get("reason"),
+                "option_map": result.get("option_map"),
+            }
             if stem not in all_results:
                 all_results[stem] = {}
             all_results[stem][dim] = entry
