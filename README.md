@@ -2,6 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/arXiv-2609.01515-b31b1b.svg)](https://arxiv.org/abs/2609.01515)
 [![Venue](https://img.shields.io/badge/EMNLP_2026-Findings-4b44ce.svg)](https://arxiv.org/abs/2609.01515)
+[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-TempCloze-yellow.svg)](https://huggingface.co/datasets/CedPei/TempCloze)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776ab.svg)](https://www.python.org/)
 
 Official code, metadata, and evaluation toolkit for **TempCloze**, a video cloze benchmark for measuring visual temporal reasoning in Video-LLMs.
