@@ -57,9 +57,9 @@ Alignment is the main bottleneck. The proprietary-model average falls from 70.73
 
 See the [paper](https://arxiv.org/abs/2609.01515) for the complete leaderboard, cumulative accuracy, error attribution, and behavioral sensitivity analyses.
 
-## Installation
+## Evaluation
 
-TempCloze requires Python 3.10 or newer.
+TempCloze requires Python 3.10 or newer. Install the dependencies and make sure the prepared benchmark is available at `choices/` in the repository root.
 
 ```bash
 git clone https://github.com/CedricPei/Temporal-Cloze.git
@@ -70,10 +70,6 @@ source .venv/bin/activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
-
-## Evaluation
-
-The commands below assume the prepared benchmark is available at `choices/` in the repository root.
 
 ### Local open-source models with vLLM
 
@@ -113,12 +109,6 @@ Set `EVAL_MODEL` near the top of `TempCloze/eval.py`, expose the benchmark at `T
 ```bash
 ln -s ../choices TempCloze/choices
 python TempCloze/eval.py video-cloze
-```
-
-To evaluate a reproducible subset, provide its size and seed:
-
-```bash
-python TempCloze/eval.py video-cloze 200 --seed 42
 ```
 
 ## Citation
