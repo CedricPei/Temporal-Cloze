@@ -171,10 +171,6 @@ If TempCloze is useful in your research, please cite:
 }
 ```
 
-## License and data terms
-
-The paper is available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). No repository-level software license is included in the current release. Videos remain subject to the licenses and terms of their original source datasets; this repository does not redistribute the raw videos.
-
 ## Acknowledgements
 
 TempCloze is built from CaReBench, Daily-Omni, EgoLife, FAVOR-Bench, LVD-2M, MiraData, and Video Thinking Test. Please also cite the corresponding source datasets when using reconstructed benchmark videos.
