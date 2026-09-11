@@ -30,8 +30,6 @@ Each source video is split into a beginning \(B\), missing middle \(M\), and end
 | Alignment (A) | **When** the event should occur | Shifted earlier (`Early`), shifted later (`Late`), and expanded (`Wide`) intervals |
 | Progression (P) | **How** the event unfolds | Reversed (`Reverse`), reordered (`Shuffle`), and repeated (`Loop`) clips |
 
-The progression data is stored under `C/` in the current file layout for backward compatibility; evaluation reports display this dimension as **P**.
-
 ### Dataset composition
 
 | Source | Videos |
