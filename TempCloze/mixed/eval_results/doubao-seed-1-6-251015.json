@@ -12,7 +12,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -35,7 +35,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C smoothly transitions from the dance sequence in the BEGINNING to the elevator gun scene, then to the ground fight that matches the start of the END, maintaining the logical flow of the video's action.\"}",
@@ -53,7 +53,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -76,7 +76,7 @@
     "option_dim": {
       "A": "A",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": "A",
@@ -96,7 +96,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "GT"
     },
@@ -117,7 +117,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "A"
     },
@@ -139,7 +139,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -159,7 +159,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "S"
     },
@@ -181,7 +181,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -201,7 +201,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "GT"
     },
@@ -224,7 +224,7 @@
       "A": "A",
       "B": "S",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C starts with the same rusty barrels and Desert Eagle view as the end of the BEGINNING segment, and its final frame perfectly matches the first frame of the END segment, creating a seamless transition in both environment and player perspective.\"}",
@@ -242,12 +242,12 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
     },
-    "error_dim": "C",
+    "error_dim": "P",
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A continues adjusting the white piece on the yellow clay until it's properly positioned, then transitions to reaching for the waffle piece, which directly connects to the first frame of the END where the waffle is placed on top.\"}",
     "timestamp_utc": "2026-05-12T18:15:32.595332+00:00"
   },
@@ -266,7 +266,7 @@
       "A": "A",
       "B": "GT",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B seamlessly continues the surfer's ride from the BEGINNING, showing them navigating the wave and emerging, then transitions to the distant ocean with markers that matches the opening frame of the END, maintaining the video's temporal and visual flow.\"}",
@@ -286,7 +286,7 @@
     "option_dim": {
       "A": "S",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": "A",
@@ -305,7 +305,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
@@ -328,7 +328,7 @@
     "option_dim": {
       "A": "S",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": "A",
@@ -349,7 +349,7 @@
     "option_dim": {
       "A": "S",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -371,7 +371,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A starts with the exact final frame of the BEGINNING segment (the 2500 score on the machine and the dark-shirted person) and smoothly transitions through the next actions, ending with the first frame of the END segment, creating a continuous flow.\"}",
@@ -391,7 +391,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -412,7 +412,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -432,7 +432,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -453,7 +453,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "A"
     },
@@ -473,7 +473,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
@@ -494,7 +494,7 @@
       "D": "Wide"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "GT",
       "D": "A"
@@ -515,7 +515,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "A",
       "D": "S"
@@ -538,7 +538,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -560,7 +560,7 @@
       "A": "A",
       "B": "GT",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B smoothly connects the BEGINNING (boy walking towards the camera) to the END (boy drinking from a bottle) by showing the boy moving to the table, picking up the bottle, opening it, and preparing to drink, which matches the logical sequence of actions.\"}",
@@ -579,7 +579,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -601,7 +601,7 @@
     "option_dim": {
       "A": "S",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -623,7 +623,7 @@
       "A": "A",
       "B": "GT",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B directly continues the cup-washing action from the BEGINNING, then transitions smoothly to turning off the faucet, washing the spoon, placing the cup, and moving toward the stove, which matches the sequence of actions in the END segment.\"}",
@@ -642,7 +642,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -663,7 +663,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -684,7 +684,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "A"
     },
@@ -706,7 +706,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -725,7 +725,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "A",
       "D": "GT"
@@ -746,7 +746,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "GT",
       "D": "S"
@@ -768,7 +768,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "GT"
     },
@@ -789,7 +789,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -812,7 +812,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A continues the sink-filling action from the BEGINNING, then smoothly transitions to moving toward the table and starting the net-transfer action shown in the END, matching the temporal and logical flow of the video.\"}",
@@ -831,7 +831,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -853,7 +853,7 @@
     "option_dim": {
       "A": "A",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": null,
@@ -873,7 +873,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -893,7 +893,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "A",
       "D": "S"
@@ -917,7 +917,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C smoothly connects the BEGINNING (where the person adjusts the blender jar) to the END (where the person operates the blender to blend contents), as it shows the jar being placed back and the blending process initiating, matching the temporal flow of actions.\"}",
@@ -938,7 +938,7 @@
       "A": "A",
       "B": "S",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C starts with the exact final frame of the BEGINNING segment, then smoothly transitions into the actions of the man in pink eating and interacting, which directly connects to the END segment's scene of the two men standing together with the man in pink eating.\"}",
@@ -958,7 +958,7 @@
     "option_dim": {
       "A": "A",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -980,7 +980,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B shows the continuous action of bringing the cup to the sink, turning on the faucet to fill it, and turning off the faucet, which directly connects the BEGINNING (holding the cup near the sink) to the END (pouring the cup into the sink). The visual and action flow matches perfectly between the segments.\"}",
@@ -1000,7 +1000,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -1022,7 +1022,7 @@
       "A": "A",
       "B": "S",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C's sequence of the person moving from the window, walking through the building, shooting at outdoor targets, and ending at the doorway perfectly connects the final frame of BEGINNING to the initial frame of END, maintaining a natural progression of actions.\"}",
@@ -1040,7 +1040,7 @@
       "D": "Wide"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "GT",
       "D": "A"
@@ -1064,7 +1064,7 @@
       "A": "A",
       "B": "GT",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B starts with the exact action where the BEGINNING ends (hands reaching for the tomato and knife on the cutting board), then proceeds to pick up the tomato, grab the yellow container, and move toward the fridge, seamlessly connecting to the start of the END sequence where they walk to the fridge.\"}",
@@ -1084,7 +1084,7 @@
     "option_dim": {
       "A": "S",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": null,
@@ -1106,7 +1106,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A smoothly continues the spraying action from the BEGINNING sequence, transitioning the person from the left side of the rifle to the right side, which matches the starting position and action in the END sequence.\"}",
@@ -1124,12 +1124,12 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "GT",
       "D": "S"
     },
-    "error_dim": "C",
+    "error_dim": "P",
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A maintains visual continuity between the BEGINNING and END segments, with the camera movement and positions of the glass, spoon, and lime smoothly transitioning from the end of the BEGINNING to the start of the END.\"}",
     "timestamp_utc": "2026-05-12T18:17:29.893966+00:00"
   },
@@ -1147,7 +1147,7 @@
     "option_dim": {
       "A": "A",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": null,
@@ -1169,7 +1169,7 @@
       "A": "A",
       "B": "GT",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B directly continues from the last frame of BEGINNING, showing the eggs being fully poured into the pan and the subsequent stirring that transitions smoothly to the first frames of END, which depict the egg mixture being stirred in the pan.\"}",
@@ -1188,7 +1188,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "A"
     },
@@ -1211,7 +1211,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A starts exactly where the BEGINNING ends (turning off the faucet after washing the cup) and smoothly transitions to the action that opens the END, placing the cup on the shelf, creating a continuous sequence.\"}",
@@ -1231,7 +1231,7 @@
     "option_dim": {
       "A": "S",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": "A",
@@ -1251,7 +1251,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "GT"
     },
@@ -1271,7 +1271,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "GT",
       "D": "S"
@@ -1295,7 +1295,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C starts with the boy in the same position as the last frame of BEGINNING, smoothly transitions from the table scene to the hug sequence, which directly connects to the hug shown in the END segment, maintaining logical temporal and visual flow.\"}",
@@ -1316,7 +1316,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B starts with the net positioned as in the end of the BEGINNING segment, shows the hand capturing the green creature into the net, and transitions to the hand holding the creatures, which directly connects to the opening frames of the END segment where the hand is holding the creatures.\"}",
@@ -1336,7 +1336,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -1358,7 +1358,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B continues the sticker-cutting action from the BEGINNING, then transitions smoothly to the sticker-peeling sequence that matches the start of the END segment, maintaining the logical flow of the video.\"}",
@@ -1379,7 +1379,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B smoothly continues the Seaside Diner scene from the BEGINNING, transitions to the girls coloring at the red table which matches the first frame of the END, creating a logical temporal flow between the two segments.\"}",
@@ -1398,7 +1398,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -1421,7 +1421,7 @@
       "A": "GT",
       "B": "S",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A shows a smooth continuation of the man's actions from the end of the BEGINNING segment, transitioning naturally into the start of the END segment with consistent hand positions and movement on the vehicle component.\"}",
@@ -1442,7 +1442,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C smoothly transitions from the BEGINNING's state by adding decorative lines to the character's cape, then shifts to show other sketches before returning to the main character, which aligns perfectly with the start of the END segment where the leg is being drawn.\"}",
@@ -1461,7 +1461,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "GT"
     },
@@ -1483,7 +1483,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -1503,7 +1503,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "A"
     },
@@ -1524,7 +1524,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "GT"
     },
@@ -1544,7 +1544,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "A",
       "D": "S"
@@ -1568,7 +1568,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B's final frame directly matches the first frame of the END segment, and the sequence shows a smooth transition from the tree-filled skiing area in the BEGINNING to the open slope leading toward the buildings seen in the END.\"}",
@@ -1586,7 +1586,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "GT",
       "D": "S"
@@ -1609,7 +1609,7 @@
     "option_dim": {
       "A": "A",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": null,
@@ -1631,7 +1631,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A starts with the exact final frame of the BEGINNING segment, and its sequence of actions (handling the case, moving to the checkered board area, then returning to the table) smoothly transitions to the first frame of the END segment, maintaining consistent spatial and temporal flow.\"}",
@@ -1650,7 +1650,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -1671,7 +1671,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -1692,7 +1692,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -1715,7 +1715,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C smoothly transitions from the group interaction in the BEGINNING to the egg display scene in the END, with continuous actions of the hand pointing at eggs that match the start of the END segment.\"}",
@@ -1735,10 +1735,10 @@
     "option_dim": {
       "A": "S",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
-    "error_dim": "C",
+    "error_dim": "P",
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C smoothly transitions from the ending of the BEGINNING segment, where the small black puppy is behind the large dog with the tan dog present, to the start of the END segment, showing the puppy moving to the door, the tan dog walking away, and the other black puppy beginning to leave, matching the continuity of the scene.\"}",
     "timestamp_utc": "2026-05-12T18:18:42.921758+00:00"
   },
@@ -1757,7 +1757,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A's opening frames directly continue the red player's dribble from the BEGINNING's final shot, and its closing frames match the coach scene that opens the END, creating a seamless temporal and visual sequence.\"}",
@@ -1778,7 +1778,7 @@
       "A": "A",
       "B": "S",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C continues the camera movement from the BEGINNING (panning to the TV area) and then pans back to the man, which seamlessly connects to the END where the man is sitting up and placing his cup down.\"}",
@@ -1796,7 +1796,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "A",
       "D": "S"
@@ -1820,7 +1820,7 @@
       "A": "A",
       "B": "S",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A seamlessly connects the BEGINNING's bag-handling scene to the END's mall walking scene, showing the logical sequence of distributing bags, people picking them up, and moving toward the pink mat area that starts the END segment.\"}",
@@ -1838,7 +1838,7 @@
       "D": "Rand3"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "A",
       "D": "S"
@@ -1859,7 +1859,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -1880,7 +1880,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
@@ -1904,7 +1904,7 @@
       "A": "A",
       "B": "S",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows the two individuals walking progressively closer to the car, which seamlessly connects the end of the BEGINNING segment (where they are approaching the car) to the start of the END segment (where they are at the car preparing to open its trunk).\"}",
@@ -1924,7 +1924,7 @@
     "option_dim": {
       "A": "A",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": null,
@@ -1944,7 +1944,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "A"
     },
@@ -1967,7 +1967,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B starts with the exact room (window and small cabinet) from the last frame of BEGINNING, then transitions smoothly through the door into the living area with the couch and flower-shaped cushion that matches the first frame of END, creating a continuous temporal flow.\"}",
@@ -1986,7 +1986,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -2009,7 +2009,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A seamlessly continues the laptop-adjusting action from the BEGINNING's final frame, then transitions to moving toward the desk area, which matches the spatial and action flow leading into the END segment's opening shots.\"}",
@@ -2027,7 +2027,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "A",
       "D": "S"
@@ -2051,7 +2051,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A seamlessly continues the flower-arranging action from the BEGINNING sequence and transitions smoothly into the actions shown at the start of the END sequence, matching the positions of people and objects consistently.\"}",
@@ -2071,7 +2071,7 @@
     "option_dim": {
       "A": "S",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": "A",
@@ -2091,7 +2091,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "A"
     },
@@ -2114,7 +2114,7 @@
       "A": "GT",
       "B": "S",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A's opening frames match the final view of the BEGINNING segment, and the flower-handling actions smoothly transition into the first frames of the END segment, maintaining continuity in camera position and activity.\"}",
@@ -2133,7 +2133,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "A"
     },
@@ -2155,7 +2155,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -2177,7 +2177,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C's sequence smoothly continues the actions from the BEGINNING, with the woman arranging items on the table and the blue-shirted person moving into position, leading directly to the scene shown in the END without any discontinuity in actions or positioning.\"}",
@@ -2197,7 +2197,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -2219,7 +2219,7 @@
       "A": "GT",
       "B": "S",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A smoothly connects the BEGINNING (where the person holds the plate) to the END: it shows placing the plate on the table, arranging chairs, and transitions to the scene where the person in orange raises their hand, matching the first frame of the END. The other candidates either repeat content, loop actions, or are part of the END itself.\"}",
@@ -2239,7 +2239,7 @@
     "option_dim": {
       "A": "S",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -2261,7 +2261,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A seamlessly connects the final frame of BEGINNING to the first frame of END, matching the ongoing actions of the two women and the background events that transition into the arrival of additional people seen in the END segment.\"}",
@@ -2281,7 +2281,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -2301,7 +2301,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -2324,7 +2324,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B starts at the exact shelf position from the end of BEGINNING, shows the person handling the green vegetable, picking up the garlic pack, and then presenting it to the group, which seamlessly connects to the first frame of END where the person holds both items and shows them to others.\"}",
@@ -2345,7 +2345,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C smoothly transitions from the BEGINNING's final frames (holding the pineapple in front of the left side of the display) to the END's opening frames, with the camera shifting right to match the END's view of the display and the pineapple movement aligning with the sequence.\"}",
@@ -2365,7 +2365,7 @@
     "option_dim": {
       "A": "A",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": "A",
@@ -2384,7 +2384,7 @@
       "D": "Wide"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -2406,7 +2406,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "GT"
     },
@@ -2429,7 +2429,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C smoothly continues the meat-cutting action from the BEGINNING, transitions to gathering the cut pieces into the plate, and its final frames align perfectly with the initial actions of the END segment, such as cleaning the knife and preparing to move the plate.\"}",
@@ -2447,7 +2447,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "A",
       "D": "GT"
@@ -2471,7 +2471,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B smoothly continues the slicing action from the BEGINNING sequence and transitions naturally into the cutting of the round item that starts the END sequence, maintaining consistent context and motion flow.\"}",
@@ -2492,7 +2492,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B smoothly transitions from the BEGINNING's cutting board washing action, moves to place the board back, and then leads directly into the END's sequence of washing the cabbage-like item, maintaining a continuous and logical temporal flow of kitchen tasks.\"}",
@@ -2510,7 +2510,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "A",
       "D": "GT"
@@ -2534,7 +2534,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B's sequence smoothly transitions from the BEGINNING's final action (holding the blue packet near the kettle and yellow packet) by placing the blue packet, adjusting the kettle, and then picking up the yellow packet, which directly aligns with the first frame of the END where the person interacts with the yellow packet.\"}",
@@ -2552,7 +2552,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -2575,7 +2575,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -2597,7 +2597,7 @@
       "A": "A",
       "B": "S",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C starts with the blue-shirted person from the end of the BEGINNING segment, shows the logical sequence of retrieving and moving the blender, and transitions smoothly to the scene with two people at the sink that opens the END segment, matching the temporal and action flow perfectly.\"}",
@@ -2617,7 +2617,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -2638,7 +2638,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -2657,7 +2657,7 @@
       "D": "Wide"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "GT",
       "D": "A"
@@ -2678,7 +2678,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
@@ -2700,7 +2700,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "S"
     },
@@ -2721,7 +2721,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -2741,7 +2741,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
@@ -2764,7 +2764,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -2783,7 +2783,7 @@
       "D": "Early"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "GT",
       "D": "A"
@@ -2805,7 +2805,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -2826,7 +2826,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -2849,7 +2849,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B starts with the exact final frame of the BEGINNING, shows a smooth transition of arranging items on the floor, and ends with the first frame of the END, creating a continuous logical sequence between the two segments.\"}",
@@ -2867,7 +2867,7 @@
       "D": "Wide"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "GT",
       "D": "A"
@@ -2889,7 +2889,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "S"
     },
@@ -2911,7 +2911,7 @@
     "option_dim": {
       "A": "A",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": null,
@@ -2930,7 +2930,7 @@
       "D": "Rand3"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "A",
       "D": "S"
@@ -2954,7 +2954,7 @@
       "A": "A",
       "B": "S",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C smoothly transitions from the beginning's bowl-wiping action to the appearance of the gloved hand with a black watch, which matches the first frame of the END segment, and continues the action flow leading to the subsequent steps in the END.\"}",
@@ -2973,7 +2973,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "GT"
     },
@@ -2995,7 +2995,7 @@
     "option_dim": {
       "A": "A",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": "A",
@@ -3014,7 +3014,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
@@ -3037,7 +3037,7 @@
     "option_dim": {
       "A": "A",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -3058,7 +3058,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -3077,7 +3077,7 @@
       "D": "Early"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "GT",
       "D": "A"
@@ -3100,7 +3100,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -3119,7 +3119,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "A",
       "D": "GT"
@@ -3142,7 +3142,7 @@
     "option_dim": {
       "A": "S",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": null,
@@ -3161,7 +3161,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "GT",
       "D": "S"
@@ -3183,7 +3183,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "S"
     },
@@ -3206,7 +3206,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B starts right where the BEGINNING sequence ends (with the person opening the black bag) and shows the logical progression of taking items out of the bag and retrieving the large container, which seamlessly transitions to the first frame of the END sequence where the container is placed on the table.\"}",
@@ -3225,7 +3225,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "GT"
     },
@@ -3246,7 +3246,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "A"
     },
@@ -3266,7 +3266,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "A",
       "D": "GT"
@@ -3288,7 +3288,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -3309,7 +3309,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "S"
     },
@@ -3332,7 +3332,7 @@
       "A": "A",
       "B": "GT",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A smoothly transitions from the BEGINNING's scene of people preparing and holding cupcakes to the END's action of modifying a cupcake with marshmallows, matching the sequence of interactions and actions without introducing unrelated elements present in other candidates.\"}",
@@ -3353,7 +3353,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A's opening frames match the final arrangement of items and people in the BEGINNING segment, and its closing frames seamlessly transition to the first frames of the END segment, showing the logical progression of people arranging food items and the camera moving to match the END's starting perspective.\"}",
@@ -3374,7 +3374,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C smoothly transitions from the closed subway doors in the BEGINNING to the doors opening, the person entering the train, and ends with a frame that perfectly matches the first frame of the END, showing the correct sequence of boarding the subway and settling into the seat.\"}",
@@ -3392,7 +3392,7 @@
       "D": "Rand3"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "A",
       "D": "S"
@@ -3415,7 +3415,7 @@
     "option_dim": {
       "A": "A",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": "A",
@@ -3436,7 +3436,7 @@
     "option_dim": {
       "A": "S",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": null,
@@ -3456,7 +3456,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "S"
     },
@@ -3477,7 +3477,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "A"
     },
@@ -3497,7 +3497,7 @@
       "D": "Wide"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -3519,7 +3519,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "S"
     },
@@ -3540,7 +3540,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "A"
     },
@@ -3563,7 +3563,7 @@
       "A": "A",
       "B": "S",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C starts with the skier in the same standing position as the end of the BEGINNING segment, then smoothly transitions into the active skiing movements that match the start of the END segment, creating a continuous, logical sequence.\"}",
@@ -3584,7 +3584,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C starts with the flower held in the palm, matching the final frame of the BEGINNING, and smoothly transitions to pulling apart the flower's petals, which directly connects to the petal-disassembling actions shown in the END segment.\"}",
@@ -3603,7 +3603,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "GT"
     },
@@ -3626,7 +3626,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C shows a smooth progression from the partially drawn tree trunk in the BEGINNING to the fully detailed trunk in the END, with the artist adding texture and completing the trunk's shape in a logical sequence that connects the two segments.\"}",
@@ -3646,7 +3646,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -3667,7 +3667,7 @@
     "option_dim": {
       "A": "S",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -3688,7 +3688,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -3707,7 +3707,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -3729,7 +3729,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "GT"
     },
@@ -3749,7 +3749,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "GT",
       "D": "A"
@@ -3770,7 +3770,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "GT",
       "D": "S"
@@ -3793,7 +3793,7 @@
     "option_dim": {
       "A": "S",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -3815,7 +3815,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C smoothly continues the surfer's action from the BEGINNING's replay segment, showing the surfer riding the wave towards the black buoy, which directly connects to the surfer's position and maneuvers seen in the END segment.\"}",
@@ -3835,7 +3835,7 @@
     "option_dim": {
       "A": "S",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -3856,7 +3856,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -3876,7 +3876,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -3898,7 +3898,7 @@
     "option_dim": {
       "A": "S",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -3920,7 +3920,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B smoothly transitions from the pre-play setup shown in the BEGINNING to the active play execution seen in the END, as its final frames match the start of player movement and snap that initiates the play in the END segment.\"}",
@@ -3941,7 +3941,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B's sequence directly continues the crocheting motion from the last frame of BEGINNING, and its final frame matches the first frame of END, creating a smooth, logical progression of the crochet work.\"}",
@@ -3962,7 +3962,7 @@
       "A": "GT",
       "B": "S",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C's final frames perfectly match the initial frames of the END sequence, showing a continuous transition where the hand holds the white component in the same position before moving to pick up the metal piece, maintaining visual and temporal consistency.\"}",
@@ -3983,7 +3983,7 @@
       "A": "A",
       "B": "S",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C starts with the drawer scene from the end of BEGINNING, where a tray with toothpaste is present, then shows adding items to the tray, moving the tray, adding other items, finally emptying the drawer and starting to clean it, which directly connects to the start of END where the empty drawer is being cleaned.\"}",
@@ -4002,7 +4002,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "A"
     },
@@ -4024,7 +4024,7 @@
     "option_dim": {
       "A": "A",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": null,
@@ -4043,7 +4043,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -4067,7 +4067,7 @@
       "A": "GT",
       "B": "S",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A starts exactly where the BEGINNING ends, showing the surfer exiting the wave barrel, performing maneuvers, and transitioning smoothly into the wave-breaking sequence that leads to the END's footage of the surfer reaching the shore.\"}",
@@ -4088,7 +4088,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A continues the play from the BEGINNING's final frame (player 32's hit), concludes that play, then transitions to player 7 at bat, which matches the first frame of the END segment, creating a seamless temporal and logical flow.\"}",
@@ -4109,7 +4109,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A smoothly transitions from the phone call in the BEGINNING: it shows her finishing the call, putting down the phone, standing up, and walking to the shelf, which directly connects to the END segment where she is placing a box on the shelf.\"}",
@@ -4129,7 +4129,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -4148,7 +4148,7 @@
       "D": "Early"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "GT",
       "D": "A"
@@ -4170,7 +4170,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "A"
     },
@@ -4193,7 +4193,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A starts with the exact pose and scene from the last frame of the BEGINNING, then smoothly transitions through the character's movements to match the first frame of the END, creating a continuous logical sequence.\"}",
@@ -4212,7 +4212,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "A"
     },
@@ -4233,7 +4233,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "A"
     },
@@ -4256,7 +4256,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C starts at the totem (matching the end of BEGINNING), then shows the player moving toward the wooden building, ending with the exact first frame of the END, creating a seamless transition between the two segments.\"}",
@@ -4276,7 +4276,7 @@
     "option_dim": {
       "A": "A",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": "S",
@@ -4297,7 +4297,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -4316,7 +4316,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -4340,7 +4340,7 @@
       "A": "A",
       "B": "S",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C seamlessly connects the BEGINNING's forest riding scene to the END's gallows area: its opening frames match the BEGINNING's final shot of the character riding toward the lake, and its closing frames align perfectly with the END's initial view of the gallows by the water.\"}",
@@ -4361,7 +4361,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A smoothly transitions from the interaction with hand gestures at the end of the BEGINNING segment to the kite-folding action that opens the END segment, maintaining logical temporal flow. The other candidates either loop back to earlier actions, repeat END content, or have inconsistent transitions.\"}",
@@ -4379,7 +4379,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
@@ -4401,7 +4401,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -4423,7 +4423,7 @@
     "option_dim": {
       "A": "A",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": "A",
@@ -4444,7 +4444,7 @@
     "option_dim": {
       "A": "S",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -4465,7 +4465,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -4485,7 +4485,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "A"
     },
@@ -4506,7 +4506,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "A"
     },
@@ -4529,7 +4529,7 @@
       "A": "A",
       "B": "GT",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A seamlessly continues the action from the BEGINNING: it shows unscrewing the brown bottle's cap, placing the cap down, and then pouring the liquid into the bowl, which directly matches the start of the END sequence.\"}",
@@ -4550,7 +4550,7 @@
       "A": "GT",
       "B": "S",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A continues stirring the mixed ingredients from the BEGINNING sequence and smoothly transitions to the start of pouring canned tomatoes, which matches the opening action of the END segment.\"}",
@@ -4571,7 +4571,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B's final frame directly matches the first frame of the END segment, and the sequence of the snowboarder's movements, snow spray, and surrounding trees flows seamlessly from the BEGINNING to the END through this middle segment.\"}",
@@ -4592,7 +4592,7 @@
       "A": "A",
       "B": "GT",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A smoothly transitions from the girl walking in the cherry tree park (matching the end of BEGINNING) to the flagged cherry path and then the building scene that aligns with the start of END, maintaining the logical temporal flow of the video.\"}",
@@ -4613,7 +4613,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C smoothly transitions from the interview scene in the BEGINNING to the police interactions with the scooter rider, then to the officer approaching the white van, which directly connects to the start of the END segment.\"}",
@@ -4631,7 +4631,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -4653,7 +4653,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "S"
     },
@@ -4674,7 +4674,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -4697,7 +4697,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B seamlessly continues from the door scene at the end of BEGINNING, showing the kid with the CV hoodie, then follows the man entering the building and interacting with the crowd, which directly transitions into the indoor crowd scene that starts END.\"}",
@@ -4716,7 +4716,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -4736,7 +4736,7 @@
       "D": "Early"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "GT",
       "D": "A"
@@ -4760,7 +4760,7 @@
       "A": "GT",
       "B": "S",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A smoothly transitions from the man's position and gestures at the end of the BEGINNING segment to showing a turtle on the grass, which matches the grass and turtle footage that starts the END segment, creating a coherent flow.\"}",
@@ -4781,7 +4781,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C seamlessly continues from the soldiers surrounding the fallen person in the BEGINNING, leading to Batman appearing with his hands raised, which perfectly matches the opening of the END sequence.\"}",
@@ -4802,7 +4802,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B smoothly continues the person's walking movement from the BEGINNING's final frames, transitioning naturally into the rocky stream area with fallen logs that starts the END segment, maintaining consistent spatial and action flow.\"}",
@@ -4822,7 +4822,7 @@
     "option_dim": {
       "A": "S",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": null,
@@ -4843,7 +4843,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": "A",
@@ -4865,7 +4865,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B smoothly transitions from the rocky passage and person seen at the end of the BEGINNING segment to the close-up of the dirt formation being pointed at, which matches the opening frames of the END segment, creating a continuous logical sequence.\"}",
@@ -4883,7 +4883,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "A",
       "D": "GT"
@@ -4905,7 +4905,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "A"
     },
@@ -4925,7 +4925,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "GT",
       "D": "S"
@@ -4946,7 +4946,7 @@
       "D": "Rand3"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "GT",
       "D": "S"
@@ -4967,7 +4967,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
@@ -4988,7 +4988,7 @@
       "D": "Early"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "GT",
       "D": "A"
@@ -5010,7 +5010,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "A"
     },
@@ -5030,7 +5030,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -5051,7 +5051,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
@@ -5075,7 +5075,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C continues the rocky trail descent from the BEGINNING, smoothly transitioning to the paved road that starts the END, maintaining the logical sequence of the runner moving from the mountain to residential area.\"}",
@@ -5094,7 +5094,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -5116,7 +5116,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -5137,7 +5137,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -5156,7 +5156,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
@@ -5179,7 +5179,7 @@
     "option_dim": {
       "A": "A",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -5200,7 +5200,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -5222,7 +5222,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C's opening frames directly continue the cutting action from the end of the BEGINNING segment, and its closing frames match the starting state of the END segment, creating a seamless transition in the bird preparation process.\"}",
@@ -5240,7 +5240,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "A",
       "D": "S"
@@ -5263,7 +5263,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -5283,7 +5283,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -5303,7 +5303,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "A",
       "D": "GT"
@@ -5325,7 +5325,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "S"
     },
@@ -5345,7 +5345,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -5366,7 +5366,7 @@
       "D": "Early"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "GT",
       "D": "A"
@@ -5390,7 +5390,7 @@
       "A": "GT",
       "B": "S",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A shows the continuous addition of meat pieces starting from the two pieces in the BEGINNING, smoothly transitioning to the number of pieces seen at the start of the END segment, maintaining the correct temporal and action flow.\"}",
@@ -5408,7 +5408,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "GT",
       "D": "S"
@@ -5432,7 +5432,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "S",
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A starts with the mesh in the same upright position as the end of the BEGINNING segment, and its sequence of hand movements directly transitions into the actions shown at the start of the END segment, maintaining visual continuity.\"}",
@@ -5450,7 +5450,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "A",
       "D": "GT"
@@ -5471,7 +5471,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "GT",
       "D": "S"
@@ -5494,7 +5494,7 @@
     "option_dim": {
       "A": "A",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -5514,7 +5514,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -5535,7 +5535,7 @@
     },
     "option_dim": {
       "A": "S",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "GT"
     },
@@ -5558,7 +5558,7 @@
       "A": "GT",
       "B": "S",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C smoothly transitions from the hand on the wooden wall in the BEGINNING to the fireplace view, then includes the pointing hand and camera movement toward the hallway, which perfectly aligns with the start of the END sequence showing the hallway and control panel.\"}",
@@ -5579,7 +5579,7 @@
       "A": "A",
       "B": "S",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C smoothly transitions from the narrow walkway in the BEGINNING, showing the companion moving through the doorway and into the area with blue barrels and a dead body that matches the start of the END, maintaining the correct spatial and temporal flow.\"}",
@@ -5598,7 +5598,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "GT"
     },
@@ -5620,7 +5620,7 @@
     "option_dim": {
       "A": "GT",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "S"
     },
     "error_dim": null,
@@ -5640,7 +5640,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -5662,7 +5662,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": "A",
@@ -5681,7 +5681,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
@@ -5703,7 +5703,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "S"
     },
@@ -5724,7 +5724,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -5744,7 +5744,7 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
@@ -5766,7 +5766,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "S"
     },
@@ -5787,7 +5787,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "S",
       "D": "A"
     },
@@ -5809,7 +5809,7 @@
     "option_dim": {
       "A": "GT",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -5828,7 +5828,7 @@
       "D": "Rand1"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "A",
       "D": "S"
@@ -5851,7 +5851,7 @@
     "option_dim": {
       "A": "S",
       "B": "A",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": "A",
@@ -5873,7 +5873,7 @@
       "A": "GT",
       "B": "S",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A seamlessly continues the swimmers' backstroke motion from the last frame of the BEGINNING, and its final frames match the starting visual of the END, creating a coherent sequence of the race progressing toward the pool wall.\"}",
@@ -5891,7 +5891,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -5915,7 +5915,7 @@
       "A": "S",
       "B": "GT",
       "C": "A",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"B\", \"reason\": \"Candidate B starts with the child in the same position as the end of the BEGINNING segment (near the desk with the mop), then shows the child moving toward the door, which seamlessly connects to the start of the END segment where the child is walking back from the door area.\"}",
@@ -5933,7 +5933,7 @@
       "D": "Early"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "GT",
       "D": "A"
@@ -5955,7 +5955,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -5977,7 +5977,7 @@
     "option_dim": {
       "A": "A",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": "A",
@@ -5998,7 +5998,7 @@
     "option_dim": {
       "A": "S",
       "B": "GT",
-      "C": "C",
+      "C": "P",
       "D": "A"
     },
     "error_dim": null,
@@ -6017,7 +6017,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -6041,7 +6041,7 @@
       "A": "A",
       "B": "S",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": "A",
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A shows a continuous, smooth motion of holding and rotating the strainer with vegetables that directly connects the final frame of BEGINNING to the initial frame of END, matching the position and movement of both the hands and the vegetables.\"}",
@@ -6059,7 +6059,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -6083,7 +6083,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A's final frame perfectly matches the first frame of the END segment, and the sequence of crocheting actions in A smoothly continues the work from the BEGINNING segment, maintaining consistent stitch progress and hand/hook positions.\"}",
@@ -6102,7 +6102,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "S"
     },
@@ -6122,7 +6122,7 @@
       "D": "Late"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "GT",
       "C": "S",
       "D": "A"
@@ -6144,7 +6144,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -6165,7 +6165,7 @@
     },
     "option_dim": {
       "A": "GT",
-      "B": "C",
+      "B": "P",
       "C": "A",
       "D": "S"
     },
@@ -6188,7 +6188,7 @@
       "A": "GT",
       "B": "A",
       "C": "S",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A smoothly transitions from the BEGINNING's final frame (with the green arm holding the wooden steps) to the person moving down, ending with the person's head visible, which matches the starting frame of the END where the person's head is present before they begin adjusting the ropes.\"}",
@@ -6206,7 +6206,7 @@
       "D": "Early"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "S",
       "C": "GT",
       "D": "A"
@@ -6227,12 +6227,12 @@
       "D": "GT"
     },
     "option_dim": {
-      "A": "C",
+      "A": "P",
       "B": "A",
       "C": "S",
       "D": "GT"
     },
-    "error_dim": "C",
+    "error_dim": "P",
     "raw": "{\"answer\": \"A\", \"reason\": \"Candidate A's sequence continues the bent-over posture of the central person from the BEGINNING, and transitions smoothly into the standing movement seen in the END, with the umbrella holder's actions also aligning with the transition between the two segments.\"}",
     "timestamp_utc": "2026-05-12T18:28:29.547999+00:00"
   },
@@ -6251,7 +6251,7 @@
       "A": "S",
       "B": "A",
       "C": "GT",
-      "D": "C"
+      "D": "P"
     },
     "error_dim": null,
     "raw": "{\"answer\": \"C\", \"reason\": \"Candidate C starts with the broken structure and palm trees that match the final frame of the BEGINNING, then transitions smoothly to the open area with soldiers and billboards that aligns with the opening of the END, creating a continuous logical sequence.\"}",
@@ -6270,7 +6270,7 @@
     },
     "option_dim": {
       "A": "A",
-      "B": "C",
+      "B": "P",
       "C": "GT",
       "D": "S"
     },
@@ -6292,7 +6292,7 @@
     "option_dim": {
       "A": "A",
       "B": "S",
-      "C": "C",
+      "C": "P",
       "D": "GT"
     },
     "error_dim": null,

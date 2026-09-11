@@ -1,6 +1,6 @@
 {
   "DAY1_A1_JAKE_20393000": {
-    "C": {
+    "P": {
       "correct": true,
       "answer": "A",
       "expected": "A",
@@ -62,7 +62,7 @@
       },
       "output_tokens": 2563
     },
-    "C": {
+    "P": {
       "correct": true,
       "answer": "B",
       "expected": "B",
@@ -109,7 +109,7 @@
       },
       "output_tokens": 4139
     },
-    "C": {
+    "P": {
       "correct": true,
       "answer": "D",
       "expected": "D",
@@ -141,7 +141,7 @@
     }
   },
   "5w4el5U1kiE.21_1": {
-    "C": {
+    "P": {
       "correct": true,
       "answer": "A",
       "expected": "A",
@@ -203,7 +203,7 @@
       },
       "output_tokens": 6582
     },
-    "C": {
+    "P": {
       "correct": true,
       "answer": "B",
       "expected": "B",
@@ -235,7 +235,7 @@
     }
   },
   "0443-7": {
-    "C": {
+    "P": {
       "correct": false,
       "answer": "C",
       "expected": "B",
@@ -312,7 +312,7 @@
       },
       "output_tokens": 19845
     },
-    "C": {
+    "P": {
       "correct": false,
       "answer": "D",
       "expected": "B",
@@ -329,7 +329,7 @@
     }
   },
   "DAY1_A3_TASHA_11243000": {
-    "C": {
+    "P": {
       "correct": false,
       "answer": "A",
       "expected": "C",
@@ -391,7 +391,7 @@
       },
       "output_tokens": 13321
     },
-    "C": {
+    "P": {
       "correct": false,
       "answer": "B",
       "expected": "D",
@@ -423,7 +423,7 @@
       },
       "output_tokens": 11277
     },
-    "C": {
+    "P": {
       "correct": false,
       "answer": "A",
       "expected": "B",

@@ -1,6 +1,6 @@
 """测试帧数 (8/12/16/20) 对模型准确率的影响。
 
-对 subset 中每道题的 S/A/C，分别用 8、12、16、20 帧评测。
+对 subset 中每道题的 S/A/P，分别用 8、12、16、20 帧评测。
 结果：eval_results/frames_{MODEL_TAG}.json
 
 Usage:

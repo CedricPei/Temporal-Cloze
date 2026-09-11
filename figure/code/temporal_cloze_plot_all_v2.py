@@ -46,7 +46,7 @@ TEXT_WEIGHT = "semibold"
 
 COLOR_S = "#4C78A8"
 COLOR_A = "#F58518"
-COLOR_C = "#54A24B"
+COLOR_P = "#54A24B"
 COLOR_NEUTRAL = "#9D9D9D"
 
 A_SUB_COLORS = {
@@ -54,7 +54,7 @@ A_SUB_COLORS = {
     "Deferred": "#61DDAA",
     "Expanded": "#F6BD16",
 }
-C_SUB_COLORS = {
+P_SUB_COLORS = {
     "Reverse": "#E8684A",
     "Reorder": "#6DC8EC",
     "Repeat": "#9270CA",
@@ -196,9 +196,9 @@ def derive_consistency_bins(model_stats: dict) -> dict[str, float]:
     a_acc = model_stats.get("A_acc")
     p_acc = model_stats.get("P_acc")
     sa = model_stats.get("S+A")
-    sp = model_stats.get("S+P", model_stats.get("S+C"))
-    ap = model_stats.get("A+P", model_stats.get("A+C"))
-    sap = model_stats.get("S+A+P", model_stats.get("S+A+C"))
+    sp = model_stats.get("S+P")
+    ap = model_stats.get("A+P")
+    sap = model_stats.get("S+A+P")
 
     required = [s_acc, a_acc, p_acc, sa, sp, ap, sap]
     if any(v is None for v in required):
@@ -322,7 +322,7 @@ def build_dataframe(report: dict):
         model_display = MODEL_NAME_OVERRIDES.get(model_name, model_name)
         err = m.get("error_source", {})
         a = err.get("A", {})
-        c = err.get("P", err.get("C", {}))
+        p = err.get("P", {})
         consistency = derive_consistency_bins(m)
 
         row = {
@@ -346,13 +346,13 @@ def build_dataframe(report: dict):
             "A_Earlier_count": a.get("Early", {}).get("count", 0),
             "A_Later_count": a.get("Late", {}).get("count", 0),
             "A_Extended_count": a.get("Wide", {}).get("count", 0),
-            "C_total_errors": c.get("total_errors", c.get("total", 0)),
-            "C_Reverse_pct": c.get("Reverse", {}).get("pct", np.nan),
-            "C_Shuffle_pct": c.get("Shuffle", {}).get("pct", np.nan),
-            "C_Loop_pct": c.get("Loop", {}).get("pct", np.nan),
-            "C_Reverse_count": c.get("Reverse", {}).get("count", 0),
-            "C_Shuffle_count": c.get("Shuffle", {}).get("count", 0),
-            "C_Loop_count": c.get("Loop", {}).get("count", 0),
+            "P_total_errors": p.get("total_errors", p.get("total", 0)),
+            "P_Reverse_pct": p.get("Reverse", {}).get("pct", np.nan),
+            "P_Shuffle_pct": p.get("Shuffle", {}).get("pct", np.nan),
+            "P_Loop_pct": p.get("Loop", {}).get("pct", np.nan),
+            "P_Reverse_count": p.get("Reverse", {}).get("count", 0),
+            "P_Shuffle_count": p.get("Shuffle", {}).get("count", 0),
+            "P_Loop_count": p.get("Loop", {}).get("count", 0),
         }
 
         # Derived metrics
@@ -376,13 +376,9 @@ def export_metrics_table(df: pd.DataFrame, out_dir: str):
         "model", "acc", "S_acc", "A_acc", "P_acc",
         "3/3", "2/3", "1/3", "0/3",
         "A_bottleneck", "P_minus_S", "A_Earlier_pct", "A_Later_pct", "A_Extended_pct",
-        "C_Reverse_pct", "C_Shuffle_pct", "C_Loop_pct"
+        "P_Reverse_pct", "P_Shuffle_pct", "P_Loop_pct"
     ]
-    export_df = df[cols].rename(columns={
-        "C_Reverse_pct": "P_Reverse_pct",
-        "C_Shuffle_pct": "P_Shuffle_pct",
-        "C_Loop_pct": "P_Loop_pct",
-    })
+    export_df = df[cols]
     export_df.to_csv(os.path.join(out_dir, "temporal_cloze_metrics_table_v2.csv"), index=False)
 
 
@@ -422,7 +418,7 @@ def plot_task_overview(out_dir):
     blocks = [
         ("S: random distractors", ["Rand1", "Rand2", "Rand3"], "#E8F1FB"),
         ("A: nearby temporal distractors", ["Advanced", "Deferred", "Expanded"], "#FFF1E8"),
-        ("C: temporal corruption distractors", ["Reverse", "Reorder", "Repeat"], "#EDF8ED"),
+        ("P: temporal corruption distractors", ["Reverse", "Reorder", "Repeat"], "#EDF8ED"),
     ]
     bx = [0.05, 0.37, 0.69]
     for i, (title, items, fill) in enumerate(blocks):
@@ -451,8 +447,8 @@ def plot_task_overview(out_dir):
 # ---------------------------------------------------------
 def plot_capability_map(df, out_dir):
     pairs = [
-        ("A_acc", "P_acc", "A Accuracy", "P Accuracy", "A vs P", "figure_02_capability_map_A_vs_C_v2"),
-        ("P_acc", "S_acc", "P Accuracy", "S Accuracy", "P vs S", "figure_02_capability_map_C_vs_S_v2"),
+        ("A_acc", "P_acc", "A Accuracy", "P Accuracy", "A vs P", "figure_02_capability_map_A_vs_P_v2"),
+        ("P_acc", "S_acc", "P Accuracy", "S Accuracy", "P vs S", "figure_02_capability_map_P_vs_S_v2"),
         ("S_acc", "A_acc", "S Accuracy", "A Accuracy", "S vs A", "figure_02_capability_map_S_vs_A_v2"),
     ]
 
@@ -576,7 +572,7 @@ def plot_capability_map_3d(
         depthshade=True,
     )
 
-    # Random baseline reference in 3D: S=A=C=0.25 planes + key dashed guide lines.
+    # Random baseline reference in 3D: S=A=P=0.25 planes + key dashed guide lines.
     baseline = 0.25
     grid = np.linspace(0.0, 1.0, 12)
     Y, Z = np.meshgrid(grid, grid)
@@ -608,9 +604,9 @@ def plot_capability_map_3d(
     ax.set_zlim(0.0, 1.0)
     ax.set_xlabel("S Accuracy")
     ax.set_ylabel("A Accuracy")
-    ax.set_zlabel("C Accuracy")
+    ax.set_zlabel("P Accuracy")
     ax.view_init(elev=elev, azim=azim)
-    ax.set_title("3D capability map: S/A/C axes, size+color = overall Accuracy (with random baseline 0.25)")
+    ax.set_title("3D capability map: S/A/P axes, size+color = overall Accuracy (with random baseline 0.25)")
 
     # Draw labels as 2D projected annotations so they are never hidden by 3D markers.
     d = df.sort_values("acc", ascending=False).head(label_topk)
@@ -631,7 +627,7 @@ def plot_capability_map_3d(
 
     cbar = fig.colorbar(sc, ax=ax, pad=0.08, shrink=0.8)
     cbar.set_label("Overall Accuracy")
-    save_fig(fig, out_dir, "figure_02b_capability_map_3d_SAC_v2")
+    save_fig(fig, out_dir, "figure_02b_capability_map_3d_SAP_v2")
 
 
 # ---------------------------------------------------------
@@ -639,7 +635,7 @@ def plot_capability_map_3d(
 # ---------------------------------------------------------
 def plot_error_ternary(df, out_dir):
     fig, ax = plt.subplots(figsize=(9, 8))
-    draw_ternary_axes(ax, labels=["Error on S", "Error on A", "Error on C"],
+    draw_ternary_axes(ax, labels=["Error on S", "Error on A", "Error on P"],
                       title="Where does each model's error budget go?")
     xs, ys = [], []
     for _, r in df.iterrows():
@@ -712,17 +708,17 @@ def build_dataset_consistency_distribution(model_path: Path, dataset_lookup: dic
             dim in entries
             and isinstance(entries[dim], dict)
             and isinstance(entries[dim].get("correct"), bool)
-            for dim in ("S", "A", "C")
+            for dim in ("S", "A", "P")
         ):
             continue
         dataset_name = dataset_lookup.get(qid)
         if dataset_name is None:
             raise KeyError(f"Question stem {qid} not found in dataset source lookup.")
-        n_correct = sum(int(bool(entries[dim]["correct"])) for dim in ("S", "A", "C"))
+        n_correct = sum(int(bool(entries[dim]["correct"])) for dim in ("S", "A", "P"))
         rows.append({"dataset": dataset_name, "n_correct": n_correct})
 
     if not rows:
-        raise ValueError(f"No valid S/A/C triples found in {model_path}")
+        raise ValueError(f"No valid S/A/P triples found in {model_path}")
 
     df_rows = pd.DataFrame(rows)
     counts = (
@@ -895,7 +891,7 @@ def plot_dataset_consistency_for_selected_models(out_dir: str):
 # Figure 05-06: error source heatmaps
 # ---------------------------------------------------------
 def plot_error_source_heatmaps(df, out_dir):
-    cols = ["A_Earlier_pct", "A_Later_pct", "A_Extended_pct", "C_Reverse_pct", "C_Shuffle_pct", "C_Loop_pct"]
+    cols = ["A_Earlier_pct", "A_Later_pct", "A_Extended_pct", "P_Reverse_pct", "P_Shuffle_pct", "P_Loop_pct"]
     pretty = ["Advanced", "Deferred", "Expanded", "Reversed", "Reordered", "Repeated"]
     d = df.sort_values("acc", ascending=False).reset_index(drop=True)
 
@@ -918,7 +914,7 @@ def plot_error_source_heatmaps(df, out_dir):
         for tick in ax.get_yticklabels():
             tick.set_fontweight(TEXT_WEIGHT)
 
-        # Visually separate A-type and C-type failure subtypes.
+        # Visually separate A-type and P-type failure subtypes.
         ax.axhline(2.5, color="white", lw=4.0, alpha=0.95, zorder=3)
         ax.axhline(2.5, color="#333333", lw=1.2, alpha=0.95, zorder=4)
         ax.text(-0.10, 0.79, "A-type", transform=ax.transAxes, ha="center", va="center", fontsize=10,
@@ -944,12 +940,12 @@ def plot_error_source_heatmaps(df, out_dir):
 
 
 # ---------------------------------------------------------
-# Figure 05b-05c: per-question SAC correctness patterns
+# Figure 05b-05c: per-question SAP correctness patterns
 # ---------------------------------------------------------
-def load_model_sac_binary_df(model_name: str) -> pd.DataFrame:
+def load_model_sap_binary_df(model_name: str) -> pd.DataFrame:
     """Load per-question binary correctness for S/A/P display tasks.
 
-    Returns one row per question with columns S, A, C containing 0/1 correctness.
+    Returns one row per question with columns S, A, P containing 0/1 correctness.
     This is the shared representation for pattern-level analysis.
     """
     model_path = MODEL_EVAL_PATHS.get(model_name)
@@ -965,25 +961,25 @@ def load_model_sac_binary_df(model_name: str) -> pd.DataFrame:
             d in entries
             and isinstance(entries[d], dict)
             and isinstance(entries[d].get("correct"), bool)
-            for d in ("S", "A", "C")
+            for d in ("S", "A", "P")
         ):
             continue
         rows.append({
             "question_id": qid,
             "S": int(bool(entries["S"]["correct"])),
             "A": int(bool(entries["A"]["correct"])),
-            "C": int(bool(entries["C"]["correct"])),
+            "P": int(bool(entries["P"]["correct"])),
         })
 
     if not rows:
-        raise ValueError(f"No valid S/A/C triples found for {model_name} pattern analysis.")
+        raise ValueError(f"No valid S/A/P triples found for {model_name} pattern analysis.")
 
-    return pd.DataFrame(rows)[["question_id", "S", "A", "C"]]
+    return pd.DataFrame(rows)[["question_id", "S", "A", "P"]]
 
 
-def sac_pattern_distribution(model_name: str) -> pd.DataFrame:
-    """Return the 8 SAP-display correctness patterns and their counts/proportions."""
-    df = load_model_sac_binary_df(model_name)
+def sap_pattern_distribution(model_name: str) -> pd.DataFrame:
+    """Return the 8 SAP correctness patterns and their counts/proportions."""
+    df = load_model_sap_binary_df(model_name)
     pattern_order = ["111", "110", "101", "011", "100", "010", "001", "000"]
     pattern_labels = {
         "111": "S+A+P",
@@ -996,7 +992,7 @@ def sac_pattern_distribution(model_name: str) -> pd.DataFrame:
         "000": "None",
     }
 
-    patterns = df[["S", "A", "C"]].astype(str).agg("".join, axis=1)
+    patterns = df[["S", "A", "P"]].astype(str).agg("".join, axis=1)
     counts = patterns.value_counts().reindex(pattern_order, fill_value=0)
     out = pd.DataFrame({
         "pattern": pattern_order,
@@ -1009,18 +1005,18 @@ def sac_pattern_distribution(model_name: str) -> pd.DataFrame:
     return out
 
 
-def export_sac_pattern_table(out_dir: str, model_names=None):
+def export_sap_pattern_table(out_dir: str, model_names=None):
     """Export a CSV table used by Figure 05b/05c."""
     ensure_dir(out_dir)
     if model_names is None:
         model_names = list(MODEL_EVAL_PATHS.keys())
-    table = pd.concat([sac_pattern_distribution(name) for name in model_names], ignore_index=True)
-    table.to_csv(os.path.join(out_dir, "sac_pattern_distribution_v2.csv"), index=False)
+    table = pd.concat([sap_pattern_distribution(name) for name in model_names], ignore_index=True)
+    table.to_csv(os.path.join(out_dir, "sap_pattern_distribution_v2.csv"), index=False)
     return table
 
 
-def draw_sac_pattern_bar(ax, pattern_df: pd.DataFrame, title: str, show_count: bool = True):
-    """Draw one SAC pattern bar chart on a supplied axis."""
+def draw_sap_pattern_bar(ax, pattern_df: pd.DataFrame, title: str, show_count: bool = True):
+    """Draw one SAP pattern bar chart on a supplied axis."""
     color_map = {
         3: "#3B82F6",  # all three correct
         2: "#60A5FA",  # two correct
@@ -1058,23 +1054,23 @@ def draw_sac_pattern_bar(ax, pattern_df: pd.DataFrame, title: str, show_count: b
     ax.legend(handles, labels, frameon=False, fontsize=8, ncol=4, loc="upper right")
 
 
-def plot_seed18t_sac_patterns(out_dir):
+def plot_seed18t_sap_patterns(out_dir):
     """Figure 05b: SAP correctness pattern distribution for Seed1.8-T."""
     ensure_dir(out_dir)
-    d = sac_pattern_distribution("Seed1.8-T")
+    d = sap_pattern_distribution("Seed1.8-T")
     fig, ax = plt.subplots(figsize=(7.2, 4.2))
-    draw_sac_pattern_bar(ax, d, "Seed1.8-T: per-question SAP correctness patterns")
+    draw_sap_pattern_bar(ax, d, "Seed1.8-T: per-question SAP correctness patterns")
     fig.tight_layout()
-    save_fig(fig, out_dir, "figure_05b_seed18t_sac_patterns_v2")
+    save_fig(fig, out_dir, "figure_05b_seed18t_sap_patterns_v2")
 
 
-def plot_multi_model_sac_patterns(out_dir, model_names=None):
+def plot_multi_model_sap_patterns(out_dir, model_names=None):
     """Figure 05c: compare SAP correctness pattern distributions across models."""
     ensure_dir(out_dir)
     if model_names is None:
         model_names = list(MODEL_EVAL_PATHS.keys())
 
-    all_d = export_sac_pattern_table(out_dir, model_names=model_names)
+    all_d = export_sap_pattern_table(out_dir, model_names=model_names)
     pattern_order = ["111", "110", "101", "011", "100", "010", "001", "000"]
     labels = ["S+A+P", "S+A", "S+P", "A+P", "S only", "A only", "P only", "None"]
     color_map = {
@@ -1111,7 +1107,7 @@ def plot_multi_model_sac_patterns(out_dir, model_names=None):
     ax.grid(axis="x", alpha=0.2)
     ax.legend(ncol=4, bbox_to_anchor=(0.5, -0.16), loc="upper center", frameon=False, fontsize=9)
     fig.tight_layout(rect=[0, 0.07, 1, 1])
-    save_fig(fig, out_dir, "figure_05c_multi_model_sac_patterns_v2")
+    save_fig(fig, out_dir, "figure_05c_multi_model_sap_patterns_v2")
 
 
 # ---------------------------------------------------------
@@ -1123,11 +1119,11 @@ def plot_dimension_slopegraph(df, out_dir, top_k=18):
 
     fig, ax = plt.subplots(figsize=(11, max(7, 0.42 * len(d) + 1)))
     x = [0, 1, 2]
-    labels = ["S", "A", "C"]
+    labels = ["S", "A", "P"]
     for i, r in d.iterrows():
         ys = [r["S_acc"], r["A_acc"], r["P_acc"]]
         ax.plot(x, ys, color="#999999", alpha=0.55, lw=1.7)
-        ax.scatter(x, ys, s=36, color=[COLOR_S, COLOR_A, COLOR_C], zorder=3)
+        ax.scatter(x, ys, s=36, color=[COLOR_S, COLOR_A, COLOR_P], zorder=3)
         ax.text(-0.06, ys[0], r["model"], ha="right", va="center", fontsize=8)
         ax.text(2.06, ys[2], f"{r['acc']:.3f}", ha="left", va="center", fontsize=8, color="#555555")
     ax.set_xticks(x)
@@ -1153,16 +1149,16 @@ def plot_bottleneck_quadrant(df, out_dir):
     ax.axvline(0, color="#888888", ls="--", lw=1.0)
     ax.axhline(0, color="#888888", ls="--", lw=1.0)
     ax.text(ax.get_xlim()[1] * 0.72 if ax.get_xlim()[1] > 0 else 0.02, ax.get_ylim()[1] * 0.92,
-            "A harder than {S,C}", fontsize=10, color="#F58518")
+            "A harder than {S,P}", fontsize=10, color="#F58518")
     ax.text(ax.get_xlim()[0] * 0.8 if ax.get_xlim()[0] < 0 else -0.06, ax.get_ylim()[1] * 0.92,
-            "A easier than {S,C}", fontsize=10, color="#4C78A8")
+            "A easier than {S,P}", fontsize=10, color="#4C78A8")
     ax.text(ax.get_xlim()[1] * 0.72 if ax.get_xlim()[1] > 0 else 0.02, ax.get_ylim()[0] * 0.88,
-            "C weaker than S", fontsize=10, color="#777777")
+            "P weaker than S", fontsize=10, color="#777777")
     ax.text(ax.get_xlim()[1] * 0.72 if ax.get_xlim()[1] > 0 else 0.02, ax.get_ylim()[1] * 0.05,
-            "C stronger than S", fontsize=10, color="#54A24B")
+            "P stronger than S", fontsize=10, color="#54A24B")
 
-    ax.set_xlabel("A bottleneck score = (S + C)/2 - A")
-    ax.set_ylabel("C - S")
+    ax.set_xlabel("A bottleneck score = (S + P)/2 - A")
+    ax.set_ylabel("P - S")
     ax.set_title("Dimensional bottleneck map")
     cbar = fig.colorbar(sc, ax=ax, pad=0.01)
     cbar.set_label("Overall Accuracy")
@@ -1179,12 +1175,12 @@ def plot_subtype_ternary(df, out_dir, dim="A"):
         colorval = df["A_acc"].to_numpy()
         stem = "figure_10_A_subtype_ternary_v2"
     else:
-        cols = ["C_Reverse_pct", "C_Shuffle_pct", "C_Loop_pct"]
+        cols = ["P_Reverse_pct", "P_Shuffle_pct", "P_Loop_pct"]
         labels = ["Reverse", "Reorder", "Repeat"]
-        title = "C-subtype error simplex"
+        title = "P-subtype error simplex"
         cmap = "PuBuGn"
         colorval = df["P_acc"].to_numpy()
-        stem = "figure_11_C_subtype_ternary_v2"
+        stem = "figure_11_P_subtype_ternary_v2"
 
     fig, ax = plt.subplots(figsize=(9, 8))
     draw_ternary_axes(ax, labels=labels, title=title)
@@ -1207,9 +1203,9 @@ def plot_clustered_feature_heatmap(df, out_dir):
     cols = [
         "S_acc", "A_acc", "P_acc", "3/3", "2/3", "1/3", "0/3",
         "A_Earlier_pct", "A_Later_pct", "A_Extended_pct",
-        "C_Reverse_pct", "C_Shuffle_pct", "C_Loop_pct"
+        "P_Reverse_pct", "P_Shuffle_pct", "P_Loop_pct"
     ]
-    pretty = ["S", "A", "C", "3/3", "2/3", "1/3", "0/3",
+    pretty = ["S", "A", "P", "3/3", "2/3", "1/3", "0/3",
               "Advanced", "Deferred", "Expanded", "Reverse", "Reorder", "Repeat"]
 
     X = df[cols].fillna(0).to_numpy()
@@ -1254,7 +1250,7 @@ def plot_pca_archetypes(df, out_dir):
     cols = [
         "S_acc", "A_acc", "P_acc", "3/3", "2/3", "1/3", "0/3",
         "A_Earlier_pct", "A_Later_pct", "A_Extended_pct",
-        "C_Reverse_pct", "C_Shuffle_pct", "C_Loop_pct"
+        "P_Reverse_pct", "P_Shuffle_pct", "P_Loop_pct"
     ]
     X = df[cols].fillna(0).to_numpy()
     Xs = StandardScaler().fit_transform(X)

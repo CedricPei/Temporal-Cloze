@@ -17,7 +17,7 @@
           "pct_of_errors": 0.831,
           "pct_of_total": 0.1967
         },
-        "C": {
+        "P": {
           "count": 4,
           "pct_of_errors": 0.0563,
           "pct_of_total": 0.0133
@@ -41,7 +41,7 @@
           "pct_of_errors": 0.4731,
           "pct_of_total": 0.1472
         },
-        "C": {
+        "P": {
           "count": 28,
           "pct_of_errors": 0.3011,
           "pct_of_total": 0.0936
@@ -65,7 +65,7 @@
           "pct_of_errors": 0.4912,
           "pct_of_total": 0.3733
         },
-        "C": {
+        "P": {
           "count": 28,
           "pct_of_errors": 0.1228,
           "pct_of_total": 0.0933
@@ -89,7 +89,7 @@
           "pct_of_errors": 0.5351,
           "pct_of_total": 0.2033
         },
-        "C": {
+        "P": {
           "count": 26,
           "pct_of_errors": 0.2281,
           "pct_of_total": 0.0867

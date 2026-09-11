@@ -23,7 +23,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20030000|C|permA": {
+  "DAY1_A4_LUCIA_20030000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -47,7 +47,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A3_TASHA_20213000|C|permA": {
+  "DAY1_A3_TASHA_20213000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -119,7 +119,7 @@
       "D": "Rand2"
     }
   },
-  "XKrPt6jG0rE|C|permA": {
+  "XKrPt6jG0rE|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -131,7 +131,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_17350000|C|permA": {
+  "DAY1_A2_ALICE_17350000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "B",
@@ -179,7 +179,7 @@
       "D": "GT"
     }
   },
-  "0JQ26|C|permA": {
+  "0JQ26|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -191,7 +191,7 @@
       "D": "Shuffle"
     }
   },
-  "G9H0p1JGfp0.29_0|C|permA": {
+  "G9H0p1JGfp0.29_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "D",
@@ -239,7 +239,7 @@
       "D": "GT"
     }
   },
-  "GF6TR|C|permA": {
+  "GF6TR|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -263,7 +263,7 @@
       "D": "Rand3"
     }
   },
-  "Q_A3epM0N8A.5_0|C|permA": {
+  "Q_A3epM0N8A.5_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -311,7 +311,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A5_KATRINA_11120000|C|permA": {
+  "DAY1_A5_KATRINA_11120000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -323,7 +323,7 @@
       "D": "Loop"
     }
   },
-  "gi0VupIJaKA|C|permA": {
+  "gi0VupIJaKA|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -359,7 +359,7 @@
       "D": "Rand2"
     }
   },
-  "Kgu3SKge70k.4_0|C|permA": {
+  "Kgu3SKge70k.4_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -383,7 +383,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A6_SHURE_11520000|C|permA": {
+  "DAY1_A6_SHURE_11520000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "B",
@@ -431,7 +431,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A1_JAKE_19203000|C|permA": {
+  "DAY1_A1_JAKE_19203000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -491,7 +491,7 @@
       "D": "GT"
     }
   },
-  "KQYYTaOWzgQ.24_5|C|permA": {
+  "KQYYTaOWzgQ.24_5|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -503,7 +503,7 @@
       "D": "Loop"
     }
   },
-  "shsyS2WH6ns.2_1|C|permA": {
+  "shsyS2WH6ns.2_1|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -539,7 +539,7 @@
       "D": "Rand1"
     }
   },
-  "0052-7|C|permA": {
+  "0052-7|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -563,7 +563,7 @@
       "D": "GT"
     }
   },
-  "v_00016063_6|C|permA": {
+  "v_00016063_6|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -587,7 +587,7 @@
       "D": "GT"
     }
   },
-  "H0uxrf4pJY0|C|permA": {
+  "H0uxrf4pJY0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -635,7 +635,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A4_LUCIA_11320000|C|permA": {
+  "DAY1_A4_LUCIA_11320000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -695,7 +695,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_13173000|C|permA": {
+  "DAY1_A4_LUCIA_13173000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -755,7 +755,7 @@
       "D": "Early"
     }
   },
-  "yPAglEvhlaI.0_1|C|permA": {
+  "yPAglEvhlaI.0_1|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -779,7 +779,7 @@
       "D": "Rand3"
     }
   },
-  "cVed2CVwYAg.4_0|C|permA": {
+  "cVed2CVwYAg.4_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "D",
@@ -803,7 +803,7 @@
       "D": "GT"
     }
   },
-  "t70ys_UEjDE.16_1|C|permA": {
+  "t70ys_UEjDE.16_1|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -839,7 +839,7 @@
       "D": "Rand3"
     }
   },
-  "N-t8kU7adh4.7_0|C|permA": {
+  "N-t8kU7adh4.7_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -863,7 +863,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A4_LUCIA_18250000|C|permA": {
+  "DAY1_A4_LUCIA_18250000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -911,7 +911,7 @@
       "D": "Early"
     }
   },
-  "v1hB3uNYdf0|C|permA": {
+  "v1hB3uNYdf0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -923,7 +923,7 @@
       "D": "GT"
     }
   },
-  "9wQEAnnBgXc.14_0|C|permA": {
+  "9wQEAnnBgXc.14_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -959,7 +959,7 @@
       "D": "Late"
     }
   },
-  "K-AxXEND_Dk.8_0|C|permA": {
+  "K-AxXEND_Dk.8_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -1019,7 +1019,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A5_KATRINA_19380000|C|permA": {
+  "DAY1_A5_KATRINA_19380000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -1079,7 +1079,7 @@
       "D": "GT"
     }
   },
-  "0032-7|C|permA": {
+  "0032-7|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -1103,7 +1103,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A6_SHURE_13003000|C|permA": {
+  "DAY1_A6_SHURE_13003000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -1115,7 +1115,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A2_ALICE_20280000|C|permA": {
+  "DAY1_A2_ALICE_20280000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -1175,7 +1175,7 @@
       "D": "GT"
     }
   },
-  "avSLIIl6hLQ.13_1|C|permA": {
+  "avSLIIl6hLQ.13_1|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -1199,7 +1199,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_18033000|C|permA": {
+  "DAY1_A4_LUCIA_18033000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -1271,7 +1271,7 @@
       "D": "GT"
     }
   },
-  "8bDVEnSBobk.6_0|C|permA": {
+  "8bDVEnSBobk.6_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -1319,7 +1319,7 @@
       "D": "Wide"
     }
   },
-  "v_00001379_10|C|permA": {
+  "v_00001379_10|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -1331,7 +1331,7 @@
       "D": "GT"
     }
   },
-  "26l-12-4-1|P1|438|928|C|permA": {
+  "26l-12-4-1|P1|438|928|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -1355,7 +1355,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_18413000|C|permA": {
+  "DAY1_A1_JAKE_18413000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "B",
@@ -1379,7 +1379,7 @@
       "D": "Wide"
     }
   },
-  "Y_CY6BtlxDI.19_1|C|permA": {
+  "Y_CY6BtlxDI.19_1|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -1415,7 +1415,7 @@
       "D": "Rand2"
     }
   },
-  "0793-7|C|permA": {
+  "0793-7|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -1475,7 +1475,7 @@
       "D": "Wide"
     }
   },
-  "v_00006711_0|C|permA": {
+  "v_00006711_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -1487,7 +1487,7 @@
       "D": "Reverse"
     }
   },
-  "6TJVS|C|permA": {
+  "6TJVS|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -1511,7 +1511,7 @@
       "D": "GT"
     }
   },
-  "Z9E_idJy97M.19_0|C|permA": {
+  "Z9E_idJy97M.19_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -1595,7 +1595,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A3_TASHA_11453000|C|permA": {
+  "DAY1_A3_TASHA_11453000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -1631,7 +1631,7 @@
       "D": "GT"
     }
   },
-  "-iJMxD4agOE.32_0|C|permA": {
+  "-iJMxD4agOE.32_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -1667,7 +1667,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_19233000|C|permA": {
+  "DAY1_A1_JAKE_19233000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -1703,7 +1703,7 @@
       "D": "Wide"
     }
   },
-  "36X2HVxrfn8.13_0|C|permA": {
+  "36X2HVxrfn8.13_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -1751,7 +1751,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_18060000|C|permA": {
+  "DAY1_A4_LUCIA_18060000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -1763,7 +1763,7 @@
       "D": "Loop"
     }
   },
-  "mB6VIuK6Wlw.1_0|C|permA": {
+  "mB6VIuK6Wlw.1_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "D",
@@ -1775,7 +1775,7 @@
       "D": "Reverse"
     }
   },
-  "2eptl8G0230.32_1|C|permA": {
+  "2eptl8G0230.32_1|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -1799,7 +1799,7 @@
       "D": "Rand1"
     }
   },
-  "fujQBbSNXcA|C|permA": {
+  "fujQBbSNXcA|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -1883,7 +1883,7 @@
       "D": "GT"
     }
   },
-  "28hKF2Rhebs.31_1|C|permA": {
+  "28hKF2Rhebs.31_1|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -1907,7 +1907,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_12303000|C|permA": {
+  "DAY1_A4_LUCIA_12303000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -1943,7 +1943,7 @@
       "D": "GT"
     }
   },
-  "27k-21-2-2|P2|0|508|C|permA": {
+  "27k-21-2-2|P2|0|508|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -1955,7 +1955,7 @@
       "D": "Shuffle"
     }
   },
-  "PHH49|C|permA": {
+  "PHH49|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -2003,7 +2003,7 @@
       "D": "Early"
     }
   },
-  "nGJ3EFRnv3w.29_1|C|permA": {
+  "nGJ3EFRnv3w.29_1|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "B",
@@ -2039,7 +2039,7 @@
       "D": "Late"
     }
   },
-  "BTRxadIkKmU.11_0|C|permA": {
+  "BTRxadIkKmU.11_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -2051,7 +2051,7 @@
       "D": "Reverse"
     }
   },
-  "8X8BS3t4lSM.26_0|C|permA": {
+  "8X8BS3t4lSM.26_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -2099,7 +2099,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A1_JAKE_13090000|C|permA": {
+  "DAY1_A1_JAKE_13090000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -2111,7 +2111,7 @@
       "D": "Loop"
     }
   },
-  "MVGpd4TH54A.0_0|C|permA": {
+  "MVGpd4TH54A.0_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -2147,7 +2147,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_13043000|C|permA": {
+  "DAY1_A3_TASHA_13043000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -2171,7 +2171,7 @@
       "D": "Rand3"
     }
   },
-  "6YH19|C|permA": {
+  "6YH19|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "D",
@@ -2219,7 +2219,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_13250000|C|permA": {
+  "DAY1_A4_LUCIA_13250000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -2267,7 +2267,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A2_ALICE_19443000|C|permA": {
+  "DAY1_A2_ALICE_19443000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "B",
@@ -2327,7 +2327,7 @@
       "D": "Rand1"
     }
   },
-  "jrJ5IPh4CtM.10_0|C|permA": {
+  "jrJ5IPh4CtM.10_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -2339,7 +2339,7 @@
       "D": "GT"
     }
   },
-  "0294-7|C|permA": {
+  "0294-7|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -2351,7 +2351,7 @@
       "D": "GT"
     }
   },
-  "xUgMOs8i16E|C|permA": {
+  "xUgMOs8i16E|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -2387,7 +2387,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A1_JAKE_18223000|C|permA": {
+  "DAY1_A1_JAKE_18223000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -2447,7 +2447,7 @@
       "D": "GT"
     }
   },
-  "v_00005279_0|C|permA": {
+  "v_00005279_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -2519,7 +2519,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_13303000|C|permA": {
+  "DAY1_A2_ALICE_13303000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -2555,7 +2555,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A3_TASHA_12453000|C|permA": {
+  "DAY1_A3_TASHA_12453000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -2591,7 +2591,7 @@
       "D": "Rand2"
     }
   },
-  "FivAN0MUp3A.26_0|C|permA": {
+  "FivAN0MUp3A.26_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -2603,7 +2603,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A1_JAKE_20333000|C|permA": {
+  "DAY1_A1_JAKE_20333000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -2627,7 +2627,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A5_KATRINA_19460000|C|permA": {
+  "DAY1_A5_KATRINA_19460000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -2675,7 +2675,7 @@
       "D": "Wide"
     }
   },
-  "v_00006963_0|C|permA": {
+  "v_00006963_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -2699,7 +2699,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A4_LUCIA_20060000|C|permA": {
+  "DAY1_A4_LUCIA_20060000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -2735,7 +2735,7 @@
       "D": "Wide"
     }
   },
-  "Ramc5o_meyw.11_0|C|permA": {
+  "Ramc5o_meyw.11_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -2759,7 +2759,7 @@
       "D": "Rand2"
     }
   },
-  "v_00011376_0|C|permA": {
+  "v_00011376_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -2795,7 +2795,7 @@
       "D": "GT"
     }
   },
-  "v_00004040_1|C|permA": {
+  "v_00004040_1|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -2843,7 +2843,7 @@
       "D": "Early"
     }
   },
-  "KJevEXjS8VI.24_0|C|permA": {
+  "KJevEXjS8VI.24_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -2879,7 +2879,7 @@
       "D": "Late"
     }
   },
-  "GoRpw4aOx0s.11_0|C|permA": {
+  "GoRpw4aOx0s.11_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -2915,7 +2915,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A2_ALICE_17260000|C|permA": {
+  "DAY1_A2_ALICE_17260000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -2975,7 +2975,7 @@
       "D": "GT"
     }
   },
-  "9knfg-7ARcc.30_0|C|permA": {
+  "9knfg-7ARcc.30_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -2987,7 +2987,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A3_TASHA_13070000|C|permA": {
+  "DAY1_A3_TASHA_13070000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -3011,7 +3011,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A5_KATRINA_17220000|C|permA": {
+  "DAY1_A5_KATRINA_17220000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -3071,7 +3071,7 @@
       "D": "Early"
     }
   },
-  "UEu9YyROlnM.9_2|C|permA": {
+  "UEu9YyROlnM.9_2|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -3107,7 +3107,7 @@
       "D": "Late"
     }
   },
-  "v_00005268_0|C|permA": {
+  "v_00005268_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "D",
@@ -3155,7 +3155,7 @@
       "D": "GT"
     }
   },
-  "IIreVWXmnqg|C|permA": {
+  "IIreVWXmnqg|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "B",
@@ -3179,7 +3179,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_18160000|C|permA": {
+  "DAY1_A4_LUCIA_18160000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "D",
@@ -3203,7 +3203,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A3_TASHA_12443000|C|permA": {
+  "DAY1_A3_TASHA_12443000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "B",
@@ -3263,7 +3263,7 @@
       "D": "Rand2"
     }
   },
-  "v_00009721_0|C|permA": {
+  "v_00009721_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "D",
@@ -3287,7 +3287,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A1_JAKE_14040000|C|permA": {
+  "DAY1_A1_JAKE_14040000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -3299,7 +3299,7 @@
       "D": "Shuffle"
     }
   },
-  "v_00007041_10|C|permA": {
+  "v_00007041_10|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -3335,7 +3335,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A5_KATRINA_18043000|C|permA": {
+  "DAY1_A5_KATRINA_18043000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -3371,7 +3371,7 @@
       "D": "Late"
     }
   },
-  "un4VYSlqQqs.69_1|C|permA": {
+  "un4VYSlqQqs.69_1|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -3419,7 +3419,7 @@
       "D": "GT"
     }
   },
-  "1285-7|C|permA": {
+  "1285-7|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -3491,7 +3491,7 @@
       "D": "Early"
     }
   },
-  "v_00013757_0|C|permA": {
+  "v_00013757_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -3503,7 +3503,7 @@
       "D": "Loop"
     }
   },
-  "9DEse0b86gI.49_0|C|permA": {
+  "9DEse0b86gI.49_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -3551,7 +3551,7 @@
       "D": "Wide"
     }
   },
-  "v_00013697_3|C|permA": {
+  "v_00013697_3|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -3563,7 +3563,7 @@
       "D": "Loop"
     }
   },
-  "v_00005709_0|C|permA": {
+  "v_00005709_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -3587,7 +3587,7 @@
       "D": "GT"
     }
   },
-  "p3ad39IMUXI.8_0|C|permA": {
+  "p3ad39IMUXI.8_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -3635,7 +3635,7 @@
       "D": "Rand3"
     }
   },
-  "_VkB1kInJfo.5_0|C|permA": {
+  "_VkB1kInJfo.5_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -3683,7 +3683,7 @@
       "D": "Rand3"
     }
   },
-  "Oqz0QkQ-aGY.11_0|C|permA": {
+  "Oqz0QkQ-aGY.11_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -3707,7 +3707,7 @@
       "D": "Late"
     }
   },
-  "5-X0RJdodhg.9_0|C|permA": {
+  "5-X0RJdodhg.9_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -3743,7 +3743,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_12420000|C|permA": {
+  "DAY1_A3_TASHA_12420000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -3779,7 +3779,7 @@
       "D": "Early"
     }
   },
-  "30k-22-10-2|P1|2448|2856|C|permA": {
+  "30k-22-10-2|P1|2448|2856|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "D",
@@ -3851,7 +3851,7 @@
       "D": "Late"
     }
   },
-  "T3dkTkVNvIQ|C|permA": {
+  "T3dkTkVNvIQ|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -3899,7 +3899,7 @@
       "D": "Rand1"
     }
   },
-  "2544C|C|permA": {
+  "2544C|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -3923,7 +3923,7 @@
       "D": "Wide"
     }
   },
-  "0951-7|C|permA": {
+  "0951-7|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -3947,7 +3947,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_13570000|C|permA": {
+  "DAY1_A1_JAKE_13570000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -3983,7 +3983,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A6_SHURE_13273000|C|permA": {
+  "DAY1_A6_SHURE_13273000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -4007,7 +4007,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A2_ALICE_19390000|C|permA": {
+  "DAY1_A2_ALICE_19390000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -4019,7 +4019,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A6_SHURE_21243000|C|permA": {
+  "DAY1_A6_SHURE_21243000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -4091,7 +4091,7 @@
       "D": "Late"
     }
   },
-  "33LnbAjkiDo.25_2|C|permA": {
+  "33LnbAjkiDo.25_2|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -4115,7 +4115,7 @@
       "D": "Rand3"
     }
   },
-  "29k-12-1-4|P1|5817|6322|C|permA": {
+  "29k-12-1-4|P1|5817|6322|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -4139,7 +4139,7 @@
       "D": "Early"
     }
   },
-  "kUTBdMQVHXo|C|permA": {
+  "kUTBdMQVHXo|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -4187,7 +4187,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_11383000|C|permA": {
+  "DAY1_A4_LUCIA_11383000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -4211,7 +4211,7 @@
       "D": "Rand2"
     }
   },
-  "V9OMIQTTTTM.36_0|C|permA": {
+  "V9OMIQTTTTM.36_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -4247,7 +4247,7 @@
       "D": "Rand3"
     }
   },
-  "_OZzxLcTsig.24_1|C|permA": {
+  "_OZzxLcTsig.24_1|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -4307,7 +4307,7 @@
       "D": "Rand1"
     }
   },
-  "am-J4A1LGWA.39_0|C|permA": {
+  "am-J4A1LGWA.39_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -4343,7 +4343,7 @@
       "D": "Wide"
     }
   },
-  "0503-7|C|permA": {
+  "0503-7|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -4391,7 +4391,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_12523000|C|permA": {
+  "DAY1_A3_TASHA_12523000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -4427,7 +4427,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_18290000|C|permA": {
+  "DAY1_A1_JAKE_18290000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "B",
@@ -4463,7 +4463,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20023000|C|permA": {
+  "DAY1_A4_LUCIA_20023000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -4499,7 +4499,7 @@
       "D": "GT"
     }
   },
-  "ZzypsDiBuHc.2_0|C|permA": {
+  "ZzypsDiBuHc.2_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -4523,7 +4523,7 @@
       "D": "Late"
     }
   },
-  "dlWMSRTqaco.8_0|C|permA": {
+  "dlWMSRTqaco.8_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -4547,7 +4547,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A6_SHURE_17430000|C|permA": {
+  "DAY1_A6_SHURE_17430000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -4571,7 +4571,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_14153000|C|permA": {
+  "DAY1_A3_TASHA_14153000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -4607,7 +4607,7 @@
       "D": "GT"
     }
   },
-  "27l-22-4-1|P2|496|1037|C|permA": {
+  "27l-22-4-1|P2|496|1037|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -4643,7 +4643,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_21423000|C|permA": {
+  "DAY1_A2_ALICE_21423000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "B",
@@ -4679,7 +4679,7 @@
       "D": "GT"
     }
   },
-  "v_00002024_0|C|permA": {
+  "v_00002024_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -4703,7 +4703,7 @@
       "D": "Wide"
     }
   },
-  "CPC2zIu9rYc.6_0|C|permA": {
+  "CPC2zIu9rYc.6_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -4751,7 +4751,7 @@
       "D": "Wide"
     }
   },
-  "t5BdaCLqEcM.2_0|C|permA": {
+  "t5BdaCLqEcM.2_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -4787,7 +4787,7 @@
       "D": "Early"
     }
   },
-  "TR7Zkdqcr4s.22_0|C|permA": {
+  "TR7Zkdqcr4s.22_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "D",
@@ -4811,7 +4811,7 @@
       "D": "GT"
     }
   },
-  "4m5khG0emPE_video|C|permA": {
+  "4m5khG0emPE_video|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -4847,7 +4847,7 @@
       "D": "Late"
     }
   },
-  "29k-21-6-2|P2|0|480|C|permA": {
+  "29k-21-6-2|P2|0|480|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -4871,7 +4871,7 @@
       "D": "Rand2"
     }
   },
-  "hizR7GT17qw.31_0|C|permA": {
+  "hizR7GT17qw.31_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -4919,7 +4919,7 @@
       "D": "Early"
     }
   },
-  "4Y1AW|C|permA": {
+  "4Y1AW|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "C",
@@ -4943,7 +4943,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A2_ALICE_20000000|C|permA": {
+  "DAY1_A2_ALICE_20000000|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "B",
@@ -5003,7 +5003,7 @@
       "D": "GT"
     }
   },
-  "Y4IIO|C|permA": {
+  "Y4IIO|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -5027,7 +5027,7 @@
       "D": "GT"
     }
   },
-  "89QkIhDAQK4.43_0|C|permA": {
+  "89QkIhDAQK4.43_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "A",
@@ -5075,7 +5075,7 @@
       "D": "Rand1"
     }
   },
-  "D6MZ4|C|permA": {
+  "D6MZ4|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -5087,7 +5087,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_20450000|C|permA": {
+  "DAY1_A3_TASHA_20450000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -5147,7 +5147,7 @@
       "D": "Rand2"
     }
   },
-  "bLta34sLkBQ.19_0|C|permA": {
+  "bLta34sLkBQ.19_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "C",
@@ -5159,7 +5159,7 @@
       "D": "GT"
     }
   },
-  "-P7Y_BlwxO8.42_0|C|permA": {
+  "-P7Y_BlwxO8.42_0|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -5219,7 +5219,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A2_ALICE_21453000|C|permA": {
+  "DAY1_A2_ALICE_21453000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "D",
@@ -5231,7 +5231,7 @@
       "D": "GT"
     }
   },
-  "v_00013624_0|C|permA": {
+  "v_00013624_0|P|permA": {
     "perm": "A",
     "correct": false,
     "answer": "B",
@@ -5279,7 +5279,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A4_LUCIA_17590000|C|permA": {
+  "DAY1_A4_LUCIA_17590000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -5303,7 +5303,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20160000|C|permA": {
+  "DAY1_A4_LUCIA_20160000|P|permA": {
     "perm": "A",
     "correct": true,
     "answer": "A",
@@ -5387,7 +5387,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A3_TASHA_20213000|C|permB": {
+  "DAY1_A3_TASHA_20213000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -5459,7 +5459,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A4_LUCIA_20030000|C|permD": {
+  "DAY1_A4_LUCIA_20030000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "D",
@@ -5471,7 +5471,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A3_TASHA_20213000|C|permD": {
+  "DAY1_A3_TASHA_20213000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -5507,7 +5507,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_20213000|C|permC": {
+  "DAY1_A3_TASHA_20213000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -5543,7 +5543,7 @@
       "D": "Wide"
     }
   },
-  "GF6TR|C|permD": {
+  "GF6TR|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -5555,7 +5555,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20030000|C|permC": {
+  "DAY1_A4_LUCIA_20030000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "C",
@@ -5639,7 +5639,7 @@
       "D": "Rand3"
     }
   },
-  "XKrPt6jG0rE|C|permC": {
+  "XKrPt6jG0rE|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -5651,7 +5651,7 @@
       "D": "Shuffle"
     }
   },
-  "GF6TR|C|permB": {
+  "GF6TR|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -5675,7 +5675,7 @@
       "D": "Early"
     }
   },
-  "XKrPt6jG0rE|C|permB": {
+  "XKrPt6jG0rE|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -5771,7 +5771,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_20030000|C|permB": {
+  "DAY1_A4_LUCIA_20030000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -5795,7 +5795,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A2_ALICE_17350000|C|permB": {
+  "DAY1_A2_ALICE_17350000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -5843,7 +5843,7 @@
       "D": "Rand3"
     }
   },
-  "0JQ26|C|permC": {
+  "0JQ26|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -5855,7 +5855,7 @@
       "D": "Loop"
     }
   },
-  "0JQ26|C|permD": {
+  "0JQ26|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "D",
@@ -5891,7 +5891,7 @@
       "D": "Wide"
     }
   },
-  "XKrPt6jG0rE|C|permD": {
+  "XKrPt6jG0rE|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -5903,7 +5903,7 @@
       "D": "Loop"
     }
   },
-  "0JQ26|C|permB": {
+  "0JQ26|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -5951,7 +5951,7 @@
       "D": "Rand2"
     }
   },
-  "GF6TR|C|permC": {
+  "GF6TR|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -5963,7 +5963,7 @@
       "D": "Shuffle"
     }
   },
-  "G9H0p1JGfp0.29_0|C|permD": {
+  "G9H0p1JGfp0.29_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "B",
@@ -5987,7 +5987,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_17350000|C|permD": {
+  "DAY1_A2_ALICE_17350000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -6023,7 +6023,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A2_ALICE_17350000|C|permC": {
+  "DAY1_A2_ALICE_17350000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -6047,7 +6047,7 @@
       "D": "GT"
     }
   },
-  "G9H0p1JGfp0.29_0|C|permB": {
+  "G9H0p1JGfp0.29_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -6059,7 +6059,7 @@
       "D": "Loop"
     }
   },
-  "gi0VupIJaKA|C|permB": {
+  "gi0VupIJaKA|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -6095,7 +6095,7 @@
       "D": "Rand1"
     }
   },
-  "gi0VupIJaKA|C|permD": {
+  "gi0VupIJaKA|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -6131,7 +6131,7 @@
       "D": "GT"
     }
   },
-  "Q_A3epM0N8A.5_0|C|permB": {
+  "Q_A3epM0N8A.5_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -6143,7 +6143,7 @@
       "D": "Reverse"
     }
   },
-  "Q_A3epM0N8A.5_0|C|permD": {
+  "Q_A3epM0N8A.5_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -6179,7 +6179,7 @@
       "D": "GT"
     }
   },
-  "Q_A3epM0N8A.5_0|C|permC": {
+  "Q_A3epM0N8A.5_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -6203,7 +6203,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A5_KATRINA_11120000|C|permB": {
+  "DAY1_A5_KATRINA_11120000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -6215,7 +6215,7 @@
       "D": "Shuffle"
     }
   },
-  "G9H0p1JGfp0.29_0|C|permC": {
+  "G9H0p1JGfp0.29_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "B",
@@ -6275,7 +6275,7 @@
       "D": "GT"
     }
   },
-  "gi0VupIJaKA|C|permC": {
+  "gi0VupIJaKA|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -6323,7 +6323,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A5_KATRINA_11120000|C|permC": {
+  "DAY1_A5_KATRINA_11120000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "B",
@@ -6335,7 +6335,7 @@
       "D": "Reverse"
     }
   },
-  "Kgu3SKge70k.4_0|C|permD": {
+  "Kgu3SKge70k.4_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -6407,7 +6407,7 @@
       "D": "Rand3"
     }
   },
-  "Kgu3SKge70k.4_0|C|permB": {
+  "Kgu3SKge70k.4_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -6431,7 +6431,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A6_SHURE_11520000|C|permC": {
+  "DAY1_A6_SHURE_11520000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -6467,7 +6467,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A6_SHURE_11520000|C|permD": {
+  "DAY1_A6_SHURE_11520000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -6515,7 +6515,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A6_SHURE_11520000|C|permB": {
+  "DAY1_A6_SHURE_11520000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -6527,7 +6527,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A5_KATRINA_11120000|C|permD": {
+  "DAY1_A5_KATRINA_11120000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -6539,7 +6539,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_19203000|C|permC": {
+  "DAY1_A1_JAKE_19203000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -6563,7 +6563,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_19203000|C|permB": {
+  "DAY1_A1_JAKE_19203000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -6575,7 +6575,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A1_JAKE_19203000|C|permD": {
+  "DAY1_A1_JAKE_19203000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "D",
@@ -6647,7 +6647,7 @@
       "D": "Rand3"
     }
   },
-  "Kgu3SKge70k.4_0|C|permC": {
+  "Kgu3SKge70k.4_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -6683,7 +6683,7 @@
       "D": "Early"
     }
   },
-  "KQYYTaOWzgQ.24_5|C|permC": {
+  "KQYYTaOWzgQ.24_5|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -6695,7 +6695,7 @@
       "D": "Reverse"
     }
   },
-  "KQYYTaOWzgQ.24_5|C|permD": {
+  "KQYYTaOWzgQ.24_5|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -6755,7 +6755,7 @@
       "D": "Wide"
     }
   },
-  "KQYYTaOWzgQ.24_5|C|permB": {
+  "KQYYTaOWzgQ.24_5|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -6851,7 +6851,7 @@
       "D": "Rand3"
     }
   },
-  "shsyS2WH6ns.2_1|C|permD": {
+  "shsyS2WH6ns.2_1|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -6887,7 +6887,7 @@
       "D": "GT"
     }
   },
-  "shsyS2WH6ns.2_1|C|permC": {
+  "shsyS2WH6ns.2_1|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -6923,7 +6923,7 @@
       "D": "Late"
     }
   },
-  "shsyS2WH6ns.2_1|C|permB": {
+  "shsyS2WH6ns.2_1|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -6935,7 +6935,7 @@
       "D": "Loop"
     }
   },
-  "0052-7|C|permB": {
+  "0052-7|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -6959,7 +6959,7 @@
       "D": "Wide"
     }
   },
-  "0052-7|C|permD": {
+  "0052-7|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -6971,7 +6971,7 @@
       "D": "Reverse"
     }
   },
-  "0052-7|C|permC": {
+  "0052-7|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -7031,7 +7031,7 @@
       "D": "Rand3"
     }
   },
-  "v_00016063_6|C|permB": {
+  "v_00016063_6|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -7115,7 +7115,7 @@
       "D": "Rand1"
     }
   },
-  "H0uxrf4pJY0|C|permC": {
+  "H0uxrf4pJY0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -7163,7 +7163,7 @@
       "D": "Rand2"
     }
   },
-  "H0uxrf4pJY0|C|permB": {
+  "H0uxrf4pJY0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -7175,7 +7175,7 @@
       "D": "Loop"
     }
   },
-  "H0uxrf4pJY0|C|permD": {
+  "H0uxrf4pJY0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -7211,7 +7211,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_11320000|C|permD": {
+  "DAY1_A4_LUCIA_11320000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -7223,7 +7223,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_11320000|C|permB": {
+  "DAY1_A4_LUCIA_11320000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -7283,7 +7283,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A4_LUCIA_11320000|C|permC": {
+  "DAY1_A4_LUCIA_11320000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -7307,7 +7307,7 @@
       "D": "Wide"
     }
   },
-  "t70ys_UEjDE.16_1|C|permB": {
+  "t70ys_UEjDE.16_1|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -7403,7 +7403,7 @@
       "D": "Rand1"
     }
   },
-  "v_00016063_6|C|permC": {
+  "v_00016063_6|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -7427,7 +7427,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_13173000|C|permB": {
+  "DAY1_A4_LUCIA_13173000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -7439,7 +7439,7 @@
       "D": "GT"
     }
   },
-  "t70ys_UEjDE.16_1|C|permC": {
+  "t70ys_UEjDE.16_1|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -7451,7 +7451,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_13173000|C|permD": {
+  "DAY1_A4_LUCIA_13173000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -7463,7 +7463,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A4_LUCIA_13173000|C|permC": {
+  "DAY1_A4_LUCIA_13173000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -7475,7 +7475,7 @@
       "D": "Loop"
     }
   },
-  "t70ys_UEjDE.16_1|C|permD": {
+  "t70ys_UEjDE.16_1|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "B",
@@ -7523,7 +7523,7 @@
       "D": "Wide"
     }
   },
-  "yPAglEvhlaI.0_1|C|permB": {
+  "yPAglEvhlaI.0_1|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -7535,7 +7535,7 @@
       "D": "GT"
     }
   },
-  "yPAglEvhlaI.0_1|C|permC": {
+  "yPAglEvhlaI.0_1|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -7559,7 +7559,7 @@
       "D": "Rand1"
     }
   },
-  "yPAglEvhlaI.0_1|C|permD": {
+  "yPAglEvhlaI.0_1|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -7631,7 +7631,7 @@
       "D": "Rand3"
     }
   },
-  "cVed2CVwYAg.4_0|C|permB": {
+  "cVed2CVwYAg.4_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -7643,7 +7643,7 @@
       "D": "Reverse"
     }
   },
-  "cVed2CVwYAg.4_0|C|permD": {
+  "cVed2CVwYAg.4_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -7751,7 +7751,7 @@
       "D": "Wide"
     }
   },
-  "N-t8kU7adh4.7_0|C|permC": {
+  "N-t8kU7adh4.7_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -7775,7 +7775,7 @@
       "D": "Wide"
     }
   },
-  "N-t8kU7adh4.7_0|C|permB": {
+  "N-t8kU7adh4.7_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -7811,7 +7811,7 @@
       "D": "Rand3"
     }
   },
-  "N-t8kU7adh4.7_0|C|permD": {
+  "N-t8kU7adh4.7_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -7883,7 +7883,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_18250000|C|permC": {
+  "DAY1_A4_LUCIA_18250000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -7931,7 +7931,7 @@
       "D": "Rand3"
     }
   },
-  "v1hB3uNYdf0|C|permB": {
+  "v1hB3uNYdf0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -7979,7 +7979,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_18250000|C|permD": {
+  "DAY1_A4_LUCIA_18250000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -8003,7 +8003,7 @@
       "D": "Rand2"
     }
   },
-  "v1hB3uNYdf0|C|permC": {
+  "v1hB3uNYdf0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -8027,7 +8027,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_18250000|C|permB": {
+  "DAY1_A4_LUCIA_18250000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -8039,7 +8039,7 @@
       "D": "Reverse"
     }
   },
-  "v1hB3uNYdf0|C|permD": {
+  "v1hB3uNYdf0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -8123,7 +8123,7 @@
       "D": "Late"
     }
   },
-  "9wQEAnnBgXc.14_0|C|permB": {
+  "9wQEAnnBgXc.14_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -8135,7 +8135,7 @@
       "D": "Loop"
     }
   },
-  "9wQEAnnBgXc.14_0|C|permD": {
+  "9wQEAnnBgXc.14_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -8147,7 +8147,7 @@
       "D": "Shuffle"
     }
   },
-  "9wQEAnnBgXc.14_0|C|permC": {
+  "9wQEAnnBgXc.14_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -8195,7 +8195,7 @@
       "D": "GT"
     }
   },
-  "K-AxXEND_Dk.8_0|C|permC": {
+  "K-AxXEND_Dk.8_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -8291,7 +8291,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A5_KATRINA_19380000|C|permC": {
+  "DAY1_A5_KATRINA_19380000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -8339,7 +8339,7 @@
       "D": "GT"
     }
   },
-  "v_00016063_6|C|permD": {
+  "v_00016063_6|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -8351,7 +8351,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A5_KATRINA_19380000|C|permB": {
+  "DAY1_A5_KATRINA_19380000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -8363,7 +8363,7 @@
       "D": "Shuffle"
     }
   },
-  "K-AxXEND_Dk.8_0|C|permD": {
+  "K-AxXEND_Dk.8_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -8387,7 +8387,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A5_KATRINA_19380000|C|permD": {
+  "DAY1_A5_KATRINA_19380000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -8495,7 +8495,7 @@
       "D": "GT"
     }
   },
-  "0032-7|C|permB": {
+  "0032-7|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -8519,7 +8519,7 @@
       "D": "Rand2"
     }
   },
-  "0032-7|C|permC": {
+  "0032-7|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -8531,7 +8531,7 @@
       "D": "GT"
     }
   },
-  "K-AxXEND_Dk.8_0|C|permB": {
+  "K-AxXEND_Dk.8_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -8567,7 +8567,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A6_SHURE_13003000|C|permB": {
+  "DAY1_A6_SHURE_13003000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -8603,7 +8603,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A6_SHURE_13003000|C|permC": {
+  "DAY1_A6_SHURE_13003000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -8627,7 +8627,7 @@
       "D": "Late"
     }
   },
-  "0032-7|C|permD": {
+  "0032-7|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "B",
@@ -8663,7 +8663,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A2_ALICE_20280000|C|permB": {
+  "DAY1_A2_ALICE_20280000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -8675,7 +8675,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A2_ALICE_20280000|C|permC": {
+  "DAY1_A2_ALICE_20280000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -8747,7 +8747,7 @@
       "D": "Rand3"
     }
   },
-  "avSLIIl6hLQ.13_1|C|permB": {
+  "avSLIIl6hLQ.13_1|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -8807,7 +8807,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A2_ALICE_20280000|C|permD": {
+  "DAY1_A2_ALICE_20280000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -8843,7 +8843,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A4_LUCIA_18033000|C|permC": {
+  "DAY1_A4_LUCIA_18033000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -8855,7 +8855,7 @@
       "D": "GT"
     }
   },
-  "avSLIIl6hLQ.13_1|C|permD": {
+  "avSLIIl6hLQ.13_1|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -8867,7 +8867,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A4_LUCIA_18033000|C|permB": {
+  "DAY1_A4_LUCIA_18033000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -8891,7 +8891,7 @@
       "D": "Wide"
     }
   },
-  "avSLIIl6hLQ.13_1|C|permC": {
+  "avSLIIl6hLQ.13_1|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -8903,7 +8903,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A4_LUCIA_18033000|C|permD": {
+  "DAY1_A4_LUCIA_18033000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -8975,7 +8975,7 @@
       "D": "Late"
     }
   },
-  "cVed2CVwYAg.4_0|C|permC": {
+  "cVed2CVwYAg.4_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -8999,7 +8999,7 @@
       "D": "GT"
     }
   },
-  "v_00001379_10|C|permC": {
+  "v_00001379_10|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "C",
@@ -9071,7 +9071,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A6_SHURE_13003000|C|permD": {
+  "DAY1_A6_SHURE_13003000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -9083,7 +9083,7 @@
       "D": "Loop"
     }
   },
-  "8bDVEnSBobk.6_0|C|permC": {
+  "8bDVEnSBobk.6_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -9107,7 +9107,7 @@
       "D": "Rand3"
     }
   },
-  "8bDVEnSBobk.6_0|C|permD": {
+  "8bDVEnSBobk.6_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -9167,7 +9167,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_18413000|C|permC": {
+  "DAY1_A1_JAKE_18413000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -9215,7 +9215,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A1_JAKE_18413000|C|permD": {
+  "DAY1_A1_JAKE_18413000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -9227,7 +9227,7 @@
       "D": "Loop"
     }
   },
-  "8bDVEnSBobk.6_0|C|permB": {
+  "8bDVEnSBobk.6_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -9287,7 +9287,7 @@
       "D": "GT"
     }
   },
-  "26l-12-4-1|P1|438|928|C|permD": {
+  "26l-12-4-1|P1|438|928|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -9395,7 +9395,7 @@
       "D": "Rand2"
     }
   },
-  "26l-12-4-1|P1|438|928|C|permB": {
+  "26l-12-4-1|P1|438|928|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -9407,7 +9407,7 @@
       "D": "Loop"
     }
   },
-  "Y_CY6BtlxDI.19_1|C|permC": {
+  "Y_CY6BtlxDI.19_1|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -9419,7 +9419,7 @@
       "D": "GT"
     }
   },
-  "Y_CY6BtlxDI.19_1|C|permB": {
+  "Y_CY6BtlxDI.19_1|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -9455,7 +9455,7 @@
       "D": "Rand3"
     }
   },
-  "Y_CY6BtlxDI.19_1|C|permD": {
+  "Y_CY6BtlxDI.19_1|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "B",
@@ -9491,7 +9491,7 @@
       "D": "GT"
     }
   },
-  "v_00001379_10|C|permD": {
+  "v_00001379_10|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -9611,7 +9611,7 @@
       "D": "GT"
     }
   },
-  "0793-7|C|permB": {
+  "0793-7|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -9623,7 +9623,7 @@
       "D": "Shuffle"
     }
   },
-  "26l-12-4-1|P1|438|928|C|permC": {
+  "26l-12-4-1|P1|438|928|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -9647,7 +9647,7 @@
       "D": "Early"
     }
   },
-  "0793-7|C|permC": {
+  "0793-7|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -9671,7 +9671,7 @@
       "D": "Late"
     }
   },
-  "v_00001379_10|C|permB": {
+  "v_00001379_10|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -9731,7 +9731,7 @@
       "D": "Late"
     }
   },
-  "v_00006711_0|C|permB": {
+  "v_00006711_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -9755,7 +9755,7 @@
       "D": "Late"
     }
   },
-  "0793-7|C|permD": {
+  "0793-7|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -9767,7 +9767,7 @@
       "D": "Reverse"
     }
   },
-  "v_00006711_0|C|permD": {
+  "v_00006711_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -9851,7 +9851,7 @@
       "D": "Rand1"
     }
   },
-  "6TJVS|C|permD": {
+  "6TJVS|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -9899,7 +9899,7 @@
       "D": "Late"
     }
   },
-  "Z9E_idJy97M.19_0|C|permB": {
+  "Z9E_idJy97M.19_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -9911,7 +9911,7 @@
       "D": "Loop"
     }
   },
-  "6TJVS|C|permB": {
+  "6TJVS|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -9923,7 +9923,7 @@
       "D": "Reverse"
     }
   },
-  "Z9E_idJy97M.19_0|C|permC": {
+  "Z9E_idJy97M.19_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -9935,7 +9935,7 @@
       "D": "Reverse"
     }
   },
-  "Z9E_idJy97M.19_0|C|permD": {
+  "Z9E_idJy97M.19_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -9995,7 +9995,7 @@
       "D": "Wide"
     }
   },
-  "-iJMxD4agOE.32_0|C|permB": {
+  "-iJMxD4agOE.32_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -10055,7 +10055,7 @@
       "D": "GT"
     }
   },
-  "-iJMxD4agOE.32_0|C|permC": {
+  "-iJMxD4agOE.32_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -10079,7 +10079,7 @@
       "D": "GT"
     }
   },
-  "-iJMxD4agOE.32_0|C|permD": {
+  "-iJMxD4agOE.32_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -10091,7 +10091,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_11453000|C|permB": {
+  "DAY1_A3_TASHA_11453000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -10103,7 +10103,7 @@
       "D": "GT"
     }
   },
-  "mB6VIuK6Wlw.1_0|C|permD": {
+  "mB6VIuK6Wlw.1_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -10115,7 +10115,7 @@
       "D": "Loop"
     }
   },
-  "v_00006711_0|C|permC": {
+  "v_00006711_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -10127,7 +10127,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A3_TASHA_11453000|C|permC": {
+  "DAY1_A3_TASHA_11453000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -10211,7 +10211,7 @@
       "D": "Late"
     }
   },
-  "6TJVS|C|permC": {
+  "6TJVS|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -10283,7 +10283,7 @@
       "D": "GT"
     }
   },
-  "27k-21-2-2|P2|0|508|C|permB": {
+  "27k-21-2-2|P2|0|508|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -10295,7 +10295,7 @@
       "D": "Loop"
     }
   },
-  "27k-21-2-2|P2|0|508|C|permD": {
+  "27k-21-2-2|P2|0|508|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -10331,7 +10331,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_19233000|C|permB": {
+  "DAY1_A1_JAKE_19233000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -10367,7 +10367,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A1_JAKE_19233000|C|permD": {
+  "DAY1_A1_JAKE_19233000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -10403,7 +10403,7 @@
       "D": "Rand3"
     }
   },
-  "27k-21-2-2|P2|0|508|C|permC": {
+  "27k-21-2-2|P2|0|508|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -10427,7 +10427,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_19233000|C|permC": {
+  "DAY1_A1_JAKE_19233000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -10439,7 +10439,7 @@
       "D": "Loop"
     }
   },
-  "36X2HVxrfn8.13_0|C|permB": {
+  "36X2HVxrfn8.13_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -10499,7 +10499,7 @@
       "D": "GT"
     }
   },
-  "36X2HVxrfn8.13_0|C|permD": {
+  "36X2HVxrfn8.13_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -10511,7 +10511,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A1_JAKE_18413000|C|permB": {
+  "DAY1_A1_JAKE_18413000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -10523,7 +10523,7 @@
       "D": "GT"
     }
   },
-  "36X2HVxrfn8.13_0|C|permC": {
+  "36X2HVxrfn8.13_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -10547,7 +10547,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_18060000|C|permD": {
+  "DAY1_A4_LUCIA_18060000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -10607,7 +10607,7 @@
       "D": "GT"
     }
   },
-  "mB6VIuK6Wlw.1_0|C|permB": {
+  "mB6VIuK6Wlw.1_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -10631,7 +10631,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_18060000|C|permC": {
+  "DAY1_A4_LUCIA_18060000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -10667,7 +10667,7 @@
       "D": "Wide"
     }
   },
-  "2eptl8G0230.32_1|C|permB": {
+  "2eptl8G0230.32_1|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -10679,7 +10679,7 @@
       "D": "Loop"
     }
   },
-  "2eptl8G0230.32_1|C|permC": {
+  "2eptl8G0230.32_1|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -10739,7 +10739,7 @@
       "D": "GT"
     }
   },
-  "fujQBbSNXcA|C|permB": {
+  "fujQBbSNXcA|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -10763,7 +10763,7 @@
       "D": "Rand3"
     }
   },
-  "fujQBbSNXcA|C|permC": {
+  "fujQBbSNXcA|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -10787,7 +10787,7 @@
       "D": "Late"
     }
   },
-  "fujQBbSNXcA|C|permD": {
+  "fujQBbSNXcA|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -10871,7 +10871,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A4_LUCIA_18060000|C|permB": {
+  "DAY1_A4_LUCIA_18060000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -10895,7 +10895,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A3_TASHA_11453000|C|permD": {
+  "DAY1_A3_TASHA_11453000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -10919,7 +10919,7 @@
       "D": "GT"
     }
   },
-  "8X8BS3t4lSM.26_0|C|permD": {
+  "8X8BS3t4lSM.26_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -10931,7 +10931,7 @@
       "D": "GT"
     }
   },
-  "mB6VIuK6Wlw.1_0|C|permC": {
+  "mB6VIuK6Wlw.1_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -10991,7 +10991,7 @@
       "D": "Wide"
     }
   },
-  "28hKF2Rhebs.31_1|C|permB": {
+  "28hKF2Rhebs.31_1|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -11075,7 +11075,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A4_LUCIA_12303000|C|permC": {
+  "DAY1_A4_LUCIA_12303000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -11123,7 +11123,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_12303000|C|permB": {
+  "DAY1_A4_LUCIA_12303000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -11147,7 +11147,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A4_LUCIA_12303000|C|permD": {
+  "DAY1_A4_LUCIA_12303000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -11195,7 +11195,7 @@
       "D": "GT"
     }
   },
-  "PHH49|C|permC": {
+  "PHH49|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -11207,7 +11207,7 @@
       "D": "GT"
     }
   },
-  "PHH49|C|permD": {
+  "PHH49|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -11231,7 +11231,7 @@
       "D": "GT"
     }
   },
-  "PHH49|C|permB": {
+  "PHH49|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -11291,7 +11291,7 @@
       "D": "Early"
     }
   },
-  "nGJ3EFRnv3w.29_1|C|permB": {
+  "nGJ3EFRnv3w.29_1|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -11339,7 +11339,7 @@
       "D": "Wide"
     }
   },
-  "28hKF2Rhebs.31_1|C|permC": {
+  "28hKF2Rhebs.31_1|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -11399,7 +11399,7 @@
       "D": "GT"
     }
   },
-  "2eptl8G0230.32_1|C|permD": {
+  "2eptl8G0230.32_1|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -11423,7 +11423,7 @@
       "D": "Early"
     }
   },
-  "28hKF2Rhebs.31_1|C|permD": {
+  "28hKF2Rhebs.31_1|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -11435,7 +11435,7 @@
       "D": "GT"
     }
   },
-  "nGJ3EFRnv3w.29_1|C|permD": {
+  "nGJ3EFRnv3w.29_1|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -11507,7 +11507,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_13090000|C|permC": {
+  "DAY1_A1_JAKE_13090000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -11519,7 +11519,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A1_JAKE_13090000|C|permD": {
+  "DAY1_A1_JAKE_13090000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -11531,7 +11531,7 @@
       "D": "GT"
     }
   },
-  "8X8BS3t4lSM.26_0|C|permC": {
+  "8X8BS3t4lSM.26_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -11579,7 +11579,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A1_JAKE_13090000|C|permB": {
+  "DAY1_A1_JAKE_13090000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -11591,7 +11591,7 @@
       "D": "Reverse"
     }
   },
-  "8X8BS3t4lSM.26_0|C|permB": {
+  "8X8BS3t4lSM.26_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -11603,7 +11603,7 @@
       "D": "Reverse"
     }
   },
-  "MVGpd4TH54A.0_0|C|permC": {
+  "MVGpd4TH54A.0_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -11615,7 +11615,7 @@
       "D": "GT"
     }
   },
-  "MVGpd4TH54A.0_0|C|permB": {
+  "MVGpd4TH54A.0_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -11663,7 +11663,7 @@
       "D": "GT"
     }
   },
-  "MVGpd4TH54A.0_0|C|permD": {
+  "MVGpd4TH54A.0_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -11675,7 +11675,7 @@
       "D": "Shuffle"
     }
   },
-  "BTRxadIkKmU.11_0|C|permB": {
+  "BTRxadIkKmU.11_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -11687,7 +11687,7 @@
       "D": "GT"
     }
   },
-  "nGJ3EFRnv3w.29_1|C|permC": {
+  "nGJ3EFRnv3w.29_1|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -11723,7 +11723,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_13043000|C|permC": {
+  "DAY1_A3_TASHA_13043000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -11771,7 +11771,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_13043000|C|permB": {
+  "DAY1_A3_TASHA_13043000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "B",
@@ -11783,7 +11783,7 @@
       "D": "GT"
     }
   },
-  "BTRxadIkKmU.11_0|C|permD": {
+  "BTRxadIkKmU.11_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -11843,7 +11843,7 @@
       "D": "Early"
     }
   },
-  "6YH19|C|permB": {
+  "6YH19|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -11879,7 +11879,7 @@
       "D": "Rand1"
     }
   },
-  "6YH19|C|permC": {
+  "6YH19|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -11927,7 +11927,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A3_TASHA_13043000|C|permD": {
+  "DAY1_A3_TASHA_13043000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "D",
@@ -11939,7 +11939,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A4_LUCIA_13250000|C|permB": {
+  "DAY1_A4_LUCIA_13250000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -11975,7 +11975,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_13250000|C|permD": {
+  "DAY1_A4_LUCIA_13250000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -11987,7 +11987,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A4_LUCIA_13250000|C|permC": {
+  "DAY1_A4_LUCIA_13250000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -12083,7 +12083,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A2_ALICE_19443000|C|permC": {
+  "DAY1_A2_ALICE_19443000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -12095,7 +12095,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A2_ALICE_19443000|C|permD": {
+  "DAY1_A2_ALICE_19443000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -12143,7 +12143,7 @@
       "D": "Rand1"
     }
   },
-  "BTRxadIkKmU.11_0|C|permC": {
+  "BTRxadIkKmU.11_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -12227,7 +12227,7 @@
       "D": "Early"
     }
   },
-  "jrJ5IPh4CtM.10_0|C|permB": {
+  "jrJ5IPh4CtM.10_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -12239,7 +12239,7 @@
       "D": "Reverse"
     }
   },
-  "jrJ5IPh4CtM.10_0|C|permC": {
+  "jrJ5IPh4CtM.10_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -12275,7 +12275,7 @@
       "D": "Rand2"
     }
   },
-  "jrJ5IPh4CtM.10_0|C|permD": {
+  "jrJ5IPh4CtM.10_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -12311,7 +12311,7 @@
       "D": "Rand1"
     }
   },
-  "6YH19|C|permD": {
+  "6YH19|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -12347,7 +12347,7 @@
       "D": "Early"
     }
   },
-  "0294-7|C|permB": {
+  "0294-7|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "B",
@@ -12419,7 +12419,7 @@
       "D": "Early"
     }
   },
-  "0294-7|C|permC": {
+  "0294-7|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -12443,7 +12443,7 @@
       "D": "GT"
     }
   },
-  "xUgMOs8i16E|C|permB": {
+  "xUgMOs8i16E|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -12455,7 +12455,7 @@
       "D": "Shuffle"
     }
   },
-  "xUgMOs8i16E|C|permD": {
+  "xUgMOs8i16E|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -12539,7 +12539,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A1_JAKE_18223000|C|permB": {
+  "DAY1_A1_JAKE_18223000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -12611,7 +12611,7 @@
       "D": "GT"
     }
   },
-  "v_00005279_0|C|permB": {
+  "v_00005279_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -12635,7 +12635,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A1_JAKE_18223000|C|permD": {
+  "DAY1_A1_JAKE_18223000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -12647,7 +12647,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A2_ALICE_19443000|C|permB": {
+  "DAY1_A2_ALICE_19443000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -12659,7 +12659,7 @@
       "D": "Reverse"
     }
   },
-  "v_00005279_0|C|permC": {
+  "v_00005279_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -12683,7 +12683,7 @@
       "D": "Rand2"
     }
   },
-  "v_00005279_0|C|permD": {
+  "v_00005279_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "B",
@@ -12731,7 +12731,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A2_ALICE_13303000|C|permC": {
+  "DAY1_A2_ALICE_13303000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -12743,7 +12743,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A2_ALICE_13303000|C|permB": {
+  "DAY1_A2_ALICE_13303000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "B",
@@ -12839,7 +12839,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A2_ALICE_13303000|C|permD": {
+  "DAY1_A2_ALICE_13303000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -12875,7 +12875,7 @@
       "D": "Wide"
     }
   },
-  "FivAN0MUp3A.26_0|C|permC": {
+  "FivAN0MUp3A.26_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -12935,7 +12935,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_18223000|C|permC": {
+  "DAY1_A1_JAKE_18223000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -12959,7 +12959,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A3_TASHA_12453000|C|permB": {
+  "DAY1_A3_TASHA_12453000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "B",
@@ -12983,7 +12983,7 @@
       "D": "Early"
     }
   },
-  "FivAN0MUp3A.26_0|C|permB": {
+  "FivAN0MUp3A.26_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "B",
@@ -13031,7 +13031,7 @@
       "D": "Wide"
     }
   },
-  "xUgMOs8i16E|C|permC": {
+  "xUgMOs8i16E|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -13067,7 +13067,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A1_JAKE_20333000|C|permC": {
+  "DAY1_A1_JAKE_20333000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -13115,7 +13115,7 @@
       "D": "GT"
     }
   },
-  "0294-7|C|permD": {
+  "0294-7|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "D",
@@ -13163,7 +13163,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_20333000|C|permD": {
+  "DAY1_A1_JAKE_20333000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -13187,7 +13187,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_20333000|C|permB": {
+  "DAY1_A1_JAKE_20333000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -13235,7 +13235,7 @@
       "D": "Late"
     }
   },
-  "v_00006963_0|C|permB": {
+  "v_00006963_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "B",
@@ -13247,7 +13247,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A5_KATRINA_19460000|C|permD": {
+  "DAY1_A5_KATRINA_19460000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -13259,7 +13259,7 @@
       "D": "GT"
     }
   },
-  "v_00006963_0|C|permC": {
+  "v_00006963_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "C",
@@ -13307,7 +13307,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A5_KATRINA_19460000|C|permB": {
+  "DAY1_A5_KATRINA_19460000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -13319,7 +13319,7 @@
       "D": "Reverse"
     }
   },
-  "v_00006963_0|C|permD": {
+  "v_00006963_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "D",
@@ -13391,7 +13391,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20060000|C|permD": {
+  "DAY1_A4_LUCIA_20060000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -13427,7 +13427,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A4_LUCIA_20060000|C|permC": {
+  "DAY1_A4_LUCIA_20060000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -13439,7 +13439,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A3_TASHA_12453000|C|permD": {
+  "DAY1_A3_TASHA_12453000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -13475,7 +13475,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_20060000|C|permB": {
+  "DAY1_A4_LUCIA_20060000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -13547,7 +13547,7 @@
       "D": "Early"
     }
   },
-  "v_00011376_0|C|permB": {
+  "v_00011376_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -13559,7 +13559,7 @@
       "D": "GT"
     }
   },
-  "Ramc5o_meyw.11_0|C|permC": {
+  "Ramc5o_meyw.11_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -13583,7 +13583,7 @@
       "D": "Early"
     }
   },
-  "Ramc5o_meyw.11_0|C|permB": {
+  "Ramc5o_meyw.11_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -13595,7 +13595,7 @@
       "D": "Shuffle"
     }
   },
-  "Ramc5o_meyw.11_0|C|permD": {
+  "Ramc5o_meyw.11_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -13619,7 +13619,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A3_TASHA_12453000|C|permC": {
+  "DAY1_A3_TASHA_12453000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -13667,7 +13667,7 @@
       "D": "Rand1"
     }
   },
-  "v_00004040_1|C|permB": {
+  "v_00004040_1|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -13691,7 +13691,7 @@
       "D": "Wide"
     }
   },
-  "v_00011376_0|C|permD": {
+  "v_00011376_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -13703,7 +13703,7 @@
       "D": "Loop"
     }
   },
-  "v_00011376_0|C|permC": {
+  "v_00011376_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "C",
@@ -13715,7 +13715,7 @@
       "D": "Shuffle"
     }
   },
-  "v_00004040_1|C|permC": {
+  "v_00004040_1|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "B",
@@ -13727,7 +13727,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A5_KATRINA_19460000|C|permC": {
+  "DAY1_A5_KATRINA_19460000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -13775,7 +13775,7 @@
       "D": "Wide"
     }
   },
-  "v_00004040_1|C|permD": {
+  "v_00004040_1|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -13811,7 +13811,7 @@
       "D": "Rand1"
     }
   },
-  "KJevEXjS8VI.24_0|C|permC": {
+  "KJevEXjS8VI.24_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -13895,7 +13895,7 @@
       "D": "Early"
     }
   },
-  "KJevEXjS8VI.24_0|C|permB": {
+  "KJevEXjS8VI.24_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -13907,7 +13907,7 @@
       "D": "GT"
     }
   },
-  "FivAN0MUp3A.26_0|C|permD": {
+  "FivAN0MUp3A.26_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "D",
@@ -13943,7 +13943,7 @@
       "D": "GT"
     }
   },
-  "GoRpw4aOx0s.11_0|C|permC": {
+  "GoRpw4aOx0s.11_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "C",
@@ -13967,7 +13967,7 @@
       "D": "Rand1"
     }
   },
-  "GoRpw4aOx0s.11_0|C|permD": {
+  "GoRpw4aOx0s.11_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "D",
@@ -14015,7 +14015,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A2_ALICE_17260000|C|permB": {
+  "DAY1_A2_ALICE_17260000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -14063,7 +14063,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A2_ALICE_17260000|C|permC": {
+  "DAY1_A2_ALICE_17260000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -14075,7 +14075,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A2_ALICE_17260000|C|permD": {
+  "DAY1_A2_ALICE_17260000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "B",
@@ -14123,7 +14123,7 @@
       "D": "Rand3"
     }
   },
-  "9knfg-7ARcc.30_0|C|permC": {
+  "9knfg-7ARcc.30_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "C",
@@ -14171,7 +14171,7 @@
       "D": "Rand2"
     }
   },
-  "9knfg-7ARcc.30_0|C|permD": {
+  "9knfg-7ARcc.30_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -14195,7 +14195,7 @@
       "D": "Early"
     }
   },
-  "KJevEXjS8VI.24_0|C|permD": {
+  "KJevEXjS8VI.24_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "D",
@@ -14231,7 +14231,7 @@
       "D": "Rand1"
     }
   },
-  "GoRpw4aOx0s.11_0|C|permB": {
+  "GoRpw4aOx0s.11_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -14243,7 +14243,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_13070000|C|permD": {
+  "DAY1_A3_TASHA_13070000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -14255,7 +14255,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_13070000|C|permB": {
+  "DAY1_A3_TASHA_13070000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -14279,7 +14279,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A3_TASHA_13070000|C|permC": {
+  "DAY1_A3_TASHA_13070000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -14339,7 +14339,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A5_KATRINA_17220000|C|permC": {
+  "DAY1_A5_KATRINA_17220000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -14351,7 +14351,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A5_KATRINA_17220000|C|permB": {
+  "DAY1_A5_KATRINA_17220000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -14363,7 +14363,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A5_KATRINA_17220000|C|permD": {
+  "DAY1_A5_KATRINA_17220000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -14471,7 +14471,7 @@
       "D": "Rand3"
     }
   },
-  "UEu9YyROlnM.9_2|C|permC": {
+  "UEu9YyROlnM.9_2|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -14531,7 +14531,7 @@
       "D": "Rand2"
     }
   },
-  "UEu9YyROlnM.9_2|C|permD": {
+  "UEu9YyROlnM.9_2|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -14627,7 +14627,7 @@
       "D": "Wide"
     }
   },
-  "v_00005268_0|C|permC": {
+  "v_00005268_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -14651,7 +14651,7 @@
       "D": "Rand3"
     }
   },
-  "9knfg-7ARcc.30_0|C|permB": {
+  "9knfg-7ARcc.30_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -14687,7 +14687,7 @@
       "D": "Early"
     }
   },
-  "v_00005268_0|C|permD": {
+  "v_00005268_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -14747,7 +14747,7 @@
       "D": "Rand3"
     }
   },
-  "UEu9YyROlnM.9_2|C|permB": {
+  "UEu9YyROlnM.9_2|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "B",
@@ -14759,7 +14759,7 @@
       "D": "Loop"
     }
   },
-  "IIreVWXmnqg|C|permB": {
+  "IIreVWXmnqg|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "B",
@@ -14783,7 +14783,7 @@
       "D": "Late"
     }
   },
-  "IIreVWXmnqg|C|permD": {
+  "IIreVWXmnqg|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -14795,7 +14795,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A4_LUCIA_18160000|C|permD": {
+  "DAY1_A4_LUCIA_18160000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -14819,7 +14819,7 @@
       "D": "Rand2"
     }
   },
-  "IIreVWXmnqg|C|permC": {
+  "IIreVWXmnqg|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -14891,7 +14891,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A4_LUCIA_18160000|C|permC": {
+  "DAY1_A4_LUCIA_18160000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -14903,7 +14903,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A4_LUCIA_18160000|C|permB": {
+  "DAY1_A4_LUCIA_18160000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -14939,7 +14939,7 @@
       "D": "Rand1"
     }
   },
-  "v_00007041_10|C|permB": {
+  "v_00007041_10|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -14963,7 +14963,7 @@
       "D": "GT"
     }
   },
-  "v_00005268_0|C|permB": {
+  "v_00005268_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -15059,7 +15059,7 @@
       "D": "Early"
     }
   },
-  "v_00009721_0|C|permB": {
+  "v_00009721_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -15071,7 +15071,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A3_TASHA_12443000|C|permB": {
+  "DAY1_A3_TASHA_12443000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -15083,7 +15083,7 @@
       "D": "Loop"
     }
   },
-  "v_00009721_0|C|permC": {
+  "v_00009721_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -15131,7 +15131,7 @@
       "D": "GT"
     }
   },
-  "v_00009721_0|C|permD": {
+  "v_00009721_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -15179,7 +15179,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A1_JAKE_14040000|C|permC": {
+  "DAY1_A1_JAKE_14040000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -15191,7 +15191,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A1_JAKE_14040000|C|permB": {
+  "DAY1_A1_JAKE_14040000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -15239,7 +15239,7 @@
       "D": "Rand3"
     }
   },
-  "v_00007041_10|C|permC": {
+  "v_00007041_10|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "C",
@@ -15275,7 +15275,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_14040000|C|permD": {
+  "DAY1_A1_JAKE_14040000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -15323,7 +15323,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A5_KATRINA_18043000|C|permB": {
+  "DAY1_A5_KATRINA_18043000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -15335,7 +15335,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A5_KATRINA_18043000|C|permC": {
+  "DAY1_A5_KATRINA_18043000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -15371,7 +15371,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A3_TASHA_12443000|C|permD": {
+  "DAY1_A3_TASHA_12443000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -15419,7 +15419,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_12443000|C|permC": {
+  "DAY1_A3_TASHA_12443000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -15443,7 +15443,7 @@
       "D": "GT"
     }
   },
-  "un4VYSlqQqs.69_1|C|permC": {
+  "un4VYSlqQqs.69_1|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -15455,7 +15455,7 @@
       "D": "Loop"
     }
   },
-  "un4VYSlqQqs.69_1|C|permD": {
+  "un4VYSlqQqs.69_1|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -15467,7 +15467,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A5_KATRINA_18043000|C|permD": {
+  "DAY1_A5_KATRINA_18043000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -15503,7 +15503,7 @@
       "D": "Late"
     }
   },
-  "v_00013757_0|C|permC": {
+  "v_00013757_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -15611,7 +15611,7 @@
       "D": "Rand1"
     }
   },
-  "1285-7|C|permB": {
+  "1285-7|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -15623,7 +15623,7 @@
       "D": "GT"
     }
   },
-  "1285-7|C|permC": {
+  "1285-7|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -15671,7 +15671,7 @@
       "D": "Rand2"
     }
   },
-  "un4VYSlqQqs.69_1|C|permB": {
+  "un4VYSlqQqs.69_1|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -15719,7 +15719,7 @@
       "D": "GT"
     }
   },
-  "1285-7|C|permD": {
+  "1285-7|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -15731,7 +15731,7 @@
       "D": "Reverse"
     }
   },
-  "v_00013697_3|C|permD": {
+  "v_00013697_3|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -15755,7 +15755,7 @@
       "D": "Early"
     }
   },
-  "v_00013757_0|C|permB": {
+  "v_00013757_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -15791,7 +15791,7 @@
       "D": "Rand1"
     }
   },
-  "v_00007041_10|C|permD": {
+  "v_00007041_10|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -15839,7 +15839,7 @@
       "D": "Wide"
     }
   },
-  "9DEse0b86gI.49_0|C|permC": {
+  "9DEse0b86gI.49_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -15863,7 +15863,7 @@
       "D": "Late"
     }
   },
-  "9DEse0b86gI.49_0|C|permD": {
+  "9DEse0b86gI.49_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "B",
@@ -15875,7 +15875,7 @@
       "D": "GT"
     }
   },
-  "9DEse0b86gI.49_0|C|permB": {
+  "9DEse0b86gI.49_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -15935,7 +15935,7 @@
       "D": "GT"
     }
   },
-  "v_00005709_0|C|permB": {
+  "v_00005709_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -15983,7 +15983,7 @@
       "D": "Rand2"
     }
   },
-  "v_00005709_0|C|permC": {
+  "v_00005709_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "C",
@@ -16043,7 +16043,7 @@
       "D": "Early"
     }
   },
-  "v_00005709_0|C|permD": {
+  "v_00005709_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -16055,7 +16055,7 @@
       "D": "Shuffle"
     }
   },
-  "v_00013697_3|C|permC": {
+  "v_00013697_3|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -16091,7 +16091,7 @@
       "D": "GT"
     }
   },
-  "p3ad39IMUXI.8_0|C|permB": {
+  "p3ad39IMUXI.8_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -16151,7 +16151,7 @@
       "D": "GT"
     }
   },
-  "_VkB1kInJfo.5_0|C|permD": {
+  "_VkB1kInJfo.5_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -16175,7 +16175,7 @@
       "D": "GT"
     }
   },
-  "_VkB1kInJfo.5_0|C|permC": {
+  "_VkB1kInJfo.5_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -16187,7 +16187,7 @@
       "D": "GT"
     }
   },
-  "_VkB1kInJfo.5_0|C|permB": {
+  "_VkB1kInJfo.5_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -16247,7 +16247,7 @@
       "D": "Early"
     }
   },
-  "Oqz0QkQ-aGY.11_0|C|permB": {
+  "Oqz0QkQ-aGY.11_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -16367,7 +16367,7 @@
       "D": "Rand3"
     }
   },
-  "5-X0RJdodhg.9_0|C|permB": {
+  "5-X0RJdodhg.9_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -16379,7 +16379,7 @@
       "D": "Shuffle"
     }
   },
-  "p3ad39IMUXI.8_0|C|permD": {
+  "p3ad39IMUXI.8_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -16403,7 +16403,7 @@
       "D": "Rand1"
     }
   },
-  "5-X0RJdodhg.9_0|C|permC": {
+  "5-X0RJdodhg.9_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -16415,7 +16415,7 @@
       "D": "Reverse"
     }
   },
-  "5-X0RJdodhg.9_0|C|permD": {
+  "5-X0RJdodhg.9_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -16487,7 +16487,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_12420000|C|permB": {
+  "DAY1_A3_TASHA_12420000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -16499,7 +16499,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A3_TASHA_12420000|C|permD": {
+  "DAY1_A3_TASHA_12420000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -16535,7 +16535,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_12420000|C|permC": {
+  "DAY1_A3_TASHA_12420000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -16559,7 +16559,7 @@
       "D": "GT"
     }
   },
-  "p3ad39IMUXI.8_0|C|permC": {
+  "p3ad39IMUXI.8_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -16583,7 +16583,7 @@
       "D": "GT"
     }
   },
-  "Oqz0QkQ-aGY.11_0|C|permD": {
+  "Oqz0QkQ-aGY.11_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -16595,7 +16595,7 @@
       "D": "Shuffle"
     }
   },
-  "v_00013697_3|C|permB": {
+  "v_00013697_3|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -16643,7 +16643,7 @@
       "D": "Late"
     }
   },
-  "30k-22-10-2|P1|2448|2856|C|permC": {
+  "30k-22-10-2|P1|2448|2856|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -16667,7 +16667,7 @@
       "D": "Rand2"
     }
   },
-  "30k-22-10-2|P1|2448|2856|C|permD": {
+  "30k-22-10-2|P1|2448|2856|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -16691,7 +16691,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_19390000|C|permC": {
+  "DAY1_A2_ALICE_19390000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -16751,7 +16751,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A2_ALICE_19390000|C|permB": {
+  "DAY1_A2_ALICE_19390000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -16763,7 +16763,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A2_ALICE_19390000|C|permD": {
+  "DAY1_A2_ALICE_19390000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -16847,7 +16847,7 @@
       "D": "GT"
     }
   },
-  "T3dkTkVNvIQ|C|permB": {
+  "T3dkTkVNvIQ|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -16859,7 +16859,7 @@
       "D": "Shuffle"
     }
   },
-  "T3dkTkVNvIQ|C|permD": {
+  "T3dkTkVNvIQ|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -16895,7 +16895,7 @@
       "D": "GT"
     }
   },
-  "2544C|C|permD": {
+  "2544C|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -16907,7 +16907,7 @@
       "D": "Shuffle"
     }
   },
-  "2544C|C|permC": {
+  "2544C|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -16931,7 +16931,7 @@
       "D": "Wide"
     }
   },
-  "2544C|C|permB": {
+  "2544C|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -17003,7 +17003,7 @@
       "D": "Early"
     }
   },
-  "0951-7|C|permC": {
+  "0951-7|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -17015,7 +17015,7 @@
       "D": "GT"
     }
   },
-  "0951-7|C|permB": {
+  "0951-7|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -17027,7 +17027,7 @@
       "D": "Reverse"
     }
   },
-  "Oqz0QkQ-aGY.11_0|C|permC": {
+  "Oqz0QkQ-aGY.11_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -17039,7 +17039,7 @@
       "D": "GT"
     }
   },
-  "0951-7|C|permD": {
+  "0951-7|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -17123,7 +17123,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A1_JAKE_13570000|C|permC": {
+  "DAY1_A1_JAKE_13570000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -17159,7 +17159,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A1_JAKE_13570000|C|permD": {
+  "DAY1_A1_JAKE_13570000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -17195,7 +17195,7 @@
       "D": "Wide"
     }
   },
-  "T3dkTkVNvIQ|C|permC": {
+  "T3dkTkVNvIQ|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -17315,7 +17315,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A6_SHURE_13273000|C|permB": {
+  "DAY1_A6_SHURE_13273000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -17351,7 +17351,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A6_SHURE_13273000|C|permD": {
+  "DAY1_A6_SHURE_13273000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -17363,7 +17363,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A6_SHURE_13273000|C|permC": {
+  "DAY1_A6_SHURE_13273000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -17387,7 +17387,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A6_SHURE_21243000|C|permC": {
+  "DAY1_A6_SHURE_21243000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -17411,7 +17411,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A6_SHURE_21243000|C|permB": {
+  "DAY1_A6_SHURE_21243000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -17447,7 +17447,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A6_SHURE_21243000|C|permD": {
+  "DAY1_A6_SHURE_21243000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "D",
@@ -17519,7 +17519,7 @@
       "D": "Rand1"
     }
   },
-  "33LnbAjkiDo.25_2|C|permC": {
+  "33LnbAjkiDo.25_2|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "C",
@@ -17531,7 +17531,7 @@
       "D": "Loop"
     }
   },
-  "33LnbAjkiDo.25_2|C|permB": {
+  "33LnbAjkiDo.25_2|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -17579,7 +17579,7 @@
       "D": "Rand3"
     }
   },
-  "29k-12-1-4|P1|5817|6322|C|permC": {
+  "29k-12-1-4|P1|5817|6322|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -17591,7 +17591,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A1_JAKE_13570000|C|permB": {
+  "DAY1_A1_JAKE_13570000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -17627,7 +17627,7 @@
       "D": "Early"
     }
   },
-  "29k-12-1-4|P1|5817|6322|C|permB": {
+  "29k-12-1-4|P1|5817|6322|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -17651,7 +17651,7 @@
       "D": "Rand2"
     }
   },
-  "33LnbAjkiDo.25_2|C|permD": {
+  "33LnbAjkiDo.25_2|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "D",
@@ -17675,7 +17675,7 @@
       "D": "Late"
     }
   },
-  "29k-12-1-4|P1|5817|6322|C|permD": {
+  "29k-12-1-4|P1|5817|6322|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -17699,7 +17699,7 @@
       "D": "GT"
     }
   },
-  "kUTBdMQVHXo|C|permB": {
+  "kUTBdMQVHXo|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -17747,7 +17747,7 @@
       "D": "GT"
     }
   },
-  "kUTBdMQVHXo|C|permD": {
+  "kUTBdMQVHXo|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -17771,7 +17771,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_11383000|C|permB": {
+  "DAY1_A4_LUCIA_11383000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -17783,7 +17783,7 @@
       "D": "GT"
     }
   },
-  "kUTBdMQVHXo|C|permC": {
+  "kUTBdMQVHXo|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -17795,7 +17795,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A4_LUCIA_11383000|C|permC": {
+  "DAY1_A4_LUCIA_11383000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -17879,7 +17879,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_11383000|C|permD": {
+  "DAY1_A4_LUCIA_11383000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -17891,7 +17891,7 @@
       "D": "Shuffle"
     }
   },
-  "V9OMIQTTTTM.36_0|C|permB": {
+  "V9OMIQTTTTM.36_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -17915,7 +17915,7 @@
       "D": "Rand2"
     }
   },
-  "V9OMIQTTTTM.36_0|C|permD": {
+  "V9OMIQTTTTM.36_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -17951,7 +17951,7 @@
       "D": "GT"
     }
   },
-  "V9OMIQTTTTM.36_0|C|permC": {
+  "V9OMIQTTTTM.36_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -18059,7 +18059,7 @@
       "D": "Late"
     }
   },
-  "30k-22-10-2|P1|2448|2856|C|permB": {
+  "30k-22-10-2|P1|2448|2856|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -18071,7 +18071,7 @@
       "D": "Shuffle"
     }
   },
-  "_OZzxLcTsig.24_1|C|permC": {
+  "_OZzxLcTsig.24_1|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -18095,7 +18095,7 @@
       "D": "GT"
     }
   },
-  "am-J4A1LGWA.39_0|C|permC": {
+  "am-J4A1LGWA.39_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -18107,7 +18107,7 @@
       "D": "Shuffle"
     }
   },
-  "_OZzxLcTsig.24_1|C|permB": {
+  "_OZzxLcTsig.24_1|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -18119,7 +18119,7 @@
       "D": "GT"
     }
   },
-  "_OZzxLcTsig.24_1|C|permD": {
+  "_OZzxLcTsig.24_1|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -18143,7 +18143,7 @@
       "D": "Early"
     }
   },
-  "am-J4A1LGWA.39_0|C|permD": {
+  "am-J4A1LGWA.39_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -18155,7 +18155,7 @@
       "D": "Reverse"
     }
   },
-  "am-J4A1LGWA.39_0|C|permB": {
+  "am-J4A1LGWA.39_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -18167,7 +18167,7 @@
       "D": "GT"
     }
   },
-  "v_00013757_0|C|permD": {
+  "v_00013757_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -18215,7 +18215,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A3_TASHA_12523000|C|permD": {
+  "DAY1_A3_TASHA_12523000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -18251,7 +18251,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A3_TASHA_12523000|C|permC": {
+  "DAY1_A3_TASHA_12523000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -18383,7 +18383,7 @@
       "D": "Wide"
     }
   },
-  "0503-7|C|permC": {
+  "0503-7|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -18431,7 +18431,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20023000|C|permD": {
+  "DAY1_A4_LUCIA_20023000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -18467,7 +18467,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_20023000|C|permC": {
+  "DAY1_A4_LUCIA_20023000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -18491,7 +18491,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A4_LUCIA_20023000|C|permB": {
+  "DAY1_A4_LUCIA_20023000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -18599,7 +18599,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A3_TASHA_12523000|C|permB": {
+  "DAY1_A3_TASHA_12523000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -18635,7 +18635,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A1_JAKE_18290000|C|permB": {
+  "DAY1_A1_JAKE_18290000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -18671,7 +18671,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A1_JAKE_18290000|C|permC": {
+  "DAY1_A1_JAKE_18290000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -18695,7 +18695,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A6_SHURE_17430000|C|permD": {
+  "DAY1_A6_SHURE_17430000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -18731,7 +18731,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A6_SHURE_17430000|C|permB": {
+  "DAY1_A6_SHURE_17430000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "B",
@@ -18755,7 +18755,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A6_SHURE_17430000|C|permC": {
+  "DAY1_A6_SHURE_17430000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -18779,7 +18779,7 @@
       "D": "Rand3"
     }
   },
-  "ZzypsDiBuHc.2_0|C|permB": {
+  "ZzypsDiBuHc.2_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -18791,7 +18791,7 @@
       "D": "GT"
     }
   },
-  "ZzypsDiBuHc.2_0|C|permC": {
+  "ZzypsDiBuHc.2_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -18803,7 +18803,7 @@
       "D": "Loop"
     }
   },
-  "ZzypsDiBuHc.2_0|C|permD": {
+  "ZzypsDiBuHc.2_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -18815,7 +18815,7 @@
       "D": "Shuffle"
     }
   },
-  "0503-7|C|permD": {
+  "0503-7|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -18839,7 +18839,7 @@
       "D": "Rand2"
     }
   },
-  "0503-7|C|permB": {
+  "0503-7|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -18863,7 +18863,7 @@
       "D": "GT"
     }
   },
-  "dlWMSRTqaco.8_0|C|permC": {
+  "dlWMSRTqaco.8_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -18947,7 +18947,7 @@
       "D": "Rand3"
     }
   },
-  "dlWMSRTqaco.8_0|C|permD": {
+  "dlWMSRTqaco.8_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -18995,7 +18995,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_14153000|C|permB": {
+  "DAY1_A3_TASHA_14153000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -19007,7 +19007,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A3_TASHA_14153000|C|permC": {
+  "DAY1_A3_TASHA_14153000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -19079,7 +19079,7 @@
       "D": "Late"
     }
   },
-  "27l-22-4-1|P2|496|1037|C|permC": {
+  "27l-22-4-1|P2|496|1037|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -19103,7 +19103,7 @@
       "D": "Rand1"
     }
   },
-  "27l-22-4-1|P2|496|1037|C|permB": {
+  "27l-22-4-1|P2|496|1037|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -19115,7 +19115,7 @@
       "D": "Reverse"
     }
   },
-  "27l-22-4-1|P2|496|1037|C|permD": {
+  "27l-22-4-1|P2|496|1037|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -19151,7 +19151,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A3_TASHA_14153000|C|permD": {
+  "DAY1_A3_TASHA_14153000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -19187,7 +19187,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A2_ALICE_21423000|C|permD": {
+  "DAY1_A2_ALICE_21423000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "A",
@@ -19199,7 +19199,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A2_ALICE_21423000|C|permB": {
+  "DAY1_A2_ALICE_21423000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "C",
@@ -19211,7 +19211,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A2_ALICE_21423000|C|permC": {
+  "DAY1_A2_ALICE_21423000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "D",
@@ -19235,7 +19235,7 @@
       "D": "Early"
     }
   },
-  "dlWMSRTqaco.8_0|C|permB": {
+  "dlWMSRTqaco.8_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -19331,7 +19331,7 @@
       "D": "GT"
     }
   },
-  "v_00002024_0|C|permD": {
+  "v_00002024_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -19343,7 +19343,7 @@
       "D": "GT"
     }
   },
-  "v_00002024_0|C|permB": {
+  "v_00002024_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -19367,7 +19367,7 @@
       "D": "Early"
     }
   },
-  "v_00002024_0|C|permC": {
+  "v_00002024_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -19403,7 +19403,7 @@
       "D": "Late"
     }
   },
-  "CPC2zIu9rYc.6_0|C|permB": {
+  "CPC2zIu9rYc.6_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -19451,7 +19451,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A1_JAKE_18290000|C|permD": {
+  "DAY1_A1_JAKE_18290000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -19523,7 +19523,7 @@
       "D": "Rand3"
     }
   },
-  "t5BdaCLqEcM.2_0|C|permD": {
+  "t5BdaCLqEcM.2_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -19559,7 +19559,7 @@
       "D": "Late"
     }
   },
-  "t5BdaCLqEcM.2_0|C|permC": {
+  "t5BdaCLqEcM.2_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "C",
@@ -19583,7 +19583,7 @@
       "D": "GT"
     }
   },
-  "CPC2zIu9rYc.6_0|C|permC": {
+  "CPC2zIu9rYc.6_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -19631,7 +19631,7 @@
       "D": "Rand3"
     }
   },
-  "TR7Zkdqcr4s.22_0|C|permC": {
+  "TR7Zkdqcr4s.22_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -19643,7 +19643,7 @@
       "D": "Shuffle"
     }
   },
-  "t5BdaCLqEcM.2_0|C|permB": {
+  "t5BdaCLqEcM.2_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -19679,7 +19679,7 @@
       "D": "Rand2"
     }
   },
-  "TR7Zkdqcr4s.22_0|C|permD": {
+  "TR7Zkdqcr4s.22_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -19751,7 +19751,7 @@
       "D": "Rand3"
     }
   },
-  "4m5khG0emPE_video|C|permD": {
+  "4m5khG0emPE_video|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -19787,7 +19787,7 @@
       "D": "Late"
     }
   },
-  "4m5khG0emPE_video|C|permB": {
+  "4m5khG0emPE_video|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -19835,7 +19835,7 @@
       "D": "Late"
     }
   },
-  "29k-21-6-2|P2|0|480|C|permB": {
+  "29k-21-6-2|P2|0|480|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -19907,7 +19907,7 @@
       "D": "Early"
     }
   },
-  "4m5khG0emPE_video|C|permC": {
+  "4m5khG0emPE_video|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -19919,7 +19919,7 @@
       "D": "Reverse"
     }
   },
-  "29k-21-6-2|P2|0|480|C|permC": {
+  "29k-21-6-2|P2|0|480|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "C",
@@ -19955,7 +19955,7 @@
       "D": "Rand3"
     }
   },
-  "29k-21-6-2|P2|0|480|C|permD": {
+  "29k-21-6-2|P2|0|480|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -19991,7 +19991,7 @@
       "D": "GT"
     }
   },
-  "hizR7GT17qw.31_0|C|permB": {
+  "hizR7GT17qw.31_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -20039,7 +20039,7 @@
       "D": "Rand3"
     }
   },
-  "hizR7GT17qw.31_0|C|permD": {
+  "hizR7GT17qw.31_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -20051,7 +20051,7 @@
       "D": "Loop"
     }
   },
-  "CPC2zIu9rYc.6_0|C|permD": {
+  "CPC2zIu9rYc.6_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -20087,7 +20087,7 @@
       "D": "Wide"
     }
   },
-  "hizR7GT17qw.31_0|C|permC": {
+  "hizR7GT17qw.31_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -20147,7 +20147,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A2_ALICE_20000000|C|permD": {
+  "DAY1_A2_ALICE_20000000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -20159,7 +20159,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A2_ALICE_20000000|C|permB": {
+  "DAY1_A2_ALICE_20000000|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -20183,7 +20183,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A2_ALICE_20000000|C|permC": {
+  "DAY1_A2_ALICE_20000000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "D",
@@ -20195,7 +20195,7 @@
       "D": "Loop"
     }
   },
-  "4Y1AW|C|permB": {
+  "4Y1AW|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "D",
@@ -20219,7 +20219,7 @@
       "D": "GT"
     }
   },
-  "4Y1AW|C|permC": {
+  "4Y1AW|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "C",
@@ -20243,7 +20243,7 @@
       "D": "GT"
     }
   },
-  "TR7Zkdqcr4s.22_0|C|permB": {
+  "TR7Zkdqcr4s.22_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "C",
@@ -20303,7 +20303,7 @@
       "D": "Early"
     }
   },
-  "89QkIhDAQK4.43_0|C|permB": {
+  "89QkIhDAQK4.43_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "A",
@@ -20327,7 +20327,7 @@
       "D": "GT"
     }
   },
-  "89QkIhDAQK4.43_0|C|permD": {
+  "89QkIhDAQK4.43_0|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "B",
@@ -20363,7 +20363,7 @@
       "D": "Wide"
     }
   },
-  "89QkIhDAQK4.43_0|C|permC": {
+  "89QkIhDAQK4.43_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "A",
@@ -20459,7 +20459,7 @@
       "D": "GT"
     }
   },
-  "Y4IIO|C|permC": {
+  "Y4IIO|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -20483,7 +20483,7 @@
       "D": "Rand3"
     }
   },
-  "Y4IIO|C|permB": {
+  "Y4IIO|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -20495,7 +20495,7 @@
       "D": "Reverse"
     }
   },
-  "Y4IIO|C|permD": {
+  "Y4IIO|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -20567,7 +20567,7 @@
       "D": "Wide"
     }
   },
-  "D6MZ4|C|permC": {
+  "D6MZ4|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -20591,7 +20591,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_20450000|C|permD": {
+  "DAY1_A3_TASHA_20450000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -20603,7 +20603,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_20450000|C|permC": {
+  "DAY1_A3_TASHA_20450000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -20615,7 +20615,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A3_TASHA_20450000|C|permB": {
+  "DAY1_A3_TASHA_20450000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -20711,7 +20711,7 @@
       "D": "Wide"
     }
   },
-  "bLta34sLkBQ.19_0|C|permB": {
+  "bLta34sLkBQ.19_0|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -20771,7 +20771,7 @@
       "D": "GT"
     }
   },
-  "bLta34sLkBQ.19_0|C|permC": {
+  "bLta34sLkBQ.19_0|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -20807,7 +20807,7 @@
       "D": "Rand1"
     }
   },
-  "-P7Y_BlwxO8.42_0|C|permB": {
+  "-P7Y_BlwxO8.42_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -20819,7 +20819,7 @@
       "D": "Loop"
     }
   },
-  "-P7Y_BlwxO8.42_0|C|permD": {
+  "-P7Y_BlwxO8.42_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",
@@ -20891,7 +20891,7 @@
       "D": "Rand2"
     }
   },
-  "D6MZ4|C|permD": {
+  "D6MZ4|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -20903,7 +20903,7 @@
       "D": "Reverse"
     }
   },
-  "v_00013624_0|C|permB": {
+  "v_00013624_0|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -20939,7 +20939,7 @@
       "D": "GT"
     }
   },
-  "-P7Y_BlwxO8.42_0|C|permC": {
+  "-P7Y_BlwxO8.42_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -20951,7 +20951,7 @@
       "D": "Reverse"
     }
   },
-  "D6MZ4|C|permB": {
+  "D6MZ4|P|permB": {
     "perm": "B",
     "correct": false,
     "answer": "D",
@@ -20963,7 +20963,7 @@
       "D": "Loop"
     }
   },
-  "v_00013624_0|C|permC": {
+  "v_00013624_0|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -20999,7 +20999,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A2_ALICE_21453000|C|permB": {
+  "DAY1_A2_ALICE_21453000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "A",
@@ -21023,7 +21023,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_21453000|C|permC": {
+  "DAY1_A2_ALICE_21453000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "B",
@@ -21035,7 +21035,7 @@
       "D": "Loop"
     }
   },
-  "4Y1AW|C|permD": {
+  "4Y1AW|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -21047,7 +21047,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A2_ALICE_21453000|C|permD": {
+  "DAY1_A2_ALICE_21453000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "C",
@@ -21107,7 +21107,7 @@
       "D": "Rand2"
     }
   },
-  "bLta34sLkBQ.19_0|C|permD": {
+  "bLta34sLkBQ.19_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "B",
@@ -21119,7 +21119,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A4_LUCIA_17590000|C|permB": {
+  "DAY1_A4_LUCIA_17590000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -21167,7 +21167,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A4_LUCIA_17590000|C|permC": {
+  "DAY1_A4_LUCIA_17590000|P|permC": {
     "perm": "C",
     "correct": false,
     "answer": "A",
@@ -21203,7 +21203,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_20160000|C|permC": {
+  "DAY1_A4_LUCIA_20160000|P|permC": {
     "perm": "C",
     "correct": true,
     "answer": "C",
@@ -21227,7 +21227,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_20160000|C|permB": {
+  "DAY1_A4_LUCIA_20160000|P|permB": {
     "perm": "B",
     "correct": true,
     "answer": "B",
@@ -21263,7 +21263,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A4_LUCIA_20160000|C|permD": {
+  "DAY1_A4_LUCIA_20160000|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "C",
@@ -21359,7 +21359,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A4_LUCIA_17590000|C|permD": {
+  "DAY1_A4_LUCIA_17590000|P|permD": {
     "perm": "D",
     "correct": true,
     "answer": "D",
@@ -21371,7 +21371,7 @@
       "D": "GT"
     }
   },
-  "v_00013624_0|C|permD": {
+  "v_00013624_0|P|permD": {
     "perm": "D",
     "correct": false,
     "answer": "A",

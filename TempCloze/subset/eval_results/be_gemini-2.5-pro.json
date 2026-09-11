@@ -11,7 +11,7 @@
       "D": "Late"
     }
   },
-  "GF6TR|C|BE": {
+  "GF6TR|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -47,7 +47,7 @@
       "D": "Rand3"
     }
   },
-  "XKrPt6jG0rE|C|BE": {
+  "XKrPt6jG0rE|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "C",
@@ -71,7 +71,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_20213000|C|BE": {
+  "DAY1_A3_TASHA_20213000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -107,7 +107,7 @@
       "D": "GT"
     }
   },
-  "G9H0p1JGfp0.29_0|C|BE": {
+  "G9H0p1JGfp0.29_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -131,7 +131,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A2_ALICE_17350000|C|BE": {
+  "DAY1_A2_ALICE_17350000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -143,7 +143,7 @@
       "D": "Shuffle"
     }
   },
-  "0JQ26|C|BE": {
+  "0JQ26|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -155,7 +155,7 @@
       "D": "Shuffle"
     }
   },
-  "gi0VupIJaKA|C|BE": {
+  "gi0VupIJaKA|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -239,7 +239,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A5_KATRINA_11120000|C|BE": {
+  "DAY1_A5_KATRINA_11120000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -251,7 +251,7 @@
       "D": "Loop"
     }
   },
-  "Kgu3SKge70k.4_0|C|BE": {
+  "Kgu3SKge70k.4_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -275,7 +275,7 @@
       "D": "Early"
     }
   },
-  "Q_A3epM0N8A.5_0|C|BE": {
+  "Q_A3epM0N8A.5_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "D",
@@ -335,7 +335,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A6_SHURE_11520000|C|BE": {
+  "DAY1_A6_SHURE_11520000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -359,7 +359,7 @@
       "D": "Rand3"
     }
   },
-  "shsyS2WH6ns.2_1|C|BE": {
+  "shsyS2WH6ns.2_1|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "B",
@@ -383,7 +383,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_19203000|C|BE": {
+  "DAY1_A1_JAKE_19203000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -431,7 +431,7 @@
       "D": "Rand2"
     }
   },
-  "KQYYTaOWzgQ.24_5|C|BE": {
+  "KQYYTaOWzgQ.24_5|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -443,7 +443,7 @@
       "D": "Loop"
     }
   },
-  "0052-7|C|BE": {
+  "0052-7|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -539,7 +539,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_11320000|C|BE": {
+  "DAY1_A4_LUCIA_11320000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -587,7 +587,7 @@
       "D": "GT"
     }
   },
-  "v_00016063_6|C|BE": {
+  "v_00016063_6|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "D",
@@ -623,7 +623,7 @@
       "D": "Rand3"
     }
   },
-  "t70ys_UEjDE.16_1|C|BE": {
+  "t70ys_UEjDE.16_1|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "B",
@@ -671,7 +671,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_13173000|C|BE": {
+  "DAY1_A4_LUCIA_13173000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -683,7 +683,7 @@
       "D": "Shuffle"
     }
   },
-  "cVed2CVwYAg.4_0|C|BE": {
+  "cVed2CVwYAg.4_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -695,7 +695,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A4_LUCIA_18250000|C|BE": {
+  "DAY1_A4_LUCIA_18250000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -707,7 +707,7 @@
       "D": "Shuffle"
     }
   },
-  "H0uxrf4pJY0|C|BE": {
+  "H0uxrf4pJY0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -743,7 +743,7 @@
       "D": "GT"
     }
   },
-  "N-t8kU7adh4.7_0|C|BE": {
+  "N-t8kU7adh4.7_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -803,7 +803,7 @@
       "D": "GT"
     }
   },
-  "9wQEAnnBgXc.14_0|C|BE": {
+  "9wQEAnnBgXc.14_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "B",
@@ -863,7 +863,7 @@
       "D": "Early"
     }
   },
-  "yPAglEvhlaI.0_1|C|BE": {
+  "yPAglEvhlaI.0_1|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -887,7 +887,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A5_KATRINA_19380000|C|BE": {
+  "DAY1_A5_KATRINA_19380000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -911,7 +911,7 @@
       "D": "Early"
     }
   },
-  "0032-7|C|BE": {
+  "0032-7|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -935,7 +935,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A6_SHURE_13003000|C|BE": {
+  "DAY1_A6_SHURE_13003000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -1007,7 +1007,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_18033000|C|BE": {
+  "DAY1_A4_LUCIA_18033000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "C",
@@ -1019,7 +1019,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A2_ALICE_20280000|C|BE": {
+  "DAY1_A2_ALICE_20280000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -1031,7 +1031,7 @@
       "D": "Loop"
     }
   },
-  "avSLIIl6hLQ.13_1|C|BE": {
+  "avSLIIl6hLQ.13_1|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -1091,7 +1091,7 @@
       "D": "Early"
     }
   },
-  "v_00001379_10|C|BE": {
+  "v_00001379_10|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -1187,7 +1187,7 @@
       "D": "Rand1"
     }
   },
-  "8bDVEnSBobk.6_0|C|BE": {
+  "8bDVEnSBobk.6_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -1199,7 +1199,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A1_JAKE_18413000|C|BE": {
+  "DAY1_A1_JAKE_18413000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -1223,7 +1223,7 @@
       "D": "Early"
     }
   },
-  "0793-7|C|BE": {
+  "0793-7|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "B",
@@ -1247,7 +1247,7 @@
       "D": "GT"
     }
   },
-  "26l-12-4-1|P1|438|928|C|BE": {
+  "26l-12-4-1|P1|438|928|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "D",
@@ -1259,7 +1259,7 @@
       "D": "GT"
     }
   },
-  "Y_CY6BtlxDI.19_1|C|BE": {
+  "Y_CY6BtlxDI.19_1|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "B",
@@ -1319,7 +1319,7 @@
       "D": "Rand2"
     }
   },
-  "-iJMxD4agOE.32_0|C|BE": {
+  "-iJMxD4agOE.32_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -1331,7 +1331,7 @@
       "D": "Shuffle"
     }
   },
-  "Z9E_idJy97M.19_0|C|BE": {
+  "Z9E_idJy97M.19_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "D",
@@ -1343,7 +1343,7 @@
       "D": "GT"
     }
   },
-  "v_00006711_0|C|BE": {
+  "v_00006711_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -1403,7 +1403,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_19233000|C|BE": {
+  "DAY1_A1_JAKE_19233000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "C",
@@ -1427,7 +1427,7 @@
       "D": "Late"
     }
   },
-  "27k-21-2-2|P2|0|508|C|BE": {
+  "27k-21-2-2|P2|0|508|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -1463,7 +1463,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A3_TASHA_11453000|C|BE": {
+  "DAY1_A3_TASHA_11453000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -1475,7 +1475,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A4_LUCIA_18060000|C|BE": {
+  "DAY1_A4_LUCIA_18060000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -1499,7 +1499,7 @@
       "D": "Early"
     }
   },
-  "2eptl8G0230.32_1|C|BE": {
+  "2eptl8G0230.32_1|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -1643,7 +1643,7 @@
       "D": "Wide"
     }
   },
-  "PHH49|C|BE": {
+  "PHH49|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "B",
@@ -1655,7 +1655,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A4_LUCIA_12303000|C|BE": {
+  "DAY1_A4_LUCIA_12303000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -1679,7 +1679,7 @@
       "D": "Rand3"
     }
   },
-  "36X2HVxrfn8.13_0|C|BE": {
+  "36X2HVxrfn8.13_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "B",
@@ -1703,7 +1703,7 @@
       "D": "Rand3"
     }
   },
-  "8X8BS3t4lSM.26_0|C|BE": {
+  "8X8BS3t4lSM.26_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -1715,7 +1715,7 @@
       "D": "Loop"
     }
   },
-  "fujQBbSNXcA|C|BE": {
+  "fujQBbSNXcA|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "D",
@@ -1751,7 +1751,7 @@
       "D": "GT"
     }
   },
-  "28hKF2Rhebs.31_1|C|BE": {
+  "28hKF2Rhebs.31_1|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -1787,7 +1787,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A1_JAKE_13090000|C|BE": {
+  "DAY1_A1_JAKE_13090000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -1859,7 +1859,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A3_TASHA_13043000|C|BE": {
+  "DAY1_A3_TASHA_13043000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -1907,7 +1907,7 @@
       "D": "GT"
     }
   },
-  "BTRxadIkKmU.11_0|C|BE": {
+  "BTRxadIkKmU.11_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -1919,7 +1919,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A4_LUCIA_13250000|C|BE": {
+  "DAY1_A4_LUCIA_13250000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -1955,7 +1955,7 @@
       "D": "GT"
     }
   },
-  "nGJ3EFRnv3w.29_1|C|BE": {
+  "nGJ3EFRnv3w.29_1|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -1979,7 +1979,7 @@
       "D": "GT"
     }
   },
-  "0294-7|C|BE": {
+  "0294-7|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -1991,7 +1991,7 @@
       "D": "GT"
     }
   },
-  "jrJ5IPh4CtM.10_0|C|BE": {
+  "jrJ5IPh4CtM.10_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -2003,7 +2003,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_19443000|C|BE": {
+  "DAY1_A2_ALICE_19443000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -2015,7 +2015,7 @@
       "D": "Shuffle"
     }
   },
-  "6YH19|C|BE": {
+  "6YH19|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -2027,7 +2027,7 @@
       "D": "Reverse"
     }
   },
-  "MVGpd4TH54A.0_0|C|BE": {
+  "MVGpd4TH54A.0_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -2099,7 +2099,7 @@
       "D": "Early"
     }
   },
-  "xUgMOs8i16E|C|BE": {
+  "xUgMOs8i16E|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -2159,7 +2159,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_18223000|C|BE": {
+  "DAY1_A1_JAKE_18223000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -2243,7 +2243,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_20333000|C|BE": {
+  "DAY1_A1_JAKE_20333000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -2279,7 +2279,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A3_TASHA_12453000|C|BE": {
+  "DAY1_A3_TASHA_12453000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -2291,7 +2291,7 @@
       "D": "Shuffle"
     }
   },
-  "v_00005279_0|C|BE": {
+  "v_00005279_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "D",
@@ -2327,7 +2327,7 @@
       "D": "Wide"
     }
   },
-  "FivAN0MUp3A.26_0|C|BE": {
+  "FivAN0MUp3A.26_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -2375,7 +2375,7 @@
       "D": "Rand2"
     }
   },
-  "Ramc5o_meyw.11_0|C|BE": {
+  "Ramc5o_meyw.11_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -2387,7 +2387,7 @@
       "D": "Loop"
     }
   },
-  "v_00006963_0|C|BE": {
+  "v_00006963_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -2447,7 +2447,7 @@
       "D": "GT"
     }
   },
-  "v_00011376_0|C|BE": {
+  "v_00011376_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -2471,7 +2471,7 @@
       "D": "Late"
     }
   },
-  "KJevEXjS8VI.24_0|C|BE": {
+  "KJevEXjS8VI.24_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -2567,7 +2567,7 @@
       "D": "Wide"
     }
   },
-  "v_00004040_1|C|BE": {
+  "v_00004040_1|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -2639,7 +2639,7 @@
       "D": "Rand2"
     }
   },
-  "GoRpw4aOx0s.11_0|C|BE": {
+  "GoRpw4aOx0s.11_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -2663,7 +2663,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A3_TASHA_13070000|C|BE": {
+  "DAY1_A3_TASHA_13070000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -2675,7 +2675,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A5_KATRINA_17220000|C|BE": {
+  "DAY1_A5_KATRINA_17220000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -2687,7 +2687,7 @@
       "D": "GT"
     }
   },
-  "v_00005268_0|C|BE": {
+  "v_00005268_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -2783,7 +2783,7 @@
       "D": "Rand3"
     }
   },
-  "IIreVWXmnqg|C|BE": {
+  "IIreVWXmnqg|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -2831,7 +2831,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A3_TASHA_12443000|C|BE": {
+  "DAY1_A3_TASHA_12443000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -2855,7 +2855,7 @@
       "D": "Rand3"
     }
   },
-  "UEu9YyROlnM.9_2|C|BE": {
+  "UEu9YyROlnM.9_2|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "D",
@@ -2879,7 +2879,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A4_LUCIA_18160000|C|BE": {
+  "DAY1_A4_LUCIA_18160000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "C",
@@ -2927,7 +2927,7 @@
       "D": "GT"
     }
   },
-  "v_00007041_10|C|BE": {
+  "v_00007041_10|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -2963,7 +2963,7 @@
       "D": "Wide"
     }
   },
-  "v_00009721_0|C|BE": {
+  "v_00009721_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -3023,7 +3023,7 @@
       "D": "Rand2"
     }
   },
-  "1285-7|C|BE": {
+  "1285-7|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -3035,7 +3035,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A5_KATRINA_18043000|C|BE": {
+  "DAY1_A5_KATRINA_18043000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -3047,7 +3047,7 @@
       "D": "Loop"
     }
   },
-  "v_00013757_0|C|BE": {
+  "v_00013757_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -3059,7 +3059,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A1_JAKE_14040000|C|BE": {
+  "DAY1_A1_JAKE_14040000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -3083,7 +3083,7 @@
       "D": "Late"
     }
   },
-  "un4VYSlqQqs.69_1|C|BE": {
+  "un4VYSlqQqs.69_1|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -3179,7 +3179,7 @@
       "D": "Early"
     }
   },
-  "_VkB1kInJfo.5_0|C|BE": {
+  "_VkB1kInJfo.5_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -3191,7 +3191,7 @@
       "D": "Reverse"
     }
   },
-  "9DEse0b86gI.49_0|C|BE": {
+  "9DEse0b86gI.49_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -3203,7 +3203,7 @@
       "D": "Shuffle"
     }
   },
-  "v_00005709_0|C|BE": {
+  "v_00005709_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -3227,7 +3227,7 @@
       "D": "Rand3"
     }
   },
-  "5-X0RJdodhg.9_0|C|BE": {
+  "5-X0RJdodhg.9_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -3275,7 +3275,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A3_TASHA_12420000|C|BE": {
+  "DAY1_A3_TASHA_12420000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "D",
@@ -3287,7 +3287,7 @@
       "D": "GT"
     }
   },
-  "Oqz0QkQ-aGY.11_0|C|BE": {
+  "Oqz0QkQ-aGY.11_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -3311,7 +3311,7 @@
       "D": "Rand3"
     }
   },
-  "v_00013697_3|C|BE": {
+  "v_00013697_3|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -3335,7 +3335,7 @@
       "D": "Early"
     }
   },
-  "93EOJ|C|BE": {
+  "93EOJ|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -3383,7 +3383,7 @@
       "D": "Rand3"
     }
   },
-  "30k-22-10-2|P1|2448|2856|C|BE": {
+  "30k-22-10-2|P1|2448|2856|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "B",
@@ -3419,7 +3419,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A2_ALICE_19390000|C|BE": {
+  "DAY1_A2_ALICE_19390000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "D",
@@ -3431,7 +3431,7 @@
       "D": "GT"
     }
   },
-  "T3dkTkVNvIQ|C|BE": {
+  "T3dkTkVNvIQ|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -3443,7 +3443,7 @@
       "D": "Reverse"
     }
   },
-  "p3ad39IMUXI.8_0|C|BE": {
+  "p3ad39IMUXI.8_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -3503,7 +3503,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A1_JAKE_13570000|C|BE": {
+  "DAY1_A1_JAKE_13570000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -3527,7 +3527,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A6_SHURE_13273000|C|BE": {
+  "DAY1_A6_SHURE_13273000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -3575,7 +3575,7 @@
       "D": "Late"
     }
   },
-  "2544C|C|BE": {
+  "2544C|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "B",
@@ -3587,7 +3587,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A6_SHURE_21243000|C|BE": {
+  "DAY1_A6_SHURE_21243000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "B",
@@ -3635,7 +3635,7 @@
       "D": "Rand3"
     }
   },
-  "33LnbAjkiDo.25_2|C|BE": {
+  "33LnbAjkiDo.25_2|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -3719,7 +3719,7 @@
       "D": "Rand3"
     }
   },
-  "29k-12-1-4|P1|5817|6322|C|BE": {
+  "29k-12-1-4|P1|5817|6322|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -3779,7 +3779,7 @@
       "D": "Early"
     }
   },
-  "V9OMIQTTTTM.36_0|C|BE": {
+  "V9OMIQTTTTM.36_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -3839,7 +3839,7 @@
       "D": "Wide"
     }
   },
-  "am-J4A1LGWA.39_0|C|BE": {
+  "am-J4A1LGWA.39_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -3851,7 +3851,7 @@
       "D": "Loop"
     }
   },
-  "0503-7|C|BE": {
+  "0503-7|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -3863,7 +3863,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A3_TASHA_12523000|C|BE": {
+  "DAY1_A3_TASHA_12523000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -3875,7 +3875,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A4_LUCIA_11383000|C|BE": {
+  "DAY1_A4_LUCIA_11383000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -3899,7 +3899,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A1_JAKE_18290000|C|BE": {
+  "DAY1_A1_JAKE_18290000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -3947,7 +3947,7 @@
       "D": "Rand1"
     }
   },
-  "_OZzxLcTsig.24_1|C|BE": {
+  "_OZzxLcTsig.24_1|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -3995,7 +3995,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A6_SHURE_17430000|C|BE": {
+  "DAY1_A6_SHURE_17430000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -4007,7 +4007,7 @@
       "D": "GT"
     }
   },
-  "ZzypsDiBuHc.2_0|C|BE": {
+  "ZzypsDiBuHc.2_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -4103,7 +4103,7 @@
       "D": "GT"
     }
   },
-  "dlWMSRTqaco.8_0|C|BE": {
+  "dlWMSRTqaco.8_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -4115,7 +4115,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A3_TASHA_14153000|C|BE": {
+  "DAY1_A3_TASHA_14153000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "D",
@@ -4127,7 +4127,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_21423000|C|BE": {
+  "DAY1_A2_ALICE_21423000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "B",
@@ -4151,7 +4151,7 @@
       "D": "GT"
     }
   },
-  "27l-22-4-1|P2|496|1037|C|BE": {
+  "27l-22-4-1|P2|496|1037|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -4199,7 +4199,7 @@
       "D": "Wide"
     }
   },
-  "t5BdaCLqEcM.2_0|C|BE": {
+  "t5BdaCLqEcM.2_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "C",
@@ -4211,7 +4211,7 @@
       "D": "GT"
     }
   },
-  "v_00002024_0|C|BE": {
+  "v_00002024_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -4247,7 +4247,7 @@
       "D": "GT"
     }
   },
-  "CPC2zIu9rYc.6_0|C|BE": {
+  "CPC2zIu9rYc.6_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -4259,7 +4259,7 @@
       "D": "Shuffle"
     }
   },
-  "4m5khG0emPE_video|C|BE": {
+  "4m5khG0emPE_video|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -4319,7 +4319,7 @@
       "D": "GT"
     }
   },
-  "hizR7GT17qw.31_0|C|BE": {
+  "hizR7GT17qw.31_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -4331,7 +4331,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20023000|C|BE": {
+  "DAY1_A4_LUCIA_20023000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -4403,7 +4403,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A2_ALICE_20000000|C|BE": {
+  "DAY1_A2_ALICE_20000000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -4427,7 +4427,7 @@
       "D": "Late"
     }
   },
-  "Y4IIO|C|BE": {
+  "Y4IIO|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -4451,7 +4451,7 @@
       "D": "Rand2"
     }
   },
-  "89QkIhDAQK4.43_0|C|BE": {
+  "89QkIhDAQK4.43_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -4523,7 +4523,7 @@
       "D": "GT"
     }
   },
-  "bLta34sLkBQ.19_0|C|BE": {
+  "bLta34sLkBQ.19_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "D",
@@ -4559,7 +4559,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A3_TASHA_20450000|C|BE": {
+  "DAY1_A3_TASHA_20450000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -4583,7 +4583,7 @@
       "D": "Wide"
     }
   },
-  "-P7Y_BlwxO8.42_0|C|BE": {
+  "-P7Y_BlwxO8.42_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -4607,7 +4607,7 @@
       "D": "Rand2"
     }
   },
-  "v_00013624_0|C|BE": {
+  "v_00013624_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -4679,7 +4679,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_21453000|C|BE": {
+  "DAY1_A2_ALICE_21453000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "D",
@@ -4691,7 +4691,7 @@
       "D": "GT"
     }
   },
-  "4Y1AW|C|BE": {
+  "4Y1AW|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -4715,7 +4715,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A4_LUCIA_20160000|C|BE": {
+  "DAY1_A4_LUCIA_20160000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -4763,7 +4763,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_17590000|C|BE": {
+  "DAY1_A4_LUCIA_17590000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -4811,7 +4811,7 @@
       "D": "Rand2"
     }
   },
-  "mB6VIuK6Wlw.1_0|C|BE": {
+  "mB6VIuK6Wlw.1_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -4847,7 +4847,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A2_ALICE_13303000|C|BE": {
+  "DAY1_A2_ALICE_13303000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -4859,7 +4859,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A5_KATRINA_19460000|C|BE": {
+  "DAY1_A5_KATRINA_19460000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -4871,7 +4871,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A2_ALICE_17260000|C|BE": {
+  "DAY1_A2_ALICE_17260000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -4907,7 +4907,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20060000|C|BE": {
+  "DAY1_A4_LUCIA_20060000|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -4931,7 +4931,7 @@
       "D": "Early"
     }
   },
-  "v1hB3uNYdf0|C|BE": {
+  "v1hB3uNYdf0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "D",
@@ -5087,7 +5087,7 @@
       "D": "Wide"
     }
   },
-  "kUTBdMQVHXo|C|BE": {
+  "kUTBdMQVHXo|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "B",
@@ -5099,7 +5099,7 @@
       "D": "Shuffle"
     }
   },
-  "29k-21-6-2|P2|0|480|C|BE": {
+  "29k-21-6-2|P2|0|480|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -5123,7 +5123,7 @@
       "D": "GT"
     }
   },
-  "TR7Zkdqcr4s.22_0|C|BE": {
+  "TR7Zkdqcr4s.22_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -5147,7 +5147,7 @@
       "D": "Wide"
     }
   },
-  "9knfg-7ARcc.30_0|C|BE": {
+  "9knfg-7ARcc.30_0|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "C",
@@ -5159,7 +5159,7 @@
       "D": "Reverse"
     }
   },
-  "6TJVS|C|BE": {
+  "6TJVS|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "A",
@@ -5171,7 +5171,7 @@
       "D": "Loop"
     }
   },
-  "K-AxXEND_Dk.8_0|C|BE": {
+  "K-AxXEND_Dk.8_0|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "D",
@@ -5267,7 +5267,7 @@
       "D": "Wide"
     }
   },
-  "0951-7|C|BE": {
+  "0951-7|P|BE": {
     "mode": "BE",
     "correct": true,
     "answer": "B",
@@ -5315,7 +5315,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_20030000|C|BE": {
+  "DAY1_A4_LUCIA_20030000|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -5375,7 +5375,7 @@
       "D": "GT"
     }
   },
-  "D6MZ4|C|BE": {
+  "D6MZ4|P|BE": {
     "mode": "BE",
     "correct": false,
     "answer": "A",
@@ -5411,7 +5411,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_20030000|C|B": {
+  "DAY1_A4_LUCIA_20030000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -5435,7 +5435,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_20213000|C|E": {
+  "DAY1_A3_TASHA_20213000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -5471,7 +5471,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A3_TASHA_20213000|C|B": {
+  "DAY1_A3_TASHA_20213000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -5567,7 +5567,7 @@
       "D": "Rand3"
     }
   },
-  "GF6TR|C|E": {
+  "GF6TR|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -5603,7 +5603,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A4_LUCIA_20030000|C|E": {
+  "DAY1_A4_LUCIA_20030000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "D",
@@ -5639,7 +5639,7 @@
       "D": "Rand1"
     }
   },
-  "XKrPt6jG0rE|C|E": {
+  "XKrPt6jG0rE|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -5651,7 +5651,7 @@
       "D": "GT"
     }
   },
-  "XKrPt6jG0rE|C|B": {
+  "XKrPt6jG0rE|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -5663,7 +5663,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_17350000|C|B": {
+  "DAY1_A2_ALICE_17350000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -5747,7 +5747,7 @@
       "D": "GT"
     }
   },
-  "0JQ26|C|E": {
+  "0JQ26|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -5783,7 +5783,7 @@
       "D": "Wide"
     }
   },
-  "GF6TR|C|B": {
+  "GF6TR|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -5855,7 +5855,7 @@
       "D": "Rand1"
     }
   },
-  "G9H0p1JGfp0.29_0|C|B": {
+  "G9H0p1JGfp0.29_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -5903,7 +5903,7 @@
       "D": "GT"
     }
   },
-  "gi0VupIJaKA|C|B": {
+  "gi0VupIJaKA|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -5915,7 +5915,7 @@
       "D": "Reverse"
     }
   },
-  "G9H0p1JGfp0.29_0|C|E": {
+  "G9H0p1JGfp0.29_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -5975,7 +5975,7 @@
       "D": "Late"
     }
   },
-  "gi0VupIJaKA|C|E": {
+  "gi0VupIJaKA|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -5987,7 +5987,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A5_KATRINA_11120000|C|B": {
+  "DAY1_A5_KATRINA_11120000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "D",
@@ -6023,7 +6023,7 @@
       "D": "Late"
     }
   },
-  "Q_A3epM0N8A.5_0|C|B": {
+  "Q_A3epM0N8A.5_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -6035,7 +6035,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A5_KATRINA_11120000|C|E": {
+  "DAY1_A5_KATRINA_11120000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -6095,7 +6095,7 @@
       "D": "Rand1"
     }
   },
-  "Kgu3SKge70k.4_0|C|B": {
+  "Kgu3SKge70k.4_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -6143,7 +6143,7 @@
       "D": "Early"
     }
   },
-  "Q_A3epM0N8A.5_0|C|E": {
+  "Q_A3epM0N8A.5_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -6155,7 +6155,7 @@
       "D": "GT"
     }
   },
-  "0JQ26|C|B": {
+  "0JQ26|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -6167,7 +6167,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A6_SHURE_11520000|C|B": {
+  "DAY1_A6_SHURE_11520000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -6215,7 +6215,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A1_JAKE_19203000|C|B": {
+  "DAY1_A1_JAKE_19203000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -6239,7 +6239,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A2_ALICE_17350000|C|E": {
+  "DAY1_A2_ALICE_17350000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -6263,7 +6263,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A6_SHURE_11520000|C|E": {
+  "DAY1_A6_SHURE_11520000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -6275,7 +6275,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_19203000|C|E": {
+  "DAY1_A1_JAKE_19203000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -6347,7 +6347,7 @@
       "D": "GT"
     }
   },
-  "KQYYTaOWzgQ.24_5|C|E": {
+  "KQYYTaOWzgQ.24_5|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -6359,7 +6359,7 @@
       "D": "Loop"
     }
   },
-  "shsyS2WH6ns.2_1|C|B": {
+  "shsyS2WH6ns.2_1|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -6383,7 +6383,7 @@
       "D": "Rand1"
     }
   },
-  "KQYYTaOWzgQ.24_5|C|B": {
+  "KQYYTaOWzgQ.24_5|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -6407,7 +6407,7 @@
       "D": "GT"
     }
   },
-  "shsyS2WH6ns.2_1|C|E": {
+  "shsyS2WH6ns.2_1|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -6467,7 +6467,7 @@
       "D": "GT"
     }
   },
-  "0052-7|C|E": {
+  "0052-7|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -6503,7 +6503,7 @@
       "D": "GT"
     }
   },
-  "v_00016063_6|C|B": {
+  "v_00016063_6|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -6551,7 +6551,7 @@
       "D": "Wide"
     }
   },
-  "0052-7|C|B": {
+  "0052-7|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -6623,7 +6623,7 @@
       "D": "Late"
     }
   },
-  "H0uxrf4pJY0|C|B": {
+  "H0uxrf4pJY0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -6647,7 +6647,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A4_LUCIA_11320000|C|B": {
+  "DAY1_A4_LUCIA_11320000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -6683,7 +6683,7 @@
       "D": "Late"
     }
   },
-  "v_00016063_6|C|E": {
+  "v_00016063_6|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -6695,7 +6695,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_11320000|C|E": {
+  "DAY1_A4_LUCIA_11320000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -6707,7 +6707,7 @@
       "D": "Loop"
     }
   },
-  "Kgu3SKge70k.4_0|C|E": {
+  "Kgu3SKge70k.4_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -6719,7 +6719,7 @@
       "D": "Loop"
     }
   },
-  "H0uxrf4pJY0|C|E": {
+  "H0uxrf4pJY0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -6779,7 +6779,7 @@
       "D": "GT"
     }
   },
-  "t70ys_UEjDE.16_1|C|E": {
+  "t70ys_UEjDE.16_1|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -6791,7 +6791,7 @@
       "D": "Reverse"
     }
   },
-  "t70ys_UEjDE.16_1|C|B": {
+  "t70ys_UEjDE.16_1|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -6875,7 +6875,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A4_LUCIA_13173000|C|B": {
+  "DAY1_A4_LUCIA_13173000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "C",
@@ -6899,7 +6899,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_13173000|C|E": {
+  "DAY1_A4_LUCIA_13173000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -6947,7 +6947,7 @@
       "D": "Early"
     }
   },
-  "yPAglEvhlaI.0_1|C|E": {
+  "yPAglEvhlaI.0_1|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -6971,7 +6971,7 @@
       "D": "GT"
     }
   },
-  "cVed2CVwYAg.4_0|C|E": {
+  "cVed2CVwYAg.4_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -6983,7 +6983,7 @@
       "D": "Shuffle"
     }
   },
-  "cVed2CVwYAg.4_0|C|B": {
+  "cVed2CVwYAg.4_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -7007,7 +7007,7 @@
       "D": "Rand3"
     }
   },
-  "yPAglEvhlaI.0_1|C|B": {
+  "yPAglEvhlaI.0_1|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "C",
@@ -7079,7 +7079,7 @@
       "D": "GT"
     }
   },
-  "N-t8kU7adh4.7_0|C|B": {
+  "N-t8kU7adh4.7_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -7151,7 +7151,7 @@
       "D": "GT"
     }
   },
-  "v1hB3uNYdf0|C|B": {
+  "v1hB3uNYdf0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -7163,7 +7163,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_18250000|C|E": {
+  "DAY1_A4_LUCIA_18250000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -7199,7 +7199,7 @@
       "D": "GT"
     }
   },
-  "v1hB3uNYdf0|C|E": {
+  "v1hB3uNYdf0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -7211,7 +7211,7 @@
       "D": "GT"
     }
   },
-  "N-t8kU7adh4.7_0|C|E": {
+  "N-t8kU7adh4.7_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "C",
@@ -7295,7 +7295,7 @@
       "D": "Rand3"
     }
   },
-  "9wQEAnnBgXc.14_0|C|B": {
+  "9wQEAnnBgXc.14_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "B",
@@ -7319,7 +7319,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A4_LUCIA_18250000|C|B": {
+  "DAY1_A4_LUCIA_18250000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "C",
@@ -7343,7 +7343,7 @@
       "D": "GT"
     }
   },
-  "K-AxXEND_Dk.8_0|C|E": {
+  "K-AxXEND_Dk.8_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -7427,7 +7427,7 @@
       "D": "Late"
     }
   },
-  "0032-7|C|B": {
+  "0032-7|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "B",
@@ -7499,7 +7499,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A5_KATRINA_19380000|C|B": {
+  "DAY1_A5_KATRINA_19380000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -7535,7 +7535,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A6_SHURE_13003000|C|B": {
+  "DAY1_A6_SHURE_13003000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "C",
@@ -7559,7 +7559,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A5_KATRINA_19380000|C|E": {
+  "DAY1_A5_KATRINA_19380000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -7571,7 +7571,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A6_SHURE_13003000|C|E": {
+  "DAY1_A6_SHURE_13003000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -7595,7 +7595,7 @@
       "D": "GT"
     }
   },
-  "9wQEAnnBgXc.14_0|C|E": {
+  "9wQEAnnBgXc.14_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -7607,7 +7607,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A2_ALICE_20280000|C|B": {
+  "DAY1_A2_ALICE_20280000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -7619,7 +7619,7 @@
       "D": "Loop"
     }
   },
-  "K-AxXEND_Dk.8_0|C|B": {
+  "K-AxXEND_Dk.8_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -7643,7 +7643,7 @@
       "D": "Rand1"
     }
   },
-  "0032-7|C|E": {
+  "0032-7|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -7691,7 +7691,7 @@
       "D": "GT"
     }
   },
-  "avSLIIl6hLQ.13_1|C|B": {
+  "avSLIIl6hLQ.13_1|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "B",
@@ -7703,7 +7703,7 @@
       "D": "Shuffle"
     }
   },
-  "avSLIIl6hLQ.13_1|C|E": {
+  "avSLIIl6hLQ.13_1|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -7751,7 +7751,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_18033000|C|B": {
+  "DAY1_A4_LUCIA_18033000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -7763,7 +7763,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A2_ALICE_20280000|C|E": {
+  "DAY1_A2_ALICE_20280000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -7823,7 +7823,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_18033000|C|E": {
+  "DAY1_A4_LUCIA_18033000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -7859,7 +7859,7 @@
       "D": "Late"
     }
   },
-  "v_00001379_10|C|B": {
+  "v_00001379_10|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -7907,7 +7907,7 @@
       "D": "Rand2"
     }
   },
-  "v_00001379_10|C|E": {
+  "v_00001379_10|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -7919,7 +7919,7 @@
       "D": "GT"
     }
   },
-  "8bDVEnSBobk.6_0|C|B": {
+  "8bDVEnSBobk.6_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -7943,7 +7943,7 @@
       "D": "GT"
     }
   },
-  "8bDVEnSBobk.6_0|C|E": {
+  "8bDVEnSBobk.6_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -8003,7 +8003,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A1_JAKE_18413000|C|B": {
+  "DAY1_A1_JAKE_18413000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "C",
@@ -8051,7 +8051,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A1_JAKE_18413000|C|E": {
+  "DAY1_A1_JAKE_18413000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -8063,7 +8063,7 @@
       "D": "Shuffle"
     }
   },
-  "26l-12-4-1|P1|438|928|C|B": {
+  "26l-12-4-1|P1|438|928|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -8123,7 +8123,7 @@
       "D": "GT"
     }
   },
-  "26l-12-4-1|P1|438|928|C|E": {
+  "26l-12-4-1|P1|438|928|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "D",
@@ -8135,7 +8135,7 @@
       "D": "GT"
     }
   },
-  "Y_CY6BtlxDI.19_1|C|E": {
+  "Y_CY6BtlxDI.19_1|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -8159,7 +8159,7 @@
       "D": "GT"
     }
   },
-  "Y_CY6BtlxDI.19_1|C|B": {
+  "Y_CY6BtlxDI.19_1|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "B",
@@ -8231,7 +8231,7 @@
       "D": "Rand2"
     }
   },
-  "mB6VIuK6Wlw.1_0|C|E": {
+  "mB6VIuK6Wlw.1_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -8243,7 +8243,7 @@
       "D": "Reverse"
     }
   },
-  "0793-7|C|B": {
+  "0793-7|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "B",
@@ -8303,7 +8303,7 @@
       "D": "Rand2"
     }
   },
-  "0793-7|C|E": {
+  "0793-7|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -8327,7 +8327,7 @@
       "D": "Wide"
     }
   },
-  "mB6VIuK6Wlw.1_0|C|B": {
+  "mB6VIuK6Wlw.1_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "C",
@@ -8351,7 +8351,7 @@
       "D": "Wide"
     }
   },
-  "v_00006711_0|C|E": {
+  "v_00006711_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -8363,7 +8363,7 @@
       "D": "Reverse"
     }
   },
-  "v_00006711_0|C|B": {
+  "v_00006711_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "C",
@@ -8435,7 +8435,7 @@
       "D": "Rand1"
     }
   },
-  "6TJVS|C|B": {
+  "6TJVS|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -8471,7 +8471,7 @@
       "D": "Rand2"
     }
   },
-  "Z9E_idJy97M.19_0|C|B": {
+  "Z9E_idJy97M.19_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -8507,7 +8507,7 @@
       "D": "Rand1"
     }
   },
-  "6TJVS|C|E": {
+  "6TJVS|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -8543,7 +8543,7 @@
       "D": "Wide"
     }
   },
-  "Z9E_idJy97M.19_0|C|E": {
+  "Z9E_idJy97M.19_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -8627,7 +8627,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_11453000|C|B": {
+  "DAY1_A3_TASHA_11453000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "C",
@@ -8639,7 +8639,7 @@
       "D": "Shuffle"
     }
   },
-  "-iJMxD4agOE.32_0|C|B": {
+  "-iJMxD4agOE.32_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -8711,7 +8711,7 @@
       "D": "GT"
     }
   },
-  "27k-21-2-2|P2|0|508|C|B": {
+  "27k-21-2-2|P2|0|508|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -8747,7 +8747,7 @@
       "D": "Rand1"
     }
   },
-  "27k-21-2-2|P2|0|508|C|E": {
+  "27k-21-2-2|P2|0|508|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -8771,7 +8771,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A1_JAKE_19233000|C|B": {
+  "DAY1_A1_JAKE_19233000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -8807,7 +8807,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_19233000|C|E": {
+  "DAY1_A1_JAKE_19233000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -8831,7 +8831,7 @@
       "D": "Late"
     }
   },
-  "36X2HVxrfn8.13_0|C|E": {
+  "36X2HVxrfn8.13_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -8843,7 +8843,7 @@
       "D": "Shuffle"
     }
   },
-  "36X2HVxrfn8.13_0|C|B": {
+  "36X2HVxrfn8.13_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "B",
@@ -8867,7 +8867,7 @@
       "D": "Rand1"
     }
   },
-  "-iJMxD4agOE.32_0|C|E": {
+  "-iJMxD4agOE.32_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -8915,7 +8915,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A4_LUCIA_18060000|C|B": {
+  "DAY1_A4_LUCIA_18060000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -8963,7 +8963,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A4_LUCIA_18060000|C|E": {
+  "DAY1_A4_LUCIA_18060000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -8975,7 +8975,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A3_TASHA_11453000|C|E": {
+  "DAY1_A3_TASHA_11453000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -9023,7 +9023,7 @@
       "D": "Early"
     }
   },
-  "2eptl8G0230.32_1|C|B": {
+  "2eptl8G0230.32_1|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -9071,7 +9071,7 @@
       "D": "Rand3"
     }
   },
-  "fujQBbSNXcA|C|B": {
+  "fujQBbSNXcA|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -9095,7 +9095,7 @@
       "D": "Rand3"
     }
   },
-  "fujQBbSNXcA|C|E": {
+  "fujQBbSNXcA|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -9131,7 +9131,7 @@
       "D": "Early"
     }
   },
-  "2eptl8G0230.32_1|C|E": {
+  "2eptl8G0230.32_1|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "C",
@@ -9167,7 +9167,7 @@
       "D": "Early"
     }
   },
-  "8X8BS3t4lSM.26_0|C|B": {
+  "8X8BS3t4lSM.26_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -9191,7 +9191,7 @@
       "D": "Wide"
     }
   },
-  "8X8BS3t4lSM.26_0|C|E": {
+  "8X8BS3t4lSM.26_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -9239,7 +9239,7 @@
       "D": "GT"
     }
   },
-  "28hKF2Rhebs.31_1|C|E": {
+  "28hKF2Rhebs.31_1|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -9263,7 +9263,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A4_LUCIA_12303000|C|B": {
+  "DAY1_A4_LUCIA_12303000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -9347,7 +9347,7 @@
       "D": "Wide"
     }
   },
-  "PHH49|C|B": {
+  "PHH49|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "B",
@@ -9359,7 +9359,7 @@
       "D": "Loop"
     }
   },
-  "PHH49|C|E": {
+  "PHH49|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -9407,7 +9407,7 @@
       "D": "GT"
     }
   },
-  "nGJ3EFRnv3w.29_1|C|B": {
+  "nGJ3EFRnv3w.29_1|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -9491,7 +9491,7 @@
       "D": "Late"
     }
   },
-  "BTRxadIkKmU.11_0|C|B": {
+  "BTRxadIkKmU.11_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -9527,7 +9527,7 @@
       "D": "Rand3"
     }
   },
-  "nGJ3EFRnv3w.29_1|C|E": {
+  "nGJ3EFRnv3w.29_1|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -9563,7 +9563,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A1_JAKE_13090000|C|E": {
+  "DAY1_A1_JAKE_13090000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -9575,7 +9575,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A1_JAKE_13090000|C|B": {
+  "DAY1_A1_JAKE_13090000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -9647,7 +9647,7 @@
       "D": "Early"
     }
   },
-  "28hKF2Rhebs.31_1|C|B": {
+  "28hKF2Rhebs.31_1|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "B",
@@ -9671,7 +9671,7 @@
       "D": "Rand2"
     }
   },
-  "MVGpd4TH54A.0_0|C|E": {
+  "MVGpd4TH54A.0_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -9695,7 +9695,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_13043000|C|B": {
+  "DAY1_A3_TASHA_13043000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "D",
@@ -9707,7 +9707,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A3_TASHA_13043000|C|E": {
+  "DAY1_A3_TASHA_13043000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -9719,7 +9719,7 @@
       "D": "Loop"
     }
   },
-  "6YH19|C|B": {
+  "6YH19|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "B",
@@ -9791,7 +9791,7 @@
       "D": "Early"
     }
   },
-  "BTRxadIkKmU.11_0|C|E": {
+  "BTRxadIkKmU.11_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -9827,7 +9827,7 @@
       "D": "GT"
     }
   },
-  "MVGpd4TH54A.0_0|C|B": {
+  "MVGpd4TH54A.0_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "B",
@@ -9863,7 +9863,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_13250000|C|B": {
+  "DAY1_A4_LUCIA_13250000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -9899,7 +9899,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_12303000|C|E": {
+  "DAY1_A4_LUCIA_12303000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "C",
@@ -9923,7 +9923,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_19443000|C|E": {
+  "DAY1_A2_ALICE_19443000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -9995,7 +9995,7 @@
       "D": "GT"
     }
   },
-  "0294-7|C|E": {
+  "0294-7|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "D",
@@ -10055,7 +10055,7 @@
       "D": "GT"
     }
   },
-  "xUgMOs8i16E|C|B": {
+  "xUgMOs8i16E|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -10067,7 +10067,7 @@
       "D": "Loop"
     }
   },
-  "xUgMOs8i16E|C|E": {
+  "xUgMOs8i16E|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -10091,7 +10091,7 @@
       "D": "Rand2"
     }
   },
-  "jrJ5IPh4CtM.10_0|C|B": {
+  "jrJ5IPh4CtM.10_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -10103,7 +10103,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_19443000|C|B": {
+  "DAY1_A2_ALICE_19443000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -10139,7 +10139,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_18223000|C|B": {
+  "DAY1_A1_JAKE_18223000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "C",
@@ -10187,7 +10187,7 @@
       "D": "GT"
     }
   },
-  "v_00005279_0|C|B": {
+  "v_00005279_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -10223,7 +10223,7 @@
       "D": "GT"
     }
   },
-  "v_00005279_0|C|E": {
+  "v_00005279_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -10247,7 +10247,7 @@
       "D": "GT"
     }
   },
-  "6YH19|C|E": {
+  "6YH19|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -10283,7 +10283,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_13303000|C|B": {
+  "DAY1_A2_ALICE_13303000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "C",
@@ -10355,7 +10355,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_13303000|C|E": {
+  "DAY1_A2_ALICE_13303000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -10367,7 +10367,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A4_LUCIA_13250000|C|E": {
+  "DAY1_A4_LUCIA_13250000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -10391,7 +10391,7 @@
       "D": "GT"
     }
   },
-  "0294-7|C|B": {
+  "0294-7|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -10403,7 +10403,7 @@
       "D": "GT"
     }
   },
-  "jrJ5IPh4CtM.10_0|C|E": {
+  "jrJ5IPh4CtM.10_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -10439,7 +10439,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A3_TASHA_12453000|C|B": {
+  "DAY1_A3_TASHA_12453000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -10451,7 +10451,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A3_TASHA_12453000|C|E": {
+  "DAY1_A3_TASHA_12453000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -10487,7 +10487,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_18223000|C|E": {
+  "DAY1_A1_JAKE_18223000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "C",
@@ -10511,7 +10511,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A1_JAKE_20333000|C|B": {
+  "DAY1_A1_JAKE_20333000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "D",
@@ -10547,7 +10547,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_20333000|C|E": {
+  "DAY1_A1_JAKE_20333000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -10595,7 +10595,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A5_KATRINA_19460000|C|B": {
+  "DAY1_A5_KATRINA_19460000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -10631,7 +10631,7 @@
       "D": "GT"
     }
   },
-  "FivAN0MUp3A.26_0|C|E": {
+  "FivAN0MUp3A.26_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -10667,7 +10667,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A5_KATRINA_19460000|C|E": {
+  "DAY1_A5_KATRINA_19460000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -10679,7 +10679,7 @@
       "D": "Shuffle"
     }
   },
-  "v_00006963_0|C|B": {
+  "v_00006963_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -10691,7 +10691,7 @@
       "D": "Loop"
     }
   },
-  "v_00006963_0|C|E": {
+  "v_00006963_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -10751,7 +10751,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A4_LUCIA_20060000|C|E": {
+  "DAY1_A4_LUCIA_20060000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -10775,7 +10775,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A4_LUCIA_20060000|C|B": {
+  "DAY1_A4_LUCIA_20060000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "C",
@@ -10811,7 +10811,7 @@
       "D": "Rand1"
     }
   },
-  "Ramc5o_meyw.11_0|C|B": {
+  "Ramc5o_meyw.11_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -10895,7 +10895,7 @@
       "D": "Rand2"
     }
   },
-  "Ramc5o_meyw.11_0|C|E": {
+  "Ramc5o_meyw.11_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -10919,7 +10919,7 @@
       "D": "Early"
     }
   },
-  "v_00011376_0|C|B": {
+  "v_00011376_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -10967,7 +10967,7 @@
       "D": "Early"
     }
   },
-  "v_00004040_1|C|B": {
+  "v_00004040_1|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "C",
@@ -10979,7 +10979,7 @@
       "D": "Shuffle"
     }
   },
-  "v_00004040_1|C|E": {
+  "v_00004040_1|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -11063,7 +11063,7 @@
       "D": "Late"
     }
   },
-  "KJevEXjS8VI.24_0|C|B": {
+  "KJevEXjS8VI.24_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "D",
@@ -11111,7 +11111,7 @@
       "D": "Late"
     }
   },
-  "KJevEXjS8VI.24_0|C|E": {
+  "KJevEXjS8VI.24_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "C",
@@ -11171,7 +11171,7 @@
       "D": "Wide"
     }
   },
-  "GoRpw4aOx0s.11_0|C|E": {
+  "GoRpw4aOx0s.11_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "C",
@@ -11207,7 +11207,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A2_ALICE_17260000|C|E": {
+  "DAY1_A2_ALICE_17260000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "C",
@@ -11243,7 +11243,7 @@
       "D": "Wide"
     }
   },
-  "GoRpw4aOx0s.11_0|C|B": {
+  "GoRpw4aOx0s.11_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -11279,7 +11279,7 @@
       "D": "Rand2"
     }
   },
-  "9knfg-7ARcc.30_0|C|E": {
+  "9knfg-7ARcc.30_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -11291,7 +11291,7 @@
       "D": "Reverse"
     }
   },
-  "v_00011376_0|C|E": {
+  "v_00011376_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -11315,7 +11315,7 @@
       "D": "Wide"
     }
   },
-  "9knfg-7ARcc.30_0|C|B": {
+  "9knfg-7ARcc.30_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -11375,7 +11375,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_13070000|C|B": {
+  "DAY1_A3_TASHA_13070000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -11399,7 +11399,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_13070000|C|E": {
+  "DAY1_A3_TASHA_13070000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -11435,7 +11435,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A2_ALICE_17260000|C|B": {
+  "DAY1_A2_ALICE_17260000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -11459,7 +11459,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A5_KATRINA_17220000|C|B": {
+  "DAY1_A5_KATRINA_17220000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -11495,7 +11495,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A5_KATRINA_17220000|C|E": {
+  "DAY1_A5_KATRINA_17220000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -11567,7 +11567,7 @@
       "D": "GT"
     }
   },
-  "UEu9YyROlnM.9_2|C|E": {
+  "UEu9YyROlnM.9_2|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -11591,7 +11591,7 @@
       "D": "Rand3"
     }
   },
-  "UEu9YyROlnM.9_2|C|B": {
+  "UEu9YyROlnM.9_2|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "B",
@@ -11603,7 +11603,7 @@
       "D": "GT"
     }
   },
-  "v_00005268_0|C|E": {
+  "v_00005268_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -11639,7 +11639,7 @@
       "D": "Late"
     }
   },
-  "v_00005268_0|C|B": {
+  "v_00005268_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -11663,7 +11663,7 @@
       "D": "Rand3"
     }
   },
-  "IIreVWXmnqg|C|B": {
+  "IIreVWXmnqg|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -11687,7 +11687,7 @@
       "D": "Rand1"
     }
   },
-  "IIreVWXmnqg|C|E": {
+  "IIreVWXmnqg|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -11711,7 +11711,7 @@
       "D": "Late"
     }
   },
-  "FivAN0MUp3A.26_0|C|B": {
+  "FivAN0MUp3A.26_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -11771,7 +11771,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A3_TASHA_12443000|C|B": {
+  "DAY1_A3_TASHA_12443000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "D",
@@ -11795,7 +11795,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A4_LUCIA_18160000|C|B": {
+  "DAY1_A4_LUCIA_18160000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -11831,7 +11831,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A3_TASHA_12443000|C|E": {
+  "DAY1_A3_TASHA_12443000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -11867,7 +11867,7 @@
       "D": "Rand3"
     }
   },
-  "v_00007041_10|C|B": {
+  "v_00007041_10|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -11915,7 +11915,7 @@
       "D": "Rand1"
     }
   },
-  "v_00007041_10|C|E": {
+  "v_00007041_10|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -11975,7 +11975,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_18160000|C|E": {
+  "DAY1_A4_LUCIA_18160000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "C",
@@ -11987,7 +11987,7 @@
       "D": "Shuffle"
     }
   },
-  "v_00009721_0|C|B": {
+  "v_00009721_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -11999,7 +11999,7 @@
       "D": "Reverse"
     }
   },
-  "v_00009721_0|C|E": {
+  "v_00009721_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -12035,7 +12035,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A1_JAKE_14040000|C|B": {
+  "DAY1_A1_JAKE_14040000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -12047,7 +12047,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A1_JAKE_14040000|C|E": {
+  "DAY1_A1_JAKE_14040000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -12143,7 +12143,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A5_KATRINA_18043000|C|B": {
+  "DAY1_A5_KATRINA_18043000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -12155,7 +12155,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A5_KATRINA_18043000|C|E": {
+  "DAY1_A5_KATRINA_18043000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -12191,7 +12191,7 @@
       "D": "Rand2"
     }
   },
-  "un4VYSlqQqs.69_1|C|E": {
+  "un4VYSlqQqs.69_1|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -12203,7 +12203,7 @@
       "D": "GT"
     }
   },
-  "v_00013757_0|C|E": {
+  "v_00013757_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -12311,7 +12311,7 @@
       "D": "Early"
     }
   },
-  "v_00013757_0|C|B": {
+  "v_00013757_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -12323,7 +12323,7 @@
       "D": "Loop"
     }
   },
-  "1285-7|C|B": {
+  "1285-7|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "D",
@@ -12335,7 +12335,7 @@
       "D": "Loop"
     }
   },
-  "1285-7|C|E": {
+  "1285-7|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -12371,7 +12371,7 @@
       "D": "Late"
     }
   },
-  "v_00013697_3|C|B": {
+  "v_00013697_3|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -12419,7 +12419,7 @@
       "D": "Early"
     }
   },
-  "9DEse0b86gI.49_0|C|B": {
+  "9DEse0b86gI.49_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -12443,7 +12443,7 @@
       "D": "Rand3"
     }
   },
-  "9DEse0b86gI.49_0|C|E": {
+  "9DEse0b86gI.49_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -12503,7 +12503,7 @@
       "D": "Rand3"
     }
   },
-  "un4VYSlqQqs.69_1|C|B": {
+  "un4VYSlqQqs.69_1|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -12527,7 +12527,7 @@
       "D": "Early"
     }
   },
-  "v_00005709_0|C|E": {
+  "v_00005709_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -12539,7 +12539,7 @@
       "D": "Reverse"
     }
   },
-  "v_00005709_0|C|B": {
+  "v_00005709_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -12599,7 +12599,7 @@
       "D": "Early"
     }
   },
-  "p3ad39IMUXI.8_0|C|B": {
+  "p3ad39IMUXI.8_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "B",
@@ -12635,7 +12635,7 @@
       "D": "Rand3"
     }
   },
-  "v_00013697_3|C|E": {
+  "v_00013697_3|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -12695,7 +12695,7 @@
       "D": "Rand3"
     }
   },
-  "_VkB1kInJfo.5_0|C|B": {
+  "_VkB1kInJfo.5_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -12719,7 +12719,7 @@
       "D": "GT"
     }
   },
-  "_VkB1kInJfo.5_0|C|E": {
+  "_VkB1kInJfo.5_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -12743,7 +12743,7 @@
       "D": "Wide"
     }
   },
-  "Oqz0QkQ-aGY.11_0|C|B": {
+  "Oqz0QkQ-aGY.11_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -12755,7 +12755,7 @@
       "D": "Loop"
     }
   },
-  "Oqz0QkQ-aGY.11_0|C|E": {
+  "Oqz0QkQ-aGY.11_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -12779,7 +12779,7 @@
       "D": "GT"
     }
   },
-  "5-X0RJdodhg.9_0|C|B": {
+  "5-X0RJdodhg.9_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -12851,7 +12851,7 @@
       "D": "GT"
     }
   },
-  "5-X0RJdodhg.9_0|C|E": {
+  "5-X0RJdodhg.9_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -12947,7 +12947,7 @@
       "D": "GT"
     }
   },
-  "93EOJ|C|B": {
+  "93EOJ|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -12959,7 +12959,7 @@
       "D": "Shuffle"
     }
   },
-  "93EOJ|C|E": {
+  "93EOJ|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -12971,7 +12971,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A3_TASHA_12420000|C|E": {
+  "DAY1_A3_TASHA_12420000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -13019,7 +13019,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_12420000|C|B": {
+  "DAY1_A3_TASHA_12420000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -13031,7 +13031,7 @@
       "D": "GT"
     }
   },
-  "30k-22-10-2|P1|2448|2856|C|E": {
+  "30k-22-10-2|P1|2448|2856|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -13067,7 +13067,7 @@
       "D": "Wide"
     }
   },
-  "p3ad39IMUXI.8_0|C|E": {
+  "p3ad39IMUXI.8_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -13103,7 +13103,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A2_ALICE_19390000|C|E": {
+  "DAY1_A2_ALICE_19390000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -13127,7 +13127,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A2_ALICE_19390000|C|B": {
+  "DAY1_A2_ALICE_19390000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -13187,7 +13187,7 @@
       "D": "Rand1"
     }
   },
-  "T3dkTkVNvIQ|C|E": {
+  "T3dkTkVNvIQ|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -13211,7 +13211,7 @@
       "D": "Rand1"
     }
   },
-  "T3dkTkVNvIQ|C|B": {
+  "T3dkTkVNvIQ|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -13223,7 +13223,7 @@
       "D": "Reverse"
     }
   },
-  "2544C|C|B": {
+  "2544C|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "B",
@@ -13247,7 +13247,7 @@
       "D": "Late"
     }
   },
-  "30k-22-10-2|P1|2448|2856|C|B": {
+  "30k-22-10-2|P1|2448|2856|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "B",
@@ -13283,7 +13283,7 @@
       "D": "Wide"
     }
   },
-  "0951-7|C|B": {
+  "0951-7|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -13295,7 +13295,7 @@
       "D": "Loop"
     }
   },
-  "0951-7|C|E": {
+  "0951-7|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -13331,7 +13331,7 @@
       "D": "GT"
     }
   },
-  "2544C|C|E": {
+  "2544C|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -13379,7 +13379,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A1_JAKE_13570000|C|E": {
+  "DAY1_A1_JAKE_13570000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -13391,7 +13391,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A1_JAKE_13570000|C|B": {
+  "DAY1_A1_JAKE_13570000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "B",
@@ -13463,7 +13463,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A6_SHURE_13273000|C|B": {
+  "DAY1_A6_SHURE_13273000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -13523,7 +13523,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A6_SHURE_21243000|C|E": {
+  "DAY1_A6_SHURE_21243000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -13535,7 +13535,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A6_SHURE_13273000|C|E": {
+  "DAY1_A6_SHURE_13273000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "C",
@@ -13559,7 +13559,7 @@
       "D": "Late"
     }
   },
-  "33LnbAjkiDo.25_2|C|B": {
+  "33LnbAjkiDo.25_2|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -13571,7 +13571,7 @@
       "D": "GT"
     }
   },
-  "33LnbAjkiDo.25_2|C|E": {
+  "33LnbAjkiDo.25_2|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "D",
@@ -13607,7 +13607,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A6_SHURE_21243000|C|B": {
+  "DAY1_A6_SHURE_21243000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "B",
@@ -13655,7 +13655,7 @@
       "D": "Late"
     }
   },
-  "29k-12-1-4|P1|5817|6322|C|B": {
+  "29k-12-1-4|P1|5817|6322|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -13703,7 +13703,7 @@
       "D": "Rand3"
     }
   },
-  "29k-12-1-4|P1|5817|6322|C|E": {
+  "29k-12-1-4|P1|5817|6322|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -13763,7 +13763,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A4_LUCIA_11383000|C|B": {
+  "DAY1_A4_LUCIA_11383000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "C",
@@ -13787,7 +13787,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A4_LUCIA_11383000|C|E": {
+  "DAY1_A4_LUCIA_11383000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -13811,7 +13811,7 @@
       "D": "GT"
     }
   },
-  "kUTBdMQVHXo|C|E": {
+  "kUTBdMQVHXo|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -13847,7 +13847,7 @@
       "D": "Rand2"
     }
   },
-  "kUTBdMQVHXo|C|B": {
+  "kUTBdMQVHXo|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "B",
@@ -13943,7 +13943,7 @@
       "D": "GT"
     }
   },
-  "V9OMIQTTTTM.36_0|C|E": {
+  "V9OMIQTTTTM.36_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -13955,7 +13955,7 @@
       "D": "Loop"
     }
   },
-  "V9OMIQTTTTM.36_0|C|B": {
+  "V9OMIQTTTTM.36_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "D",
@@ -13979,7 +13979,7 @@
       "D": "GT"
     }
   },
-  "_OZzxLcTsig.24_1|C|E": {
+  "_OZzxLcTsig.24_1|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -14015,7 +14015,7 @@
       "D": "Rand1"
     }
   },
-  "am-J4A1LGWA.39_0|C|B": {
+  "am-J4A1LGWA.39_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -14087,7 +14087,7 @@
       "D": "Wide"
     }
   },
-  "am-J4A1LGWA.39_0|C|E": {
+  "am-J4A1LGWA.39_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "C",
@@ -14099,7 +14099,7 @@
       "D": "Loop"
     }
   },
-  "_OZzxLcTsig.24_1|C|B": {
+  "_OZzxLcTsig.24_1|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "B",
@@ -14111,7 +14111,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A3_TASHA_12523000|C|B": {
+  "DAY1_A3_TASHA_12523000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -14147,7 +14147,7 @@
       "D": "Wide"
     }
   },
-  "0503-7|C|E": {
+  "0503-7|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -14219,7 +14219,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_12523000|C|E": {
+  "DAY1_A3_TASHA_12523000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -14231,7 +14231,7 @@
       "D": "Reverse"
     }
   },
-  "0503-7|C|B": {
+  "0503-7|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "D",
@@ -14243,7 +14243,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A4_LUCIA_20023000|C|B": {
+  "DAY1_A4_LUCIA_20023000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -14255,7 +14255,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A4_LUCIA_20023000|C|E": {
+  "DAY1_A4_LUCIA_20023000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -14279,7 +14279,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A1_JAKE_18290000|C|B": {
+  "DAY1_A1_JAKE_18290000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "B",
@@ -14327,7 +14327,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_18290000|C|E": {
+  "DAY1_A1_JAKE_18290000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "D",
@@ -14375,7 +14375,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A6_SHURE_17430000|C|E": {
+  "DAY1_A6_SHURE_17430000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "D",
@@ -14399,7 +14399,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A6_SHURE_17430000|C|B": {
+  "DAY1_A6_SHURE_17430000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -14447,7 +14447,7 @@
       "D": "GT"
     }
   },
-  "ZzypsDiBuHc.2_0|C|E": {
+  "ZzypsDiBuHc.2_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -14483,7 +14483,7 @@
       "D": "Rand1"
     }
   },
-  "dlWMSRTqaco.8_0|C|B": {
+  "dlWMSRTqaco.8_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -14495,7 +14495,7 @@
       "D": "Shuffle"
     }
   },
-  "ZzypsDiBuHc.2_0|C|B": {
+  "ZzypsDiBuHc.2_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "D",
@@ -14555,7 +14555,7 @@
       "D": "Late"
     }
   },
-  "dlWMSRTqaco.8_0|C|E": {
+  "dlWMSRTqaco.8_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -14579,7 +14579,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_14153000|C|B": {
+  "DAY1_A3_TASHA_14153000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -14591,7 +14591,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_14153000|C|E": {
+  "DAY1_A3_TASHA_14153000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -14639,7 +14639,7 @@
       "D": "GT"
     }
   },
-  "27l-22-4-1|P2|496|1037|C|B": {
+  "27l-22-4-1|P2|496|1037|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -14651,7 +14651,7 @@
       "D": "Loop"
     }
   },
-  "27l-22-4-1|P2|496|1037|C|E": {
+  "27l-22-4-1|P2|496|1037|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -14771,7 +14771,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_21423000|C|B": {
+  "DAY1_A2_ALICE_21423000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "B",
@@ -14819,7 +14819,7 @@
       "D": "GT"
     }
   },
-  "v_00002024_0|C|E": {
+  "v_00002024_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -14855,7 +14855,7 @@
       "D": "GT"
     }
   },
-  "v_00002024_0|C|B": {
+  "v_00002024_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -14891,7 +14891,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A2_ALICE_21423000|C|E": {
+  "DAY1_A2_ALICE_21423000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "B",
@@ -14927,7 +14927,7 @@
       "D": "Wide"
     }
   },
-  "CPC2zIu9rYc.6_0|C|E": {
+  "CPC2zIu9rYc.6_0|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -14975,7 +14975,7 @@
       "D": "Rand1"
     }
   },
-  "t5BdaCLqEcM.2_0|C|B": {
+  "t5BdaCLqEcM.2_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -15011,7 +15011,7 @@
       "D": "Early"
     }
   },
-  "TR7Zkdqcr4s.22_0|C|B": {
+  "TR7Zkdqcr4s.22_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -15095,7 +15095,7 @@
       "D": "Late"
     }
   },
-  "TR7Zkdqcr4s.22_0|C|E": {
+  "TR7Zkdqcr4s.22_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -15107,7 +15107,7 @@
       "D": "Loop"
     }
   },
-  "t5BdaCLqEcM.2_0|C|E": {
+  "t5BdaCLqEcM.2_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "C",
@@ -15119,7 +15119,7 @@
       "D": "GT"
     }
   },
-  "4m5khG0emPE_video|C|B": {
+  "4m5khG0emPE_video|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -15143,7 +15143,7 @@
       "D": "GT"
     }
   },
-  "29k-21-6-2|P2|0|480|C|B": {
+  "29k-21-6-2|P2|0|480|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -15167,7 +15167,7 @@
       "D": "GT"
     }
   },
-  "4m5khG0emPE_video|C|E": {
+  "4m5khG0emPE_video|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -15191,7 +15191,7 @@
       "D": "Rand2"
     }
   },
-  "29k-21-6-2|P2|0|480|C|E": {
+  "29k-21-6-2|P2|0|480|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "C",
@@ -15227,7 +15227,7 @@
       "D": "Rand1"
     }
   },
-  "hizR7GT17qw.31_0|C|B": {
+  "hizR7GT17qw.31_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -15299,7 +15299,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A2_ALICE_20000000|C|E": {
+  "DAY1_A2_ALICE_20000000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "D",
@@ -15323,7 +15323,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_20000000|C|B": {
+  "DAY1_A2_ALICE_20000000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "B",
@@ -15347,7 +15347,7 @@
       "D": "Early"
     }
   },
-  "CPC2zIu9rYc.6_0|C|B": {
+  "CPC2zIu9rYc.6_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -15491,7 +15491,7 @@
       "D": "Early"
     }
   },
-  "4Y1AW|C|B": {
+  "4Y1AW|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -15551,7 +15551,7 @@
       "D": "Rand2"
     }
   },
-  "Y4IIO|C|B": {
+  "Y4IIO|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "D",
@@ -15575,7 +15575,7 @@
       "D": "Rand2"
     }
   },
-  "89QkIhDAQK4.43_0|C|E": {
+  "89QkIhDAQK4.43_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -15599,7 +15599,7 @@
       "D": "Rand1"
     }
   },
-  "D6MZ4|C|B": {
+  "D6MZ4|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -15611,7 +15611,7 @@
       "D": "GT"
     }
   },
-  "Y4IIO|C|E": {
+  "Y4IIO|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -15635,7 +15635,7 @@
       "D": "Rand3"
     }
   },
-  "D6MZ4|C|E": {
+  "D6MZ4|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",
@@ -15683,7 +15683,7 @@
       "D": "Rand1"
     }
   },
-  "bLta34sLkBQ.19_0|C|B": {
+  "bLta34sLkBQ.19_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -15743,7 +15743,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A3_TASHA_20450000|C|E": {
+  "DAY1_A3_TASHA_20450000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -15755,7 +15755,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A3_TASHA_20450000|C|B": {
+  "DAY1_A3_TASHA_20450000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -15779,7 +15779,7 @@
       "D": "GT"
     }
   },
-  "-P7Y_BlwxO8.42_0|C|B": {
+  "-P7Y_BlwxO8.42_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "D",
@@ -15839,7 +15839,7 @@
       "D": "Late"
     }
   },
-  "v_00013624_0|C|E": {
+  "v_00013624_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "C",
@@ -15851,7 +15851,7 @@
       "D": "GT"
     }
   },
-  "hizR7GT17qw.31_0|C|E": {
+  "hizR7GT17qw.31_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -15911,7 +15911,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A2_ALICE_21453000|C|B": {
+  "DAY1_A2_ALICE_21453000|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -15923,7 +15923,7 @@
       "D": "GT"
     }
   },
-  "89QkIhDAQK4.43_0|C|B": {
+  "89QkIhDAQK4.43_0|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "C",
@@ -15935,7 +15935,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A2_ALICE_21453000|C|E": {
+  "DAY1_A2_ALICE_21453000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "D",
@@ -15959,7 +15959,7 @@
       "D": "Rand2"
     }
   },
-  "4Y1AW|C|E": {
+  "4Y1AW|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -15983,7 +15983,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_17590000|C|B": {
+  "DAY1_A4_LUCIA_17590000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -15995,7 +15995,7 @@
       "D": "Loop"
     }
   },
-  "v_00013624_0|C|B": {
+  "v_00013624_0|P|B": {
     "mode": "B",
     "correct": false,
     "answer": "A",
@@ -16019,7 +16019,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_20160000|C|B": {
+  "DAY1_A4_LUCIA_20160000|P|B": {
     "mode": "B",
     "correct": true,
     "answer": "A",
@@ -16139,7 +16139,7 @@
       "D": "GT"
     }
   },
-  "bLta34sLkBQ.19_0|C|E": {
+  "bLta34sLkBQ.19_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -16163,7 +16163,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20160000|C|E": {
+  "DAY1_A4_LUCIA_20160000|P|E": {
     "mode": "E",
     "correct": true,
     "answer": "A",
@@ -16175,7 +16175,7 @@
       "D": "Loop"
     }
   },
-  "-P7Y_BlwxO8.42_0|C|E": {
+  "-P7Y_BlwxO8.42_0|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "A",
@@ -16187,7 +16187,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_17590000|C|E": {
+  "DAY1_A4_LUCIA_17590000|P|E": {
     "mode": "E",
     "correct": false,
     "answer": "B",

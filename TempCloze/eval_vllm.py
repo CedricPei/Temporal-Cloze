@@ -89,11 +89,11 @@ _frames_lock = threading.Lock()
 # 结果文件名与日志使用模型名
 MODEL_TAG = f"vllm-{EVAL_MODEL.replace('/', '_')}"
 
-# S / A / C 三个维度的选项
+# S / A / P 三个维度的选项
 DIMENSIONS = {
     "S": ["S/Rand1.mp4", "S/Rand2.mp4", "S/Rand3.mp4"],
     "A": ["A/Early.mp4", "A/Late.mp4", "A/Wide.mp4"],
-    "C": ["C/Reverse.mp4", "C/Shuffle.mp4", "C/Loop.mp4"],
+    "P": ["P/Reverse.mp4", "P/Shuffle.mp4", "P/Loop.mp4"],
 }
 VALID_ANSWERS = {"A", "B", "C", "D"}
 ANSWER_LETTERS = ["A", "B", "C", "D"]

@@ -1,7 +1,7 @@
 """Temp-Mixed 评测脚本
 
 题型设计：每道题含 4 个候选项 —— GT（正确答案）+ 1 个 S 类干扰项 + 1 个 A 类干扰项
-+ 1 个 C/P 类干扰项。三种维度的干扰项同时出现在同一题中，具体干扰项由
++ 1 个 P 类干扰项。三种维度的干扰项同时出现在同一题中，具体干扰项由
 mixed_ids.json 固定记录。
 
 用法:
@@ -172,21 +172,21 @@ def eval_one(client: OpenAI, model: str, item: dict, seed: int) -> dict:
     stem = item["stem"]
     s_dist = item["S"]
     a_dist = item["A"]
-    c_dist = item["C"]
+    p_dist = item["P"]
 
-    # 4 个选项：GT + S干扰 + A干扰 + C干扰，打乱顺序
+    # 4 个选项：GT + S干扰 + A干扰 + P干扰，打乱顺序
     raw_options = [
         ("GT.mp4", True),
         (s_dist, False),
         (a_dist, False),
-        (c_dist, False),
+        (p_dist, False),
     ]
     rng = random.Random(f"{seed}:{stem}")
     rng.shuffle(raw_options)
     letters = [chr(65 + i) for i in range(4)]
 
     # option_dim_map: 字母 → 干扰维度类型
-    dim_label = {"GT.mp4": "GT", **{s_dist: "S", a_dist: "A", c_dist: "C"}}
+    dim_label = {"GT.mp4": "GT", **{s_dist: "S", a_dist: "A", p_dist: "P"}}
 
     content, correct_letter, option_map = build_content(stem, raw_options)
     option_dim = {letters[i]: dim_label[rel] for i, (rel, _) in enumerate(raw_options)}
@@ -332,7 +332,7 @@ def run(model_filter: str | None = None, seed: int = SEED):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Temp-Mixed evaluator: GT+S+A+C mixed-distractor 4-way MCQ")
+    parser = argparse.ArgumentParser(description="Temp-Mixed evaluator: GT+S+A+P mixed-distractor 4-way MCQ")
     parser.add_argument("--model", type=str, default=None, help="Filter to specific model (substring match)")
     parser.add_argument("--seed", type=int, default=SEED, help="Random seed for option shuffling (default: 42)")
     args = parser.parse_args()

@@ -21,8 +21,7 @@ REPO_ROOT = Path(__file__).resolve().parents[2]
 OUTPUT_ROOT = REPO_ROOT / "output"
 DEFAULT_OUT_DIR = REPO_ROOT / "figure" / "pics"
 
-DIMS = ("S", "A", "C")
-DIM_LABEL = {"S": "S", "A": "A", "C": "P"}
+DIMS = ("S", "A", "P")
 
 DEFAULT_MODELS = {
     "Gemini2.5-Pro": REPO_ROOT / "TempCloze" / "eval_results" / "closed" / "eval_results" / "gemini-2.5-pro.json",
@@ -129,7 +128,7 @@ def analyze_model_by_source(
             "n_videos": len(videos),
         }
         for dim in DIMS:
-            row[DIM_LABEL[dim]] = pct(stats["dim_correct"][dim], stats["dim_total"][dim])
+            row[dim] = pct(stats["dim_correct"][dim], stats["dim_total"][dim])
 
         correct_counts = [sum(int(video[dim]) for dim in DIMS) for video in videos]
         for k in (1, 2, 3):

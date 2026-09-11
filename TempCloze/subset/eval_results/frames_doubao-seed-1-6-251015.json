@@ -11,7 +11,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_20030000|C|8": {
+  "DAY1_A4_LUCIA_20030000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -71,7 +71,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_20030000|C|12": {
+  "DAY1_A4_LUCIA_20030000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -143,7 +143,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20030000|C|16": {
+  "DAY1_A4_LUCIA_20030000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -179,7 +179,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A3_TASHA_20213000|C|8": {
+  "DAY1_A3_TASHA_20213000|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "B",
@@ -191,7 +191,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20030000|C|20": {
+  "DAY1_A4_LUCIA_20030000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -239,7 +239,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A3_TASHA_20213000|C|12": {
+  "DAY1_A3_TASHA_20213000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -287,7 +287,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A3_TASHA_20213000|C|20": {
+  "DAY1_A3_TASHA_20213000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -299,7 +299,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_20213000|C|16": {
+  "DAY1_A3_TASHA_20213000|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "A",
@@ -323,7 +323,7 @@
       "D": "Rand3"
     }
   },
-  "GF6TR|C|8": {
+  "GF6TR|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -371,7 +371,7 @@
       "D": "Rand1"
     }
   },
-  "GF6TR|C|12": {
+  "GF6TR|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -407,7 +407,7 @@
       "D": "Rand1"
     }
   },
-  "GF6TR|C|16": {
+  "GF6TR|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -443,7 +443,7 @@
       "D": "GT"
     }
   },
-  "XKrPt6jG0rE|C|8": {
+  "XKrPt6jG0rE|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "A",
@@ -455,7 +455,7 @@
       "D": "GT"
     }
   },
-  "GF6TR|C|20": {
+  "GF6TR|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -503,7 +503,7 @@
       "D": "GT"
     }
   },
-  "XKrPt6jG0rE|C|12": {
+  "XKrPt6jG0rE|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -563,7 +563,7 @@
       "D": "Rand2"
     }
   },
-  "XKrPt6jG0rE|C|16": {
+  "XKrPt6jG0rE|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -575,7 +575,7 @@
       "D": "GT"
     }
   },
-  "XKrPt6jG0rE|C|20": {
+  "XKrPt6jG0rE|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -599,7 +599,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_17350000|C|8": {
+  "DAY1_A2_ALICE_17350000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -647,7 +647,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_17350000|C|12": {
+  "DAY1_A2_ALICE_17350000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -671,7 +671,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_17350000|C|16": {
+  "DAY1_A2_ALICE_17350000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -719,7 +719,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_17350000|C|20": {
+  "DAY1_A2_ALICE_17350000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -731,7 +731,7 @@
       "D": "Shuffle"
     }
   },
-  "0JQ26|C|8": {
+  "0JQ26|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "A",
@@ -791,7 +791,7 @@
       "D": "GT"
     }
   },
-  "0JQ26|C|12": {
+  "0JQ26|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -875,7 +875,7 @@
       "D": "GT"
     }
   },
-  "0JQ26|C|16": {
+  "0JQ26|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "A",
@@ -899,7 +899,7 @@
       "D": "Wide"
     }
   },
-  "G9H0p1JGfp0.29_0|C|8": {
+  "G9H0p1JGfp0.29_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -923,7 +923,7 @@
       "D": "GT"
     }
   },
-  "0JQ26|C|20": {
+  "0JQ26|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -935,7 +935,7 @@
       "D": "Shuffle"
     }
   },
-  "G9H0p1JGfp0.29_0|C|12": {
+  "G9H0p1JGfp0.29_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -959,7 +959,7 @@
       "D": "GT"
     }
   },
-  "gi0VupIJaKA|C|8": {
+  "gi0VupIJaKA|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -1019,7 +1019,7 @@
       "D": "GT"
     }
   },
-  "G9H0p1JGfp0.29_0|C|16": {
+  "G9H0p1JGfp0.29_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -1067,7 +1067,7 @@
       "D": "Rand1"
     }
   },
-  "gi0VupIJaKA|C|12": {
+  "gi0VupIJaKA|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -1079,7 +1079,7 @@
       "D": "Reverse"
     }
   },
-  "G9H0p1JGfp0.29_0|C|20": {
+  "G9H0p1JGfp0.29_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -1139,7 +1139,7 @@
       "D": "Rand3"
     }
   },
-  "gi0VupIJaKA|C|16": {
+  "gi0VupIJaKA|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -1175,7 +1175,7 @@
       "D": "Rand2"
     }
   },
-  "Q_A3epM0N8A.5_0|C|8": {
+  "Q_A3epM0N8A.5_0|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "C",
@@ -1187,7 +1187,7 @@
       "D": "GT"
     }
   },
-  "gi0VupIJaKA|C|20": {
+  "gi0VupIJaKA|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -1271,7 +1271,7 @@
       "D": "Rand3"
     }
   },
-  "Q_A3epM0N8A.5_0|C|12": {
+  "Q_A3epM0N8A.5_0|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "C",
@@ -1295,7 +1295,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A5_KATRINA_11120000|C|8": {
+  "DAY1_A5_KATRINA_11120000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -1343,7 +1343,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A5_KATRINA_11120000|C|12": {
+  "DAY1_A5_KATRINA_11120000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -1367,7 +1367,7 @@
       "D": "Late"
     }
   },
-  "Q_A3epM0N8A.5_0|C|16": {
+  "Q_A3epM0N8A.5_0|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "B",
@@ -1403,7 +1403,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A5_KATRINA_11120000|C|20": {
+  "DAY1_A5_KATRINA_11120000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -1439,7 +1439,7 @@
       "D": "Early"
     }
   },
-  "Q_A3epM0N8A.5_0|C|20": {
+  "Q_A3epM0N8A.5_0|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "C",
@@ -1451,7 +1451,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A5_KATRINA_11120000|C|16": {
+  "DAY1_A5_KATRINA_11120000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -1475,7 +1475,7 @@
       "D": "Rand1"
     }
   },
-  "Kgu3SKge70k.4_0|C|8": {
+  "Kgu3SKge70k.4_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -1523,7 +1523,7 @@
       "D": "Rand2"
     }
   },
-  "Kgu3SKge70k.4_0|C|12": {
+  "Kgu3SKge70k.4_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -1571,7 +1571,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A6_SHURE_11520000|C|8": {
+  "DAY1_A6_SHURE_11520000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -1631,7 +1631,7 @@
       "D": "Rand2"
     }
   },
-  "Kgu3SKge70k.4_0|C|16": {
+  "Kgu3SKge70k.4_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -1667,7 +1667,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A6_SHURE_11520000|C|16": {
+  "DAY1_A6_SHURE_11520000|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "A",
@@ -1691,7 +1691,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A6_SHURE_11520000|C|20": {
+  "DAY1_A6_SHURE_11520000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -1703,7 +1703,7 @@
       "D": "GT"
     }
   },
-  "Kgu3SKge70k.4_0|C|20": {
+  "Kgu3SKge70k.4_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -1751,7 +1751,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A6_SHURE_11520000|C|12": {
+  "DAY1_A6_SHURE_11520000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -1775,7 +1775,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A1_JAKE_19203000|C|8": {
+  "DAY1_A1_JAKE_19203000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -1799,7 +1799,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A1_JAKE_19203000|C|12": {
+  "DAY1_A1_JAKE_19203000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -1823,7 +1823,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A1_JAKE_19203000|C|16": {
+  "DAY1_A1_JAKE_19203000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -1859,7 +1859,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_19203000|C|20": {
+  "DAY1_A1_JAKE_19203000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -1895,7 +1895,7 @@
       "D": "Late"
     }
   },
-  "KQYYTaOWzgQ.24_5|C|8": {
+  "KQYYTaOWzgQ.24_5|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -1943,7 +1943,7 @@
       "D": "GT"
     }
   },
-  "KQYYTaOWzgQ.24_5|C|12": {
+  "KQYYTaOWzgQ.24_5|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -1991,7 +1991,7 @@
       "D": "GT"
     }
   },
-  "KQYYTaOWzgQ.24_5|C|16": {
+  "KQYYTaOWzgQ.24_5|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -2015,7 +2015,7 @@
       "D": "Early"
     }
   },
-  "KQYYTaOWzgQ.24_5|C|20": {
+  "KQYYTaOWzgQ.24_5|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "A",
@@ -2027,7 +2027,7 @@
       "D": "Loop"
     }
   },
-  "shsyS2WH6ns.2_1|C|8": {
+  "shsyS2WH6ns.2_1|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -2099,7 +2099,7 @@
       "D": "GT"
     }
   },
-  "shsyS2WH6ns.2_1|C|12": {
+  "shsyS2WH6ns.2_1|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -2111,7 +2111,7 @@
       "D": "Shuffle"
     }
   },
-  "0052-7|C|8": {
+  "0052-7|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -2183,7 +2183,7 @@
       "D": "Rand1"
     }
   },
-  "0052-7|C|12": {
+  "0052-7|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -2243,7 +2243,7 @@
       "D": "Rand1"
     }
   },
-  "0052-7|C|16": {
+  "0052-7|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -2255,7 +2255,7 @@
       "D": "Loop"
     }
   },
-  "shsyS2WH6ns.2_1|C|16": {
+  "shsyS2WH6ns.2_1|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -2267,7 +2267,7 @@
       "D": "Shuffle"
     }
   },
-  "0052-7|C|20": {
+  "0052-7|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -2315,7 +2315,7 @@
       "D": "GT"
     }
   },
-  "v_00016063_6|C|8": {
+  "v_00016063_6|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "B",
@@ -2351,7 +2351,7 @@
       "D": "GT"
     }
   },
-  "v_00016063_6|C|12": {
+  "v_00016063_6|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "B",
@@ -2375,7 +2375,7 @@
       "D": "Rand2"
     }
   },
-  "shsyS2WH6ns.2_1|C|20": {
+  "shsyS2WH6ns.2_1|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -2411,7 +2411,7 @@
       "D": "GT"
     }
   },
-  "v_00016063_6|C|16": {
+  "v_00016063_6|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "B",
@@ -2471,7 +2471,7 @@
       "D": "Early"
     }
   },
-  "v_00016063_6|C|20": {
+  "v_00016063_6|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "B",
@@ -2507,7 +2507,7 @@
       "D": "Rand1"
     }
   },
-  "H0uxrf4pJY0|C|8": {
+  "H0uxrf4pJY0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -2591,7 +2591,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A4_LUCIA_11320000|C|8": {
+  "DAY1_A4_LUCIA_11320000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -2603,7 +2603,7 @@
       "D": "Loop"
     }
   },
-  "H0uxrf4pJY0|C|12": {
+  "H0uxrf4pJY0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -2627,7 +2627,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_11320000|C|12": {
+  "DAY1_A4_LUCIA_11320000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -2663,7 +2663,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_11320000|C|16": {
+  "DAY1_A4_LUCIA_11320000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -2687,7 +2687,7 @@
       "D": "GT"
     }
   },
-  "H0uxrf4pJY0|C|16": {
+  "H0uxrf4pJY0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -2711,7 +2711,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_11320000|C|20": {
+  "DAY1_A4_LUCIA_11320000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -2735,7 +2735,7 @@
       "D": "Early"
     }
   },
-  "t70ys_UEjDE.16_1|C|8": {
+  "t70ys_UEjDE.16_1|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -2783,7 +2783,7 @@
       "D": "GT"
     }
   },
-  "H0uxrf4pJY0|C|20": {
+  "H0uxrf4pJY0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -2795,7 +2795,7 @@
       "D": "Reverse"
     }
   },
-  "t70ys_UEjDE.16_1|C|12": {
+  "t70ys_UEjDE.16_1|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -2819,7 +2819,7 @@
       "D": "GT"
     }
   },
-  "t70ys_UEjDE.16_1|C|16": {
+  "t70ys_UEjDE.16_1|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -2867,7 +2867,7 @@
       "D": "GT"
     }
   },
-  "t70ys_UEjDE.16_1|C|20": {
+  "t70ys_UEjDE.16_1|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -2903,7 +2903,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A4_LUCIA_13173000|C|8": {
+  "DAY1_A4_LUCIA_13173000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -2915,7 +2915,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A4_LUCIA_13173000|C|12": {
+  "DAY1_A4_LUCIA_13173000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -3011,7 +3011,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_13173000|C|16": {
+  "DAY1_A4_LUCIA_13173000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -3047,7 +3047,7 @@
       "D": "Rand2"
     }
   },
-  "yPAglEvhlaI.0_1|C|8": {
+  "yPAglEvhlaI.0_1|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "B",
@@ -3059,7 +3059,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A4_LUCIA_13173000|C|20": {
+  "DAY1_A4_LUCIA_13173000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -3107,7 +3107,7 @@
       "D": "Rand2"
     }
   },
-  "yPAglEvhlaI.0_1|C|12": {
+  "yPAglEvhlaI.0_1|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -3167,7 +3167,7 @@
       "D": "Early"
     }
   },
-  "yPAglEvhlaI.0_1|C|16": {
+  "yPAglEvhlaI.0_1|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "A",
@@ -3179,7 +3179,7 @@
       "D": "Loop"
     }
   },
-  "cVed2CVwYAg.4_0|C|8": {
+  "cVed2CVwYAg.4_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -3203,7 +3203,7 @@
       "D": "Rand3"
     }
   },
-  "yPAglEvhlaI.0_1|C|20": {
+  "yPAglEvhlaI.0_1|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -3251,7 +3251,7 @@
       "D": "Rand3"
     }
   },
-  "cVed2CVwYAg.4_0|C|12": {
+  "cVed2CVwYAg.4_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -3299,7 +3299,7 @@
       "D": "GT"
     }
   },
-  "cVed2CVwYAg.4_0|C|16": {
+  "cVed2CVwYAg.4_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -3311,7 +3311,7 @@
       "D": "Shuffle"
     }
   },
-  "N-t8kU7adh4.7_0|C|8": {
+  "N-t8kU7adh4.7_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -3359,7 +3359,7 @@
       "D": "GT"
     }
   },
-  "cVed2CVwYAg.4_0|C|20": {
+  "cVed2CVwYAg.4_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -3383,7 +3383,7 @@
       "D": "Rand1"
     }
   },
-  "N-t8kU7adh4.7_0|C|12": {
+  "N-t8kU7adh4.7_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -3455,7 +3455,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_18250000|C|8": {
+  "DAY1_A4_LUCIA_18250000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -3479,7 +3479,7 @@
       "D": "Early"
     }
   },
-  "N-t8kU7adh4.7_0|C|16": {
+  "N-t8kU7adh4.7_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -3515,7 +3515,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A4_LUCIA_18250000|C|12": {
+  "DAY1_A4_LUCIA_18250000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -3551,7 +3551,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_18250000|C|16": {
+  "DAY1_A4_LUCIA_18250000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -3563,7 +3563,7 @@
       "D": "Shuffle"
     }
   },
-  "N-t8kU7adh4.7_0|C|20": {
+  "N-t8kU7adh4.7_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -3599,7 +3599,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A4_LUCIA_18250000|C|20": {
+  "DAY1_A4_LUCIA_18250000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -3635,7 +3635,7 @@
       "D": "GT"
     }
   },
-  "v1hB3uNYdf0|C|8": {
+  "v1hB3uNYdf0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -3671,7 +3671,7 @@
       "D": "GT"
     }
   },
-  "v1hB3uNYdf0|C|12": {
+  "v1hB3uNYdf0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -3707,7 +3707,7 @@
       "D": "Early"
     }
   },
-  "v1hB3uNYdf0|C|16": {
+  "v1hB3uNYdf0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -3743,7 +3743,7 @@
       "D": "Rand3"
     }
   },
-  "v1hB3uNYdf0|C|20": {
+  "v1hB3uNYdf0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -3767,7 +3767,7 @@
       "D": "GT"
     }
   },
-  "9wQEAnnBgXc.14_0|C|8": {
+  "9wQEAnnBgXc.14_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -3863,7 +3863,7 @@
       "D": "Rand3"
     }
   },
-  "9wQEAnnBgXc.14_0|C|12": {
+  "9wQEAnnBgXc.14_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -3875,7 +3875,7 @@
       "D": "Reverse"
     }
   },
-  "9wQEAnnBgXc.14_0|C|16": {
+  "9wQEAnnBgXc.14_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -3923,7 +3923,7 @@
       "D": "Early"
     }
   },
-  "K-AxXEND_Dk.8_0|C|8": {
+  "K-AxXEND_Dk.8_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -3983,7 +3983,7 @@
       "D": "Rand1"
     }
   },
-  "9wQEAnnBgXc.14_0|C|20": {
+  "9wQEAnnBgXc.14_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -3995,7 +3995,7 @@
       "D": "Reverse"
     }
   },
-  "K-AxXEND_Dk.8_0|C|12": {
+  "K-AxXEND_Dk.8_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -4019,7 +4019,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A5_KATRINA_19380000|C|8": {
+  "DAY1_A5_KATRINA_19380000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -4091,7 +4091,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A5_KATRINA_19380000|C|12": {
+  "DAY1_A5_KATRINA_19380000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -4127,7 +4127,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A5_KATRINA_19380000|C|16": {
+  "DAY1_A5_KATRINA_19380000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -4151,7 +4151,7 @@
       "D": "Late"
     }
   },
-  "K-AxXEND_Dk.8_0|C|16": {
+  "K-AxXEND_Dk.8_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -4187,7 +4187,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A5_KATRINA_19380000|C|20": {
+  "DAY1_A5_KATRINA_19380000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -4211,7 +4211,7 @@
       "D": "Early"
     }
   },
-  "0032-7|C|8": {
+  "0032-7|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -4235,7 +4235,7 @@
       "D": "GT"
     }
   },
-  "0032-7|C|12": {
+  "0032-7|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -4271,7 +4271,7 @@
       "D": "Early"
     }
   },
-  "0032-7|C|16": {
+  "0032-7|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -4283,7 +4283,7 @@
       "D": "Reverse"
     }
   },
-  "K-AxXEND_Dk.8_0|C|20": {
+  "K-AxXEND_Dk.8_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -4319,7 +4319,7 @@
       "D": "GT"
     }
   },
-  "0032-7|C|20": {
+  "0032-7|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -4379,7 +4379,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A6_SHURE_13003000|C|8": {
+  "DAY1_A6_SHURE_13003000|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "B",
@@ -4439,7 +4439,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A6_SHURE_13003000|C|12": {
+  "DAY1_A6_SHURE_13003000|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "B",
@@ -4451,7 +4451,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A6_SHURE_13003000|C|16": {
+  "DAY1_A6_SHURE_13003000|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "B",
@@ -4487,7 +4487,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A6_SHURE_13003000|C|20": {
+  "DAY1_A6_SHURE_13003000|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "B",
@@ -4511,7 +4511,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_20280000|C|8": {
+  "DAY1_A2_ALICE_20280000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -4559,7 +4559,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A2_ALICE_20280000|C|12": {
+  "DAY1_A2_ALICE_20280000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -4583,7 +4583,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A2_ALICE_20280000|C|16": {
+  "DAY1_A2_ALICE_20280000|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "A",
@@ -4607,7 +4607,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_20280000|C|20": {
+  "DAY1_A2_ALICE_20280000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -4655,7 +4655,7 @@
       "D": "GT"
     }
   },
-  "avSLIIl6hLQ.13_1|C|8": {
+  "avSLIIl6hLQ.13_1|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "B",
@@ -4727,7 +4727,7 @@
       "D": "Late"
     }
   },
-  "avSLIIl6hLQ.13_1|C|12": {
+  "avSLIIl6hLQ.13_1|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -4751,7 +4751,7 @@
       "D": "Late"
     }
   },
-  "avSLIIl6hLQ.13_1|C|16": {
+  "avSLIIl6hLQ.13_1|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "D",
@@ -4787,7 +4787,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_18033000|C|8": {
+  "DAY1_A4_LUCIA_18033000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -4823,7 +4823,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_18033000|C|12": {
+  "DAY1_A4_LUCIA_18033000|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "A",
@@ -4847,7 +4847,7 @@
       "D": "GT"
     }
   },
-  "avSLIIl6hLQ.13_1|C|20": {
+  "avSLIIl6hLQ.13_1|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "D",
@@ -4871,7 +4871,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_18033000|C|16": {
+  "DAY1_A4_LUCIA_18033000|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "A",
@@ -4883,7 +4883,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A4_LUCIA_18033000|C|20": {
+  "DAY1_A4_LUCIA_18033000|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "A",
@@ -4919,7 +4919,7 @@
       "D": "Early"
     }
   },
-  "v_00001379_10|C|8": {
+  "v_00001379_10|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -5003,7 +5003,7 @@
       "D": "Rand2"
     }
   },
-  "v_00001379_10|C|12": {
+  "v_00001379_10|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -5039,7 +5039,7 @@
       "D": "Early"
     }
   },
-  "8bDVEnSBobk.6_0|C|8": {
+  "8bDVEnSBobk.6_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -5051,7 +5051,7 @@
       "D": "Loop"
     }
   },
-  "v_00001379_10|C|16": {
+  "v_00001379_10|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -5147,7 +5147,7 @@
       "D": "Late"
     }
   },
-  "8bDVEnSBobk.6_0|C|12": {
+  "8bDVEnSBobk.6_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -5183,7 +5183,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_18413000|C|8": {
+  "DAY1_A1_JAKE_18413000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -5207,7 +5207,7 @@
       "D": "GT"
     }
   },
-  "v_00001379_10|C|20": {
+  "v_00001379_10|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "A",
@@ -5231,7 +5231,7 @@
       "D": "Late"
     }
   },
-  "8bDVEnSBobk.6_0|C|16": {
+  "8bDVEnSBobk.6_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -5255,7 +5255,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A1_JAKE_18413000|C|12": {
+  "DAY1_A1_JAKE_18413000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -5303,7 +5303,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_18413000|C|16": {
+  "DAY1_A1_JAKE_18413000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -5315,7 +5315,7 @@
       "D": "Shuffle"
     }
   },
-  "8bDVEnSBobk.6_0|C|20": {
+  "8bDVEnSBobk.6_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -5351,7 +5351,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A1_JAKE_18413000|C|20": {
+  "DAY1_A1_JAKE_18413000|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "B",
@@ -5375,7 +5375,7 @@
       "D": "Wide"
     }
   },
-  "26l-12-4-1|P1|438|928|C|8": {
+  "26l-12-4-1|P1|438|928|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -5399,7 +5399,7 @@
       "D": "Rand1"
     }
   },
-  "26l-12-4-1|P1|438|928|C|12": {
+  "26l-12-4-1|P1|438|928|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "B",
@@ -5447,7 +5447,7 @@
       "D": "Wide"
     }
   },
-  "26l-12-4-1|P1|438|928|C|16": {
+  "26l-12-4-1|P1|438|928|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -5459,7 +5459,7 @@
       "D": "GT"
     }
   },
-  "26l-12-4-1|P1|438|928|C|20": {
+  "26l-12-4-1|P1|438|928|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -5543,7 +5543,7 @@
       "D": "Wide"
     }
   },
-  "Y_CY6BtlxDI.19_1|C|8": {
+  "Y_CY6BtlxDI.19_1|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -5567,7 +5567,7 @@
       "D": "GT"
     }
   },
-  "Y_CY6BtlxDI.19_1|C|12": {
+  "Y_CY6BtlxDI.19_1|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -5615,7 +5615,7 @@
       "D": "Wide"
     }
   },
-  "Y_CY6BtlxDI.19_1|C|20": {
+  "Y_CY6BtlxDI.19_1|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -5675,7 +5675,7 @@
       "D": "Early"
     }
   },
-  "0793-7|C|8": {
+  "0793-7|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -5687,7 +5687,7 @@
       "D": "Loop"
     }
   },
-  "0793-7|C|12": {
+  "0793-7|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -5723,7 +5723,7 @@
       "D": "Early"
     }
   },
-  "0793-7|C|16": {
+  "0793-7|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -5747,7 +5747,7 @@
       "D": "Rand2"
     }
   },
-  "0793-7|C|20": {
+  "0793-7|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -5783,7 +5783,7 @@
       "D": "Rand2"
     }
   },
-  "mB6VIuK6Wlw.1_0|C|12": {
+  "mB6VIuK6Wlw.1_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -5819,7 +5819,7 @@
       "D": "GT"
     }
   },
-  "v_00006711_0|C|8": {
+  "v_00006711_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -5843,7 +5843,7 @@
       "D": "Wide"
     }
   },
-  "mB6VIuK6Wlw.1_0|C|8": {
+  "mB6VIuK6Wlw.1_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -5879,7 +5879,7 @@
       "D": "Rand1"
     }
   },
-  "v_00006711_0|C|16": {
+  "v_00006711_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -5891,7 +5891,7 @@
       "D": "Reverse"
     }
   },
-  "v_00006711_0|C|12": {
+  "v_00006711_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -5903,7 +5903,7 @@
       "D": "Reverse"
     }
   },
-  "mB6VIuK6Wlw.1_0|C|16": {
+  "mB6VIuK6Wlw.1_0|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "B",
@@ -5939,7 +5939,7 @@
       "D": "Rand2"
     }
   },
-  "mB6VIuK6Wlw.1_0|C|20": {
+  "mB6VIuK6Wlw.1_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -5951,7 +5951,7 @@
       "D": "Reverse"
     }
   },
-  "v_00006711_0|C|20": {
+  "v_00006711_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -6023,7 +6023,7 @@
       "D": "Early"
     }
   },
-  "6TJVS|C|8": {
+  "6TJVS|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -6047,7 +6047,7 @@
       "D": "Rand2"
     }
   },
-  "Y_CY6BtlxDI.19_1|C|16": {
+  "Y_CY6BtlxDI.19_1|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -6083,7 +6083,7 @@
       "D": "GT"
     }
   },
-  "6TJVS|C|16": {
+  "6TJVS|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -6131,7 +6131,7 @@
       "D": "GT"
     }
   },
-  "6TJVS|C|20": {
+  "6TJVS|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "C",
@@ -6191,7 +6191,7 @@
       "D": "Rand2"
     }
   },
-  "Z9E_idJy97M.19_0|C|8": {
+  "Z9E_idJy97M.19_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -6203,7 +6203,7 @@
       "D": "GT"
     }
   },
-  "Z9E_idJy97M.19_0|C|12": {
+  "Z9E_idJy97M.19_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -6227,7 +6227,7 @@
       "D": "Wide"
     }
   },
-  "Z9E_idJy97M.19_0|C|16": {
+  "Z9E_idJy97M.19_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -6275,7 +6275,7 @@
       "D": "Wide"
     }
   },
-  "Z9E_idJy97M.19_0|C|20": {
+  "Z9E_idJy97M.19_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -6299,7 +6299,7 @@
       "D": "Rand1"
     }
   },
-  "-iJMxD4agOE.32_0|C|8": {
+  "-iJMxD4agOE.32_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -6347,7 +6347,7 @@
       "D": "Rand1"
     }
   },
-  "-iJMxD4agOE.32_0|C|12": {
+  "-iJMxD4agOE.32_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -6407,7 +6407,7 @@
       "D": "GT"
     }
   },
-  "-iJMxD4agOE.32_0|C|16": {
+  "-iJMxD4agOE.32_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -6467,7 +6467,7 @@
       "D": "Rand3"
     }
   },
-  "-iJMxD4agOE.32_0|C|20": {
+  "-iJMxD4agOE.32_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -6491,7 +6491,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_11453000|C|8": {
+  "DAY1_A3_TASHA_11453000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -6503,7 +6503,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A3_TASHA_11453000|C|12": {
+  "DAY1_A3_TASHA_11453000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -6539,7 +6539,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_11453000|C|16": {
+  "DAY1_A3_TASHA_11453000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -6575,7 +6575,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_11453000|C|20": {
+  "DAY1_A3_TASHA_11453000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -6599,7 +6599,7 @@
       "D": "GT"
     }
   },
-  "27k-21-2-2|P2|0|508|C|8": {
+  "27k-21-2-2|P2|0|508|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -6647,7 +6647,7 @@
       "D": "GT"
     }
   },
-  "27k-21-2-2|P2|0|508|C|12": {
+  "27k-21-2-2|P2|0|508|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -6695,7 +6695,7 @@
       "D": "GT"
     }
   },
-  "27k-21-2-2|P2|0|508|C|16": {
+  "27k-21-2-2|P2|0|508|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -6755,7 +6755,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_19233000|C|8": {
+  "DAY1_A1_JAKE_19233000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -6767,7 +6767,7 @@
       "D": "Shuffle"
     }
   },
-  "27k-21-2-2|P2|0|508|C|20": {
+  "27k-21-2-2|P2|0|508|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -6791,7 +6791,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_19233000|C|12": {
+  "DAY1_A1_JAKE_19233000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -6803,7 +6803,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A1_JAKE_19233000|C|16": {
+  "DAY1_A1_JAKE_19233000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -6827,7 +6827,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_19233000|C|20": {
+  "DAY1_A1_JAKE_19233000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -6875,7 +6875,7 @@
       "D": "Wide"
     }
   },
-  "36X2HVxrfn8.13_0|C|8": {
+  "36X2HVxrfn8.13_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -6935,7 +6935,7 @@
       "D": "Rand2"
     }
   },
-  "36X2HVxrfn8.13_0|C|12": {
+  "36X2HVxrfn8.13_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -6971,7 +6971,7 @@
       "D": "Rand2"
     }
   },
-  "36X2HVxrfn8.13_0|C|16": {
+  "36X2HVxrfn8.13_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -7019,7 +7019,7 @@
       "D": "Rand2"
     }
   },
-  "36X2HVxrfn8.13_0|C|20": {
+  "36X2HVxrfn8.13_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -7055,7 +7055,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A4_LUCIA_18060000|C|8": {
+  "DAY1_A4_LUCIA_18060000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -7067,7 +7067,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A4_LUCIA_18060000|C|12": {
+  "DAY1_A4_LUCIA_18060000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -7103,7 +7103,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A4_LUCIA_18060000|C|16": {
+  "DAY1_A4_LUCIA_18060000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -7127,7 +7127,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A4_LUCIA_18060000|C|20": {
+  "DAY1_A4_LUCIA_18060000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -7175,7 +7175,7 @@
       "D": "Rand1"
     }
   },
-  "2eptl8G0230.32_1|C|8": {
+  "2eptl8G0230.32_1|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -7211,7 +7211,7 @@
       "D": "Early"
     }
   },
-  "2eptl8G0230.32_1|C|12": {
+  "2eptl8G0230.32_1|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -7259,7 +7259,7 @@
       "D": "Rand1"
     }
   },
-  "2eptl8G0230.32_1|C|16": {
+  "2eptl8G0230.32_1|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -7295,7 +7295,7 @@
       "D": "Early"
     }
   },
-  "2eptl8G0230.32_1|C|20": {
+  "2eptl8G0230.32_1|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -7319,7 +7319,7 @@
       "D": "GT"
     }
   },
-  "fujQBbSNXcA|C|8": {
+  "fujQBbSNXcA|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -7367,7 +7367,7 @@
       "D": "Rand3"
     }
   },
-  "fujQBbSNXcA|C|12": {
+  "fujQBbSNXcA|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -7379,7 +7379,7 @@
       "D": "GT"
     }
   },
-  "6TJVS|C|12": {
+  "6TJVS|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -7511,7 +7511,7 @@
       "D": "Early"
     }
   },
-  "8X8BS3t4lSM.26_0|C|8": {
+  "8X8BS3t4lSM.26_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -7535,7 +7535,7 @@
       "D": "Early"
     }
   },
-  "fujQBbSNXcA|C|16": {
+  "fujQBbSNXcA|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -7559,7 +7559,7 @@
       "D": "Rand3"
     }
   },
-  "8X8BS3t4lSM.26_0|C|12": {
+  "8X8BS3t4lSM.26_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -7571,7 +7571,7 @@
       "D": "Loop"
     }
   },
-  "fujQBbSNXcA|C|20": {
+  "fujQBbSNXcA|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -7595,7 +7595,7 @@
       "D": "Wide"
     }
   },
-  "8X8BS3t4lSM.26_0|C|16": {
+  "8X8BS3t4lSM.26_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -7631,7 +7631,7 @@
       "D": "Wide"
     }
   },
-  "8X8BS3t4lSM.26_0|C|20": {
+  "8X8BS3t4lSM.26_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -7667,7 +7667,7 @@
       "D": "GT"
     }
   },
-  "28hKF2Rhebs.31_1|C|8": {
+  "28hKF2Rhebs.31_1|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -7751,7 +7751,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_12303000|C|8": {
+  "DAY1_A4_LUCIA_12303000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -7775,7 +7775,7 @@
       "D": "GT"
     }
   },
-  "28hKF2Rhebs.31_1|C|12": {
+  "28hKF2Rhebs.31_1|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -7811,7 +7811,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_12303000|C|12": {
+  "DAY1_A4_LUCIA_12303000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -7871,7 +7871,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_12303000|C|16": {
+  "DAY1_A4_LUCIA_12303000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -7895,7 +7895,7 @@
       "D": "Wide"
     }
   },
-  "28hKF2Rhebs.31_1|C|16": {
+  "28hKF2Rhebs.31_1|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -7907,7 +7907,7 @@
       "D": "Reverse"
     }
   },
-  "PHH49|C|8": {
+  "PHH49|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -7943,7 +7943,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_12303000|C|20": {
+  "DAY1_A4_LUCIA_12303000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -7967,7 +7967,7 @@
       "D": "Rand3"
     }
   },
-  "PHH49|C|12": {
+  "PHH49|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -8003,7 +8003,7 @@
       "D": "Wide"
     }
   },
-  "PHH49|C|16": {
+  "PHH49|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -8027,7 +8027,7 @@
       "D": "Rand2"
     }
   },
-  "PHH49|C|20": {
+  "PHH49|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -8063,7 +8063,7 @@
       "D": "Wide"
     }
   },
-  "28hKF2Rhebs.31_1|C|20": {
+  "28hKF2Rhebs.31_1|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -8111,7 +8111,7 @@
       "D": "Rand2"
     }
   },
-  "nGJ3EFRnv3w.29_1|C|12": {
+  "nGJ3EFRnv3w.29_1|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -8135,7 +8135,7 @@
       "D": "Early"
     }
   },
-  "nGJ3EFRnv3w.29_1|C|8": {
+  "nGJ3EFRnv3w.29_1|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "B",
@@ -8207,7 +8207,7 @@
       "D": "Rand2"
     }
   },
-  "nGJ3EFRnv3w.29_1|C|16": {
+  "nGJ3EFRnv3w.29_1|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "B",
@@ -8243,7 +8243,7 @@
       "D": "Late"
     }
   },
-  "BTRxadIkKmU.11_0|C|8": {
+  "BTRxadIkKmU.11_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -8255,7 +8255,7 @@
       "D": "Reverse"
     }
   },
-  "nGJ3EFRnv3w.29_1|C|20": {
+  "nGJ3EFRnv3w.29_1|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "B",
@@ -8315,7 +8315,7 @@
       "D": "Early"
     }
   },
-  "BTRxadIkKmU.11_0|C|12": {
+  "BTRxadIkKmU.11_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -8363,7 +8363,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A1_JAKE_13090000|C|8": {
+  "DAY1_A1_JAKE_13090000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -8375,7 +8375,7 @@
       "D": "Loop"
     }
   },
-  "BTRxadIkKmU.11_0|C|16": {
+  "BTRxadIkKmU.11_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -8411,7 +8411,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A1_JAKE_13090000|C|12": {
+  "DAY1_A1_JAKE_13090000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -8435,7 +8435,7 @@
       "D": "Early"
     }
   },
-  "BTRxadIkKmU.11_0|C|20": {
+  "BTRxadIkKmU.11_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -8459,7 +8459,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A1_JAKE_13090000|C|16": {
+  "DAY1_A1_JAKE_13090000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -8507,7 +8507,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A1_JAKE_13090000|C|20": {
+  "DAY1_A1_JAKE_13090000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -8531,7 +8531,7 @@
       "D": "Rand2"
     }
   },
-  "MVGpd4TH54A.0_0|C|8": {
+  "MVGpd4TH54A.0_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -8567,7 +8567,7 @@
       "D": "Rand3"
     }
   },
-  "MVGpd4TH54A.0_0|C|12": {
+  "MVGpd4TH54A.0_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -8639,7 +8639,7 @@
       "D": "Rand2"
     }
   },
-  "MVGpd4TH54A.0_0|C|16": {
+  "MVGpd4TH54A.0_0|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "C",
@@ -8663,7 +8663,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_13043000|C|8": {
+  "DAY1_A3_TASHA_13043000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -8711,7 +8711,7 @@
       "D": "Rand2"
     }
   },
-  "MVGpd4TH54A.0_0|C|20": {
+  "MVGpd4TH54A.0_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -8723,7 +8723,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A3_TASHA_13043000|C|12": {
+  "DAY1_A3_TASHA_13043000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -8759,7 +8759,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_13043000|C|16": {
+  "DAY1_A3_TASHA_13043000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -8783,7 +8783,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A3_TASHA_13043000|C|20": {
+  "DAY1_A3_TASHA_13043000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -8819,7 +8819,7 @@
       "D": "Wide"
     }
   },
-  "6YH19|C|8": {
+  "6YH19|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -8879,7 +8879,7 @@
       "D": "GT"
     }
   },
-  "6YH19|C|12": {
+  "6YH19|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -8915,7 +8915,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_13250000|C|8": {
+  "DAY1_A4_LUCIA_13250000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -8951,7 +8951,7 @@
       "D": "Wide"
     }
   },
-  "6YH19|C|16": {
+  "6YH19|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -8987,7 +8987,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_13250000|C|12": {
+  "DAY1_A4_LUCIA_13250000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -9035,7 +9035,7 @@
       "D": "Rand3"
     }
   },
-  "6YH19|C|20": {
+  "6YH19|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -9047,7 +9047,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A4_LUCIA_13250000|C|16": {
+  "DAY1_A4_LUCIA_13250000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -9083,7 +9083,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A2_ALICE_19443000|C|8": {
+  "DAY1_A2_ALICE_19443000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -9095,7 +9095,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A4_LUCIA_13250000|C|20": {
+  "DAY1_A4_LUCIA_13250000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -9143,7 +9143,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_19443000|C|12": {
+  "DAY1_A2_ALICE_19443000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -9179,7 +9179,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_19443000|C|16": {
+  "DAY1_A2_ALICE_19443000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -9203,7 +9203,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A2_ALICE_19443000|C|20": {
+  "DAY1_A2_ALICE_19443000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -9251,7 +9251,7 @@
       "D": "GT"
     }
   },
-  "jrJ5IPh4CtM.10_0|C|8": {
+  "jrJ5IPh4CtM.10_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -9311,7 +9311,7 @@
       "D": "GT"
     }
   },
-  "0294-7|C|8": {
+  "0294-7|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -9347,7 +9347,7 @@
       "D": "GT"
     }
   },
-  "jrJ5IPh4CtM.10_0|C|12": {
+  "jrJ5IPh4CtM.10_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -9383,7 +9383,7 @@
       "D": "GT"
     }
   },
-  "0294-7|C|12": {
+  "0294-7|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -9431,7 +9431,7 @@
       "D": "GT"
     }
   },
-  "jrJ5IPh4CtM.10_0|C|16": {
+  "jrJ5IPh4CtM.10_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -9443,7 +9443,7 @@
       "D": "GT"
     }
   },
-  "0294-7|C|16": {
+  "0294-7|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -9467,7 +9467,7 @@
       "D": "Rand2"
     }
   },
-  "0294-7|C|20": {
+  "0294-7|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -9503,7 +9503,7 @@
       "D": "Rand1"
     }
   },
-  "jrJ5IPh4CtM.10_0|C|20": {
+  "jrJ5IPh4CtM.10_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -9551,7 +9551,7 @@
       "D": "Rand1"
     }
   },
-  "xUgMOs8i16E|C|8": {
+  "xUgMOs8i16E|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -9623,7 +9623,7 @@
       "D": "Early"
     }
   },
-  "xUgMOs8i16E|C|12": {
+  "xUgMOs8i16E|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -9647,7 +9647,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A1_JAKE_18223000|C|8": {
+  "DAY1_A1_JAKE_18223000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -9695,7 +9695,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A1_JAKE_18223000|C|12": {
+  "DAY1_A1_JAKE_18223000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -9707,7 +9707,7 @@
       "D": "GT"
     }
   },
-  "xUgMOs8i16E|C|16": {
+  "xUgMOs8i16E|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -9743,7 +9743,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A1_JAKE_18223000|C|16": {
+  "DAY1_A1_JAKE_18223000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -9767,7 +9767,7 @@
       "D": "GT"
     }
   },
-  "xUgMOs8i16E|C|20": {
+  "xUgMOs8i16E|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -9791,7 +9791,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_18223000|C|20": {
+  "DAY1_A1_JAKE_18223000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -9839,7 +9839,7 @@
       "D": "GT"
     }
   },
-  "v_00005279_0|C|8": {
+  "v_00005279_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -9887,7 +9887,7 @@
       "D": "Late"
     }
   },
-  "v_00005279_0|C|12": {
+  "v_00005279_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -9947,7 +9947,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_13303000|C|8": {
+  "DAY1_A2_ALICE_13303000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -9971,7 +9971,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A2_ALICE_13303000|C|12": {
+  "DAY1_A2_ALICE_13303000|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "B",
@@ -9983,7 +9983,7 @@
       "D": "Shuffle"
     }
   },
-  "v_00005279_0|C|16": {
+  "v_00005279_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -10067,7 +10067,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_13303000|C|16": {
+  "DAY1_A2_ALICE_13303000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -10091,7 +10091,7 @@
       "D": "GT"
     }
   },
-  "v_00005279_0|C|20": {
+  "v_00005279_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -10115,7 +10115,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_13303000|C|20": {
+  "DAY1_A2_ALICE_13303000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -10151,7 +10151,7 @@
       "D": "GT"
     }
   },
-  "FivAN0MUp3A.26_0|C|8": {
+  "FivAN0MUp3A.26_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -10187,7 +10187,7 @@
       "D": "Rand3"
     }
   },
-  "FivAN0MUp3A.26_0|C|12": {
+  "FivAN0MUp3A.26_0|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "A",
@@ -10235,7 +10235,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_12453000|C|8": {
+  "DAY1_A3_TASHA_12453000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -10259,7 +10259,7 @@
       "D": "Rand3"
     }
   },
-  "FivAN0MUp3A.26_0|C|16": {
+  "FivAN0MUp3A.26_0|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "A",
@@ -10271,7 +10271,7 @@
       "D": "Loop"
     }
   },
-  "FivAN0MUp3A.26_0|C|20": {
+  "FivAN0MUp3A.26_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -10319,7 +10319,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A3_TASHA_12453000|C|12": {
+  "DAY1_A3_TASHA_12453000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -10367,7 +10367,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_12453000|C|16": {
+  "DAY1_A3_TASHA_12453000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -10391,7 +10391,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A1_JAKE_20333000|C|8": {
+  "DAY1_A1_JAKE_20333000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -10439,7 +10439,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A1_JAKE_20333000|C|12": {
+  "DAY1_A1_JAKE_20333000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -10475,7 +10475,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A3_TASHA_12453000|C|20": {
+  "DAY1_A3_TASHA_12453000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -10487,7 +10487,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A1_JAKE_20333000|C|16": {
+  "DAY1_A1_JAKE_20333000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -10547,7 +10547,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A1_JAKE_20333000|C|20": {
+  "DAY1_A1_JAKE_20333000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -10559,7 +10559,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A5_KATRINA_19460000|C|8": {
+  "DAY1_A5_KATRINA_19460000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -10595,7 +10595,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A5_KATRINA_19460000|C|12": {
+  "DAY1_A5_KATRINA_19460000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -10619,7 +10619,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A5_KATRINA_19460000|C|16": {
+  "DAY1_A5_KATRINA_19460000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -10643,7 +10643,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A5_KATRINA_19460000|C|20": {
+  "DAY1_A5_KATRINA_19460000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -10703,7 +10703,7 @@
       "D": "GT"
     }
   },
-  "v_00006963_0|C|8": {
+  "v_00006963_0|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "A",
@@ -10727,7 +10727,7 @@
       "D": "GT"
     }
   },
-  "v_00006963_0|C|12": {
+  "v_00006963_0|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "A",
@@ -10787,7 +10787,7 @@
       "D": "Wide"
     }
   },
-  "v_00006963_0|C|16": {
+  "v_00006963_0|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "A",
@@ -10811,7 +10811,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20060000|C|12": {
+  "DAY1_A4_LUCIA_20060000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -10823,7 +10823,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A4_LUCIA_20060000|C|8": {
+  "DAY1_A4_LUCIA_20060000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -10871,7 +10871,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20060000|C|16": {
+  "DAY1_A4_LUCIA_20060000|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "D",
@@ -10883,7 +10883,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A4_LUCIA_20060000|C|20": {
+  "DAY1_A4_LUCIA_20060000|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "D",
@@ -10931,7 +10931,7 @@
       "D": "Rand1"
     }
   },
-  "v_00006963_0|C|20": {
+  "v_00006963_0|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "A",
@@ -10991,7 +10991,7 @@
       "D": "Rand1"
     }
   },
-  "Ramc5o_meyw.11_0|C|8": {
+  "Ramc5o_meyw.11_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -11075,7 +11075,7 @@
       "D": "Rand2"
     }
   },
-  "Ramc5o_meyw.11_0|C|12": {
+  "Ramc5o_meyw.11_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -11087,7 +11087,7 @@
       "D": "Loop"
     }
   },
-  "v_00011376_0|C|8": {
+  "v_00011376_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -11147,7 +11147,7 @@
       "D": "Late"
     }
   },
-  "v_00011376_0|C|12": {
+  "v_00011376_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -11159,7 +11159,7 @@
       "D": "Reverse"
     }
   },
-  "Ramc5o_meyw.11_0|C|16": {
+  "Ramc5o_meyw.11_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -11195,7 +11195,7 @@
       "D": "Late"
     }
   },
-  "v_00011376_0|C|16": {
+  "v_00011376_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -11243,7 +11243,7 @@
       "D": "Rand2"
     }
   },
-  "v_00011376_0|C|20": {
+  "v_00011376_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -11255,7 +11255,7 @@
       "D": "Reverse"
     }
   },
-  "Ramc5o_meyw.11_0|C|20": {
+  "Ramc5o_meyw.11_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -11267,7 +11267,7 @@
       "D": "Loop"
     }
   },
-  "v_00004040_1|C|8": {
+  "v_00004040_1|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -11303,7 +11303,7 @@
       "D": "Early"
     }
   },
-  "v_00004040_1|C|12": {
+  "v_00004040_1|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -11363,7 +11363,7 @@
       "D": "Early"
     }
   },
-  "v_00004040_1|C|16": {
+  "v_00004040_1|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -11387,7 +11387,7 @@
       "D": "GT"
     }
   },
-  "KJevEXjS8VI.24_0|C|8": {
+  "KJevEXjS8VI.24_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -11447,7 +11447,7 @@
       "D": "GT"
     }
   },
-  "KJevEXjS8VI.24_0|C|12": {
+  "KJevEXjS8VI.24_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -11495,7 +11495,7 @@
       "D": "Rand2"
     }
   },
-  "v_00004040_1|C|20": {
+  "v_00004040_1|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -11519,7 +11519,7 @@
       "D": "Rand2"
     }
   },
-  "KJevEXjS8VI.24_0|C|16": {
+  "KJevEXjS8VI.24_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -11567,7 +11567,7 @@
       "D": "Early"
     }
   },
-  "GoRpw4aOx0s.11_0|C|8": {
+  "GoRpw4aOx0s.11_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -11603,7 +11603,7 @@
       "D": "Late"
     }
   },
-  "KJevEXjS8VI.24_0|C|20": {
+  "KJevEXjS8VI.24_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -11627,7 +11627,7 @@
       "D": "Rand2"
     }
   },
-  "GoRpw4aOx0s.11_0|C|12": {
+  "GoRpw4aOx0s.11_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -11663,7 +11663,7 @@
       "D": "Wide"
     }
   },
-  "GoRpw4aOx0s.11_0|C|16": {
+  "GoRpw4aOx0s.11_0|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "A",
@@ -11675,7 +11675,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A2_ALICE_17260000|C|8": {
+  "DAY1_A2_ALICE_17260000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -11723,7 +11723,7 @@
       "D": "Wide"
     }
   },
-  "GoRpw4aOx0s.11_0|C|20": {
+  "GoRpw4aOx0s.11_0|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "A",
@@ -11735,7 +11735,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A2_ALICE_17260000|C|12": {
+  "DAY1_A2_ALICE_17260000|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "C",
@@ -11783,7 +11783,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A2_ALICE_17260000|C|16": {
+  "DAY1_A2_ALICE_17260000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -11819,7 +11819,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_17260000|C|20": {
+  "DAY1_A2_ALICE_17260000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -11843,7 +11843,7 @@
       "D": "Wide"
     }
   },
-  "9knfg-7ARcc.30_0|C|8": {
+  "9knfg-7ARcc.30_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -11915,7 +11915,7 @@
       "D": "GT"
     }
   },
-  "9knfg-7ARcc.30_0|C|12": {
+  "9knfg-7ARcc.30_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -11939,7 +11939,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_13070000|C|8": {
+  "DAY1_A3_TASHA_13070000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -12011,7 +12011,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_13070000|C|12": {
+  "DAY1_A3_TASHA_13070000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -12035,7 +12035,7 @@
       "D": "Rand2"
     }
   },
-  "9knfg-7ARcc.30_0|C|16": {
+  "9knfg-7ARcc.30_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -12059,7 +12059,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A3_TASHA_13070000|C|16": {
+  "DAY1_A3_TASHA_13070000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -12107,7 +12107,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_13070000|C|20": {
+  "DAY1_A3_TASHA_13070000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -12143,7 +12143,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A5_KATRINA_17220000|C|8": {
+  "DAY1_A5_KATRINA_17220000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -12155,7 +12155,7 @@
       "D": "GT"
     }
   },
-  "9knfg-7ARcc.30_0|C|20": {
+  "9knfg-7ARcc.30_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -12179,7 +12179,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A5_KATRINA_17220000|C|12": {
+  "DAY1_A5_KATRINA_17220000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -12227,7 +12227,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A5_KATRINA_17220000|C|16": {
+  "DAY1_A5_KATRINA_17220000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -12251,7 +12251,7 @@
       "D": "Rand2"
     }
   },
-  "UEu9YyROlnM.9_2|C|8": {
+  "UEu9YyROlnM.9_2|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -12263,7 +12263,7 @@
       "D": "GT"
     }
   },
-  "UEu9YyROlnM.9_2|C|12": {
+  "UEu9YyROlnM.9_2|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -12287,7 +12287,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A5_KATRINA_17220000|C|20": {
+  "DAY1_A5_KATRINA_17220000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -12359,7 +12359,7 @@
       "D": "Rand2"
     }
   },
-  "UEu9YyROlnM.9_2|C|16": {
+  "UEu9YyROlnM.9_2|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -12395,7 +12395,7 @@
       "D": "Early"
     }
   },
-  "UEu9YyROlnM.9_2|C|20": {
+  "UEu9YyROlnM.9_2|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -12419,7 +12419,7 @@
       "D": "Late"
     }
   },
-  "v_00005268_0|C|8": {
+  "v_00005268_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -12491,7 +12491,7 @@
       "D": "Rand3"
     }
   },
-  "v_00005268_0|C|12": {
+  "v_00005268_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -12563,7 +12563,7 @@
       "D": "Rand3"
     }
   },
-  "IIreVWXmnqg|C|8": {
+  "IIreVWXmnqg|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -12587,7 +12587,7 @@
       "D": "Late"
     }
   },
-  "v_00005268_0|C|16": {
+  "v_00005268_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -12611,7 +12611,7 @@
       "D": "Rand1"
     }
   },
-  "IIreVWXmnqg|C|12": {
+  "IIreVWXmnqg|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -12647,7 +12647,7 @@
       "D": "Late"
     }
   },
-  "v_00005268_0|C|20": {
+  "v_00005268_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -12671,7 +12671,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A4_LUCIA_18160000|C|8": {
+  "DAY1_A4_LUCIA_18160000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -12695,7 +12695,7 @@
       "D": "GT"
     }
   },
-  "IIreVWXmnqg|C|16": {
+  "IIreVWXmnqg|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -12707,7 +12707,7 @@
       "D": "Loop"
     }
   },
-  "IIreVWXmnqg|C|20": {
+  "IIreVWXmnqg|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -12743,7 +12743,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A4_LUCIA_18160000|C|12": {
+  "DAY1_A4_LUCIA_18160000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -12803,7 +12803,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_18160000|C|16": {
+  "DAY1_A4_LUCIA_18160000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -12827,7 +12827,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_12443000|C|8": {
+  "DAY1_A3_TASHA_12443000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -12875,7 +12875,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_18160000|C|20": {
+  "DAY1_A4_LUCIA_18160000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -12887,7 +12887,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A3_TASHA_12443000|C|12": {
+  "DAY1_A3_TASHA_12443000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -12935,7 +12935,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_12443000|C|16": {
+  "DAY1_A3_TASHA_12443000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -12947,7 +12947,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A3_TASHA_12443000|C|20": {
+  "DAY1_A3_TASHA_12443000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -12995,7 +12995,7 @@
       "D": "Rand1"
     }
   },
-  "v_00007041_10|C|8": {
+  "v_00007041_10|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -13055,7 +13055,7 @@
       "D": "Late"
     }
   },
-  "v_00007041_10|C|12": {
+  "v_00007041_10|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -13103,7 +13103,7 @@
       "D": "Wide"
     }
   },
-  "v_00007041_10|C|16": {
+  "v_00007041_10|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -13115,7 +13115,7 @@
       "D": "Shuffle"
     }
   },
-  "v_00009721_0|C|8": {
+  "v_00009721_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -13211,7 +13211,7 @@
       "D": "Wide"
     }
   },
-  "v_00007041_10|C|20": {
+  "v_00007041_10|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -13247,7 +13247,7 @@
       "D": "Late"
     }
   },
-  "v_00009721_0|C|12": {
+  "v_00009721_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -13271,7 +13271,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A1_JAKE_14040000|C|8": {
+  "DAY1_A1_JAKE_14040000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -13331,7 +13331,7 @@
       "D": "Rand2"
     }
   },
-  "v_00009721_0|C|16": {
+  "v_00009721_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -13343,7 +13343,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A1_JAKE_14040000|C|12": {
+  "DAY1_A1_JAKE_14040000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -13367,7 +13367,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A1_JAKE_14040000|C|16": {
+  "DAY1_A1_JAKE_14040000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -13403,7 +13403,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A1_JAKE_14040000|C|20": {
+  "DAY1_A1_JAKE_14040000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -13415,7 +13415,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A5_KATRINA_18043000|C|8": {
+  "DAY1_A5_KATRINA_18043000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -13427,7 +13427,7 @@
       "D": "Loop"
     }
   },
-  "v_00009721_0|C|20": {
+  "v_00009721_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -13463,7 +13463,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A5_KATRINA_18043000|C|12": {
+  "DAY1_A5_KATRINA_18043000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -13523,7 +13523,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A5_KATRINA_18043000|C|16": {
+  "DAY1_A5_KATRINA_18043000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -13547,7 +13547,7 @@
       "D": "Early"
     }
   },
-  "un4VYSlqQqs.69_1|C|8": {
+  "un4VYSlqQqs.69_1|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -13559,7 +13559,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A5_KATRINA_18043000|C|20": {
+  "DAY1_A5_KATRINA_18043000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -13595,7 +13595,7 @@
       "D": "GT"
     }
   },
-  "un4VYSlqQqs.69_1|C|12": {
+  "un4VYSlqQqs.69_1|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -13631,7 +13631,7 @@
       "D": "GT"
     }
   },
-  "un4VYSlqQqs.69_1|C|16": {
+  "un4VYSlqQqs.69_1|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -13691,7 +13691,7 @@
       "D": "Early"
     }
   },
-  "un4VYSlqQqs.69_1|C|20": {
+  "un4VYSlqQqs.69_1|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -13739,7 +13739,7 @@
       "D": "GT"
     }
   },
-  "v_00013757_0|C|8": {
+  "v_00013757_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -13811,7 +13811,7 @@
       "D": "Early"
     }
   },
-  "1285-7|C|8": {
+  "1285-7|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -13835,7 +13835,7 @@
       "D": "Early"
     }
   },
-  "v_00013757_0|C|12": {
+  "v_00013757_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -13847,7 +13847,7 @@
       "D": "Loop"
     }
   },
-  "1285-7|C|12": {
+  "1285-7|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -13883,7 +13883,7 @@
       "D": "Early"
     }
   },
-  "1285-7|C|16": {
+  "1285-7|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -13907,7 +13907,7 @@
       "D": "Early"
     }
   },
-  "1285-7|C|20": {
+  "1285-7|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -13943,7 +13943,7 @@
       "D": "Rand1"
     }
   },
-  "v_00013757_0|C|16": {
+  "v_00013757_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -13979,7 +13979,7 @@
       "D": "Late"
     }
   },
-  "v_00013757_0|C|20": {
+  "v_00013757_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -14003,7 +14003,7 @@
       "D": "Rand1"
     }
   },
-  "v_00013697_3|C|8": {
+  "v_00013697_3|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -14051,7 +14051,7 @@
       "D": "Rand1"
     }
   },
-  "v_00013697_3|C|12": {
+  "v_00013697_3|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -14099,7 +14099,7 @@
       "D": "Early"
     }
   },
-  "v_00013697_3|C|16": {
+  "v_00013697_3|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -14111,7 +14111,7 @@
       "D": "Loop"
     }
   },
-  "9DEse0b86gI.49_0|C|8": {
+  "9DEse0b86gI.49_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -14183,7 +14183,7 @@
       "D": "Late"
     }
   },
-  "9DEse0b86gI.49_0|C|12": {
+  "9DEse0b86gI.49_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -14207,7 +14207,7 @@
       "D": "GT"
     }
   },
-  "v_00013697_3|C|20": {
+  "v_00013697_3|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -14243,7 +14243,7 @@
       "D": "Rand3"
     }
   },
-  "v_00005709_0|C|8": {
+  "v_00005709_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -14315,7 +14315,7 @@
       "D": "Rand3"
     }
   },
-  "v_00005709_0|C|12": {
+  "v_00005709_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -14327,7 +14327,7 @@
       "D": "Reverse"
     }
   },
-  "9DEse0b86gI.49_0|C|16": {
+  "9DEse0b86gI.49_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -14363,7 +14363,7 @@
       "D": "Early"
     }
   },
-  "v_00005709_0|C|16": {
+  "v_00005709_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -14375,7 +14375,7 @@
       "D": "Reverse"
     }
   },
-  "9DEse0b86gI.49_0|C|20": {
+  "9DEse0b86gI.49_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -14399,7 +14399,7 @@
       "D": "Rand3"
     }
   },
-  "v_00005709_0|C|20": {
+  "v_00005709_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -14435,7 +14435,7 @@
       "D": "Rand3"
     }
   },
-  "p3ad39IMUXI.8_0|C|8": {
+  "p3ad39IMUXI.8_0|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "B",
@@ -14483,7 +14483,7 @@
       "D": "Rand3"
     }
   },
-  "p3ad39IMUXI.8_0|C|16": {
+  "p3ad39IMUXI.8_0|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "B",
@@ -14543,7 +14543,7 @@
       "D": "Rand3"
     }
   },
-  "p3ad39IMUXI.8_0|C|12": {
+  "p3ad39IMUXI.8_0|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "A",
@@ -14567,7 +14567,7 @@
       "D": "GT"
     }
   },
-  "_VkB1kInJfo.5_0|C|8": {
+  "_VkB1kInJfo.5_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -14579,7 +14579,7 @@
       "D": "Reverse"
     }
   },
-  "p3ad39IMUXI.8_0|C|20": {
+  "p3ad39IMUXI.8_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -14627,7 +14627,7 @@
       "D": "Rand3"
     }
   },
-  "_VkB1kInJfo.5_0|C|12": {
+  "_VkB1kInJfo.5_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -14687,7 +14687,7 @@
       "D": "GT"
     }
   },
-  "_VkB1kInJfo.5_0|C|16": {
+  "_VkB1kInJfo.5_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -14699,7 +14699,7 @@
       "D": "Reverse"
     }
   },
-  "Oqz0QkQ-aGY.11_0|C|8": {
+  "Oqz0QkQ-aGY.11_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -14771,7 +14771,7 @@
       "D": "Rand3"
     }
   },
-  "Oqz0QkQ-aGY.11_0|C|12": {
+  "Oqz0QkQ-aGY.11_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -14783,7 +14783,7 @@
       "D": "Loop"
     }
   },
-  "_VkB1kInJfo.5_0|C|20": {
+  "_VkB1kInJfo.5_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -14807,7 +14807,7 @@
       "D": "GT"
     }
   },
-  "Oqz0QkQ-aGY.11_0|C|16": {
+  "Oqz0QkQ-aGY.11_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -14855,7 +14855,7 @@
       "D": "Rand3"
     }
   },
-  "5-X0RJdodhg.9_0|C|8": {
+  "5-X0RJdodhg.9_0|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "C",
@@ -14891,7 +14891,7 @@
       "D": "GT"
     }
   },
-  "Oqz0QkQ-aGY.11_0|C|20": {
+  "Oqz0QkQ-aGY.11_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -14939,7 +14939,7 @@
       "D": "Rand3"
     }
   },
-  "5-X0RJdodhg.9_0|C|12": {
+  "5-X0RJdodhg.9_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -14975,7 +14975,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_12420000|C|8": {
+  "DAY1_A3_TASHA_12420000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -15011,7 +15011,7 @@
       "D": "GT"
     }
   },
-  "5-X0RJdodhg.9_0|C|16": {
+  "5-X0RJdodhg.9_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -15035,7 +15035,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_12420000|C|12": {
+  "DAY1_A3_TASHA_12420000|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "B",
@@ -15083,7 +15083,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_12420000|C|16": {
+  "DAY1_A3_TASHA_12420000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -15095,7 +15095,7 @@
       "D": "GT"
     }
   },
-  "5-X0RJdodhg.9_0|C|20": {
+  "5-X0RJdodhg.9_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -15155,7 +15155,7 @@
       "D": "Rand2"
     }
   },
-  "93EOJ|C|8": {
+  "93EOJ|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -15179,7 +15179,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_12420000|C|20": {
+  "DAY1_A3_TASHA_12420000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -15203,7 +15203,7 @@
       "D": "Rand2"
     }
   },
-  "93EOJ|C|12": {
+  "93EOJ|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -15239,7 +15239,7 @@
       "D": "GT"
     }
   },
-  "93EOJ|C|16": {
+  "93EOJ|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -15275,7 +15275,7 @@
       "D": "Early"
     }
   },
-  "93EOJ|C|20": {
+  "93EOJ|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -15335,7 +15335,7 @@
       "D": "Rand3"
     }
   },
-  "30k-22-10-2|P1|2448|2856|C|12": {
+  "30k-22-10-2|P1|2448|2856|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "D",
@@ -15371,7 +15371,7 @@
       "D": "Wide"
     }
   },
-  "30k-22-10-2|P1|2448|2856|C|8": {
+  "30k-22-10-2|P1|2448|2856|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -15407,7 +15407,7 @@
       "D": "Early"
     }
   },
-  "30k-22-10-2|P1|2448|2856|C|16": {
+  "30k-22-10-2|P1|2448|2856|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "D",
@@ -15455,7 +15455,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A2_ALICE_19390000|C|8": {
+  "DAY1_A2_ALICE_19390000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -15467,7 +15467,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_19390000|C|12": {
+  "DAY1_A2_ALICE_19390000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -15491,7 +15491,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A2_ALICE_19390000|C|16": {
+  "DAY1_A2_ALICE_19390000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -15503,7 +15503,7 @@
       "D": "GT"
     }
   },
-  "30k-22-10-2|P1|2448|2856|C|20": {
+  "30k-22-10-2|P1|2448|2856|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "D",
@@ -15539,7 +15539,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_19390000|C|20": {
+  "DAY1_A2_ALICE_19390000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -15587,7 +15587,7 @@
       "D": "GT"
     }
   },
-  "T3dkTkVNvIQ|C|8": {
+  "T3dkTkVNvIQ|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -15647,7 +15647,7 @@
       "D": "Rand1"
     }
   },
-  "T3dkTkVNvIQ|C|12": {
+  "T3dkTkVNvIQ|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -15695,7 +15695,7 @@
       "D": "Rand1"
     }
   },
-  "2544C|C|8": {
+  "2544C|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -15731,7 +15731,7 @@
       "D": "GT"
     }
   },
-  "T3dkTkVNvIQ|C|16": {
+  "T3dkTkVNvIQ|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -15755,7 +15755,7 @@
       "D": "GT"
     }
   },
-  "2544C|C|12": {
+  "2544C|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -15815,7 +15815,7 @@
       "D": "Late"
     }
   },
-  "T3dkTkVNvIQ|C|20": {
+  "T3dkTkVNvIQ|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -15863,7 +15863,7 @@
       "D": "Wide"
     }
   },
-  "0951-7|C|8": {
+  "0951-7|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -15911,7 +15911,7 @@
       "D": "Rand1"
     }
   },
-  "2544C|C|16": {
+  "2544C|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -15923,7 +15923,7 @@
       "D": "Reverse"
     }
   },
-  "0951-7|C|12": {
+  "0951-7|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -15935,7 +15935,7 @@
       "D": "Loop"
     }
   },
-  "2544C|C|20": {
+  "2544C|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -15947,7 +15947,7 @@
       "D": "Reverse"
     }
   },
-  "0951-7|C|16": {
+  "0951-7|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -15983,7 +15983,7 @@
       "D": "Late"
     }
   },
-  "0951-7|C|20": {
+  "0951-7|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -16007,7 +16007,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A1_JAKE_13570000|C|8": {
+  "DAY1_A1_JAKE_13570000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -16043,7 +16043,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_13570000|C|12": {
+  "DAY1_A1_JAKE_13570000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -16127,7 +16127,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A1_JAKE_13570000|C|16": {
+  "DAY1_A1_JAKE_13570000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -16175,7 +16175,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A6_SHURE_13273000|C|8": {
+  "DAY1_A6_SHURE_13273000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -16187,7 +16187,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A1_JAKE_13570000|C|20": {
+  "DAY1_A1_JAKE_13570000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -16199,7 +16199,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A6_SHURE_13273000|C|12": {
+  "DAY1_A6_SHURE_13273000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -16259,7 +16259,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A6_SHURE_13273000|C|20": {
+  "DAY1_A6_SHURE_13273000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -16271,7 +16271,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A6_SHURE_21243000|C|8": {
+  "DAY1_A6_SHURE_21243000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -16295,7 +16295,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A6_SHURE_21243000|C|12": {
+  "DAY1_A6_SHURE_21243000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -16307,7 +16307,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A6_SHURE_13273000|C|16": {
+  "DAY1_A6_SHURE_13273000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -16367,7 +16367,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A6_SHURE_21243000|C|16": {
+  "DAY1_A6_SHURE_21243000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -16439,7 +16439,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A6_SHURE_21243000|C|20": {
+  "DAY1_A6_SHURE_21243000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -16451,7 +16451,7 @@
       "D": "Loop"
     }
   },
-  "33LnbAjkiDo.25_2|C|8": {
+  "33LnbAjkiDo.25_2|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -16499,7 +16499,7 @@
       "D": "Late"
     }
   },
-  "33LnbAjkiDo.25_2|C|12": {
+  "33LnbAjkiDo.25_2|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "A",
@@ -16547,7 +16547,7 @@
       "D": "Rand2"
     }
   },
-  "33LnbAjkiDo.25_2|C|16": {
+  "33LnbAjkiDo.25_2|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "C",
@@ -16583,7 +16583,7 @@
       "D": "Late"
     }
   },
-  "29k-12-1-4|P1|5817|6322|C|8": {
+  "29k-12-1-4|P1|5817|6322|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -16607,7 +16607,7 @@
       "D": "Rand2"
     }
   },
-  "33LnbAjkiDo.25_2|C|20": {
+  "33LnbAjkiDo.25_2|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "C",
@@ -16655,7 +16655,7 @@
       "D": "Rand2"
     }
   },
-  "29k-12-1-4|P1|5817|6322|C|12": {
+  "29k-12-1-4|P1|5817|6322|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -16667,7 +16667,7 @@
       "D": "GT"
     }
   },
-  "29k-12-1-4|P1|5817|6322|C|16": {
+  "29k-12-1-4|P1|5817|6322|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -16703,7 +16703,7 @@
       "D": "Rand3"
     }
   },
-  "29k-12-1-4|P1|5817|6322|C|20": {
+  "29k-12-1-4|P1|5817|6322|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -16739,7 +16739,7 @@
       "D": "Early"
     }
   },
-  "kUTBdMQVHXo|C|8": {
+  "kUTBdMQVHXo|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "B",
@@ -16811,7 +16811,7 @@
       "D": "Rand3"
     }
   },
-  "kUTBdMQVHXo|C|12": {
+  "kUTBdMQVHXo|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -16823,7 +16823,7 @@
       "D": "Shuffle"
     }
   },
-  "DAY1_A4_LUCIA_11383000|C|8": {
+  "DAY1_A4_LUCIA_11383000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -16859,7 +16859,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_11383000|C|12": {
+  "DAY1_A4_LUCIA_11383000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -16895,7 +16895,7 @@
       "D": "Rand3"
     }
   },
-  "kUTBdMQVHXo|C|16": {
+  "kUTBdMQVHXo|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "B",
@@ -16955,7 +16955,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_11383000|C|20": {
+  "DAY1_A4_LUCIA_11383000|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "A",
@@ -16991,7 +16991,7 @@
       "D": "GT"
     }
   },
-  "kUTBdMQVHXo|C|20": {
+  "kUTBdMQVHXo|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -17015,7 +17015,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A4_LUCIA_11383000|C|16": {
+  "DAY1_A4_LUCIA_11383000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -17027,7 +17027,7 @@
       "D": "Reverse"
     }
   },
-  "V9OMIQTTTTM.36_0|C|8": {
+  "V9OMIQTTTTM.36_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -17075,7 +17075,7 @@
       "D": "Rand3"
     }
   },
-  "V9OMIQTTTTM.36_0|C|12": {
+  "V9OMIQTTTTM.36_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -17135,7 +17135,7 @@
       "D": "GT"
     }
   },
-  "V9OMIQTTTTM.36_0|C|16": {
+  "V9OMIQTTTTM.36_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -17159,7 +17159,7 @@
       "D": "GT"
     }
   },
-  "_OZzxLcTsig.24_1|C|8": {
+  "_OZzxLcTsig.24_1|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "D",
@@ -17195,7 +17195,7 @@
       "D": "Rand3"
     }
   },
-  "V9OMIQTTTTM.36_0|C|20": {
+  "V9OMIQTTTTM.36_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -17207,7 +17207,7 @@
       "D": "Loop"
     }
   },
-  "_OZzxLcTsig.24_1|C|12": {
+  "_OZzxLcTsig.24_1|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "D",
@@ -17279,7 +17279,7 @@
       "D": "GT"
     }
   },
-  "_OZzxLcTsig.24_1|C|16": {
+  "_OZzxLcTsig.24_1|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "A",
@@ -17315,7 +17315,7 @@
       "D": "GT"
     }
   },
-  "_OZzxLcTsig.24_1|C|20": {
+  "_OZzxLcTsig.24_1|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "B",
@@ -17327,7 +17327,7 @@
       "D": "Loop"
     }
   },
-  "am-J4A1LGWA.39_0|C|8": {
+  "am-J4A1LGWA.39_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -17411,7 +17411,7 @@
       "D": "GT"
     }
   },
-  "am-J4A1LGWA.39_0|C|12": {
+  "am-J4A1LGWA.39_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -17423,7 +17423,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A3_TASHA_12523000|C|8": {
+  "DAY1_A3_TASHA_12523000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -17447,7 +17447,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_12523000|C|12": {
+  "DAY1_A3_TASHA_12523000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -17483,7 +17483,7 @@
       "D": "Wide"
     }
   },
-  "DAY1_A3_TASHA_12523000|C|16": {
+  "DAY1_A3_TASHA_12523000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -17567,7 +17567,7 @@
       "D": "Rand3"
     }
   },
-  "am-J4A1LGWA.39_0|C|16": {
+  "am-J4A1LGWA.39_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -17579,7 +17579,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A3_TASHA_12523000|C|20": {
+  "DAY1_A3_TASHA_12523000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -17603,7 +17603,7 @@
       "D": "Wide"
     }
   },
-  "0503-7|C|8": {
+  "0503-7|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -17639,7 +17639,7 @@
       "D": "Wide"
     }
   },
-  "0503-7|C|12": {
+  "0503-7|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -17663,7 +17663,7 @@
       "D": "Rand3"
     }
   },
-  "am-J4A1LGWA.39_0|C|20": {
+  "am-J4A1LGWA.39_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -17699,7 +17699,7 @@
       "D": "Late"
     }
   },
-  "0503-7|C|20": {
+  "0503-7|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -17723,7 +17723,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_20023000|C|8": {
+  "DAY1_A4_LUCIA_20023000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -17735,7 +17735,7 @@
       "D": "Reverse"
     }
   },
-  "0503-7|C|16": {
+  "0503-7|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -17771,7 +17771,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_20023000|C|12": {
+  "DAY1_A4_LUCIA_20023000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -17831,7 +17831,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_20023000|C|16": {
+  "DAY1_A4_LUCIA_20023000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -17867,7 +17867,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A1_JAKE_18290000|C|8": {
+  "DAY1_A1_JAKE_18290000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -17903,7 +17903,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A4_LUCIA_20023000|C|20": {
+  "DAY1_A4_LUCIA_20023000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -17927,7 +17927,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A1_JAKE_18290000|C|12": {
+  "DAY1_A1_JAKE_18290000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -17987,7 +17987,7 @@
       "D": "Rand1"
     }
   },
-  "DAY1_A1_JAKE_18290000|C|16": {
+  "DAY1_A1_JAKE_18290000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -18023,7 +18023,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A6_SHURE_17430000|C|8": {
+  "DAY1_A6_SHURE_17430000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -18035,7 +18035,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A1_JAKE_18290000|C|20": {
+  "DAY1_A1_JAKE_18290000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -18071,7 +18071,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A6_SHURE_17430000|C|12": {
+  "DAY1_A6_SHURE_17430000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -18095,7 +18095,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A6_SHURE_17430000|C|16": {
+  "DAY1_A6_SHURE_17430000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -18131,7 +18131,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A6_SHURE_17430000|C|20": {
+  "DAY1_A6_SHURE_17430000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -18167,7 +18167,7 @@
       "D": "Rand1"
     }
   },
-  "ZzypsDiBuHc.2_0|C|8": {
+  "ZzypsDiBuHc.2_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -18215,7 +18215,7 @@
       "D": "Rand1"
     }
   },
-  "ZzypsDiBuHc.2_0|C|12": {
+  "ZzypsDiBuHc.2_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -18275,7 +18275,7 @@
       "D": "GT"
     }
   },
-  "ZzypsDiBuHc.2_0|C|16": {
+  "ZzypsDiBuHc.2_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -18335,7 +18335,7 @@
       "D": "GT"
     }
   },
-  "dlWMSRTqaco.8_0|C|8": {
+  "dlWMSRTqaco.8_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -18359,7 +18359,7 @@
       "D": "GT"
     }
   },
-  "dlWMSRTqaco.8_0|C|12": {
+  "dlWMSRTqaco.8_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -18395,7 +18395,7 @@
       "D": "Rand1"
     }
   },
-  "ZzypsDiBuHc.2_0|C|20": {
+  "ZzypsDiBuHc.2_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -18419,7 +18419,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_14153000|C|8": {
+  "DAY1_A3_TASHA_14153000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -18455,7 +18455,7 @@
       "D": "Late"
     }
   },
-  "dlWMSRTqaco.8_0|C|16": {
+  "dlWMSRTqaco.8_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -18491,7 +18491,7 @@
       "D": "GT"
     }
   },
-  "dlWMSRTqaco.8_0|C|20": {
+  "dlWMSRTqaco.8_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -18515,7 +18515,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_14153000|C|12": {
+  "DAY1_A3_TASHA_14153000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -18551,7 +18551,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_14153000|C|16": {
+  "DAY1_A3_TASHA_14153000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -18587,7 +18587,7 @@
       "D": "Late"
     }
   },
-  "27l-22-4-1|P2|496|1037|C|8": {
+  "27l-22-4-1|P2|496|1037|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -18635,7 +18635,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_14153000|C|20": {
+  "DAY1_A3_TASHA_14153000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -18647,7 +18647,7 @@
       "D": "GT"
     }
   },
-  "27l-22-4-1|P2|496|1037|C|12": {
+  "27l-22-4-1|P2|496|1037|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -18695,7 +18695,7 @@
       "D": "GT"
     }
   },
-  "27l-22-4-1|P2|496|1037|C|16": {
+  "27l-22-4-1|P2|496|1037|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -18767,7 +18767,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_21423000|C|8": {
+  "DAY1_A2_ALICE_21423000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "B",
@@ -18779,7 +18779,7 @@
       "D": "Loop"
     }
   },
-  "27l-22-4-1|P2|496|1037|C|20": {
+  "27l-22-4-1|P2|496|1037|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -18803,7 +18803,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_21423000|C|12": {
+  "DAY1_A2_ALICE_21423000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "B",
@@ -18839,7 +18839,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_21423000|C|16": {
+  "DAY1_A2_ALICE_21423000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "B",
@@ -18851,7 +18851,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A2_ALICE_21423000|C|20": {
+  "DAY1_A2_ALICE_21423000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "B",
@@ -18899,7 +18899,7 @@
       "D": "Wide"
     }
   },
-  "v_00002024_0|C|8": {
+  "v_00002024_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -18971,7 +18971,7 @@
       "D": "GT"
     }
   },
-  "v_00002024_0|C|16": {
+  "v_00002024_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -18995,7 +18995,7 @@
       "D": "Wide"
     }
   },
-  "v_00002024_0|C|12": {
+  "v_00002024_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -19007,7 +19007,7 @@
       "D": "Loop"
     }
   },
-  "v_00002024_0|C|20": {
+  "v_00002024_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -19043,7 +19043,7 @@
       "D": "Rand3"
     }
   },
-  "CPC2zIu9rYc.6_0|C|8": {
+  "CPC2zIu9rYc.6_0|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "B",
@@ -19079,7 +19079,7 @@
       "D": "Early"
     }
   },
-  "CPC2zIu9rYc.6_0|C|12": {
+  "CPC2zIu9rYc.6_0|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "B",
@@ -19103,7 +19103,7 @@
       "D": "Early"
     }
   },
-  "CPC2zIu9rYc.6_0|C|16": {
+  "CPC2zIu9rYc.6_0|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "D",
@@ -19151,7 +19151,7 @@
       "D": "Early"
     }
   },
-  "CPC2zIu9rYc.6_0|C|20": {
+  "CPC2zIu9rYc.6_0|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "B",
@@ -19163,7 +19163,7 @@
       "D": "Shuffle"
     }
   },
-  "t5BdaCLqEcM.2_0|C|8": {
+  "t5BdaCLqEcM.2_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -19235,7 +19235,7 @@
       "D": "Wide"
     }
   },
-  "t5BdaCLqEcM.2_0|C|12": {
+  "t5BdaCLqEcM.2_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -19259,7 +19259,7 @@
       "D": "Rand1"
     }
   },
-  "TR7Zkdqcr4s.22_0|C|8": {
+  "TR7Zkdqcr4s.22_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -19295,7 +19295,7 @@
       "D": "Rand3"
     }
   },
-  "TR7Zkdqcr4s.22_0|C|12": {
+  "TR7Zkdqcr4s.22_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -19355,7 +19355,7 @@
       "D": "Rand1"
     }
   },
-  "t5BdaCLqEcM.2_0|C|16": {
+  "t5BdaCLqEcM.2_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -19367,7 +19367,7 @@
       "D": "GT"
     }
   },
-  "TR7Zkdqcr4s.22_0|C|16": {
+  "TR7Zkdqcr4s.22_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -19415,7 +19415,7 @@
       "D": "Rand1"
     }
   },
-  "TR7Zkdqcr4s.22_0|C|20": {
+  "TR7Zkdqcr4s.22_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -19463,7 +19463,7 @@
       "D": "GT"
     }
   },
-  "4m5khG0emPE_video|C|8": {
+  "4m5khG0emPE_video|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -19499,7 +19499,7 @@
       "D": "GT"
     }
   },
-  "4m5khG0emPE_video|C|12": {
+  "4m5khG0emPE_video|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -19559,7 +19559,7 @@
       "D": "GT"
     }
   },
-  "4m5khG0emPE_video|C|16": {
+  "4m5khG0emPE_video|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -19607,7 +19607,7 @@
       "D": "GT"
     }
   },
-  "t5BdaCLqEcM.2_0|C|20": {
+  "t5BdaCLqEcM.2_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -19619,7 +19619,7 @@
       "D": "GT"
     }
   },
-  "4m5khG0emPE_video|C|20": {
+  "4m5khG0emPE_video|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -19655,7 +19655,7 @@
       "D": "GT"
     }
   },
-  "29k-21-6-2|P2|0|480|C|12": {
+  "29k-21-6-2|P2|0|480|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "A",
@@ -19667,7 +19667,7 @@
       "D": "Shuffle"
     }
   },
-  "29k-21-6-2|P2|0|480|C|8": {
+  "29k-21-6-2|P2|0|480|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "A",
@@ -19715,7 +19715,7 @@
       "D": "Rand2"
     }
   },
-  "29k-21-6-2|P2|0|480|C|16": {
+  "29k-21-6-2|P2|0|480|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "A",
@@ -19727,7 +19727,7 @@
       "D": "Shuffle"
     }
   },
-  "29k-21-6-2|P2|0|480|C|20": {
+  "29k-21-6-2|P2|0|480|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "A",
@@ -19799,7 +19799,7 @@
       "D": "Rand2"
     }
   },
-  "hizR7GT17qw.31_0|C|8": {
+  "hizR7GT17qw.31_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -19811,7 +19811,7 @@
       "D": "GT"
     }
   },
-  "hizR7GT17qw.31_0|C|12": {
+  "hizR7GT17qw.31_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -19883,7 +19883,7 @@
       "D": "Rand2"
     }
   },
-  "4Y1AW|C|8": {
+  "4Y1AW|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -19907,7 +19907,7 @@
       "D": "Rand2"
     }
   },
-  "hizR7GT17qw.31_0|C|16": {
+  "hizR7GT17qw.31_0|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "B",
@@ -19979,7 +19979,7 @@
       "D": "Early"
     }
   },
-  "4Y1AW|C|12": {
+  "4Y1AW|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -20015,7 +20015,7 @@
       "D": "Rand2"
     }
   },
-  "hizR7GT17qw.31_0|C|20": {
+  "hizR7GT17qw.31_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -20027,7 +20027,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_20000000|C|8": {
+  "DAY1_A2_ALICE_20000000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "C",
@@ -20087,7 +20087,7 @@
       "D": "Early"
     }
   },
-  "4Y1AW|C|16": {
+  "4Y1AW|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -20099,7 +20099,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A2_ALICE_20000000|C|12": {
+  "DAY1_A2_ALICE_20000000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -20123,7 +20123,7 @@
       "D": "Early"
     }
   },
-  "4Y1AW|C|20": {
+  "4Y1AW|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -20135,7 +20135,7 @@
       "D": "Reverse"
     }
   },
-  "DAY1_A2_ALICE_20000000|C|16": {
+  "DAY1_A2_ALICE_20000000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -20159,7 +20159,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A2_ALICE_20000000|C|20": {
+  "DAY1_A2_ALICE_20000000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -20183,7 +20183,7 @@
       "D": "GT"
     }
   },
-  "89QkIhDAQK4.43_0|C|8": {
+  "89QkIhDAQK4.43_0|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "B",
@@ -20267,7 +20267,7 @@
       "D": "Late"
     }
   },
-  "89QkIhDAQK4.43_0|C|12": {
+  "89QkIhDAQK4.43_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "C",
@@ -20303,7 +20303,7 @@
       "D": "GT"
     }
   },
-  "Y4IIO|C|8": {
+  "Y4IIO|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -20339,7 +20339,7 @@
       "D": "Rand2"
     }
   },
-  "Y4IIO|C|12": {
+  "Y4IIO|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -20387,7 +20387,7 @@
       "D": "Rand2"
     }
   },
-  "89QkIhDAQK4.43_0|C|16": {
+  "89QkIhDAQK4.43_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "C",
@@ -20411,7 +20411,7 @@
       "D": "Late"
     }
   },
-  "Y4IIO|C|16": {
+  "Y4IIO|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -20423,7 +20423,7 @@
       "D": "Loop"
     }
   },
-  "89QkIhDAQK4.43_0|C|20": {
+  "89QkIhDAQK4.43_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "C",
@@ -20447,7 +20447,7 @@
       "D": "Rand2"
     }
   },
-  "Y4IIO|C|20": {
+  "Y4IIO|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -20495,7 +20495,7 @@
       "D": "Rand1"
     }
   },
-  "D6MZ4|C|8": {
+  "D6MZ4|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "A",
@@ -20579,7 +20579,7 @@
       "D": "GT"
     }
   },
-  "D6MZ4|C|12": {
+  "D6MZ4|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "A",
@@ -20615,7 +20615,7 @@
       "D": "Rand1"
     }
   },
-  "D6MZ4|C|16": {
+  "D6MZ4|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "A",
@@ -20627,7 +20627,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_20450000|C|8": {
+  "DAY1_A3_TASHA_20450000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -20651,7 +20651,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_20450000|C|12": {
+  "DAY1_A3_TASHA_20450000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -20675,7 +20675,7 @@
       "D": "Late"
     }
   },
-  "DAY1_A3_TASHA_20450000|C|16": {
+  "DAY1_A3_TASHA_20450000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -20723,7 +20723,7 @@
       "D": "Rand3"
     }
   },
-  "D6MZ4|C|20": {
+  "D6MZ4|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "A",
@@ -20747,7 +20747,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A3_TASHA_20450000|C|20": {
+  "DAY1_A3_TASHA_20450000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -20771,7 +20771,7 @@
       "D": "Rand3"
     }
   },
-  "bLta34sLkBQ.19_0|C|8": {
+  "bLta34sLkBQ.19_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -20795,7 +20795,7 @@
       "D": "GT"
     }
   },
-  "bLta34sLkBQ.19_0|C|12": {
+  "bLta34sLkBQ.19_0|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -20843,7 +20843,7 @@
       "D": "Rand2"
     }
   },
-  "bLta34sLkBQ.19_0|C|16": {
+  "bLta34sLkBQ.19_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -20879,7 +20879,7 @@
       "D": "GT"
     }
   },
-  "bLta34sLkBQ.19_0|C|20": {
+  "bLta34sLkBQ.19_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -20903,7 +20903,7 @@
       "D": "Rand2"
     }
   },
-  "-P7Y_BlwxO8.42_0|C|8": {
+  "-P7Y_BlwxO8.42_0|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "D",
@@ -20999,7 +20999,7 @@
       "D": "Late"
     }
   },
-  "-P7Y_BlwxO8.42_0|C|12": {
+  "-P7Y_BlwxO8.42_0|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "B",
@@ -21023,7 +21023,7 @@
       "D": "Rand1"
     }
   },
-  "v_00013624_0|C|8": {
+  "v_00013624_0|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "B",
@@ -21035,7 +21035,7 @@
       "D": "GT"
     }
   },
-  "-P7Y_BlwxO8.42_0|C|16": {
+  "-P7Y_BlwxO8.42_0|P|16": {
     "num_frames": 16,
     "correct": false,
     "answer": "B",
@@ -21095,7 +21095,7 @@
       "D": "Rand1"
     }
   },
-  "v_00013624_0|C|12": {
+  "v_00013624_0|P|12": {
     "num_frames": 12,
     "correct": false,
     "answer": "B",
@@ -21131,7 +21131,7 @@
       "D": "Rand1"
     }
   },
-  "-P7Y_BlwxO8.42_0|C|20": {
+  "-P7Y_BlwxO8.42_0|P|20": {
     "num_frames": 20,
     "correct": false,
     "answer": "B",
@@ -21155,7 +21155,7 @@
       "D": "Rand1"
     }
   },
-  "v_00013624_0|C|16": {
+  "v_00013624_0|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -21203,7 +21203,7 @@
       "D": "Early"
     }
   },
-  "DAY1_A2_ALICE_21453000|C|8": {
+  "DAY1_A2_ALICE_21453000|P|8": {
     "num_frames": 8,
     "correct": false,
     "answer": "A",
@@ -21215,7 +21215,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_21453000|C|12": {
+  "DAY1_A2_ALICE_21453000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "D",
@@ -21239,7 +21239,7 @@
       "D": "Rand1"
     }
   },
-  "v_00013624_0|C|20": {
+  "v_00013624_0|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -21287,7 +21287,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A2_ALICE_21453000|C|16": {
+  "DAY1_A2_ALICE_21453000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "D",
@@ -21335,7 +21335,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A2_ALICE_21453000|C|20": {
+  "DAY1_A2_ALICE_21453000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "D",
@@ -21371,7 +21371,7 @@
       "D": "Rand3"
     }
   },
-  "DAY1_A4_LUCIA_17590000|C|8": {
+  "DAY1_A4_LUCIA_17590000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -21431,7 +21431,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_17590000|C|12": {
+  "DAY1_A4_LUCIA_17590000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -21467,7 +21467,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A4_LUCIA_17590000|C|16": {
+  "DAY1_A4_LUCIA_17590000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -21491,7 +21491,7 @@
       "D": "Rand2"
     }
   },
-  "DAY1_A4_LUCIA_20160000|C|8": {
+  "DAY1_A4_LUCIA_20160000|P|8": {
     "num_frames": 8,
     "correct": true,
     "answer": "A",
@@ -21515,7 +21515,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_17590000|C|20": {
+  "DAY1_A4_LUCIA_17590000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",
@@ -21563,7 +21563,7 @@
       "D": "GT"
     }
   },
-  "DAY1_A4_LUCIA_20160000|C|12": {
+  "DAY1_A4_LUCIA_20160000|P|12": {
     "num_frames": 12,
     "correct": true,
     "answer": "A",
@@ -21575,7 +21575,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A4_LUCIA_20160000|C|16": {
+  "DAY1_A4_LUCIA_20160000|P|16": {
     "num_frames": 16,
     "correct": true,
     "answer": "A",
@@ -21587,7 +21587,7 @@
       "D": "Loop"
     }
   },
-  "DAY1_A4_LUCIA_20160000|C|20": {
+  "DAY1_A4_LUCIA_20160000|P|20": {
     "num_frames": 20,
     "correct": true,
     "answer": "A",

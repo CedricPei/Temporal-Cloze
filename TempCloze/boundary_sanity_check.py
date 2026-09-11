@@ -36,11 +36,10 @@ MAX_HEIGHT = 360
 JPEG_QUALITY = 85
 WINDOWS = [1, 2, 3]
 
-# P is the progression dimension; files are stored under C/ in the current data.
 DIMENSIONS = {
     "S": ["S/Rand1.mp4", "S/Rand2.mp4", "S/Rand3.mp4"],
     "A": ["A/Early.mp4", "A/Late.mp4", "A/Wide.mp4"],
-    "P": ["C/Reverse.mp4", "C/Shuffle.mp4", "C/Loop.mp4"],
+    "P": ["P/Reverse.mp4", "P/Shuffle.mp4", "P/Loop.mp4"],
 }
 
 

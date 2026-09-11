@@ -1,4 +1,4 @@
-"""Gap 检测 + 生成 Temporal Cloze Benchmark: 题干 (before/GT/after) + 干扰项 (S/A/C)
+"""Gap 检测 + 生成 Temporal Cloze Benchmark: 题干 (before/GT/after) + 干扰项 (S/A/P)
 
 Pipeline:
 1. 对 src/downloaded/ 中的视频做 Gap Detection（光流）
@@ -9,7 +9,7 @@ Pipeline:
 输出结构:
 choices/{stem}/
 ├── before.mp4 / GT.mp4 / after.mp4
-├── C/  Reverse / Shuffle / Loop
+├── P/  Reverse / Shuffle / Loop
 ├── A/  Early / Late / Wide
 └── S/  Rand1 / Rand2 / Rand3
 
@@ -162,9 +162,9 @@ def make_stems(src: Path, out: Path, gs: float, ge: float):
     cut(src, out / "after.mp4", ge, 9999)
 
 
-# ==================== C: Causality ====================
+# ==================== P: Progression ====================
 
-def make_c(src: Path, out: Path, gs: float, ge: float, total: float):
+def make_p(src: Path, out: Path, gs: float, ge: float, total: float):
     out.mkdir(exist_ok=True)
     D = ge - gs
 
@@ -285,7 +285,7 @@ def run():
             try:
                 total = get_duration(src)
                 make_stems(src, base, gs, ge)
-                make_c(src, base / "C", gs, ge, total)
+                make_p(src, base / "P", gs, ge, total)
                 make_a(src, base / "A", gs, ge, total)
                 make_s(src, base / "S", gs, ge, total)
                 src.unlink(missing_ok=True)

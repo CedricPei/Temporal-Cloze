@@ -63,7 +63,7 @@ def load_stats(path: Path) -> tuple[float, float]:
     correct = 0
     token_counts = []
     for _, entries in data.items():
-        for dim in ("S", "A", "C"):
+        for dim in ("S", "A", "P"):
             if dim not in entries:
                 continue
             entry = entries[dim]

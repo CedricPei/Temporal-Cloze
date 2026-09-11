@@ -2,7 +2,7 @@
 
 读取 eval_results/ 下各模型 JSON，输出：
   - 每模型的总准确率
-  - 错误来源分布（选了 S/A/C 中哪类干扰项）
+  - 错误来源分布（选了 S/A/P 中哪类干扰项）
   - 汇总到 analyze_report_mixed.json 和 accuracy_table_mixed.csv
 
 用法:
@@ -47,7 +47,7 @@ def analyze_model(model_tag: str, results: dict) -> dict:
 
     error_total = len(errors)
     error_source = {}
-    for dim in ["S", "A", "C"]:
+    for dim in ["S", "A", "P"]:
         cnt = error_dim_counts.get(dim, 0)
         error_source[dim] = {
             "count": cnt,
@@ -67,15 +67,15 @@ def analyze_model(model_tag: str, results: dict) -> dict:
 
 def print_report(report: dict):
     print(f"\n{'='*70}")
-    print(f"{'Model':<40} {'Acc':>8}  {'Err→S':>7}  {'Err→A':>7}  {'Err→C':>7}")
+    print(f"{'Model':<40} {'Acc':>8}  {'Err→S':>7}  {'Err→A':>7}  {'Err→P':>7}")
     print(f"{'-'*70}")
     for model_tag, stats in sorted(report["models"].items(), key=lambda x: -x[1]["acc"]):
         acc = f"{stats['acc']:.1%}"
         es = stats["error_source"]
         s = f"{es['S']['pct_of_total']:.1%}" if es else "N/A"
         a = f"{es['A']['pct_of_total']:.1%}" if es else "N/A"
-        c = f"{es['C']['pct_of_total']:.1%}" if es else "N/A"
-        print(f"  {model_tag:<38} {acc:>8}  {s:>7}  {a:>7}  {c:>7}")
+        p = f"{es['P']['pct_of_total']:.1%}" if es else "N/A"
+        print(f"  {model_tag:<38} {acc:>8}  {s:>7}  {a:>7}  {p:>7}")
     print(f"{'='*70}")
 
 
@@ -90,7 +90,7 @@ def save_csv(report: dict, out_path: Path):
             "Correct": stats["correct"],
             "Err→S": f"{es['S']['pct_of_total']:.2%}",
             "Err→A": f"{es['A']['pct_of_total']:.2%}",
-            "Err→C": f"{es['C']['pct_of_total']:.2%}",
+            "Err→P": f"{es['P']['pct_of_total']:.2%}",
             "Unanswered": stats.get("unanswered", 0),
         })
     with open(out_path, "w", newline="", encoding="utf-8") as f:

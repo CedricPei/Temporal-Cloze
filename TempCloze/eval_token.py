@@ -74,7 +74,7 @@ MODEL_TAG = EVAL_MODEL.split("/")[-1]
 DIMENSIONS = {
     "S": ["S/Rand1.mp4", "S/Rand2.mp4", "S/Rand3.mp4"],
     "A": ["A/Early.mp4", "A/Late.mp4", "A/Wide.mp4"],
-    "C": ["C/Reverse.mp4", "C/Shuffle.mp4", "C/Loop.mp4"],
+    "P": ["P/Reverse.mp4", "P/Shuffle.mp4", "P/Loop.mp4"],
 }
 
 EVAL_PROMPT = """You are given:

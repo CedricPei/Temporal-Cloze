@@ -34,8 +34,8 @@ NUM_FRAMES = 16
 MAX_HEIGHT = 360
 EDGE_FRAMES = 4
 PRIMARY_VARIANT = f"edge{EDGE_FRAMES}_linear_probability"
-VALID_DIMS = ("S", "A", "C")
-DISPLAY_DIMS = {"S": "Semantic", "A": "Alignment", "C": "Progression"}
+VALID_DIMS = ("S", "A", "P")
+DISPLAY_DIMS = {"S": "Semantic", "A": "Alignment", "P": "Progression"}
 OPTION_LETTERS = ("A", "B", "C", "D")
 QUESTION_FIELDS = (
     "video_id",
@@ -52,7 +52,7 @@ QUESTION_FIELDS = (
 DIMENSIONS = {
     "S": ["S/Rand1.mp4", "S/Rand2.mp4", "S/Rand3.mp4"],
     "A": ["A/Early.mp4", "A/Late.mp4", "A/Wide.mp4"],
-    "C": ["C/Reverse.mp4", "C/Shuffle.mp4", "C/Loop.mp4"],
+    "P": ["P/Reverse.mp4", "P/Shuffle.mp4", "P/Loop.mp4"],
 }
 
 

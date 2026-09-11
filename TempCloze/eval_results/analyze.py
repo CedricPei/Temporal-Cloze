@@ -14,13 +14,12 @@ from pathlib import Path
 ROOT = Path(__file__).parent          # = video-cloze/eval_results/
 CHOICES_DIR = ROOT.parent / "choices" # = video-cloze/choices/
 EVAL_BASE = ROOT                       # = video-cloze/eval_results/
-DIMS = ["S", "A", "C"]
-DISPLAY_DIM = {"S": "S", "A": "A", "C": "P"}
+DIMS = ["S", "A", "P"]
 VALID_ANSWERS = {"A", "B", "C", "D"}
 
 DISTRACTOR_NAMES = {
     "A": ["Early", "Late", "Wide"],
-    "C": ["Reverse", "Shuffle", "Loop"],
+    "P": ["Reverse", "Shuffle", "Loop"],
 }
 
 SCOPE_MAP = {
@@ -175,8 +174,7 @@ def analyze_model(model: str, data: dict) -> dict:
     total = sum(dim_total.values())
     correct_all = sum(dim_correct.values())
 
-    # 联合准确率：底层数据仍使用 S/A/C，报告统一展示为 S/A/P。
-    joint_groups = [("S", "A"), ("S", "C"), ("A", "C"), ("S", "A", "C")]
+    joint_groups = [("S", "A"), ("S", "P"), ("A", "P"), ("S", "A", "P")]
     joint_correct = {g: 0 for g in joint_groups}
     num_stems = 0
     for entries in data.values():
@@ -188,8 +186,8 @@ def analyze_model(model: str, data: dict) -> dict:
             if all(entries[d].get("correct") for d in g):
                 joint_correct[g] += 1
 
-    joint_label = {("S","A"): "S+A", ("S","C"): "S+P",
-                   ("A","C"): "A+P", ("S","A","C"): "S+A+P"}
+    joint_label = {("S","A"): "S+A", ("S","P"): "S+P",
+                   ("A","P"): "A+P", ("S","A","P"): "S+A+P"}
 
     # 打印表格
     row = [model] + [pct(dim_correct[d], dim_total[d]) for d in DIMS] + [
@@ -205,7 +203,7 @@ def analyze_model(model: str, data: dict) -> dict:
 
     # 错误来源分析
     error_report = {}
-    for d in ("A", "C"):
+    for d in ("A", "P"):
         counts = Counter()
         for entries in data.values():
             if d not in entries:
@@ -221,9 +219,8 @@ def analyze_model(model: str, data: dict) -> dict:
         if n_err:
             parts = [f"{name}={counts.get(name, 0)}({pct(counts.get(name, 0), n_err)})"
                      for name in DISTRACTOR_NAMES[d]]
-            display_dim = DISPLAY_DIM[d]
-            print(f"  {display_dim} errors ({n_err}): {', '.join(parts)}")
-            error_report[display_dim] = {
+            print(f"  {d} errors ({n_err}): {', '.join(parts)}")
+            error_report[d] = {
                 "total": n_err,
                 **{name: {"count": counts.get(name, 0),
                           "pct": round(counts.get(name, 0) / n_err, 4)}
@@ -235,7 +232,7 @@ def analyze_model(model: str, data: dict) -> dict:
         "num_stems": num_stems, "skipped": skipped,
         "S_acc": dim_correct["S"] / dim_total["S"] if dim_total["S"] else 0,
         "A_acc": dim_correct["A"] / dim_total["A"] if dim_total["A"] else 0,
-        "P_acc": dim_correct["C"] / dim_total["C"] if dim_total["C"] else 0,
+        "P_acc": dim_correct["P"] / dim_total["P"] if dim_total["P"] else 0,
         "acc": correct_all / total if total else 0,
         **{joint_label[g]: (joint_correct[g] / num_stems if num_stems else 0)
            for g in joint_groups},

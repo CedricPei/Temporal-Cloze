@@ -40,11 +40,10 @@ CASE_STEMS = [
     "HwAPGFLvoHg.60_0",
 ]
 
-DIM_LABEL = {"S": "S", "A": "A", "C": "P"}
 DIM_TITLE = {
     "S": "Semantic",
     "A": "Alignment",
-    "C": "Progression",
+    "P": "Progression",
 }
 OPTION_REL_PATHS = {
     "S": [
@@ -59,11 +58,11 @@ OPTION_REL_PATHS = {
         ("Deferred", "A/Late.mp4"),
         ("Expanded", "A/Wide.mp4"),
     ],
-    "C": [
+    "P": [
         ("True middle", "GT.mp4"),
-        ("Reverse", "C/Reverse.mp4"),
-        ("Reorder", "C/Shuffle.mp4"),
-        ("Repeat", "C/Loop.mp4"),
+        ("Reverse", "P/Reverse.mp4"),
+        ("Reorder", "P/Shuffle.mp4"),
+        ("Repeat", "P/Loop.mp4"),
     ],
 }
 CLIP_DISPLAY = {
@@ -136,7 +135,7 @@ def sample_accuracy(stem: str) -> float:
         entries = data.get(stem, {})
         if not isinstance(entries, dict):
             continue
-        for dim in ("S", "A", "C"):
+        for dim in ("S", "A", "P"):
             entry = entries.get(dim)
             if isinstance(entry, dict) and isinstance(entry.get("correct"), bool):
                 total += 1
@@ -249,7 +248,7 @@ def measure_answer_heights_tex(stem: str, models: dict[str, dict[str, Any]]) -> 
     rows = [r"\caseQwenH=0pt", r"\caseSeedH=0pt"]
     for model_name, data in models.items():
         height_macro = MODEL_HEIGHTS[model_name]
-        for dim in ("S", "A", "C"):
+        for dim in ("S", "A", "P"):
             entry = data[stem][dim]
             rows.append(
                 r"\caseMeasureReason{"
@@ -283,7 +282,7 @@ def top_context_tex(stem: str) -> str:
 
 
 def question_column_tex(stem: str, dim: str, models: dict[str, dict[str, Any]]) -> str:
-    title = f"Question {DIM_LABEL[dim]}: {DIM_TITLE[dim]}"
+    title = f"Question {dim}: {DIM_TITLE[dim]}"
     return "\n".join([
         r"\begin{minipage}[t]{0.318\linewidth}",
         r"\centering",
@@ -301,7 +300,7 @@ def sample_tex(stem: str, models: dict[str, dict[str, Any]], sources: dict[str, 
     label = "fig:case-study-" + safe_name(f"{source}-{stem}").lower().replace("_", "-")
     columns = [
         question_column_tex(stem, dim, models)
-        for dim in ("S", "A", "C")
+        for dim in ("S", "A", "P")
     ]
     return "\n".join([
         r"\begin{figure*}[t]",

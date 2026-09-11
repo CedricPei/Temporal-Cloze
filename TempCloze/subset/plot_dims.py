@@ -28,7 +28,7 @@ import numpy as np
 
 RESULTS_DIR = Path(__file__).parent / "eval_results"
 PLOTS_DIR   = Path(__file__).parent / "plots"
-DIMS = ["S", "A", "C"]
+DIMS = ["S", "A", "P"]
 
 # ── 模型列表 & 子图顺序 ───────────────────────────────────────────────────
 FRAMES_TAGS = [
@@ -64,14 +64,14 @@ BE_MODEL_LABEL = {
 }
 
 # ── 维度编码：统一颜色 + 统一虚线，用标记区分 ────────────────────────────
-DIM_COLOR  = {"S": "#4A90D9", "A": "#E07B39", "C": "#56A76B"}
-DIM_MARKER = {"S": "o",       "A": "s",        "C": "^"}
-DIM_LABEL  = {"S": "Semantic", "A": "Alignment", "C": "Progression"}
+DIM_COLOR  = {"S": "#4A90D9", "A": "#E07B39", "P": "#56A76B"}
+DIM_MARKER = {"S": "o",       "A": "s",        "P": "^"}
+DIM_LABEL  = {"S": "Semantic", "A": "Alignment", "P": "Progression"}
 ALL_PERMS  = ["A", "B", "C", "D"]
 BE_MODES = ["B", "E", "BE"]
 BE_MODE_COLOR = {"B": "#4E79A7", "E": "#F28E2B", "BE": "#59A14F"}
 BE_MODE_LABEL = {"B": "Beginning Only", "E": "Ending Only", "BE": "Beginning + Ending"}
-BE_DIM_TICK = {"S": "S", "A": "A", "C": "P"}
+BE_DIM_TICK = {"S": "S", "A": "A", "P": "P"}
 
 
 # ── 通用工具 ──────────────────────────────────────────────────────────────
@@ -135,7 +135,7 @@ def _attach_legend(fig, xlabel, include_overall=False):
 
 
 def _draw_subplots(axes_flat, plot_order, all_data, xs, x_fn, ylabel):
-    """在 4 个子图里各画一个模型的 S/A/C 三条虚线（统一颜色）。"""
+    """在 4 个子图里各画一个模型的 S/A/P 三条虚线（统一颜色）。"""
     for ax, tag in zip(axes_flat, plot_order):
         if tag not in all_data:
             ax.set_visible(False)
@@ -355,7 +355,7 @@ def plot_passk():
             continue
         data = all_data[tag]
 
-        # S / A / C 虚线
+        # S / A / P 虚线
         for dim in DIMS:
             ys, x_plot = [], []
             for k in xs:

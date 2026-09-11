@@ -15,7 +15,7 @@
         "D": "Rand1"
       }
     },
-    "C": {
+    "P": {
       "used_num_frames": 4,
       "correct": false,
       "answer": "C",
@@ -94,7 +94,7 @@
         "D": "Rand1"
       }
     },
-    "C": {
+    "P": {
       "used_num_frames": 4,
       "correct": false,
       "answer": "C",
