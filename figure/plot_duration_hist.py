@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 import numpy as np
 
-REPO_ROOT = Path(__file__).resolve().parents[2]
+REPO_ROOT = Path(__file__).resolve().parents[1]
 CHOICES_DIR = REPO_ROOT / "TempCloze" / "choices"
 OUT_DIR = REPO_ROOT / "figure" / "pics"
 

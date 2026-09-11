@@ -79,7 +79,7 @@ MODEL_BAR_PALETTE = [
     "#BAB0AC",
 ]
 
-REPO_ROOT = Path(__file__).resolve().parents[2]
+REPO_ROOT = Path(__file__).resolve().parents[1]
 MODEL_EVAL_ROOT = REPO_ROOT / "TempCloze" / "eval_results"
 OUTPUT_ROOT = REPO_ROOT / "output"
 

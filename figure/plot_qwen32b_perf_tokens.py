@@ -23,7 +23,7 @@ matplotlib.rcParams["ps.fonttype"] = 42
 matplotlib.rcParams["svg.fonttype"] = "none"
 
 
-REPO_ROOT = Path(__file__).resolve().parents[2]
+REPO_ROOT = Path(__file__).resolve().parents[1]
 MODEL_RESULTS_DIR = REPO_ROOT / "TempCloze" / "eval_results" / "open" / "eval_results"
 DEFAULT_INSTRUCT = MODEL_RESULTS_DIR / "Qwen3VL-32B-Instruct.json"
 DEFAULT_THINKING = MODEL_RESULTS_DIR / "Qwen3VL-32B-Thinking.json"

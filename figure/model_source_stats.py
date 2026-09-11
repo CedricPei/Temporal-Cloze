@@ -17,7 +17,7 @@ from pathlib import Path
 from typing import Any
 
 
-REPO_ROOT = Path(__file__).resolve().parents[2]
+REPO_ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_ROOT = REPO_ROOT / "output"
 DEFAULT_OUT_DIR = REPO_ROOT / "figure" / "pics"
 
